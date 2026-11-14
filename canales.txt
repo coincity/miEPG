@@ -3,3 +3,11 @@ Odisea,Odisea
 Discovery,Discovery
 National Geographic HD,National Geographic HD
 Nat Geo Wild HD,Nat Geo Wild HD
+DAZN LaLiga HD,DAZN LaLiga
+M+ LaLiga HD,M+ LaLiga
+M+ Liga de Campeones HD,M+ Liga de Campeones
+M+ Liga de Campeones 2 HD,M+ Liga de Campeones 2
+M+ Liga de Campeones 3 HD,M+ Liga de Campeones 3
+LaLiga TV BAR,LaLiga TV BAR
+M+ Originales HD,M+ Originales
+M+ Documentales HD,M+ Documentales
