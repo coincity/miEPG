@@ -2,4 +2,6 @@ Historia,Historia
 Odisea,Odisea
 Discovery,Discovery
 National Geographic,National Geographic HD
+National Geographic HD,National Geographic
 Nat Geo Wild,Nat Geo Wild HD
+Nat Geo Wild HD,Nat Geo Wild
