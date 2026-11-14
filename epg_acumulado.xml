@@ -1,50 +1,1314 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="miEPG v3.6" generator-info-url="https://github.com/davidmuma/miEPG">
-  <channel id="Historia HD">
+  <channel id="Historia">
+    <display-name>Historia</display-name>
+    <display-name>Historia SD</display-name>
     <display-name>Historia HD</display-name>
-    <display-name>Historia HD SD</display-name>
-    <display-name>Historia HD HD</display-name>
-    <display-name>Historia HD 4K</display-name>
-    <display-name>Historia HD Full HD</display-name>
-    <display-name>Historia HD UHD</display-name>
+    <display-name>Historia 4K</display-name>
+    <display-name>Historia Full HD</display-name>
+    <display-name>Historia UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png" />
   </channel>
-  <channel id="Canal Odisea HD">
-    <display-name>Canal Odisea HD</display-name>
-    <display-name>Canal Odisea HD SD</display-name>
-    <display-name>Canal Odisea HD HD</display-name>
-    <display-name>Canal Odisea HD 4K</display-name>
-    <display-name>Canal Odisea HD Full HD</display-name>
-    <display-name>Canal Odisea HD UHD</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png" />
-  </channel>
-  <channel id="Discovery Channel">
-    <display-name>Discovery Channel</display-name>
-    <display-name>Discovery Channel SD</display-name>
-    <display-name>Discovery Channel HD</display-name>
-    <display-name>Discovery Channel 4K</display-name>
-    <display-name>Discovery Channel Full HD</display-name>
-    <display-name>Discovery Channel UHD</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" />
-  </channel>
-  <channel id="National Geographic">
-    <display-name>National Geographic</display-name>
-    <display-name>National Geographic SD</display-name>
-    <display-name>National Geographic HD</display-name>
-    <display-name>National Geographic 4K</display-name>
-    <display-name>National Geographic Full HD</display-name>
-    <display-name>National Geographic UHD</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/National%20Geographic.png" />
-  </channel>
-  <channel id="Nat Geo Wild">
-    <display-name>Nat Geo Wild</display-name>
-    <display-name>Nat Geo Wild SD</display-name>
-    <display-name>Nat Geo Wild HD</display-name>
-    <display-name>Nat Geo Wild 4K</display-name>
-    <display-name>Nat Geo Wild Full HD</display-name>
-    <display-name>Nat Geo Wild UHD</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nat%20Geo%20Wild.png" />
-  </channel>
+	<programme start="20261114012300 +0100" stop="20261114020300 +0100" channel="Historia">
+    <title>Lo inexplicable</title>
+    <desc>Documental,Otros,Científico
+· William Shatner explora una variedad de temas que han capturado la imaginación de la humanidad durante cientos de años, como estructuras misteriosas, ciudades malditas de civilizaciones antiguas, avistamientos de extraterrestres y rituales inusuales.</desc>
+	</programme>
+	<programme start="20261114020300 +0100" stop="20261114024800 +0100" channel="Historia">
+    <title>Rutas alienígenas T1 E4 · Sedona</title>
+    <desc>Documental,Otros,Social,Científico | 2024 | +7
+· Un desierto sagrado convertido en punto caliente de los ovnis.
+· País: Canadá, Estados Unidos
+· Dirección: Daniel Oron.
+· Reparto: Natasha Billson, Heidi White, Robert Sparling, Mazyar Fallah, Rohit Dalvi, Matthew Hayes, Kent Smerdon.</desc>
+	</programme>
+	<programme start="20261114024800 +0100" stop="20261114033200 +0100" channel="Historia">
+    <title>Rutas alienígenas T1 E5 · Pine Barrens</title>
+    <desc>Documental,Otros,Social,Científico | 2024 | +7
+· ¿Qué se esconde en el bosque?
+· País: Canadá
+· Dirección: Daniel Oron.
+· Reparto: Natasha Billson, Heidi White, Robert Sparling, Mazyar Fallah, Rohit Dalvi, Matthew Hayes, Kent Smerdon.</desc>
+	</programme>
+	<programme start="20261114033200 +0100" stop="20261114042800 +0100" channel="Historia">
+    <title>Calígula: El legado oculto T1 E1 · El arquitecto del exceso</title>
+    <desc>Documental,Otros,Histórico,Biográfico | 2025 | +12
+· Combinando textos históricos con tecnología CGI, este episodio reconstruye los proyectos más ambiciosos de Calígula y nos descubre a un visionario cuyas obras llevaron la ingeniería romana al límite.
+· País: Canadá, España, Francia
+· Dirección: Gokce Ozer, Vivien Floris, Georges Ozer.</desc>
+	</programme>
+	<programme start="20261114042800 +0100" stop="20261114052100 +0100" channel="Historia">
+    <title>Calígula: El legado oculto T1 E2 · Palacios flotantes</title>
+    <desc>Documental,Otros,Histórico,Biográfico | 2025 | +12
+· Este episodio explora los palacios flotantes de Calígula: dos naves colosales hundidas en el lago Nemi y recuperadas siglos después, revelando sus secretos y la ambición del emperador.
+· País: Canadá, España, Francia
+· Dirección: Gokce Ozer, Vivien Floris, Georges Ozer.</desc>
+	</programme>
+	<programme start="20261114052100 +0100" stop="20261114054800 +0100" channel="Historia">
+    <title>¿Extraterrestres? T1 E5 · Más allá</title>
+    <desc>Documental,Otros | 2012 | +12
+· En 1977 la sonda Voyager fue enviada al espacio. Como si de un mensaje en una botella se tratara, contenía un disco de oro con una invitación a entablar contacto con la civilización que pudiera encontrarlo. ¿Hemos recibido algún tipo de respuesta?
+· País: España, Portugal
+· Dirección: Israel Del Santo.</desc>
+	</programme>
+	<programme start="20261114054800 +0100" stop="20261114062800 +0100" channel="Historia">
+    <title>¿Extraterrestres? T2 E1 · Abducción</title>
+    <desc>Documental,Otros | 2013 | +12
+· Analizaremos el caso de Carla Batista, una mujer supuestamente abducida en las inmediaciones de Lisboa, y el de Xavier, un catalán que afirma haber sido raptado no por extraterrestres.
+· País: España, Portugal
+· Dirección: Israel Del Santo.
+· Reparto: Jordi Filba.</desc>
+	</programme>
+	<programme start="20261114062800 +0100" stop="20261114071000 +0100" channel="Historia">
+    <title>¿Extraterrestres? T2 E2 · OOPArts</title>
+    <desc>Documental,Otros | 2013 | +12
+· En este episodio hablamos de hallazgos arqueológicos y escritos de la antigüedad que parecen hablar de artilugios que serían inventados siglos más tarde. ¿Cómo llegaron hasta allí?
+· País: España, Portugal
+· Dirección: Israel Del Santo.
+· Reparto: Jordi Filba.</desc>
+	</programme>
+	<programme start="20261114071000 +0100" stop="20261114080200 +0100" channel="Historia">
+    <title>Historias malditas T1 E1</title>
+    <desc>Documental,Otros | 2023 | +7
+· Una momia de la Edad de Piedra emerge de los gélidos Alpes. Una ciudad de Afganistán ha quedado reducida a escombros. Y, una historia espantosa escrita en un pergamino centenario viaja por Europa.
+· País: Canadá, Alemania, Estados Unidos
+· Dirección: Daniel Oron.
+· Reparto: Natasha Billson, Georgia Tannis, Alex Milner, Carol Ann Matus, Michael Ruhs, Seika Groves, Sara Thompson, John Woolf, Tony McMahon, Jason Wilson, Marilla Wex, Mazyar Fallah, Megan Armstrong.</desc>
+	</programme>
+	<programme start="20261114080200 +0100" stop="20261114085600 +0100" channel="Historia">
+    <title>Historias malditas T1 E4 · El Museo De Pt Barnum, El Valle De Los Muertos,..</title>
+    <desc>Documental,Otros | 2023 | +7
+· El imperio del mayor showman del mundo arde en llamas. Una serie de buscadores de oro, encuentran, uno a uno, sangrientos finales. Y, 200 almas se juntan en un ritual inquietante.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Daniel Oron.
+· Reparto: Natasha Billson, Georgia Tannis, Alex Milner, Carol Ann Matus, Michael Ruhs, Seika Groves, Sara Thompson, John Woolf, Tony McMahon, Jason Wilson, Marilla Wex, Mazyar Fallah, Megan Armstrong.</desc>
+	</programme>
+	<programme start="20261114085600 +0100" stop="20261114094800 +0100" channel="Historia">
+    <title>Historias malditas T2 E5</title>
+    <desc>Documental,Otros | 2024 | +7
+· Una región del Océano Atlántico llena de catástrofes, una familia estadounidense asolada por la tragedia y una silla impregnada de un deseo mortal.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Daniel Oron.
+· Reparto: Georgia Tannis, Natasha Billson, Alex Milner, Carol Ann Matus, Michael Ruhs, Seika Groves, Sara Thompson, John Woolf, Tony McMahon, Jason Wilson, Marilla Wex, Mazyar Fallah, Megan Armstrong.</desc>
+	</programme>
+	<programme start="20261114094800 +0100" stop="20261114104200 +0100" channel="Historia">
+    <title>Calígula: El legado oculto T1 E1 · El arquitecto del exceso</title>
+    <desc>Documental,Otros,Histórico,Biográfico | 2025 | +12
+· Combinando textos históricos con tecnología CGI, este episodio reconstruye los proyectos más ambiciosos de Calígula y nos descubre a un visionario cuyas obras llevaron la ingeniería romana al límite.
+· País: Canadá, España, Francia
+· Dirección: Gokce Ozer, Vivien Floris, Georges Ozer.</desc>
+	</programme>
+	<programme start="20261114104200 +0100" stop="20261114113400 +0100" channel="Historia">
+    <title>Calígula: El legado oculto T1 E2 · Palacios flotantes</title>
+    <desc>Documental,Otros,Histórico,Biográfico | 2025 | +12
+· Este episodio explora los palacios flotantes de Calígula: dos naves colosales hundidas en el lago Nemi y recuperadas siglos después, revelando sus secretos y la ambición del emperador.
+· País: Canadá, España, Francia
+· Dirección: Gokce Ozer, Vivien Floris, Georges Ozer.</desc>
+	</programme>
+	<programme start="20261114113400 +0100" stop="20261114113700 +0100" channel="Historia">
+    <title>Un día en la Historia de España: 14 de noviembre de 1924</title>
+    <desc>Programa,Otros | 2026 | +12
+· En este episodio descubriremos qué ocurrió el 14 de noviembre de 1924.
+· País: España
+· Reparto: José Carlos Gracia.</desc>
+	</programme>
+	<programme start="20261114113700 +0100" stop="20261114122400 +0100" channel="Historia">
+    <title>Lo inexplicable T1 E2 · Construcciones misteriosas</title>
+    <desc>Documental,Otros,Científico | 2019 | +7 | *7.3/10
+· Desde hace siglos, los arqueólogos han tratado de explicar como fueron construidos ciertas estructuras antiguas como la Gran Pirámide de Giza, la escalera de Loreto Capel y el Castillo de Coral, preguntándose si se sabrá la respuesta.
+· País: Estados Unidos
+· Dirección: Rob O'Brien.
+· Reparto: Andrew Collins, Tok Thompson, Michio Kaku, Jonathan Young, Michael Dennin, David Whitehead, Hugh Newman, Lynne S. McNeill.</desc>
+	</programme>
+	<programme start="20261114122400 +0100" stop="20261114131100 +0100" channel="Historia">
+    <title>Lo inexplicable T3 E23 · Monstruos reales</title>
+    <desc>Documental,Otros,Científico | 2021 | +7 | *7.3/10
+· ¿Y si estos seres fueran algo más que obras de la imaginación y la superstición? ¿Podrían las historias de criaturas legendarias estar inspiradas en hechos reales?
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261114131100 +0100" stop="20261114140100 +0100" channel="Historia">
+    <title>Lo inexplicable</title>
+    <desc>Documental,Otros,Científico | 2019 | +7 | *7.3/10
+· William Shatner explora una variedad de temas que han capturado la imaginación de la humanidad durante cientos de años, como estructuras misteriosas, ciudades malditas de civilizaciones antiguas, avistamientos de extraterrestres y rituales inusuales.
+· País: Estados Unidos
+· Dirección: Kevin Burns, Rob O'Brien.
+· Reparto: Jonathan Young, Michio Kaku, Andrew Collins, Tok Thompson, Michael Dennin, David Whitehead, Hugh Newman, Lynne S. McNeill.</desc>
+	</programme>
+	<programme start="20261114140100 +0100" stop="20261114145100 +0100" channel="Historia">
+    <title>Lo inexplicable</title>
+    <desc>Documental,Otros,Científico | 2019 | +7 | *7.3/10
+· William Shatner explora una variedad de temas que han capturado la imaginación de la humanidad durante cientos de años, como estructuras misteriosas, ciudades malditas de civilizaciones antiguas, avistamientos de extraterrestres y rituales inusuales.
+· País: Estados Unidos
+· Dirección: Kevin Burns, Rob O'Brien.
+· Reparto: Jonathan Young, Michio Kaku, Andrew Collins, Tok Thompson, Michael Dennin, David Whitehead, Hugh Newman, Lynne S. McNeill.</desc>
+	</programme>
+	<programme start="20261114145100 +0100" stop="20261114145400 +0100" channel="Historia">
+    <title>Un día en la Historia de España: 14 de noviembre de 1924</title>
+    <desc>Programa,Otros | 2026 | +12
+· En este episodio descubriremos qué ocurrió el 14 de noviembre de 1924.
+· País: España
+· Reparto: José Carlos Gracia.</desc>
+	</programme>
+	<programme start="20261114145400 +0100" stop="20261114155100 +0100" channel="Historia">
+    <title>Coliseo: ascenso y caída T1 E1 · Origen</title>
+    <desc>Documental,Otros,Histórico | 2025 | +12
+· Nuevos descubrimientos revelan los orígenes del Coliseo y cómo ayudó a Roma a construir un imperio.
+· País: Reino Unido, Estados Unidos
+· Dirección: Pete Chinn.</desc>
+	</programme>
+	<programme start="20261114155100 +0100" stop="20261114164800 +0100" channel="Historia">
+    <title>Coliseo: ascenso y caída T1 E2 · Decadencia y caída</title>
+    <desc>Documental,Otros,Histórico | 2024 | +12
+· Mientras nuevas investigaciones revelan la realidad de los gladiadores, el declive del Imperio romano arrastra también al monumento que mejor simbolizó su grandeza.
+· País: Estados Unidos
+· Dirección: Pete Chinn.</desc>
+	</programme>
+	<programme start="20261114164800 +0100" stop="20261114174800 +0100" channel="Historia">
+    <title>Druidas: Desvelando el misterio celta</title>
+    <desc>Documental,Otros,Histórico | 2026 | +7
+· Un viaje al mundo de los druidas que cuestiona viejos mitos y revela su verdadero papel en las sociedades celtas, entre el saber, el poder y la espiritualidad.
+· País: Francia</desc>
+	</programme>
+	<programme start="20261114174800 +0100" stop="20261114175100 +0100" channel="Historia">
+    <title>Un día en la Historia de España: 14 de noviembre de 1924</title>
+    <desc>Programa,Otros | 2026 | +12
+· En este episodio descubriremos qué ocurrió el 14 de noviembre de 1924.
+· País: España
+· Reparto: José Carlos Gracia.</desc>
+	</programme>
+	<programme start="20261114175100 +0100" stop="20261114184000 +0100" channel="Historia">
+    <title>La casa de empeños T23 E10 · La musa de Chum</title>
+    <desc>Programa,Entretenimiento,Reality | 2020 | +7 | *7.2/10
+· Traen a la tienda un sombrero de vaquero muy especial que perteneció a Ronald Reagan. ¿Podrá Rick echarle el lazo a la prenda?
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: David Vagi, Jairus Cobb, Shannon Biggs, Jonathan Wyche, Guy Fiorita, Russell McCarroll.
+· Reparto: Rick Harrison, Corey Harrison, Richard Harrison, Austin Chumlee Russell, Chumlee Russell, Austin Lee Russell, Coreyse Harrison, Rebecca Romney, Steve Grad, Mark Hall Patton, Antwaun Austin.
+· Producción: Brent Montgomery, Colby Gaines.</desc>
+	</programme>
+	<programme start="20261114184000 +0100" stop="20261114192900 +0100" channel="Historia">
+    <title>El precio de la historia T21 E5 · Un programa sobre nada</title>
+    <desc>Programa,Reality,Entretenimiento | 2019 | +7
+· El actor John O'Hurley trae a la tienda un peculiar objeto de la serie ‘Seinfeld’. Después, Rick viaja al este en busca de un nuevo vehículo.
+· País: Estados Unidos
+· Reparto: Rick Harrison, Corey Harrison, Austin Chumlee Russell.</desc>
+	</programme>
+	<programme start="20261114192900 +0100" stop="20261114201800 +0100" channel="Historia">
+    <title>La casa de empeños T24 E31 · El coche de Paul Newman</title>
+    <desc>Programa,Entretenimiento,Reality | 2022 | +7 | *7.2/10
+· Un amigo se pasa por el local para enseñar una colección de fotos. Después, pinchan en la tienda un vinilo vintage. Y más tarde, Rick puja por un coche que perteneció a Paul Newman.
+· País: Estados Unidos
+· Dirección: David Vagi, Jairus Cobb, Shannon Biggs, Jonathan Wyche, Guy Fiorita, Russell McCarroll.
+· Reparto: Richard Harrison, Rick Harrison, Austin Chumlee Russell, Corey Harrison, Steve Grad, Mark Hall Patton, Antwaun Austin, Rebecca Romney.
+· Producción: Brent Montgomery, Colby Gaines.</desc>
+	</programme>
+	<programme start="20261114201800 +0100" stop="20261114210800 +0100" channel="Historia">
+    <title>El precio de la historia T21 E9 · ¡Al abordaje!</title>
+    <desc>Programa,Reality,Entretenimiento | 2019 | +7
+· Rick se dirige a Boston para ver un emblemático buque de guerra. ¿Firmará para tener el USS Constitution o el acuerdo se hundirá?
+· País: Estados Unidos
+· Reparto: Rick Harrison, Corey Harrison, Austin Chumlee Russell.</desc>
+	</programme>
+	<programme start="20261114210800 +0100" stop="20261114211100 +0100" channel="Historia">
+    <title>Un día en la Historia de España: 14 de noviembre de 1924</title>
+    <desc>Programa,Otros | 2026 | +12
+· En este episodio descubriremos qué ocurrió el 14 de noviembre de 1924.
+· País: España
+· Reparto: José Carlos Gracia.</desc>
+	</programme>
+	<programme start="20261114211100 +0100" stop="20261114220000 +0100" channel="Historia">
+    <title>Alienígenas T14 E14 · In situ, investigaciones ovni</title>
+    <desc>Documental,Otros,Histórico | 2021 | +7
+· Giorgio Tsoukalos repasa las investigaciones más fascinantes y los sucesos que él cree que representan encuentros reales con visitantes extraterrestres.
+· País: Estados Unidos
+· Dirección: Liz Niles, Jon A. Levy, Keith Guinto, Mitch Marcus, William Martens, Jonathan Haug, Phil Grabsky, Kevin Burns, Robin Feinberg, Susan E. Leventhal.
+· Reparto: Giorgio A. Tsoukalos, William Henry, David Childress, Jonathan Young, Erich von Däniken, Jason Martell, Andrew Collins, Nick Pope, Simon Allix, Colgate Salsbury, Giorgio Tsoukalos, Linda Moulton Howe, David Wilcock, George Noory, Michio Kaku.</desc>
+	</programme>
+	<programme start="20261114220000 +0100" stop="20261114220300 +0100" channel="Historia">
+    <title>Un día en la Historia de España: 14 de noviembre de 1924</title>
+    <desc>Programa,Otros | 2026 | +12
+· En este episodio descubriremos qué ocurrió el 14 de noviembre de 1924.
+· País: España
+· Reparto: José Carlos Gracia.</desc>
+	</programme>
+	<programme start="20261114220300 +0100" stop="20261114225200 +0100" channel="Historia">
+    <title>Alienígenas T13 E6 · Área 52</title>
+    <desc>Documental,Otros,Histórico | 2021 | +7
+· Algunas personas se preguntan si la constante atención al Área 52 pudiera ser una trampa para encubrir una actividad más grande de experimentos secretos con tecnología extraterrestre que esté pasando en otros diferentes lugares.
+· País: Canadá, Alemania, Estados Unidos
+· Dirección: Liz Niles, Kevin Burns.
+· Reparto: Giorgio A. Tsoukalos, David Childress.
+· Producción: Kevin Burns.</desc>
+	</programme>
+	<programme start="20261114225200 +0100" stop="20261114234200 +0100" channel="Historia">
+    <title>Alienígenas T20 E20 · Descifrando Puma Punku</title>
+    <desc>Documental,Otros,Histórico | 2024 | +7
+· Puma Punku, un antiguo sitio en Bolivia lleno de enormes bloques de piedra intrincadamente tallados, se resiste a ser clasificado por arqueólogos e historiadores, lo que ha dado lugar a teorías que conectan el sitio con extraterrestres místicos.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Kevin Burns, Mitch Marcus, Jon A. Levy, Jonathan Haug, Robin Feinberg.
+· Reparto: Giorgio A. Tsoukalos, David Childress.
+· Producción: Kevin Burns.</desc>
+	</programme>
+	<programme start="20261114234200 +0100" stop="20261115003200 +0100" channel="Historia">
+    <title>Alienígenas T13 E11 · Rusia desclasificada</title>
+    <desc>Documental,Otros,Histórico | 2019 | +7
+· Los investigadores de las teorías de extraterrestres debaten la posible existencia de una alianza secreta entre los E.U. y La Unión Soviética, desde la era espacial, que se formó para poder prepararse para un posible encuentro con extraterrestres.
+· País: Alemania, Estados Unidos
+· Dirección: Liz Niles, Kevin Burns, Mitch Marcus, Jon A. Levy, Jonathan Haug, Robin Feinberg.
+· Reparto: Giorgio A. Tsoukalos, David Childress.
+· Producción: Kevin Burns.</desc>
+	</programme>
+	<programme start="20261115003200 +0100" stop="20261115012200 +0100" channel="Historia">
+    <title>Alienígenas T20 E15 · Jacques Vallée, pionero de los ovnis</title>
+    <desc>Documental,Otros,Histórico | 2023 | +7
+· Explorando las teorías del Dr. Jacques Vallee, cuyo apoyo inicial a la idea de extraterrestres visitando la Tierra eventualmente cambió para abarcar una hipótesis más amplia sobre seres con poderes místicos originarios de otras dimensiones.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Jon A. Levy, Keith Guinto, Robin Feinberg, Mitch Marcus, William Martens, Jonathan Haug, Phil Grabsky, Kevin Burns.
+· Reparto: Giorgio A. Tsoukalos, David Childress, William Henry, Jonathan Young, Erich von Däniken, Jason Martell, Andrew Collins, Nick Pope, Simon Allix, Colgate Salsbury, Giorgio Tsoukalos, Linda Moulton Howe, David Wilcock, George Noory, Michio Kaku.
+· Producción: Kevin Burns.</desc>
+	</programme>
+	<programme start="20261115012200 +0100" stop="20261115020200 +0100" channel="Historia">
+    <title>Alienígenas T14 E14 · In situ, investigaciones ovni</title>
+    <desc>Documental,Otros,Histórico | 2021 | +7
+· Giorgio Tsoukalos repasa las investigaciones más fascinantes y los sucesos que él cree que representan encuentros reales con visitantes extraterrestres.
+· País: Estados Unidos
+· Dirección: Liz Niles, Jon A. Levy, Keith Guinto, Mitch Marcus, William Martens, Jonathan Haug, Phil Grabsky, Kevin Burns, Robin Feinberg, Susan E. Leventhal.
+· Reparto: Giorgio A. Tsoukalos, William Henry, David Childress, Jonathan Young, Erich von Däniken, Jason Martell, Andrew Collins, Nick Pope, Simon Allix, Colgate Salsbury, Giorgio Tsoukalos, Linda Moulton Howe, David Wilcock, George Noory, Michio Kaku.</desc>
+	</programme>
+	<programme start="20261115020200 +0100" stop="20261115024300 +0100" channel="Historia">
+    <title>Alienígenas T13 E6 · Área 52</title>
+    <desc>Documental,Otros,Histórico | 2021 | +7
+· Algunas personas se preguntan si la constante atención al Área 52 pudiera ser una trampa para encubrir una actividad más grande de experimentos secretos con tecnología extraterrestre que esté pasando en otros diferentes lugares.
+· País: Canadá, Alemania, Estados Unidos
+· Dirección: Liz Niles, Kevin Burns.
+· Reparto: Giorgio A. Tsoukalos, David Childress.
+· Producción: Kevin Burns.</desc>
+	</programme>
+	<programme start="20261115024300 +0100" stop="20261115032300 +0100" channel="Historia">
+    <title>Alienígenas T20 E20 · Descifrando Puma Punku</title>
+    <desc>Documental,Otros,Histórico | 2024 | +7
+· Puma Punku, un antiguo sitio en Bolivia lleno de enormes bloques de piedra intrincadamente tallados, se resiste a ser clasificado por arqueólogos e historiadores, lo que ha dado lugar a teorías que conectan el sitio con extraterrestres místicos.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Kevin Burns, Mitch Marcus, Jon A. Levy, Jonathan Haug, Robin Feinberg.
+· Reparto: Giorgio A. Tsoukalos, David Childress.
+· Producción: Kevin Burns.</desc>
+	</programme>
+	<programme start="20261115032300 +0100" stop="20261115040800 +0100" channel="Historia">
+    <title>Alienígenas T13 E11 · Rusia desclasificada</title>
+    <desc>Documental,Otros,Histórico | 2019 | +7
+· Los investigadores de las teorías de extraterrestres debaten la posible existencia de una alianza secreta entre los E.U. y La Unión Soviética, desde la era espacial, que se formó para poder prepararse para un posible encuentro con extraterrestres.
+· País: Alemania, Estados Unidos
+· Dirección: Liz Niles, Kevin Burns, Mitch Marcus, Jon A. Levy, Jonathan Haug, Robin Feinberg.
+· Reparto: Giorgio A. Tsoukalos, David Childress.
+· Producción: Kevin Burns.</desc>
+	</programme>
+	<programme start="20261115040800 +0100" stop="20261115044800 +0100" channel="Historia">
+    <title>Alienígenas T20 E15 · Jacques Vallée, pionero de los ovnis</title>
+    <desc>Documental,Otros,Histórico | 2023 | +7
+· Explorando las teorías del Dr. Jacques Vallee, cuyo apoyo inicial a la idea de extraterrestres visitando la Tierra eventualmente cambió para abarcar una hipótesis más amplia sobre seres con poderes místicos originarios de otras dimensiones.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Jon A. Levy, Keith Guinto, Robin Feinberg, Mitch Marcus, William Martens, Jonathan Haug, Phil Grabsky, Kevin Burns.
+· Reparto: Giorgio A. Tsoukalos, David Childress, William Henry, Jonathan Young, Erich von Däniken, Jason Martell, Andrew Collins, Nick Pope, Simon Allix, Colgate Salsbury, Giorgio Tsoukalos, Linda Moulton Howe, David Wilcock, George Noory, Michio Kaku.
+· Producción: Kevin Burns.</desc>
+	</programme>
+	<programme start="20261115044800 +0100" stop="20261115053200 +0100" channel="Historia">
+    <title>Alienígenas T16 E6 · William Shatner visita Alienígenas</title>
+    <desc>Documental,Otros,Histórico | 2023 | +7
+· Un grupo de expertos examina las teorías de las visitas extrarrestres a la Tierra mucho antes de la era moderna, descubriendo pruebas sorprendentes.
+· País: Estados Unidos
+· Dirección: Mitch Marcus, Liz Niles, Kevin Burns.
+· Reparto: Giorgio A. Tsoukalos, David Childress.</desc>
+	</programme>
+	<programme start="20261115053200 +0100" stop="20261115061700 +0100" channel="Historia">
+    <title>Expedientes extraterrestres reabiertos T1 E2 · Los Blancos Altos</title>
+    <desc>Documental,Otros | 2023 | +12
+· Indian Springs, Nevada, 1964: Durante su estancia en la base Nellis, Charles James Hall se encontró con individuos de una especie alienígena a la que, por su aspecto, bautizó como «los blancos altos».
+· País: República Checa, Eslovaquia, Estados Unidos
+· Dirección: Nicole Alibayof, Marek Bureš.
+· Reparto: Michal Matura, Daniel Sury, Radoslav Senk, Tomas Jalc, Eduard Mucha, Peter Farkas.
+· Producción: Nicole Alibayof.</desc>
+	</programme>
+	<programme start="20261115061700 +0100" stop="20261115070700 +0100" channel="Historia">
+    <title>Expedientes extraterrestres reabiertos T1 E3 · Billy Meier, Plejaren y el multiverso</title>
+    <desc>Documental,Otros | 2024 | +12
+· En 1975, el suizo Billy Meier afirmó haber viajado por el espacio a bordo de una nave con extraterrestres. Muchos tacharon de fraude los relatos de Billy Meier, también la mayoría de los ufólogos.
+· País: República Checa, Eslovaquia, Estados Unidos
+· Dirección: Nicole Alibayof, Marek Bureš.
+· Reparto: Michal Matura, Daniel Sury, Radoslav Senk, Eduard Mucha, Tomas Jalc, Peter Farkas.
+· Producción: Nicole Alibayof.</desc>
+	</programme>
+	<programme start="20261115070700 +0100" stop="20261115075300 +0100" channel="Historia">
+    <title>Coliseo: ascenso y caída T1 E1 · Origen</title>
+    <desc>Documental,Otros,Histórico | 2025 | +12
+· Nuevos descubrimientos revelan los orígenes del Coliseo y cómo ayudó a Roma a construir un imperio.
+· País: Reino Unido, Estados Unidos
+· Dirección: Pete Chinn.</desc>
+	</programme>
+	<programme start="20261115075300 +0100" stop="20261115084000 +0100" channel="Historia">
+    <title>Coliseo: ascenso y caída T1 E2 · Decadencia y caída</title>
+    <desc>Documental,Otros,Histórico | 2024 | +12
+· Mientras nuevas investigaciones revelan la realidad de los gladiadores, el declive del Imperio romano arrastra también al monumento que mejor simbolizó su grandeza.
+· País: Estados Unidos
+· Dirección: Pete Chinn.</desc>
+	</programme>
+	<programme start="20261115084000 +0100" stop="20261115093300 +0100" channel="Historia">
+    <title>Los últimos secretos de la gran esfinge de Guiza</title>
+    <desc>Documental,Histórico,Otros | 2023 | +7
+· Esta estatua de más de 4500 años de antigüedad es, sin duda, la más emblemática del mundo y lleva intrigando a los arqueólogos varias generaciones. ¿Por qué se construyó? Y, sobre todo, ¿cómo?
+· País: Francia
+· Dirección: Thierry Fessard, Hugo Hernandez.</desc>
+	</programme>
+	<programme start="20261115093300 +0100" stop="20261115093600 +0100" channel="Historia">
+    <title>Un día en la Historia de España: 15 de noviembre de 1884</title>
+    <desc>Programa,Otros | 2026 | +12
+· En este episodio descubriremos qué ocurrió el 15 de noviembre de 1884.
+· País: España
+· Reparto: José Carlos Gracia.</desc>
+	</programme>
+	<programme start="20261115093600 +0100" stop="20261115101600 +0100" channel="Historia">
+    <title>Alienígenas T20 E20 · Descifrando Puma Punku</title>
+    <desc>Documental,Otros,Histórico | 2024 | +7
+· Puma Punku, un antiguo sitio en Bolivia lleno de enormes bloques de piedra intrincadamente tallados, se resiste a ser clasificado por arqueólogos e historiadores, lo que ha dado lugar a teorías que conectan el sitio con extraterrestres místicos.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Kevin Burns, Mitch Marcus, Jon A. Levy, Jonathan Haug, Robin Feinberg.
+· Reparto: Giorgio A. Tsoukalos, David Childress.
+· Producción: Kevin Burns.</desc>
+	</programme>
+	<programme start="20261115101600 +0100" stop="20261115105800 +0100" channel="Historia">
+    <title>Alienígenas T13 E11 · Rusia desclasificada</title>
+    <desc>Documental,Otros,Histórico | 2019 | +7
+· Los investigadores de las teorías de extraterrestres debaten la posible existencia de una alianza secreta entre los E.U. y La Unión Soviética, desde la era espacial, que se formó para poder prepararse para un posible encuentro con extraterrestres.
+· País: Alemania, Estados Unidos
+· Dirección: Liz Niles, Kevin Burns, Mitch Marcus, Jon A. Levy, Jonathan Haug, Robin Feinberg.
+· Reparto: Giorgio A. Tsoukalos, David Childress.
+· Producción: Kevin Burns.</desc>
+	</programme>
+	<programme start="20261115105800 +0100" stop="20261115113800 +0100" channel="Historia">
+    <title>Alienígenas T13 E6 · Área 52</title>
+    <desc>Documental,Otros,Histórico | 2021 | +7
+· Algunas personas se preguntan si la constante atención al Área 52 pudiera ser una trampa para encubrir una actividad más grande de experimentos secretos con tecnología extraterrestre que esté pasando en otros diferentes lugares.
+· País: Canadá, Alemania, Estados Unidos
+· Dirección: Liz Niles, Kevin Burns.
+· Reparto: Giorgio A. Tsoukalos, David Childress.
+· Producción: Kevin Burns.</desc>
+	</programme>
+	<programme start="20261115113800 +0100" stop="20261115121900 +0100" channel="Historia">
+    <title>Alienígenas T14 E14 · In situ, investigaciones ovni</title>
+    <desc>Documental,Otros,Histórico | 2021 | +7
+· Giorgio Tsoukalos repasa las investigaciones más fascinantes y los sucesos que él cree que representan encuentros reales con visitantes extraterrestres.
+· País: Estados Unidos
+· Dirección: Liz Niles, Jon A. Levy, Keith Guinto, Mitch Marcus, William Martens, Jonathan Haug, Phil Grabsky, Kevin Burns, Robin Feinberg, Susan E. Leventhal.
+· Reparto: Giorgio A. Tsoukalos, William Henry, David Childress, Jonathan Young, Erich von Däniken, Jason Martell, Andrew Collins, Nick Pope, Simon Allix, Colgate Salsbury, Giorgio Tsoukalos, Linda Moulton Howe, David Wilcock, George Noory, Michio Kaku.</desc>
+	</programme>
+	<programme start="20261115121900 +0100" stop="20261115130600 +0100" channel="Historia">
+    <title>Alienígenas T16 E6 · William Shatner visita Alienígenas</title>
+    <desc>Documental,Otros,Histórico | 2023 | +7
+· Un grupo de expertos examina las teorías de las visitas extrarrestres a la Tierra mucho antes de la era moderna, descubriendo pruebas sorprendentes.
+· País: Estados Unidos
+· Dirección: Mitch Marcus, Liz Niles, Kevin Burns.
+· Reparto: Giorgio A. Tsoukalos, David Childress.</desc>
+	</programme>
+	<programme start="20261115130600 +0100" stop="20261115135500 +0100" channel="Historia">
+    <title>Alienígenas T20 E15 · Jacques Vallée, pionero de los ovnis</title>
+    <desc>Documental,Otros,Histórico | 2023 | +7
+· Explorando las teorías del Dr. Jacques Vallee, cuyo apoyo inicial a la idea de extraterrestres visitando la Tierra eventualmente cambió para abarcar una hipótesis más amplia sobre seres con poderes místicos originarios de otras dimensiones.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Jon A. Levy, Keith Guinto, Robin Feinberg, Mitch Marcus, William Martens, Jonathan Haug, Phil Grabsky, Kevin Burns.
+· Reparto: Giorgio A. Tsoukalos, David Childress, William Henry, Jonathan Young, Erich von Däniken, Jason Martell, Andrew Collins, Nick Pope, Simon Allix, Colgate Salsbury, Giorgio Tsoukalos, Linda Moulton Howe, David Wilcock, George Noory, Michio Kaku.
+· Producción: Kevin Burns.</desc>
+	</programme>
+	<programme start="20261115135500 +0100" stop="20261115144500 +0100" channel="Historia">
+    <title>Alienígenas T20 E20 · Descifrando Puma Punku</title>
+    <desc>Documental,Otros,Histórico | 2024 | +7
+· Puma Punku, un antiguo sitio en Bolivia lleno de enormes bloques de piedra intrincadamente tallados, se resiste a ser clasificado por arqueólogos e historiadores, lo que ha dado lugar a teorías que conectan el sitio con extraterrestres místicos.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Kevin Burns, Mitch Marcus, Jon A. Levy, Jonathan Haug, Robin Feinberg.
+· Reparto: Giorgio A. Tsoukalos, David Childress.
+· Producción: Kevin Burns.</desc>
+	</programme>
+	<programme start="20261115144500 +0100" stop="20261115144800 +0100" channel="Historia">
+    <title>Un día en la Historia de España: 15 de noviembre de 1884</title>
+    <desc>Programa,Otros | 2026 | +12
+· En este episodio descubriremos qué ocurrió el 15 de noviembre de 1884.
+· País: España
+· Reparto: José Carlos Gracia.</desc>
+	</programme>
+	<programme start="20261115144800 +0100" stop="20261115162800 +0100" channel="Historia">
+    <title>Viaje al 10.000 a.C.</title>
+    <desc>Documental,Otros | 2008 | +7
+· Siete cazadores prehistóricos siguen el rastro de una presa. Armados con largas lanzas de madera con puntas de piedra afiladas como cuchillas, siguen las enormes huellas por la nieve.
+· País: Estados Unidos
+· Dirección: David Padrusch.
+· Reparto: David J. Meltzer, Nicole Waguespack, David George, Pat Lubinski, Christopher A. Shaw, James Lurie.</desc>
+	</programme>
+	<programme start="20261115162800 +0100" stop="20261115173000 +0100" channel="Historia">
+    <title>Mayas, secretos de las últimas ciudades</title>
+    <desc>Programa,Otros | 2023 | +7
+· Los mayas desaparecieron llevándose consigo muchos de sus secretos. ¿Qué nos dicen Tulum, Mayapán y Cobá sobre las horas finales de la era maya?
+· País: Francia
+· Dirección: Benoît Poisson, N. N.</desc>
+	</programme>
+	<programme start="20261115173000 +0100" stop="20261115173300 +0100" channel="Historia">
+    <title>Un día en la Historia de España: 15 de noviembre de 1884</title>
+    <desc>Programa,Otros | 2026 | +12
+· En este episodio descubriremos qué ocurrió el 15 de noviembre de 1884.
+· País: España
+· Reparto: José Carlos Gracia.</desc>
+	</programme>
+	<programme start="20261115173300 +0100" stop="20261115182900 +0100" channel="Historia">
+    <title>El Titanic en color T1 E1</title>
+    <desc>Documental,Otros,Histórico | 2024 | +12 | *6.9/10
+· El primer episodio recorre la construcción del Titanic en Belfast y su viaje hacia el Atlántico Norte, con imágenes restauradas y la historia de diversos pasajeros como Joseph Laroche.
+· País: Reino Unido
+· Reparto: Guy Walters.</desc>
+	</programme>
+	<programme start="20261115182900 +0100" stop="20261115192500 +0100" channel="Historia">
+    <title>El Titanic en color T1 E2</title>
+    <desc>Documental,Otros,Histórico | 2024 | +12 | *6.9/10
+· El segundo episodio recorre el último día del Titanic, el hundimiento a las 11:40, el rescate por el Carpathia y su impacto duradero, hasta el hallazgo del pecio en 1985.
+· País: Reino Unido
+· Reparto: Guy Walters.</desc>
+	</programme>
+	<programme start="20261115192500 +0100" stop="20261115192800 +0100" channel="Historia">
+    <title>Un día en la Historia de España: 15 de noviembre de 1884</title>
+    <desc>Programa,Otros | 2026 | +12
+· En este episodio descubriremos qué ocurrió el 15 de noviembre de 1884.
+· País: España
+· Reparto: José Carlos Gracia.</desc>
+	</programme>
+	<programme start="20261115192800 +0100" stop="20261115201900 +0100" channel="Historia">
+    <title>II Guerra Mundial por Tom Hanks T1 E16 · Resistencia</title>
+    <desc>Documental,Otros,Histórico,Científico,Tecnología | 2026 | +16 | *8.1/10
+· La resistencia a la ocupación y la opresión nazi es una constante durante toda la guerra, con resultados tan heroicos como devastadores.
+· País: Reino Unido, Estados Unidos
+· Dirección: Mary Donahue, Eli Lehrer, Duncan Singh, Annabel Hobley.
+· Reparto: Tom Hanks, Heinrich Himmler, Adolf Hitler, Charles De Gaulle, Joseph Stalin.</desc>
+	</programme>
+	<programme start="20261115201900 +0100" stop="20261115210900 +0100" channel="Historia">
+    <title>II Guerra Mundial por Tom Hanks T1 E17 · No hay rendición</title>
+    <desc>Documental,Otros,Histórico,Científico,Tecnología | 2026 | +16 | *8.1/10
+· Entre 1944 y 1945, la campaña del Pacífico alcanza un grado de violencia y derramamiento de sangre sin precedentes.
+· País: Reino Unido, Estados Unidos
+· Dirección: Mary Donahue, Eli Lehrer, Duncan Singh, Annabel Hobley.
+· Reparto: Tom Hanks, Winston Churchill, Franklin D. Roosevelt.</desc>
+	</programme>
+	<programme start="20261115210900 +0100" stop="20261115220000 +0100" channel="Historia">
+    <title>II Guerra Mundial por Tom Hanks T1 E18 · Los últimos días del Reich</title>
+    <desc>Documental,Otros,Histórico,Científico,Tecnología | 2026 | +16 | *8.1/10
+· La Segunda Guerra Mundial alcanza su clímax, cuando los ejércitos aliados avanzan hacia Berlín desde varios frentes. Entonces, en un acto de fanatismo final, Hitler le ordena a su pueblo, que resistan hasta el último hombre en pie.
+· País: Reino Unido, Estados Unidos
+· Dirección: Mary Donahue, Eli Lehrer, Duncan Singh, Annabel Hobley.
+· Reparto: Tom Hanks, Adolf Hitler, Bernard L. Montgomery, Benito Mussolini.</desc>
+	</programme>
+	<programme start="20261115220000 +0100" stop="20261115220300 +0100" channel="Historia">
+    <title>Un día en la Historia de España: 15 de noviembre de 1884</title>
+    <desc>Programa,Otros | 2026 | +12
+· En este episodio descubriremos qué ocurrió el 15 de noviembre de 1884.
+· País: España
+· Reparto: José Carlos Gracia.</desc>
+	</programme>
+	<programme start="20261115220300 +0100" stop="20261115225300 +0100" channel="Historia">
+    <title>Historia letal con Ving Rhames T1 E4 · Tiranos</title>
+    <desc>Documental,Otros | 2025 | +12
+· Desde gobernantes despiadados como Calígula o Iván el Terrible hasta dictadores como Mao Zedong o Saddam Hussein, responsables de millones de muertes: estos son algunos de los gobernantes más letales que ha conocido la humanidad.
+· País: Estados Unidos
+· Dirección: Jennifer Wagman.</desc>
+	</programme>
+	<programme start="20261115225300 +0100" stop="20261115234300 +0100" channel="Historia">
+    <title>Historia letal con Ving Rhames T1 E5 · La furia del agua</title>
+    <desc>Documental,Otros | 2025 | +12
+· De la inundación de Johnstown al tsunami de Indonesia, descubre cómo el poder del agua puede transformarse en una fuerza de destrucción imparable.
+· País: Estados Unidos
+· Dirección: Jennifer Wagman.</desc>
+	</programme>
+	<programme start="20261115234300 +0100" stop="20261116003200 +0100" channel="Historia">
+    <title>Historia letal con Ving Rhames T1 E6 · Armas</title>
+    <desc>Documental,Otros | 2025 | +12
+· Desde antiguas máquinas de guerra hasta devastadoras armas de destrucción masiva, estas innovaciones cambiaron la forma de combatir y se cuentan entre las más letales de la Historia.
+· País: Estados Unidos
+· Dirección: Jennifer Wagman.</desc>
+	</programme>
+	<programme start="20261116003200 +0100" stop="20261116020000 +0100" channel="Historia">
+    <title>Viaje al 10.000 a.C.</title>
+    <desc>Documental,Otros | 2008 | +7
+· Siete cazadores prehistóricos siguen el rastro de una presa. Armados con largas lanzas de madera con puntas de piedra afiladas como cuchillas, siguen las enormes huellas por la nieve.
+· País: Estados Unidos
+· Dirección: David Padrusch.
+· Reparto: David J. Meltzer, Nicole Waguespack, David George, Pat Lubinski, Christopher A. Shaw, James Lurie.</desc>
+	</programme>
+	<programme start="20261116020000 +0100" stop="20261116024000 +0100" channel="Historia">
+    <title>Skinwalker: El Rancho Maldito T5 E4 · Mal Gusto</title>
+    <desc>Documental,Otros,Científico | 2024 | +12
+· Existe una leyenda que advierte a los visitantes sobre los peligros de excavar en el Rancho Skinwalker. Entonces, los miembros del equipo deciden ignorarla y romper el suelo cerca del Triángulo.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Mark Marinaccio.
+· Reparto: Travis Taylor, Erik Bard, Thomas Winterton, Bryant 'Dragon' Arnold, Brandon Fugal, Kaleb Bench, Kandus Linde, Tom Lewis, Jim Morse, Jim Segala, Jim Royston.
+· Producción: Kevin Burns, Joel Patterson.</desc>
+	</programme>
+	<programme start="20261116024000 +0100" stop="20261116032200 +0100" channel="Historia">
+    <title>Skinwalker: El Rancho Maldito T5 E5 · El Destello</title>
+    <desc>Documental,Otros,Científico | 2024 | +12
+· El radar de penetración terrestre revela que una serie de objetos misteriosos, pueden estar enterrados en las profundidades de Mesa.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Mark Marinaccio.
+· Reparto: Travis Taylor, Erik Bard, Thomas Winterton, Bryant 'Dragon' Arnold, Brandon Fugal, Kaleb Bench, Kandus Linde, Tom Lewis, Jim Morse, Jim Segala, Jim Royston.
+· Producción: Kevin Burns, Joel Patterson.</desc>
+	</programme>
+	<programme start="20261116032200 +0100" stop="20261116040100 +0100" channel="Historia">
+    <title>Skinwalker: El Rancho Maldito T5 E6 · Teletransportarse</title>
+    <desc>Documental,Otros,Científico | 2024 | +12
+· Gracias al uso del radar de penetración, los miembros del equipo continúan con las perforaciones en la Mesa, en busca del enorme objeto metálico que podría estar oculto debajo de la tierra.
+· País: Estados Unidos
+· Dirección: Mark Marinaccio.
+· Reparto: Travis Taylor, Erik Bard, Thomas Winterton, Bryant 'Dragon' Arnold, Brandon Fugal, Kaleb Bench, Kandus Linde, Tom Lewis, Jim Morse, Jim Segala, Jim Royston.
+· Producción: Kevin Burns, Joel Patterson.</desc>
+	</programme>
+	<programme start="20261116040100 +0100" stop="20261116045000 +0100" channel="Historia">
+    <title>Pompeya, últimos misterios revelados T1 E1</title>
+    <desc>Documental,Otros,Histórico | 2023 | +12
+· Con cada nuevo descubrimiento, los expertos pueden ampliar la historia de Pompeya. Es un sueño para todo arqueólogo, la ciudad se detuvo, pero ellos la devuelven a la vida.
+· País: Francia, Reino Unido, Italia
+· Dirección: Thomas Risch.</desc>
+	</programme>
+	<programme start="20261116045000 +0100" stop="20261116053500 +0100" channel="Historia">
+    <title>Pompeya, últimos misterios revelados T1 E2</title>
+    <desc>Documental,Otros,Histórico | 2023 | +12
+· Pompeya es un increíble yacimiento sin fin. Los arqueólogos continúan sus investigaciones, con la esperanza de descubrir otros secretos de la vida cotidiana de los ricos pompeyanos.
+· País: Francia, Reino Unido, Italia
+· Dirección: Thomas Risch.</desc>
+	</programme>
+	<programme start="20261116053500 +0100" stop="20261116055900 +0100" channel="Historia">
+    <title>Extraño y sospechoso T1 E1</title>
+    <desc>Documental,Otros | 2024 | +12
+· En este episodio analizamos si un hombre sin antecedentes pudo matar a cuatro personas en una noche, casos de fantasmas en pubs y por qué la Antártida sería ideal como refugio ultrasecreto.
+· País: Estados Unidos
+· Reparto: Harvey Levin.</desc>
+	</programme>
+	<programme start="20261116055900 +0100" stop="20261116060700 +0100" channel="Historia">
+    <title>Garbo, el espía que venció a Hitler</title>
+    <desc>Documental,Histórico,Otros | 2024 | +12
+· El desembarco de Normandía fue una batalla decisiva en el desenlace de la II Guerra Mundial y Garbo, un espía español, jugó un papel decisivo para el éxito aliado.
+· País: España</desc>
+	</programme>
+	<programme start="20261116060700 +0100" stop="20261116065000 +0100" channel="Historia">
+    <title>Las voces de Auschwitz T1 E1 · Persecución</title>
+    <desc>Documental,Otros | 2024 | +16
+· Combinando relatos en primera persona e imágenes de archivo, este episodio compone una imagen precisa de cómo fue la transición de la vida normal a las persecuciones, detenciones y deportaciones.
+· País: Bélgica, Francia
+· Dirección: Catherine Bernstein.</desc>
+	</programme>
+	<programme start="20261116065000 +0100" stop="20261116073300 +0100" channel="Historia">
+    <title>Las voces de Auschwitz T1 E2 · Deportación</title>
+    <desc>Documental,Otros | 2024 | +16
+· En este episodio, los supervivientes describen el shock inicial al llegar a Auschwitz, la atmósfera del campo y las sensaciones de estar viviendo una pesadilla.
+· País: Francia
+· Dirección: Catherine Bernstein.</desc>
+	</programme>
+	<programme start="20261116073300 +0100" stop="20261116081400 +0100" channel="Historia">
+    <title>Las voces de Auschwitz T1 E3 · El campo</title>
+    <desc>Documental,Otros | 2024 | +16
+· Los prisioneros de Auschwitz II-Birkenau recibieron el encargo de ampliar el campo. La forma final tendrá 2,4 kilómetros de largo y 720 metros de ancho.
+· País: Bélgica, Francia
+· Dirección: Catherine Bernstein.
+· Reparto: Catherine Bernstein.</desc>
+	</programme>
+	<programme start="20261116081400 +0100" stop="20261116090100 +0100" channel="Historia">
+    <title>Pompeya, últimos misterios revelados T1 E1</title>
+    <desc>Documental,Otros,Histórico | 2023 | +12
+· Con cada nuevo descubrimiento, los expertos pueden ampliar la historia de Pompeya. Es un sueño para todo arqueólogo, la ciudad se detuvo, pero ellos la devuelven a la vida.
+· País: Francia, Reino Unido, Italia
+· Dirección: Thomas Risch.</desc>
+	</programme>
+	<programme start="20261116090100 +0100" stop="20261116094400 +0100" channel="Historia">
+    <title>Pompeya, últimos misterios revelados T1 E2</title>
+    <desc>Documental,Otros,Histórico | 2023 | +12
+· Pompeya es un increíble yacimiento sin fin. Los arqueólogos continúan sus investigaciones, con la esperanza de descubrir otros secretos de la vida cotidiana de los ricos pompeyanos.
+· País: Francia, Reino Unido, Italia
+· Dirección: Thomas Risch.</desc>
+	</programme>
+	<programme start="20261116094400 +0100" stop="20261116103800 +0100" channel="Historia">
+    <title>Faraones: Ascenso y caída T1 E1 · El auge de los faraones</title>
+    <desc>Documental,Otros,Histórico | 2024 | +7
+· Un poderoso líder militar une las tierras que conocemos como Egipto y asume el título de Faraón. ¿Cómo mantiene su poder? ¿Qué herramientas utiliza para construir un sistema que durará 3.000 años?
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Daniel Oron.
+· Reparto: Mia Fothergill, Seika Groves, Megan Armstrong, John J. Johnston, Kayam Rada, Carla Mesa Guzzo, Mary-Ann Pouls Wegner, Heba Abd El-Gawad.</desc>
+	</programme>
+	<programme start="20261116103800 +0100" stop="20261116113000 +0100" channel="Historia">
+    <title>Faraones: Ascenso y caída T1 E2 · El renacimiento faraónico</title>
+    <desc>Documental,Otros,Histórico | 2024 | +7
+· Egipto está dividido. Los gobernantes locales se disputan el poder, pero uno se alza para restaurar el reino e inaugurar una nueva era faraónica, con la literatura, el poder militar y la conquista.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Daniel Oron.
+· Reparto: Mia Fothergill, Seika Groves, Megan Armstrong, John J. Johnston, Kayam Rada, Carla Mesa Guzzo, Mary-Ann Pouls Wegner, Heba Abd El-Gawad.</desc>
+	</programme>
+	<programme start="20261116113000 +0100" stop="20261116122900 +0100" channel="Historia">
+    <title>Faraones: Ascenso y caída T1 E3 · La familia del faraón</title>
+    <desc>Documental,Otros,Histórico | 2024 | +7
+· Un rey ocupa el trono de Egipto tras expulsar a los invasores extranjeros. En el Nuevo Reino, las mujeres acceden al poder, el imperio se expande más allá de sus fronteras y se alzan las pirámides.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Daniel Oron.
+· Reparto: Mia Fothergill, Seika Groves, Megan Armstrong, John J. Johnston, Kayam Rada, Carla Mesa Guzzo, Mary-Ann Pouls Wegner, Heba Abd El-Gawad.</desc>
+	</programme>
+	<programme start="20261116122900 +0100" stop="20261116123200 +0100" channel="Historia">
+    <title>Un día en la Historia de España: 16 de noviembre de 1700</title>
+    <desc>Programa,Otros | 2026 | +12
+· En este episodio descubriremos qué ocurrió el 16 de noviembre de 1700.
+· País: España</desc>
+	</programme>
+	<programme start="20261116123200 +0100" stop="20261116132500 +0100" channel="Historia">
+    <title>Rutas alienígenas T1 E4 · Sedona</title>
+    <desc>Documental,Otros,Social,Científico | 2024 | +7
+· Un desierto sagrado convertido en punto caliente de los ovnis.
+· País: Canadá, Estados Unidos
+· Dirección: Daniel Oron.
+· Reparto: Natasha Billson, Heidi White, Robert Sparling, Mazyar Fallah, Rohit Dalvi, Matthew Hayes, Kent Smerdon.</desc>
+	</programme>
+	<programme start="20261116132500 +0100" stop="20261116141900 +0100" channel="Historia">
+    <title>Rutas alienígenas T1 E5 · Pine Barrens</title>
+    <desc>Documental,Otros,Social,Científico | 2024 | +7
+· ¿Qué se esconde en el bosque?
+· País: Canadá
+· Dirección: Daniel Oron.
+· Reparto: Natasha Billson, Heidi White, Robert Sparling, Mazyar Fallah, Rohit Dalvi, Matthew Hayes, Kent Smerdon.</desc>
+	</programme>
+	<programme start="20261116141900 +0100" stop="20261116142100 +0100" channel="Historia">
+    <title>Un día en la Historia de España: 16 de noviembre de 1700</title>
+    <desc>Programa,Otros | 2026 | +12
+· En este episodio descubriremos qué ocurrió el 16 de noviembre de 1700.
+· País: España</desc>
+	</programme>
+	<programme start="20261116142100 +0100" stop="20261116151200 +0100" channel="Historia">
+    <title>II Guerra Mundial por Tom Hanks T1 E16 · Resistencia</title>
+    <desc>Documental,Otros,Histórico,Científico,Tecnología | 2026 | +16 | *8.1/10
+· La resistencia a la ocupación y la opresión nazi es una constante durante toda la guerra, con resultados tan heroicos como devastadores.
+· País: Reino Unido, Estados Unidos
+· Dirección: Mary Donahue, Eli Lehrer, Duncan Singh, Annabel Hobley.
+· Reparto: Tom Hanks, Heinrich Himmler, Adolf Hitler, Charles De Gaulle, Joseph Stalin.</desc>
+	</programme>
+	<programme start="20261116151200 +0100" stop="20261116160300 +0100" channel="Historia">
+    <title>II Guerra Mundial por Tom Hanks T1 E17 · No hay rendición</title>
+    <desc>Documental,Otros,Histórico,Científico,Tecnología | 2026 | +16 | *8.1/10
+· Entre 1944 y 1945, la campaña del Pacífico alcanza un grado de violencia y derramamiento de sangre sin precedentes.
+· País: Reino Unido, Estados Unidos
+· Dirección: Mary Donahue, Eli Lehrer, Duncan Singh, Annabel Hobley.
+· Reparto: Tom Hanks, Winston Churchill, Franklin D. Roosevelt.</desc>
+	</programme>
+	<programme start="20261116160300 +0100" stop="20261116165400 +0100" channel="Historia">
+    <title>II Guerra Mundial por Tom Hanks T1 E18 · Los últimos días del Reich</title>
+    <desc>Documental,Otros,Histórico,Científico,Tecnología | 2026 | +16 | *8.1/10
+· La Segunda Guerra Mundial alcanza su clímax, cuando los ejércitos aliados avanzan hacia Berlín desde varios frentes. Entonces, en un acto de fanatismo final, Hitler le ordena a su pueblo, que resistan hasta el último hombre en pie.
+· País: Reino Unido, Estados Unidos
+· Dirección: Mary Donahue, Eli Lehrer, Duncan Singh, Annabel Hobley.
+· Reparto: Tom Hanks, Adolf Hitler, Bernard L. Montgomery, Benito Mussolini.</desc>
+	</programme>
+	<programme start="20261116165400 +0100" stop="20261116165700 +0100" channel="Historia">
+    <title>Un día en la Historia de España: 16 de noviembre de 1700</title>
+    <desc>Programa,Otros | 2026 | +12
+· En este episodio descubriremos qué ocurrió el 16 de noviembre de 1700.
+· País: España</desc>
+	</programme>
+	<programme start="20261116165700 +0100" stop="20261116174600 +0100" channel="Historia">
+    <title>Historia letal con Ving Rhames T1 E4 · Tiranos</title>
+    <desc>Documental,Otros | 2025 | +12
+· Desde gobernantes despiadados como Calígula o Iván el Terrible hasta dictadores como Mao Zedong o Saddam Hussein, responsables de millones de muertes: estos son algunos de los gobernantes más letales que ha conocido la humanidad.
+· País: Estados Unidos
+· Dirección: Jennifer Wagman.</desc>
+	</programme>
+	<programme start="20261116174600 +0100" stop="20261116183600 +0100" channel="Historia">
+    <title>Historia letal con Ving Rhames T1 E5 · La furia del agua</title>
+    <desc>Documental,Otros | 2025 | +12
+· De la inundación de Johnstown al tsunami de Indonesia, descubre cómo el poder del agua puede transformarse en una fuerza de destrucción imparable.
+· País: Estados Unidos
+· Dirección: Jennifer Wagman.</desc>
+	</programme>
+	<programme start="20261116183600 +0100" stop="20261116192500 +0100" channel="Historia">
+    <title>Historia letal con Ving Rhames T1 E6 · Armas</title>
+    <desc>Documental,Otros | 2025 | +12
+· Desde antiguas máquinas de guerra hasta devastadoras armas de destrucción masiva, estas innovaciones cambiaron la forma de combatir y se cuentan entre las más letales de la Historia.
+· País: Estados Unidos
+· Dirección: Jennifer Wagman.</desc>
+	</programme>
+	<programme start="20261116192500 +0100" stop="20261116192800 +0100" channel="Historia">
+    <title>Un día en la Historia de España: 16 de noviembre de 1700</title>
+    <desc>Programa,Otros | 2026 | +12
+· En este episodio descubriremos qué ocurrió el 16 de noviembre de 1700.
+· País: España</desc>
+	</programme>
+	<programme start="20261116192800 +0100" stop="20261116201900 +0100" channel="Historia">
+    <title>Expedientes desclasificados con David Duchovny T1 E4 · Armas extrañas</title>
+    <desc>Documental,Otros,Histórico | 2025 | +12
+· Algunos documentos secretos revelan armas tan sorprendentes como letales: una bomba 1.500 veces más potente que Hiroshima, toxinas marinas y un plan para debilitar a Hitler desde dentro.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Nick Green, Elliot Goldner.
+· Reparto: Benjamin Völz.</desc>
+	</programme>
+	<programme start="20261116201900 +0100" stop="20261116211000 +0100" channel="Historia">
+    <title>Expedientes desclasificados con David Duchovny T1 E10 · Alianzas infames</title>
+    <desc>Documental,Otros,Histórico | 2025 | +12
+· Cuando los gobiernos cruzan líneas y pactan con sectas, mafias o enemigos declarados, las tensiones se disparan y las alianzas se vuelven tan peligrosas como necesarias.
+· País: Estados Unidos
+· Dirección: Nick Green, Elliot Goldner.
+· Reparto: Greg Jackson, Benjamin Völz.</desc>
+	</programme>
+	<programme start="20261116211000 +0100" stop="20261116220100 +0100" channel="Historia">
+    <title>Expedientes desclasificados con David Duchovny T1 E3 · Misiones Extremas</title>
+    <desc>Documental,Otros,Histórico | 2025 | +12
+· En este episodio descubrimos misiones imposibles que superan la ficción: buzos que interceptan líneas soviéticas y soldados que despliegan bombas a mano, todo por cumplir la misión.
+· País: Estados Unidos
+· Dirección: Nick Green, Elliot Goldner.
+· Reparto: Benjamin Völz.</desc>
+	</programme>
+	<programme start="20261116220100 +0100" stop="20261116220400 +0100" channel="Historia">
+    <title>Un día en la Historia de España: 16 de noviembre de 1700</title>
+    <desc>Programa,Otros | 2026 | +12
+· En este episodio descubriremos qué ocurrió el 16 de noviembre de 1700.
+· País: España</desc>
+	</programme>
+	<programme start="20261116220400 +0100" stop="20261116230000 +0100" channel="Historia">
+    <title>Faraones: más allá de las pirámides T1 E1 · Alejandro Magno, la verdad tras la leyenda</title>
+    <desc>Documental,Otros | 2024 | +7
+· Alejandro Magno conquistó medio mundo en apenas trece años. Pero fue en Egipto, donde fundó Alejandría, fue proclamado faraón, y donde nació verdaderamente la leyenda.
+· País: Canadá, Francia
+· Dirección: Anne-Fleur Delaistre, François Pomès.</desc>
+	</programme>
+	<programme start="20261116230000 +0100" stop="20261116235600 +0100" channel="Historia">
+    <title>Faraones: más allá de las pirámides T1 E2 · Djoser, el destino del primer faraón constructor</title>
+    <desc>Documental,Otros | 2024 | +7
+· Primer constructor de una pirámide y protagonista de una época decisiva, Djoser sigue siendo uno de los faraones más misteriosos de la historia de Egipto.
+· País: Francia, Estados Unidos
+· Dirección: Anne-Fleur Delaistre, François Pomès.</desc>
+	</programme>
+	<programme start="20261116235600 +0100" stop="20261117004500 +0100" channel="Historia">
+    <title>Grandes guerreros de la historia T1 E3 · La Fuerza Delta</title>
+    <desc>Documental,Otros,Histórico | 2025 | +12
+· Especializado en operaciones antiterroristas, rescates de rehenes y misiones encubiertas, el operador de la Fuerza Delta afronta amenazas de alto riesgo con precisión, versatilidad y experiencia.
+· País: Estados Unidos
+· Dirección: Sebastian Cluer.
+· Reparto: Yohuru Williams, Brandon Maille, Laura Suen, Josef Hayden Silberer, Matt Easton, Plato Fountidakis, Rich Diviney, Edward A. Gutiérrez, Chandler Cornblum, Rohit Dalvi, Tony McMahon, Don Wildman, Toru Uchikado.</desc>
+	</programme>
+	<programme start="20261117004500 +0100" stop="20261117012600 +0100" channel="Historia">
+    <title>Grandes guerreros de la historia T1 E4 · Los templarios</title>
+    <desc>Documental,Otros,Histórico | 2025 | +12
+· Al combinar fe, disciplina y grandes habilidades de combate, el caballero templario se convirtió en un legendario cruzado, célebre por su valor, su visión estratégica y su firme sentido del deber.
+· País: Estados Unidos
+· Dirección: Sebastian Cluer.
+· Reparto: Yohuru Williams, Brandon Maille, Laura Suen, Josef Hayden Silberer, Matt Easton, Plato Fountidakis, Rich Diviney, Edward A. Gutiérrez, Chandler Cornblum, Rohit Dalvi, Tony McMahon, Don Wildman, Toru Uchikado.</desc>
+	</programme>
+	<programme start="20261117012600 +0100" stop="20261117020800 +0100" channel="Historia">
+    <title>Arqueología en la oscuridad T1 E7 · Los guardianes de las tumbas olvidadas</title>
+    <desc>Documental,Otros,Histórico,Científico | 2025 | +12
+· Hallazgos en Italia, China, Bélgica y México revelan cámaras funerarias, esqueletos extraños y tumbas que mantienen vivo el misterio de antiguas civilizaciones.
+· País: Canadá
+· Dirección: Ben Manthorpe.</desc>
+	</programme>
+	<programme start="20261117020800 +0100" stop="20261117024900 +0100" channel="Historia">
+    <title>Arqueología en la oscuridad T1 E8 · Rituales ocultos del pasado</title>
+    <desc>Documental,Otros,Histórico,Científico | 2025 | +12
+· Hallazgos en China, Italia y Australia revelan osarios, fósiles y objetos rituales que iluminan aspectos clave de la historia y de la evolución humana.
+· País: Canadá
+· Dirección: Ben Manthorpe.</desc>
+	</programme>
+	<programme start="20261117024900 +0100" stop="20261117032900 +0100" channel="Historia">
+    <title>Maravillas modernas: comida T1 E3 · El arma secreta Nazi</title>
+    <desc>Documental,Otros,Histórico | 2024 | +12
+· Darrell y el equipo encuentran artefactos nazis en un muelle hundido antes de trasladarse a otro sitio donde descubren lo que podría ser un componente de un arma nazi.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261117032900 +0100" stop="20261117041000 +0100" channel="Historia">
+    <title>Maravillas modernas: comida T1 E4 · La Isla Del Tesoro</title>
+    <desc>Documental,Otros,Histórico | 2024 | +12
+· Cuando el tiempo impide a Darrell Miklos y al equipo realizar inmersiones desde el barco, optan por una estrategia arriesgada. Garth emprende un viaje en solitario para explorar una isla desierta.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261117041000 +0100" stop="20261117045700 +0100" channel="Historia">
+    <title>Guerras secretas al descubierto T2 E3 · Intervención rusa en Georgia</title>
+    <desc>Documental,Otros,Histórico | 2022 | +16
+· En agosto de 2008 estalla una sangrienta batalla de cinco días entre Rusia y Georgia por la provincia de Osetia del Sur. Casi 850 personas mueren durante los cinco días de conflicto.
+· País: Reino Unido
+· Dirección: Julia Alcamo, Roberto Irwin.
+· Reparto: James Rogers, Christopher Fuller, Eduardo Gamarra, Philip Brenner, Mark Galeotti, Grace Livingston, Rory Cormac.
+· Producción: William Simpson.</desc>
+	</programme>
+	<programme start="20261117045700 +0100" stop="20261117054200 +0100" channel="Historia">
+    <title>Expedientes extraterrestres reabiertos T1 E4 · Proyecto Siete Corderos</title>
+    <desc>Documental,Otros | 2023 | +12
+· Un hombre descubrió un laboratorio subterráneo pero fue engañado por la Fuerza Aérea y otro afirmó ver alienígenas y humanos, pero murió. Los investigadores se preguntan si existen casos de desinformación o verdades tapadas con mentiras.
+· País: República Checa, Eslovaquia, Estados Unidos
+· Dirección: Nicole Alibayof, Marek Bureš.
+· Reparto: Michal Matura, Daniel Sury, Radoslav Senk, Eduard Mucha, Tomas Jalc, Peter Farkas.
+· Producción: Nicole Alibayof.</desc>
+	</programme>
+	<programme start="20261117054200 +0100" stop="20261117063100 +0100" channel="Historia">
+    <title>Expedientes extraterrestres reabiertos T1 E5 · Regreso del futuro</title>
+    <desc>Documental,Otros | 2023 | +12
+· Alrededor de las tres de la madrugada del 26 de diciembre de 1980, una patrulla cerca de la base de RAF Woodbridge, en Inglaterra, divisó unas luces que descendían del cielo.
+· País: República Checa, Eslovaquia, Estados Unidos
+· Dirección: Nicole Alibayof, Marek Bureš.
+· Reparto: Michal Matura, Daniel Sury, Radoslav Senk, Eduard Mucha, Tomas Jalc, Peter Farkas.
+· Producción: Nicole Alibayof.</desc>
+	</programme>
+	<programme start="20261117063100 +0100" stop="20261117063700 +0100" channel="Historia">
+    <title>Garbo, el espía que venció a Hitler</title>
+    <desc>Documental,Histórico,Otros | 2024 | +12
+· El desembarco de Normandía fue una batalla decisiva en el desenlace de la II Guerra Mundial y Garbo, un espía español, jugó un papel decisivo para el éxito aliado.
+· País: España</desc>
+	</programme>
+	<programme start="20261117063700 +0100" stop="20261117072900 +0100" channel="Historia">
+    <title>Cómo perder una guerra T1 E4 · Herramientas para el trabajo</title>
+    <desc>Documental,Histórico | 2023 | +12 | *7.0/10
+· Las guerras son una competición tanto de equipamiento como de liderazgo. Sin armas ni líneas de suministro que funcionen a pleno rendimiento, un plan brillante se convierte en papel mojado.
+· País: Australia, Canadá, Francia
+· Dirección: Tim Bosanquet.
+· Reparto: Alexander Henry, Sandra Wilson, Russell A. Hart, Richard Hammond, Yuma Totani, Guy Walters.</desc>
+	</programme>
+	<programme start="20261117072900 +0100" stop="20261117081900 +0100" channel="Historia">
+    <title>Cómo perder una guerra T1 E5 · El frente interno</title>
+    <desc>Documental,Histórico | 2023 | +12 | *7.0/10
+· Los dirigentes de un país necesitan la confianza y el apoyo de sus compatriotas para librar con éxito una guerra. Pero cuando la lucha llega a casa, ese sostén puede venirse abajo.
+· País: Australia, Canadá, Francia
+· Dirección: Tim Bosanquet.
+· Reparto: Alexander Henry, Sandra Wilson, Russell A. Hart, Richard Hammond, Yuma Totani, Guy Walters.</desc>
+	</programme>
+	<programme start="20261117081900 +0100" stop="20261117092200 +0100" channel="Historia">
+    <title>La Máscara de Hierro, el enigma del Rey Sol T1 E1</title>
+    <desc>Documental,Histórico | 2025 | +12
+· Eustache Dauger, encarcelado durante 34 años, sigue siendo el prisionero más misterioso de Francia. Este episodio explora la teoría de un posible lazo de sangre real.
+· País: Francia
+· Dirección: Benoît Poisson, Lucas Poisson.</desc>
+	</programme>
+	<programme start="20261117092200 +0100" stop="20261117102500 +0100" channel="Historia">
+    <title>La Máscara de Hierro, el enigma del Rey Sol T1 E2</title>
+    <desc>Documental,Histórico | 2025 | +12
+· Este episodio va más allá de la identidad del prisionero: sigue pistas políticas y analiza el papel crucial del dedicado carcelero que lo vigiló durante años. ¿Podría él guardar la clave del misterio?
+· País: Francia
+· Dirección: Benoît Poisson, Lucas Poisson.</desc>
+	</programme>
+	<programme start="20261117102500 +0100" stop="20261117110800 +0100" channel="Historia">
+    <title>Expedientes desclasificados con David Duchovny T1 E3 · Misiones Extremas</title>
+    <desc>Documental,Otros,Histórico | 2025 | +12
+· En este episodio descubrimos misiones imposibles que superan la ficción: buzos que interceptan líneas soviéticas y soldados que despliegan bombas a mano, todo por cumplir la misión.
+· País: Estados Unidos
+· Dirección: Nick Green, Elliot Goldner.
+· Reparto: Benjamin Völz.</desc>
+	</programme>
+	<programme start="20261117110800 +0100" stop="20261117114900 +0100" channel="Historia">
+    <title>Expedientes desclasificados con David Duchovny T1 E4 · Armas extrañas</title>
+    <desc>Documental,Otros,Histórico | 2025 | +12
+· Algunos documentos secretos revelan armas tan sorprendentes como letales: una bomba 1.500 veces más potente que Hiroshima, toxinas marinas y un plan para debilitar a Hitler desde dentro.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Nick Green, Elliot Goldner.
+· Reparto: Benjamin Völz.</desc>
+	</programme>
+	<programme start="20261117114900 +0100" stop="20261117123700 +0100" channel="Historia">
+    <title>Expedientes desclasificados con David Duchovny T1 E10 · Alianzas infames</title>
+    <desc>Documental,Otros,Histórico | 2025 | +12
+· Cuando los gobiernos cruzan líneas y pactan con sectas, mafias o enemigos declarados, las tensiones se disparan y las alianzas se vuelven tan peligrosas como necesarias.
+· País: Estados Unidos
+· Dirección: Nick Green, Elliot Goldner.
+· Reparto: Greg Jackson, Benjamin Völz.</desc>
+	</programme>
+	<programme start="20261117123700 +0100" stop="20261117124000 +0100" channel="Historia">
+    <title>Un día en la Historia de España: 17 de noviembre de 1511</title>
+    <desc>Programa,Otros | 2026 | +12
+· En este episodio descubriremos qué ocurrió el 17 de noviembre de 1511.
+· País: España
+· Reparto: José Carlos Gracia.</desc>
+	</programme>
+	<programme start="20261117124000 +0100" stop="20261117142300 +0100" channel="Historia">
+    <title>El Templo de File: La joya del Nilo</title>
+    <desc>Cine,Documentales | 2023 | +7 | *6.9/10
+· El templo de File es uno de los mayores yacimientos faraónicos que existen. Hoy, los egiptólogos vuelven a estudiar los restos comprendiendo y reconstruyendo este antiguo laberinto del Nilo.
+· País: Alemania, Francia
+· Dirección: Olivier Lamaitre, Olivier Lemaître, Benoît Poisson.
+· Reparto: Dana Friedrich, Johanna Sigl, Shaimaa Magdi, Diana Craig Patch, David Bartlett, Alessandro Roccati, Mansour Hamed Bedaya, Agnès Macquin, Holger Kockelmann, Pierre Loti.</desc>
+	</programme>
+	<programme start="20261117142300 +0100" stop="20261117153700 +0100" channel="Historia">
+    <title>Wernher von Braun, de la guerra a la Luna</title>
+    <desc>Cine,Documentales | 2024 | +12
+· Este documental recorre la extraordinaria trayectoria de Wernher von Braun, el brillante científico alemán reclutado por Estados Unidos pocos días después de la caída de Alemania durante la Segunda Guerra Mundial.
+· País: Estados Unidos
+· Dirección: Larry L. Sheffield.
+· Reparto: Brian Stivale.</desc>
+	</programme>
+	<programme start="20261117153700 +0100" stop="20261117163400 +0100" channel="Historia">
+    <title>El Proyecto Manhattan</title>
+    <desc>Documental,Otros,Histórico | 2025 | +12
+· Para poner fin a la Segunda Guerra Mundial, Estados Unidos impulsó el Proyecto Manhattan, dirigido por Groves y Oppenheimer, que culminó en la creación de la bomba atómica empleada contra Japón.
+· País: Reino Unido
+· Dirección: Jonathan Mayo.
+· Reparto: Tracy Ann Oberman.</desc>
+	</programme>
+	<programme start="20261117163400 +0100" stop="20261117163700 +0100" channel="Historia">
+    <title>Un día en la Historia de España: 17 de noviembre de 1511</title>
+    <desc>Programa,Otros | 2026 | +12
+· En este episodio descubriremos qué ocurrió el 17 de noviembre de 1511.
+· País: España
+· Reparto: José Carlos Gracia.</desc>
+	</programme>
+	<programme start="20261117163700 +0100" stop="20261117172700 +0100" channel="Historia">
+    <title>Grandes guerreros de la historia T1 E3 · La Fuerza Delta</title>
+    <desc>Documental,Otros,Histórico | 2025 | +12
+· Especializado en operaciones antiterroristas, rescates de rehenes y misiones encubiertas, el operador de la Fuerza Delta afronta amenazas de alto riesgo con precisión, versatilidad y experiencia.
+· País: Estados Unidos
+· Dirección: Sebastian Cluer.
+· Reparto: Yohuru Williams, Brandon Maille, Laura Suen, Josef Hayden Silberer, Matt Easton, Plato Fountidakis, Rich Diviney, Edward A. Gutiérrez, Chandler Cornblum, Rohit Dalvi, Tony McMahon, Don Wildman, Toru Uchikado.</desc>
+	</programme>
+	<programme start="20261117172700 +0100" stop="20261117181700 +0100" channel="Historia">
+    <title>Grandes guerreros de la historia T1 E4 · Los templarios</title>
+    <desc>Documental,Otros,Histórico | 2025 | +12
+· Al combinar fe, disciplina y grandes habilidades de combate, el caballero templario se convirtió en un legendario cruzado, célebre por su valor, su visión estratégica y su firme sentido del deber.
+· País: Estados Unidos
+· Dirección: Sebastian Cluer.
+· Reparto: Yohuru Williams, Brandon Maille, Laura Suen, Josef Hayden Silberer, Matt Easton, Plato Fountidakis, Rich Diviney, Edward A. Gutiérrez, Chandler Cornblum, Rohit Dalvi, Tony McMahon, Don Wildman, Toru Uchikado.</desc>
+	</programme>
+	<programme start="20261117181700 +0100" stop="20261117182000 +0100" channel="Historia">
+    <title>Un día en la Historia de España: 17 de noviembre de 1511</title>
+    <desc>Programa,Otros | 2026 | +12
+· En este episodio descubriremos qué ocurrió el 17 de noviembre de 1511.
+· País: España
+· Reparto: José Carlos Gracia.</desc>
+	</programme>
+	<programme start="20261117182000 +0100" stop="20261117201400 +0100" channel="Historia">
+    <title>102 minutos dentro de las torres</title>
+    <desc>Documental,Otros,Histórico | 2026 | +12
+· Historias de supervivientes y héroes que se encontraban dentro de las Torres Gemelas del World Trade Center durante los atentados del 11-S y lograron escapar.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Grace Chapman.</desc>
+	</programme>
+	<programme start="20261117201400 +0100" stop="20261117201700 +0100" channel="Historia">
+    <title>Un día en la Historia de España: 17 de noviembre de 1511</title>
+    <desc>Programa,Otros | 2026 | +12
+· En este episodio descubriremos qué ocurrió el 17 de noviembre de 1511.
+· País: España
+· Reparto: José Carlos Gracia.</desc>
+	</programme>
+	<programme start="20261117201700 +0100" stop="20261117211000 +0100" channel="Historia">
+    <title>El universo, misterios ancestrales T1 E2 · Pirámides</title>
+    <desc>Documental,Otros,Histórico | 2014 | +12
+· La creencia sobre la existencia de los vampiros, forma parte de antiguas leyendas de las diferentes culturas. Descubra la verdad detrás del miedo a estos seres.
+· País: Estados Unidos
+· Dirección: Laura Verklan.
+· Reparto: Maggie Q.</desc>
+	</programme>
+	<programme start="20261117211000 +0100" stop="20261117220100 +0100" channel="Historia">
+    <title>El universo, misterios ancestrales T2 E3 · Presagios del desastre</title>
+    <desc>Documental,Otros,Histórico | 2015 | +12
+· Esta esplendorosa ciudad llena de palacios de oro, fue testigo de un amor ilícito que con el paso de los siglos se convertiría en leyenda.
+· País: Estados Unidos
+· Dirección: Colin Campbell.</desc>
+	</programme>
+	<programme start="20261117220100 +0100" stop="20261117220400 +0100" channel="Historia">
+    <title>Un día en la Historia de España: 17 de noviembre de 1511</title>
+    <desc>Programa,Otros | 2026 | +12
+· En este episodio descubriremos qué ocurrió el 17 de noviembre de 1511.
+· País: España
+· Reparto: José Carlos Gracia.</desc>
+	</programme>
+	<programme start="20261117220400 +0100" stop="20261117225500 +0100" channel="Historia">
+    <title>El universo, misterios ancestrales T2 E5 · Visiones apocalípticas</title>
+    <desc>Documental,Otros,Histórico | 2015 | +12
+· Fuegos infernales, inviernos sin fin y terremotos en cadena son algunas de las versiones del Armagedón visualizadas por nuestros lejanos ancestros.
+· País: Estados Unidos
+· Dirección: Jim Hense.</desc>
+	</programme>
+	<programme start="20261117225500 +0100" stop="20261117234900 +0100" channel="Historia">
+    <title>Roma, el nacimiento de una superpotencia T1 E1 · La ciudad de la sangre</title>
+    <desc>Documental,Otros | 2014 | +12
+· De Rómulo y Remo al nacimiento de la República, este episodio explora los orígenes de Roma y los primeros pasos de su conquista de Italia.
+· País: Reino Unido
+· Reparto: Darius Arya, Christopher Smith.</desc>
+	</programme>
+	<programme start="20261117234900 +0100" stop="20261118004200 +0100" channel="Historia">
+    <title>Roma, el nacimiento de una superpotencia T1 E2 · Guerra total</title>
+    <desc>Documental,Otros | 2014 | +12
+· Roma y Cartago protagonizan una lucha decisiva por el Mediterráneo. Este episodio descubre hallazgos arqueológicos que revelan la dureza de un conflicto que cambió la Historia.
+· País: Reino Unido
+· Reparto: Darius Arya, Christopher Smith.</desc>
+	</programme>
+	<programme start="20261118004200 +0100" stop="20261118021100 +0100" channel="Historia">
+    <title>El Último Viaje de Cristóbal Colón</title>
+    <desc>Cine,Documentales | 2007 | +7
+· Cristóbal Colón es el explorador más famoso de la historia por su descubrimiento del Nuevo Mundo. Sin embargo, la verdad que se encuentra detrás de su último viaje.
+· País: Reino Unido, Estados Unidos
+· Dirección: Anna Thomson.
+· Reparto: David Sant, Carlos J. de la Torre.</desc>
+	</programme>
+	<programme start="20261118021100 +0100" stop="20261118025600 +0100" channel="Historia">
+    <title>Expedientes extraterrestres reabiertos T1 E5 · Regreso del futuro</title>
+    <desc>Documental,Otros | 2023 | +12
+· Alrededor de las tres de la madrugada del 26 de diciembre de 1980, una patrulla cerca de la base de RAF Woodbridge, en Inglaterra, divisó unas luces que descendían del cielo.
+· País: República Checa, Eslovaquia, Estados Unidos
+· Dirección: Nicole Alibayof, Marek Bureš.
+· Reparto: Michal Matura, Daniel Sury, Radoslav Senk, Eduard Mucha, Tomas Jalc, Peter Farkas.
+· Producción: Nicole Alibayof.</desc>
+	</programme>
+	<programme start="20261118025600 +0100" stop="20261118034200 +0100" channel="Historia">
+    <title>Expedientes extraterrestres reabiertos T1 E6 · Oleada de ovnis en Bélgica</title>
+    <desc>Documental,Otros | 2023 | +12
+· Miles de personas habían avistado objetos que planeaban en el cielo, sin embargo, los científicos y funcionarios del Gobierno belga que los investigaban no encontraron nunca una explicación.
+· País: República Checa, Estados Unidos
+· Dirección: Nicole Alibayof, Marek Bureš.
+· Reparto: Michal Matura, Daniel Sury, Radoslav Senk, Eduard Mucha, Tomas Jalc, Peter Farkas.
+· Producción: Nicole Alibayof.</desc>
+	</programme>
+	<programme start="20261118034200 +0100" stop="20261118042700 +0100" channel="Historia">
+    <title>Expedientes extraterrestres reabiertos T1 E7 · Sin escuela por un platillo volante</title>
+    <desc>Documental,Otros | 2023 | +12
+· El 16 de septiembre de 1994, 62 alumnos de la Escuela Ariel, en una zona rural de Zimbabue, aseguraron haber visto una nave plateada descendiendo del cielo y aterrizando en un campo cercano.
+· País: República Checa, Eslovaquia, Estados Unidos
+· Dirección: Nicole Alibayof, Marek Bureš.
+· Reparto: Michal Matura, Daniel Sury, Radoslav Senk, Eduard Mucha, Tomas Jalc, Peter Farkas.
+· Producción: Nicole Alibayof.</desc>
+	</programme>
+	<programme start="20261118042700 +0100" stop="20261118051400 +0100" channel="Historia">
+    <title>Expedientes extraterrestres reabiertos T1 E8 · Energía Negativa</title>
+    <desc>Documental,Otros | 2023 | +12
+· Desde 2013, el teniente Ryan Graves revela encuentros diarios con objetos Tic tacs y también Gimbals, objetos voladores demasiados ágiles y rápidos que desafían la tecnología humana.
+· País: República Checa, Eslovaquia, Estados Unidos
+· Dirección: Nicole Alibayof, Marek Bureš.
+· Reparto: Michal Matura, Daniel Sury, Radoslav Senk, Eduard Mucha, Tomas Jalc, Peter Farkas.
+· Producción: Nicole Alibayof.</desc>
+	</programme>
+	<programme start="20261118051400 +0100" stop="20261118054200 +0100" channel="Historia">
+    <title>¿Extraterrestres? T1 E1 · Misterio desde el pasado</title>
+    <desc>Documental,Otros | 2012 | +12
+· El fenómeno ovni, y la posible presencia alienígena, nos ha acompañado desde el inicio de los tiempos.
+· País: España
+· Dirección: Israel Del Santo.</desc>
+	</programme>
+	<programme start="20261118054200 +0100" stop="20261118063700 +0100" channel="Historia">
+    <title>Soldados del aire T1 E3 · La conquista del mundo</title>
+    <desc>Documental,Otros | 2024 | +7
+· Después de la Primera Guerra Mundial, los fabricantes se centran en la aviación civil. Los pioneros exploran horizontes desconocidos, pero se cierne la amenaza de un nuevo conflicto.
+· País: Reino Unido
+· Dirección: Serge Tignères.</desc>
+	</programme>
+	<programme start="20261118063700 +0100" stop="20261118072900 +0100" channel="Historia">
+    <title>Soldados del aire T1 E4 · Un nuevo orden mundial</title>
+    <desc>Documental,Otros | 2024 | +7
+· Con la entrada de Estados Unidos en la Segunda Guerra Mundial, el uso de la aviación se transformó de manera radical.
+· País: Reino Unido
+· Dirección: Serge Tignères.</desc>
+	</programme>
+	<programme start="20261118072900 +0100" stop="20261118082200 +0100" channel="Historia">
+    <title>Biblos, al descubierto</title>
+    <desc>Documental,Histórico | 2025 | +7
+· Muchos creían que Biblos ya había revelado todos sus secretos, hasta que nuevos descubrimientos y textos han destapado una sorprendente y espectacular necrópolis de 5.000 años de antigüedad.
+· País: Francia
+· Dirección: Philippe Aractingi.
+· Reparto: Sylvia Conti.</desc>
+	</programme>
+	<programme start="20261118082200 +0100" stop="20261118100000 +0100" channel="Historia">
+    <title>102 minutos dentro de las torres</title>
+    <desc>Documental,Otros,Histórico | 2026 | +12
+· Historias de supervivientes y héroes que se encontraban dentro de las Torres Gemelas del World Trade Center durante los atentados del 11-S y lograron escapar.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Grace Chapman.</desc>
+	</programme>
+	<programme start="20261118100000 +0100" stop="20261118100300 +0100" channel="Historia">
+    <title>Un día en la Historia de España: 18 de noviembre de 1517</title>
+    <desc>Programa,Otros | 2026 | +12
+· En este episodio descubriremos qué ocurrió el 18 de noviembre de 1517.
+· País: España</desc>
+	</programme>
+	<programme start="20261118100300 +0100" stop="20261118104700 +0100" channel="Historia">
+    <title>El universo, misterios ancestrales T1 E2 · Pirámides</title>
+    <desc>Documental,Otros,Histórico | 2014 | +12
+· La creencia sobre la existencia de los vampiros, forma parte de antiguas leyendas de las diferentes culturas. Descubra la verdad detrás del miedo a estos seres.
+· País: Estados Unidos
+· Dirección: Laura Verklan.
+· Reparto: Maggie Q.</desc>
+	</programme>
+	<programme start="20261118104700 +0100" stop="20261118112800 +0100" channel="Historia">
+    <title>El universo, misterios ancestrales T2 E3 · Presagios del desastre</title>
+    <desc>Documental,Otros,Histórico | 2015 | +12
+· Esta esplendorosa ciudad llena de palacios de oro, fue testigo de un amor ilícito que con el paso de los siglos se convertiría en leyenda.
+· País: Estados Unidos
+· Dirección: Colin Campbell.</desc>
+	</programme>
+	<programme start="20261118112800 +0100" stop="20261118121100 +0100" channel="Historia">
+    <title>El universo, misterios ancestrales T2 E5 · Visiones apocalípticas</title>
+    <desc>Documental,Otros,Histórico | 2015 | +12
+· Fuegos infernales, inviernos sin fin y terremotos en cadena son algunas de las versiones del Armagedón visualizadas por nuestros lejanos ancestros.
+· País: Estados Unidos
+· Dirección: Jim Hense.</desc>
+	</programme>
+	<programme start="20261118121100 +0100" stop="20261118121400 +0100" channel="Historia">
+    <title>Un día en la Historia de España: 18 de noviembre de 1517</title>
+    <desc>Programa,Otros | 2026 | +12
+· En este episodio descubriremos qué ocurrió el 18 de noviembre de 1517.
+· País: España</desc>
+	</programme>
+	<programme start="20261118121400 +0100" stop="20261118130500 +0100" channel="Historia">
+    <title>Expedientes extraterrestres reabiertos T1 E5 · Regreso del futuro</title>
+    <desc>Documental,Otros | 2023 | +12
+· Alrededor de las tres de la madrugada del 26 de diciembre de 1980, una patrulla cerca de la base de RAF Woodbridge, en Inglaterra, divisó unas luces que descendían del cielo.
+· País: República Checa, Eslovaquia, Estados Unidos
+· Dirección: Nicole Alibayof, Marek Bureš.
+· Reparto: Michal Matura, Daniel Sury, Radoslav Senk, Eduard Mucha, Tomas Jalc, Peter Farkas.
+· Producción: Nicole Alibayof.</desc>
+	</programme>
+	<programme start="20261118130500 +0100" stop="20261118140000 +0100" channel="Historia">
+    <title>Expedientes extraterrestres reabiertos T1 E6 · Oleada de ovnis en Bélgica</title>
+    <desc>Documental,Otros | 2023 | +12
+· Miles de personas habían avistado objetos que planeaban en el cielo, sin embargo, los científicos y funcionarios del Gobierno belga que los investigaban no encontraron nunca una explicación.
+· País: República Checa, Estados Unidos
+· Dirección: Nicole Alibayof, Marek Bureš.
+· Reparto: Michal Matura, Daniel Sury, Radoslav Senk, Eduard Mucha, Tomas Jalc, Peter Farkas.
+· Producción: Nicole Alibayof.</desc>
+	</programme>
+	<programme start="20261118140000 +0100" stop="20261118145500 +0100" channel="Historia">
+    <title>Expedientes extraterrestres reabiertos T1 E7 · Sin escuela por un platillo volante</title>
+    <desc>Documental,Otros | 2023 | +12
+· El 16 de septiembre de 1994, 62 alumnos de la Escuela Ariel, en una zona rural de Zimbabue, aseguraron haber visto una nave plateada descendiendo del cielo y aterrizando en un campo cercano.
+· País: República Checa, Eslovaquia, Estados Unidos
+· Dirección: Nicole Alibayof, Marek Bureš.
+· Reparto: Michal Matura, Daniel Sury, Radoslav Senk, Eduard Mucha, Tomas Jalc, Peter Farkas.
+· Producción: Nicole Alibayof.</desc>
+	</programme>
+	<programme start="20261118145500 +0100" stop="20261118155100 +0100" channel="Historia">
+    <title>Expedientes extraterrestres reabiertos T1 E8 · Energía Negativa</title>
+    <desc>Documental,Otros | 2023 | +12
+· Desde 2013, el teniente Ryan Graves revela encuentros diarios con objetos Tic tacs y también Gimbals, objetos voladores demasiados ágiles y rápidos que desafían la tecnología humana.
+· País: República Checa, Eslovaquia, Estados Unidos
+· Dirección: Nicole Alibayof, Marek Bureš.
+· Reparto: Michal Matura, Daniel Sury, Radoslav Senk, Eduard Mucha, Tomas Jalc, Peter Farkas.
+· Producción: Nicole Alibayof.</desc>
+	</programme>
+	<programme start="20261118155100 +0100" stop="20261118155300 +0100" channel="Historia">
+    <title>Un día en la Historia de España: 18 de noviembre de 1517</title>
+    <desc>Programa,Otros | 2026 | +12
+· En este episodio descubriremos qué ocurrió el 18 de noviembre de 1517.
+· País: España</desc>
+	</programme>
+	<programme start="20261118155300 +0100" stop="20261118164700 +0100" channel="Historia">
+    <title>Roma, el nacimiento de una superpotencia T1 E1 · La ciudad de la sangre</title>
+    <desc>Documental,Otros | 2014 | +12
+· De Rómulo y Remo al nacimiento de la República, este episodio explora los orígenes de Roma y los primeros pasos de su conquista de Italia.
+· País: Reino Unido
+· Reparto: Darius Arya, Christopher Smith.</desc>
+	</programme>
+	<programme start="20261118164700 +0100" stop="20261118174000 +0100" channel="Historia">
+    <title>Roma, el nacimiento de una superpotencia T1 E2 · Guerra total</title>
+    <desc>Documental,Otros | 2014 | +12
+· Roma y Cartago protagonizan una lucha decisiva por el Mediterráneo. Este episodio descubre hallazgos arqueológicos que revelan la dureza de un conflicto que cambió la Historia.
+· País: Reino Unido
+· Reparto: Darius Arya, Christopher Smith.</desc>
+	</programme>
+	<programme start="20261118174000 +0100" stop="20261118174300 +0100" channel="Historia">
+    <title>Un día en la Historia de España: 18 de noviembre de 1517</title>
+    <desc>Programa,Otros | 2026 | +12
+· En este episodio descubriremos qué ocurrió el 18 de noviembre de 1517.
+· País: España</desc>
+	</programme>
+	<programme start="20261118174300 +0100" stop="20261118181000 +0100" channel="Historia">
+    <title>La casa de empeños T1 E10 · La gran apuesta de Rick</title>
+    <desc>Programa,Entretenimiento,Reality | 2009 | +7 | *7.2/10
+· En Las Vegas, abuelo, padre e hijo dirigen una casa de empeño familiar y los tres discuten entre ellos el valor de los productos que llegan a la tienda con objeto de obtener un beneficio cuando vendan estos objetos raros e incluso históricos.
+· País: Estados Unidos
+· Dirección: Liz Niles, David Vagi, Jairus Cobb, Shannon Biggs, Jonathan Wyche, Guy Fiorita, Russell McCarroll.
+· Reparto: Richard Harrison, Rick Harrison, Austin Chumlee Russell, Corey Harrison, Steve Grad, Mark Hall Patton, Antwaun Austin, Rebecca Romney.
+· Producción: Brent Montgomery, Colby Gaines.</desc>
+	</programme>
+	<programme start="20261118181000 +0100" stop="20261118183600 +0100" channel="Historia">
+    <title>El precio de la historia T1 E10 · Aguantar los golpes</title>
+    <desc>Programa,Reality,Entretenimiento | 2009 | +7
+· La familia Harrison desea comprar un Ford cupé de 1929. Además, Un vaquero quiere vender su máquina de rodeo.
+· País: Estados Unidos
+· Reparto: Rick Harrison, Corey Harrison, Austin Chumlee Russell.</desc>
+	</programme>
+	<programme start="20261118183600 +0100" stop="20261118190300 +0100" channel="Historia">
+    <title>El precio de la historia T1 E11 · Autógrafos</title>
+    <desc>Programa,Reality,Entretenimiento | 2009 | +7
+· Suelen pagar muy bien los autógrafos de los famosos, pero ¿cuánto darán por uno del verdadero John Hancock? Además, a los chicos les llega un látigo de Indiana Jones supuestamente auténtico.
+· País: Estados Unidos
+· Reparto: Rick Harrison, Austin Chumlee Russell, Corey Harrison.</desc>
+	</programme>
+	<programme start="20261118190300 +0100" stop="20261118192900 +0100" channel="Historia">
+    <title>El precio de la historia T1 E12 · Piruetas Aéreas</title>
+    <desc>Programa,Reality,Entretenimiento | 2009 | +7
+· La familia Harrison viaja más de dos siglos atrás gracias a un mapa del Boston colonial. Mientras, la compra por parte de Chumlee de una obra de arte falsa hace enfadar a Rick.
+· País: Estados Unidos
+· Reparto: Rick Harrison, Austin Chumlee Russell, Corey Harrison.</desc>
+	</programme>
+	<programme start="20261118192900 +0100" stop="20261118201800 +0100" channel="Historia">
+    <title>La casa de empeños T21 E16 · Ropa de rapero</title>
+    <desc>Programa,Entretenimiento,Reality | 2019 | +7 | *7.2/10
+· La tienda recibe un rifle de la revolución francesa y Corey quiere conseguir un antiguo álbum de estampillas. Luego, Chum puede llegar a quedarse con una chaqueta de Kanye West.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: David Vagi, Jairus Cobb, Shannon Biggs, Jonathan Wyche, Guy Fiorita, Russell McCarroll.
+· Reparto: Rick Harrison, Corey Harrison, Richard Harrison, Austin Chumlee Russell, Rebecca Romney, Steve Grad, Mark Hall Patton, Antwaun Austin.
+· Producción: Brent Montgomery, Colby Gaines.</desc>
+	</programme>
+	<programme start="20261118201800 +0100" stop="20261118210800 +0100" channel="Historia">
+    <title>La casa de empeños T21 E17 · ¿Quién mueve los hilos?</title>
+    <desc>Programa,Entretenimiento,Reality | 2019 | +7 | *7.2/10
+· El espíritu festivo invade el local mientras los chicos participan en una competición de tarjetas de Navidad. Con un premio gigante en juego, ¿hasta dónde llegarán para conseguir la victoria?
+· País: Estados Unidos
+· Dirección: David Vagi, Jairus Cobb, Shannon Biggs, Jonathan Wyche, Guy Fiorita, Russell McCarroll.
+· Reparto: Rick Harrison, Austin Lee Russell, Coreyse Harrison, Richard Harrison, Corey Harrison, Austin Chumlee Russell, David Vagi, Danny Koker, Brett K. Maly, Rebecca Romney, Steve Grad, Antwaun Austin, Craig Gottlieb, Rick Dale, Murray SawChuck, Mark Hall Patton.
+· Producción: Brent Montgomery, Colby Gaines.</desc>
+	</programme>
+	<programme start="20261118210800 +0100" stop="20261118211000 +0100" channel="Historia">
+    <title>Un día en la Historia de España: 18 de noviembre de 1517</title>
+    <desc>Programa,Otros | 2026 | +12
+· En este episodio descubriremos qué ocurrió el 18 de noviembre de 1517.
+· País: España</desc>
+	</programme>
+	<programme start="20261118211000 +0100" stop="20261118220000 +0100" channel="Historia">
+    <title>El Triángulo de las Bermudas: En aguas malditas T2 E8 · Piratas en el Caribe</title>
+    <desc>Documental,Histórico | 2023 | +12
+· El equipo investiga si un grupo de piratas modernos podría estar detrás de la desaparición del lujoso barco Saba Bank, perdido en 1974 en el Triángulo de las Bermudas.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Joe Brunette.
+· Reparto: Michael C. Barnette, David O'Keefe, Jimmy Gadomski, Wayne Abbott, Jason O. Harris, Kiki Dee, Evan Kovacs, Roy L. Stafford.</desc>
+	</programme>
+	<programme start="20261118220000 +0100" stop="20261118220200 +0100" channel="Historia">
+    <title>Un día en la Historia de España: 18 de noviembre de 1517</title>
+    <desc>Programa,Otros | 2026 | +12
+· En este episodio descubriremos qué ocurrió el 18 de noviembre de 1517.
+· País: España</desc>
+	</programme>
+	<programme start="20261118220200 +0100" stop="20261118225100 +0100" channel="Historia">
+    <title>El Triángulo de las Bermudas: En aguas malditas T2 E10 · Estrellas hundidas</title>
+    <desc>Documental,Histórico | 2023 | +12
+· El equipo se centra en uno de los grandes misterios que ayudaron a forjar la mala reputación de estas aguas. Dos aviones comerciales británicos casi idénticos desaparecieron en los años cuarenta.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Joe Brunette.
+· Reparto: Michael C. Barnette, David O'Keefe, Jimmy Gadomski, Wayne Abbott, Jason O. Harris, Kiki Dee, Evan Kovacs, Roy L. Stafford.</desc>
+	</programme>
+	<programme start="20261118225100 +0100" stop="20261118234500 +0100" channel="Historia">
+    <title>Rutas alienígenas T1 E6 · El triángulo de Falkirk</title>
+    <desc>Documental,Otros,Social,Científico | 2024 | +7
+· El rincón más inquietante de Escocia.
+· País: Canadá, Estados Unidos
+· Dirección: Daniel Oron.
+· Reparto: Natasha Billson, Heidi White, Robert Sparling, Mazyar Fallah, Rohit Dalvi, Matthew Hayes, Kent Smerdon.</desc>
+	</programme>
+	<programme start="20261118234500 +0100" stop="20261119003800 +0100" channel="Historia">
+    <title>Rutas alienígenas T1 E6 · Dulce (Nuevo México)</title>
+    <desc>Documental,Otros,Social,Científico | 2024 | +7
+· El rincón más inquietante de Escocia.
+· País: Canadá
+· Dirección: Daniel Oron.
+· Reparto: Natasha Billson, Heidi White, Robert Sparling, Mazyar Fallah, Rohit Dalvi, Matthew Hayes, Kent Smerdon.</desc>
+	</programme>
+	<programme start="20261119003800 +0100" stop="20261119012800 +0100" channel="Historia">
+    <title>Alienígenas T21 E4 · El top 10 de las tecnologías más inexplicables</title>
+    <desc>Documental,Otros,Histórico | 2025 | +7
+· Repasamos 10 tecnologías históricas inexplicables: orbes dorados hallados en México, un relicario que supuestamente comunicaba con los cielos y una tumba con representación de un astronauta.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Kevin Burns, Mitch Marcus, Jon A. Levy, Jonathan Haug, Robin Feinberg.
+· Reparto: Giorgio A. Tsoukalos, David Childress.</desc>
+	</programme>
+	<programme start="20261119012800 +0100" stop="20261119020800 +0100" channel="Historia">
+    <title>Alienígenas T16 E16 · Los maestros</title>
+    <desc>Documental,Otros,Histórico | 2023 | +7
+· En todas las culturas antiguas hay historias sobre seres semejantes a dioses que instruyeron a los primeros humanos y les enseñaron diversas disciplinas.
+· País: Estados Unidos
+· Dirección: Varios, Jon A. Levy, Keith Guinto, Robin Feinberg, Mitch Marcus, William Martens, Jonathan Haug, Phil Grabsky, Kevin Burns.
+· Reparto: Giorgio A. Tsoukalos, Jonathan Young, William Henry, David Childress, Erich von Däniken, Jason Martell, Andrew Collins, Nick Pope, Simon Allix, Colgate Salsbury, Giorgio Tsoukalos, Linda Moulton Howe, David Wilcock, George Noory, Michio Kaku.</desc>
+	</programme>
 	<programme start="20261114012300 +0100" stop="20261114020300 +0100" channel="Historia HD">
     <title>Lo inexplicable</title>
     <desc>Documental,Otros,Científico
