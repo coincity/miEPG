@@ -1,5 +1,5 @@
-Historia,Historia HD
-Odisea,Canal Odisea HD
-Discovery,Discovery Channel
-National Geographic HD,National Geographic
-Nat Geo Wild HD,Nat Geo Wild
+Historia,Historia
+Canal Odisea,Odisea
+Discovery Channel,Discovery
+National Geographic,National Geographic HD
+Nat Geo Wild,Nat Geo Wild HD
