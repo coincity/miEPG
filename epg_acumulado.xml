@@ -45,13 +45,13 @@
     <display-name>Nat Geo Wild HD UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nat%20Geo%20Wild.png" />
   </channel>
-  <channel id="DAZN LaLiga">
-    <display-name>DAZN LaLiga</display-name>
-    <display-name>DAZN LaLiga SD</display-name>
+  <channel id="DAZN LaLiga HD">
     <display-name>DAZN LaLiga HD</display-name>
-    <display-name>DAZN LaLiga 4K</display-name>
-    <display-name>DAZN LaLiga Full HD</display-name>
-    <display-name>DAZN LaLiga UHD</display-name>
+    <display-name>DAZN LaLiga HD SD</display-name>
+    <display-name>DAZN LaLiga HD HD</display-name>
+    <display-name>DAZN LaLiga HD 4K</display-name>
+    <display-name>DAZN LaLiga HD Full HD</display-name>
+    <display-name>DAZN LaLiga HD UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" />
   </channel>
   <channel id="M+ LaLiga HD">
@@ -6081,83 +6081,83 @@
 · Guion: Bruce Kennedy.
 · Productora: Earthship Productions, National Geographic, Oxford Scientific Films.</desc>
 	</programme>
-	<programme start="20261114090000 +0100" stop="20261114120000 +0100" channel="DAZN LaLiga">
+	<programme start="20261114090000 +0100" stop="20261114120000 +0100" channel="DAZN LaLiga HD">
     <title>DAZN LaLiga</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-	<programme start="20261114120000 +0100" stop="20261114121500 +0100" channel="DAZN LaLiga">
+	<programme start="20261114120000 +0100" stop="20261114121500 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Leganés - Burgos</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261114121500 +0100" stop="20261114123000 +0100" channel="DAZN LaLiga">
+	<programme start="20261114121500 +0100" stop="20261114123000 +0100" channel="DAZN LaLiga HD">
     <title>Luis de la Fuente y la Copa visitan DAZN</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · Luis de la Fuente, seleccionador nacional, visita DAZN.
 · País: España</desc>
 	</programme>
-	<programme start="20261114123000 +0100" stop="20261114134500 +0100" channel="DAZN LaLiga">
+	<programme start="20261114123000 +0100" stop="20261114134500 +0100" channel="DAZN LaLiga HD">
     <title>Trending T26/27 · Programa 31</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · Espacio diario para el repaso de lo más actual del fútbol internacional. De lunes a viernes a las 15:00.
 · País: España</desc>
 	</programme>
-	<programme start="20261114134500 +0100" stop="20261114140000 +0100" channel="DAZN LaLiga">
+	<programme start="20261114134500 +0100" stop="20261114140000 +0100" channel="DAZN LaLiga HD">
     <title>Premier Corner by Guiness 0,0: Pedrito T2026 · Pedro Rodríguez, la grandeza no entiende de escenarios</title>
     <desc>Entretenimiento,Entrevista | 2026 | TP | *6.0/10
 · Pedrito, campeón del Mundo en 2010 y leyenda del FC Barcelona, repasa su carrera deportiva tras anunciar la retirada.
 · País: España</desc>
 	</programme>
-	<programme start="20261114140000 +0100" stop="20261114160000 +0100" channel="DAZN LaLiga">
+	<programme start="20261114140000 +0100" stop="20261114160000 +0100" channel="DAZN LaLiga HD">
     <title>LaLiga Santander T22/23 · Jornada 9: Real Madrid - Barcelona</title>
     <desc>Deportes,Fútbol | 2022 | TP | *6.6/10
 · Partido de la novena jornada del campeonato liguero entre Real Madrid y Barcelona.
 · País: España</desc>
 	</programme>
-	<programme start="20261114160000 +0100" stop="20261114173000 +0100" channel="DAZN LaLiga">
+	<programme start="20261114160000 +0100" stop="20261114173000 +0100" channel="DAZN LaLiga HD">
     <title>Trending T26/27 · Programa 32</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · Espacio diario para el repaso de lo más actual del fútbol internacional. De lunes a viernes a las 15:00.
 · País: España</desc>
 	</programme>
-	<programme start="20261114173000 +0100" stop="20261114174500 +0100" channel="DAZN LaLiga">
+	<programme start="20261114173000 +0100" stop="20261114174500 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Leganés - Burgos</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261114174500 +0100" stop="20261114180000 +0100" channel="DAZN LaLiga">
+	<programme start="20261114174500 +0100" stop="20261114180000 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Valladolid - Castellón</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261114180000 +0100" stop="20261114194500 +0100" channel="DAZN LaLiga">
+	<programme start="20261114180000 +0100" stop="20261114194500 +0100" channel="DAZN LaLiga HD">
     <title>La Dazoneta T2 · Programa 13</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · Espacio abierto para el debate, la información.
 · País: España</desc>
 	</programme>
-	<programme start="20261114194500 +0100" stop="20261114200000 +0100" channel="DAZN LaLiga">
+	<programme start="20261114194500 +0100" stop="20261114200000 +0100" channel="DAZN LaLiga HD">
     <title>Masterclass T1 · Borja Iglesias</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.4/10
 · Borja Iglesias, el carismático delantero del RC Celta, es el cuarto jugador en pasar por nuestro 'Masterclass'. En DAZN analizamos sus mejores goles y habilidades con el balón. ¡No te lo pierdas!
 · País: España</desc>
 	</programme>
-	<programme start="20261114200000 +0100" stop="20261114203000 +0100" channel="DAZN LaLiga">
+	<programme start="20261114200000 +0100" stop="20261114203000 +0100" channel="DAZN LaLiga HD">
     <title>Premier Corner by Guiness 0,0: Pedrito T2026 · Pedro Rodríguez, la grandeza no entiende de escenarios</title>
     <desc>Entretenimiento,Entrevista | 2026 | TP | *6.0/10
 · Pedrito, campeón del Mundo en 2010 y leyenda del FC Barcelona, repasa su carrera deportiva tras anunciar la retirada.
 · País: España</desc>
 	</programme>
-	<programme start="20261114203000 +0100" stop="20261114210000 +0100" channel="DAZN LaLiga">
+	<programme start="20261114203000 +0100" stop="20261114210000 +0100" channel="DAZN LaLiga HD">
     <title>Revelado - Luis de la Fuente</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · Luis de la Fuente entró sin hacer ruido en el banquillo de la Selección.
 · País: España</desc>
 	</programme>
-	<programme start="20261114210000 +0100" stop="20261114220000 +0100" channel="DAZN LaLiga">
+	<programme start="20261114210000 +0100" stop="20261114220000 +0100" channel="DAZN LaLiga HD">
     <title>El último duelo</title>
     <desc>Documentales,Deportes | 2026 | TP | *6.4/10
 · El Mundial de 2026 podría ser el último en el que coincidan Cristiano Ronaldo y Lionel Messi. Con este telón de fondo, este documental realiza un viaje al origen de la rivalidad que protagonizó el fútbol moderno y convirtió LaLiga en un fenómeno global.
@@ -6165,253 +6165,253 @@
 · Dirección: Adrià Vila Pujals, Ivan Fanlo Torrecilla.
 · Reparto: Mauricio Pochettino, Andoni Zubizarreta, Axel Torres Xirau, Joan Verdú, Jorge Valdano, Ricard Torquemada.</desc>
 	</programme>
-	<programme start="20261114220000 +0100" stop="20261114221500 +0100" channel="DAZN LaLiga">
+	<programme start="20261114220000 +0100" stop="20261114221500 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Real Sociedad B - Sporting</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261114221500 +0100" stop="20261114223000 +0100" channel="DAZN LaLiga">
+	<programme start="20261114221500 +0100" stop="20261114223000 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Almería - Andorra</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261114223000 +0100" stop="20261115003000 +0100" channel="DAZN LaLiga">
+	<programme start="20261114223000 +0100" stop="20261115003000 +0100" channel="DAZN LaLiga HD">
     <title>LALIGA EA SPORTS T23/24 · Jornada 11: Barcelona - Real Madrid</title>
     <desc>Deportes,Fútbol | 2023 | TP | *6.2/10
 · ¡Llega ElClásico! Por primera vez en la historia, el FC Barcelona se enfrenta al Real Madrid en el Estadi Olímpic Lluís Companys. Los azulgranas y los merengues luchan por hacerse con el liderato de LALIGA EA SPORTS.
 · País: España</desc>
 	</programme>
-	<programme start="20261115003000 +0100" stop="20261115010000 +0100" channel="DAZN LaLiga">
+	<programme start="20261115003000 +0100" stop="20261115010000 +0100" channel="DAZN LaLiga HD">
     <title>Premier Corner by Guiness 0,0 T2026 · Pepe Reina</title>
     <desc>Entretenimiento,Entrevista | 2026 | TP | *6.2/10
 · Programa de entrevistas a los futbolistas más destacados de la Premier League. Los deportistas analizan sus trayectorias profesionales y repasan los mejores momentos de laliga.
 · País: España</desc>
 	</programme>
-	<programme start="20261115010000 +0100" stop="20261115050000 +0100" channel="DAZN LaLiga">
+	<programme start="20261115010000 +0100" stop="20261115050000 +0100" channel="DAZN LaLiga HD">
     <title>DAZN LaLiga</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-	<programme start="20261115050000 +0100" stop="20261115090000 +0100" channel="DAZN LaLiga">
+	<programme start="20261115050000 +0100" stop="20261115090000 +0100" channel="DAZN LaLiga HD">
     <title>DAZN LaLiga</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-	<programme start="20261115090000 +0100" stop="20261115120000 +0100" channel="DAZN LaLiga">
+	<programme start="20261115090000 +0100" stop="20261115120000 +0100" channel="DAZN LaLiga HD">
     <title>DAZN LaLiga</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-	<programme start="20261115120000 +0100" stop="20261115121500 +0100" channel="DAZN LaLiga">
+	<programme start="20261115120000 +0100" stop="20261115121500 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Valladolid - Castellón</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261115121500 +0100" stop="20261115123000 +0100" channel="DAZN LaLiga">
+	<programme start="20261115121500 +0100" stop="20261115123000 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Real Sociedad B - Sporting</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261115123000 +0100" stop="20261115124500 +0100" channel="DAZN LaLiga">
+	<programme start="20261115123000 +0100" stop="20261115124500 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Almería - Andorra</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261115124500 +0100" stop="20261115130000 +0100" channel="DAZN LaLiga">
+	<programme start="20261115124500 +0100" stop="20261115130000 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Mallorca - Córdoba</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261115130000 +0100" stop="20261115131500 +0100" channel="DAZN LaLiga">
+	<programme start="20261115130000 +0100" stop="20261115131500 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Oviedo - Girona</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261115131500 +0100" stop="20261115133000 +0100" channel="DAZN LaLiga">
+	<programme start="20261115131500 +0100" stop="20261115133000 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Leganés - Burgos</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261115133000 +0100" stop="20261115140000 +0100" channel="DAZN LaLiga">
+	<programme start="20261115133000 +0100" stop="20261115140000 +0100" channel="DAZN LaLiga HD">
     <title>Revelado - Luis de la Fuente</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · Luis de la Fuente entró sin hacer ruido en el banquillo de la Selección.
 · País: España</desc>
 	</programme>
-	<programme start="20261115140000 +0100" stop="20261115160000 +0100" channel="DAZN LaLiga">
+	<programme start="20261115140000 +0100" stop="20261115160000 +0100" channel="DAZN LaLiga HD">
     <title>LALIGA EA SPORTS T24/25 · Jornada 11: Real Madrid - Barcelona</title>
     <desc>Deportes,Fútbol | 2024 | TP | *6.6/10
 · Llega uno de los momentos más esperados de la temporada. Tras exhibirse ambos en Champions, el Clásico mide a los dos grandes aspirantes al título liguero. El Real Madrid cuenta con el Bernabéu en ebullición; el Barcelona, con tres puntos de ventaja.
 · País: España</desc>
 	</programme>
-	<programme start="20261115160000 +0100" stop="20261115173000 +0100" channel="DAZN LaLiga">
+	<programme start="20261115160000 +0100" stop="20261115173000 +0100" channel="DAZN LaLiga HD">
     <title>Trending T26/27 · Programa 34</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · Espacio diario para el repaso de lo más actual del fútbol internacional. De lunes a viernes a las 15:00.
 · País: España</desc>
 	</programme>
-	<programme start="20261115173000 +0100" stop="20261115174500 +0100" channel="DAZN LaLiga">
+	<programme start="20261115173000 +0100" stop="20261115174500 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Tenerife - Ceuta</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261115174500 +0100" stop="20261115194500 +0100" channel="DAZN LaLiga">
+	<programme start="20261115174500 +0100" stop="20261115194500 +0100" channel="DAZN LaLiga HD">
     <title>LALIGA EA SPORTS T25/26 · Jornada 10: Real Madrid - Barcelona</title>
     <desc>Deportes,Fútbol | 2025 | TP | *6.6/10
 · Nuevo episodio en la rivalidad que marca el paso en LaLiga. Real Madrid y Barcelona se miden con el liderato en juego. Los blancos, con dos puntos de ventaja, pueden poner tierra de por medio. Los culés han salido airosos en los últimos Clásicos.
 · País: España</desc>
 	</programme>
-	<programme start="20261115194500 +0100" stop="20261115213000 +0100" channel="DAZN LaLiga">
+	<programme start="20261115194500 +0100" stop="20261115213000 +0100" channel="DAZN LaLiga HD">
     <title>El Post de DAZN T26/27 · Programa 9</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · La jornada de LALIGA no termina con el pitido final del último partido. El Post ofrece las mejores imágenes y análisis de los partidos de la jornada. Es el programa perfecto para enterarte de todo lo que ha sucedido en cada encuentro.
 · País: España</desc>
 	</programme>
-	<programme start="20261115213000 +0100" stop="20261115214500 +0100" channel="DAZN LaLiga">
+	<programme start="20261115213000 +0100" stop="20261115214500 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Granada - Las Palmas</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261115214500 +0100" stop="20261115220000 +0100" channel="DAZN LaLiga">
+	<programme start="20261115214500 +0100" stop="20261115220000 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Almería - Andorra</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261115220000 +0100" stop="20261115221500 +0100" channel="DAZN LaLiga">
+	<programme start="20261115220000 +0100" stop="20261115221500 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Mallorca - Córdoba</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261115221500 +0100" stop="20261115223000 +0100" channel="DAZN LaLiga">
+	<programme start="20261115221500 +0100" stop="20261115223000 +0100" channel="DAZN LaLiga HD">
     <title>Premier Corner by Guiness 0,0 T2026 · Álvaro Arbeloa, de formar talento en Valdebebas a competir en la Premier</title>
     <desc>Entretenimiento,Entrevista | 2026 | TP | *6.2/10
 · Programa de entrevistas a los futbolistas más destacados de la Premier League. Los deportistas analizan sus trayectorias profesionales y repasan los mejores momentos de laliga.
 · País: España</desc>
 	</programme>
-	<programme start="20261115223000 +0100" stop="20261116003000 +0100" channel="DAZN LaLiga">
+	<programme start="20261115223000 +0100" stop="20261116003000 +0100" channel="DAZN LaLiga HD">
     <title>LALIGA EA SPORTS T26/27 · Jornada 10: Barcelona - Real Madrid</title>
     <desc>Deportes,Fútbol | 2026 | TP
 · Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
 · País: España</desc>
 	</programme>
-	<programme start="20261116003000 +0100" stop="20261116010000 +0100" channel="DAZN LaLiga">
+	<programme start="20261116003000 +0100" stop="20261116010000 +0100" channel="DAZN LaLiga HD">
     <title>Premier Corner by Guiness 0,0: Pedrito T2026 · Pedro Rodríguez, la grandeza no entiende de escenarios</title>
     <desc>Entretenimiento,Entrevista | 2026 | TP | *6.0/10
 · Pedrito, campeón del Mundo en 2010 y leyenda del FC Barcelona, repasa su carrera deportiva tras anunciar la retirada.
 · País: España</desc>
 	</programme>
-	<programme start="20261116010000 +0100" stop="20261116050000 +0100" channel="DAZN LaLiga">
+	<programme start="20261116010000 +0100" stop="20261116050000 +0100" channel="DAZN LaLiga HD">
     <title>DAZN LaLiga</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-	<programme start="20261116050000 +0100" stop="20261116090000 +0100" channel="DAZN LaLiga">
+	<programme start="20261116050000 +0100" stop="20261116090000 +0100" channel="DAZN LaLiga HD">
     <title>DAZN LaLiga</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-	<programme start="20261116090000 +0100" stop="20261116120000 +0100" channel="DAZN LaLiga">
+	<programme start="20261116090000 +0100" stop="20261116120000 +0100" channel="DAZN LaLiga HD">
     <title>DAZN LaLiga</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-	<programme start="20261116120000 +0100" stop="20261116140000 +0100" channel="DAZN LaLiga">
+	<programme start="20261116120000 +0100" stop="20261116140000 +0100" channel="DAZN LaLiga HD">
     <title>LALIGA EA SPORTS T26/27 · Jornada 7: Atlético de Madrid - Real Madrid</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
 · Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
 · País: España</desc>
 	</programme>
-	<programme start="20261116140000 +0100" stop="20261116141500 +0100" channel="DAZN LaLiga">
+	<programme start="20261116140000 +0100" stop="20261116141500 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Tenerife - Ceuta</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261116141500 +0100" stop="20261116143000 +0100" channel="DAZN LaLiga">
+	<programme start="20261116141500 +0100" stop="20261116143000 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Granada - Las Palmas</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261116143000 +0100" stop="20261116144500 +0100" channel="DAZN LaLiga">
+	<programme start="20261116143000 +0100" stop="20261116144500 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Eibar - Cádiz</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261116144500 +0100" stop="20261116150000 +0100" channel="DAZN LaLiga">
+	<programme start="20261116144500 +0100" stop="20261116150000 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Eldense - Sabadell</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261116150000 +0100" stop="20261116160000 +0100" channel="DAZN LaLiga">
+	<programme start="20261116150000 +0100" stop="20261116160000 +0100" channel="DAZN LaLiga HD">
     <title>DIRECTO Programa 35 T26/27 · Trending</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · Espacio diario para el repaso de lo más actual del fútbol internacional. De lunes a viernes a las 15:00.
 · País: España</desc>
 	</programme>
-	<programme start="20261116160000 +0100" stop="20261116161500 +0100" channel="DAZN LaLiga">
+	<programme start="20261116160000 +0100" stop="20261116161500 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes DAZN LaLiga EA Sports T26/27 · Jornada 12: Real Sociedad - Rayo</title>
     <desc>Deportes,Fútbol | 2026 | TP
 · Resumen con lo más destacado de cada uno de los partidos de Primera División.
 · País: España</desc>
 	</programme>
-	<programme start="20261116161500 +0100" stop="20261116163000 +0100" channel="DAZN LaLiga">
+	<programme start="20261116161500 +0100" stop="20261116163000 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes DAZN LaLiga EA Sports T26/27 · Jornada 12: Celta - Levante</title>
     <desc>Deportes,Fútbol | 2026 | TP
 · Resumen con lo más destacado de cada uno de los partidos de Primera División.
 · País: España</desc>
 	</programme>
-	<programme start="20261116163000 +0100" stop="20261116164500 +0100" channel="DAZN LaLiga">
+	<programme start="20261116163000 +0100" stop="20261116164500 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes DAZN LaLiga EA Sports T26/27 · Jornada 12: Atlético de Madrid - Barcelona</title>
     <desc>Deportes,Fútbol | 2026 | TP
 · Resumen con lo más destacado de cada uno de los partidos de Primera División.
 · País: España</desc>
 	</programme>
-	<programme start="20261116164500 +0100" stop="20261116170000 +0100" channel="DAZN LaLiga">
+	<programme start="20261116164500 +0100" stop="20261116170000 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes DAZN LaLiga EA Sports T26/27 · Jornada 12: Osasuna - Athletic</title>
     <desc>Deportes,Fútbol | 2026 | TP
 · Resumen con lo más destacado de cada uno de los partidos de Primera División.
 · País: España</desc>
 	</programme>
-	<programme start="20261116170000 +0100" stop="20261116183000 +0100" channel="DAZN LaLiga">
+	<programme start="20261116170000 +0100" stop="20261116183000 +0100" channel="DAZN LaLiga HD">
     <title>DIRECTO Programa 14 T2 · La Dazoneta</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · Un vistazo a la actualidad futbolística del fin de semana desde un tono desenfadado, cercano a los aficionados y donde el humor está muy presente.
 · País: España</desc>
 	</programme>
-	<programme start="20261116183000 +0100" stop="20261116184500 +0100" channel="DAZN LaLiga">
+	<programme start="20261116183000 +0100" stop="20261116184500 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Almería - Andorra</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261116184500 +0100" stop="20261116190000 +0100" channel="DAZN LaLiga">
+	<programme start="20261116184500 +0100" stop="20261116190000 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Mallorca - Córdoba</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261116190000 +0100" stop="20261116210000 +0100" channel="DAZN LaLiga">
+	<programme start="20261116190000 +0100" stop="20261116210000 +0100" channel="DAZN LaLiga HD">
     <title>LALIGA EA SPORTS T26/27 · Jornada 10: Barcelona - Real Madrid</title>
     <desc>Deportes,Fútbol | 2026 | TP
 · Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
 · País: España</desc>
 	</programme>
-	<programme start="20261116210000 +0100" stop="20261116220000 +0100" channel="DAZN LaLiga">
+	<programme start="20261116210000 +0100" stop="20261116220000 +0100" channel="DAZN LaLiga HD">
     <title>Programa 35 T26/27 · Trending</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · Espacio diario para el repaso de lo más actual del fútbol internacional. De lunes a viernes a las 15:00.
 · País: España</desc>
 	</programme>
-	<programme start="20261116220000 +0100" stop="20261116230000 +0100" channel="DAZN LaLiga">
+	<programme start="20261116220000 +0100" stop="20261116230000 +0100" channel="DAZN LaLiga HD">
     <title>Ganar. El reto de volver a reinar</title>
     <desc>Documentales,Deportes | 2026 | TP | *6.6/10
 · José Mourinho vuelve al Real Madrid con un desafío que va mucho más allá de un regreso. El club quiere recuperar su lugar en la cima del fútbol europeo y Mourinho afronta también el reto de volver a ocupar el suyo.
@@ -6419,211 +6419,211 @@
 · Dirección: Ivan Fanlo Torrecilla.
 · Productora: Mediapro.</desc>
 	</programme>
-	<programme start="20261116230000 +0100" stop="20261117003000 +0100" channel="DAZN LaLiga">
+	<programme start="20261116230000 +0100" stop="20261117003000 +0100" channel="DAZN LaLiga HD">
     <title>Programa 14 T2 · La Dazoneta</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · Un vistazo a la actualidad futbolística del fin de semana desde un tono desenfadado, cercano a los aficionados y donde el humor está muy presente.
 · País: España</desc>
 	</programme>
-	<programme start="20261117003000 +0100" stop="20261117004500 +0100" channel="DAZN LaLiga">
+	<programme start="20261117003000 +0100" stop="20261117004500 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Eldense - Sabadell</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261117004500 +0100" stop="20261117010000 +0100" channel="DAZN LaLiga">
+	<programme start="20261117004500 +0100" stop="20261117010000 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Albacete - Celta Fortuna</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261117010000 +0100" stop="20261117050000 +0100" channel="DAZN LaLiga">
+	<programme start="20261117010000 +0100" stop="20261117050000 +0100" channel="DAZN LaLiga HD">
     <title>DAZN LaLiga</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-	<programme start="20261117050000 +0100" stop="20261117090000 +0100" channel="DAZN LaLiga">
+	<programme start="20261117050000 +0100" stop="20261117090000 +0100" channel="DAZN LaLiga HD">
     <title>DAZN LaLiga</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-	<programme start="20261117090000 +0100" stop="20261117120000 +0100" channel="DAZN LaLiga">
+	<programme start="20261117090000 +0100" stop="20261117120000 +0100" channel="DAZN LaLiga HD">
     <title>DAZN LaLiga</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-	<programme start="20261117120000 +0100" stop="20261117140000 +0100" channel="DAZN LaLiga">
+	<programme start="20261117120000 +0100" stop="20261117140000 +0100" channel="DAZN LaLiga HD">
     <title>LALIGA EA SPORTS T26/27 · Jornada 10: Barcelona - Real Madrid</title>
     <desc>Deportes,Fútbol | 2026 | TP
 · Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
 · País: España</desc>
 	</programme>
-	<programme start="20261117140000 +0100" stop="20261117141500 +0100" channel="DAZN LaLiga">
+	<programme start="20261117140000 +0100" stop="20261117141500 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Mallorca - Córdoba</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261117141500 +0100" stop="20261117143000 +0100" channel="DAZN LaLiga">
+	<programme start="20261117141500 +0100" stop="20261117143000 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Granada - Las Palmas</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261117143000 +0100" stop="20261117144500 +0100" channel="DAZN LaLiga">
+	<programme start="20261117143000 +0100" stop="20261117144500 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Eibar - Cádiz</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261117144500 +0100" stop="20261117150000 +0100" channel="DAZN LaLiga">
+	<programme start="20261117144500 +0100" stop="20261117150000 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Eldense - Sabadell</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261117150000 +0100" stop="20261117163000 +0100" channel="DAZN LaLiga">
+	<programme start="20261117150000 +0100" stop="20261117163000 +0100" channel="DAZN LaLiga HD">
     <title>DIRECTO Programa 36 T26/27 · Trending</title>
     <desc>Deportes,Programa deportes | 2026 | TP
 · Una cita diaria con el latido del fútbol internacional. Un rincón exclusivo donde se desmenuza la actualidad de las grandes ligas, con las mejores imágenes y el testimonio de los protagonistas.
 · País: España</desc>
 	</programme>
-	<programme start="20261117163000 +0100" stop="20261117164500 +0100" channel="DAZN LaLiga">
+	<programme start="20261117163000 +0100" stop="20261117164500 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Leganés - Burgos</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261117164500 +0100" stop="20261117170000 +0100" channel="DAZN LaLiga">
+	<programme start="20261117164500 +0100" stop="20261117170000 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Valladolid - Castellón</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261117170000 +0100" stop="20261117171500 +0100" channel="DAZN LaLiga">
+	<programme start="20261117170000 +0100" stop="20261117171500 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Real Sociedad B - Sporting</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261117171500 +0100" stop="20261117173000 +0100" channel="DAZN LaLiga">
+	<programme start="20261117171500 +0100" stop="20261117173000 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Almería - Andorra</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261117173000 +0100" stop="20261117190000 +0100" channel="DAZN LaLiga">
+	<programme start="20261117173000 +0100" stop="20261117190000 +0100" channel="DAZN LaLiga HD">
     <title>Programa 14 T2 · La Dazoneta</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · Un vistazo a la actualidad futbolística del fin de semana desde un tono desenfadado, cercano a los aficionados y donde el humor está muy presente.
 · País: España</desc>
 	</programme>
-	<programme start="20261117190000 +0100" stop="20261117210000 +0100" channel="DAZN LaLiga">
+	<programme start="20261117190000 +0100" stop="20261117210000 +0100" channel="DAZN LaLiga HD">
     <title>LALIGA EA SPORTS T26/27 · Jornada 12: Valencia - Real Madrid</title>
     <desc>Deportes,Fútbol | 2026 | TP
 · Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
 · País: España</desc>
 	</programme>
-	<programme start="20261117210000 +0100" stop="20261117223000 +0100" channel="DAZN LaLiga">
+	<programme start="20261117210000 +0100" stop="20261117223000 +0100" channel="DAZN LaLiga HD">
     <title>Programa 36 T26/27 · Trending</title>
     <desc>Deportes,Programa deportes | 2026 | TP
 · Una cita diaria con el latido del fútbol internacional. Un rincón exclusivo donde se desmenuza la actualidad de las grandes ligas, con las mejores imágenes y el testimonio de los protagonistas.
 · País: España</desc>
 	</programme>
-	<programme start="20261117223000 +0100" stop="20261118003000 +0100" channel="DAZN LaLiga">
+	<programme start="20261117223000 +0100" stop="20261118003000 +0100" channel="DAZN LaLiga HD">
     <title>LALIGA EA SPORTS T26/27 · Jornada 11: Athletic - Real Sociedad</title>
     <desc>Deportes,Fútbol | 2026 | TP | *7.6/10
 · Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
 · País: España</desc>
 	</programme>
-	<programme start="20261118003000 +0100" stop="20261118004500 +0100" channel="DAZN LaLiga">
+	<programme start="20261118003000 +0100" stop="20261118004500 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Oviedo - Girona</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261118004500 +0100" stop="20261118010000 +0100" channel="DAZN LaLiga">
+	<programme start="20261118004500 +0100" stop="20261118010000 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Tenerife - Ceuta</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261118010000 +0100" stop="20261118050000 +0100" channel="DAZN LaLiga">
+	<programme start="20261118010000 +0100" stop="20261118050000 +0100" channel="DAZN LaLiga HD">
     <title>DAZN LaLiga</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-	<programme start="20261118050000 +0100" stop="20261118090000 +0100" channel="DAZN LaLiga">
+	<programme start="20261118050000 +0100" stop="20261118090000 +0100" channel="DAZN LaLiga HD">
     <title>DAZN LaLiga</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-	<programme start="20261118090000 +0100" stop="20261118120000 +0100" channel="DAZN LaLiga">
+	<programme start="20261118090000 +0100" stop="20261118120000 +0100" channel="DAZN LaLiga HD">
     <title>DAZN LaLiga</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-	<programme start="20261118120000 +0100" stop="20261118133000 +0100" channel="DAZN LaLiga">
+	<programme start="20261118120000 +0100" stop="20261118133000 +0100" channel="DAZN LaLiga HD">
     <title>Programa 36 T26/27 · Trending</title>
     <desc>Deportes,Programa deportes | 2026 | TP
 · Una cita diaria con el latido del fútbol internacional. Un rincón exclusivo donde se desmenuza la actualidad de las grandes ligas, con las mejores imágenes y el testimonio de los protagonistas.
 · País: España</desc>
 	</programme>
-	<programme start="20261118133000 +0100" stop="20261118150000 +0100" channel="DAZN LaLiga">
+	<programme start="20261118133000 +0100" stop="20261118150000 +0100" channel="DAZN LaLiga HD">
     <title>Programa 14 T2 · La Dazoneta</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · Un vistazo a la actualidad futbolística del fin de semana desde un tono desenfadado, cercano a los aficionados y donde el humor está muy presente.
 · País: España</desc>
 	</programme>
-	<programme start="20261118150000 +0100" stop="20261118163000 +0100" channel="DAZN LaLiga">
+	<programme start="20261118150000 +0100" stop="20261118163000 +0100" channel="DAZN LaLiga HD">
     <title>DIRECTO Programa 37 T26/27 · Trending</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *10.0/10
 · Una cita diaria con el latido del fútbol internacional. Un rincón exclusivo donde se desmenuza la actualidad de las grandes ligas, con las mejores imágenes y el testimonio de los protagonistas.
 · País: España</desc>
 	</programme>
-	<programme start="20261118163000 +0100" stop="20261118164500 +0100" channel="DAZN LaLiga">
+	<programme start="20261118163000 +0100" stop="20261118164500 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Mallorca - Córdoba</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261118164500 +0100" stop="20261118184500 +0100" channel="DAZN LaLiga">
+	<programme start="20261118164500 +0100" stop="20261118184500 +0100" channel="DAZN LaLiga HD">
     <title>LALIGA EA SPORTS T26/27 · Jornada 10: Barcelona - Real Madrid</title>
     <desc>Deportes,Fútbol | 2026 | TP
 · Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
 · País: España</desc>
 	</programme>
-	<programme start="20261118184500 +0100" stop="20261118190000 +0100" channel="DAZN LaLiga">
+	<programme start="20261118184500 +0100" stop="20261118190000 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Eibar - Cádiz</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261118190000 +0100" stop="20261118210000 +0100" channel="DAZN LaLiga">
+	<programme start="20261118190000 +0100" stop="20261118210000 +0100" channel="DAZN LaLiga HD">
     <title>LALIGA EA SPORTS T26/27 · Jornada 11: R. Racing Club - Real Madrid</title>
     <desc>Deportes,Fútbol | 2026 | TP
 · Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
 · País: España</desc>
 	</programme>
-	<programme start="20261118210000 +0100" stop="20261118223000 +0100" channel="DAZN LaLiga">
+	<programme start="20261118210000 +0100" stop="20261118223000 +0100" channel="DAZN LaLiga HD">
     <title>Programa 37 T26/27 · Trending</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *10.0/10
 · Una cita diaria con el latido del fútbol internacional. Un rincón exclusivo donde se desmenuza la actualidad de las grandes ligas, con las mejores imágenes y el testimonio de los protagonistas.
 · País: España</desc>
 	</programme>
-	<programme start="20261118223000 +0100" stop="20261119003000 +0100" channel="DAZN LaLiga">
+	<programme start="20261118223000 +0100" stop="20261119003000 +0100" channel="DAZN LaLiga HD">
     <title>LALIGA EA SPORTS T25/26 · Jornada 17: Villarreal - Barcelona</title>
     <desc>Deportes,Fútbol | 2025 | TP | *6.4/10
 · Partido de la 17ª jornada del campeonato liguero entre Villarreal y Barcelona.
 · País: España</desc>
 	</programme>
-	<programme start="20261119003000 +0100" stop="20261119004500 +0100" channel="DAZN LaLiga">
+	<programme start="20261119003000 +0100" stop="20261119004500 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Leganés - Burgos</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261119004500 +0100" stop="20261119010000 +0100" channel="DAZN LaLiga">
+	<programme start="20261119004500 +0100" stop="20261119010000 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Valladolid - Castellón</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
-	<programme start="20261119010000 +0100" stop="20261119050000 +0100" channel="DAZN LaLiga">
+	<programme start="20261119010000 +0100" stop="20261119050000 +0100" channel="DAZN LaLiga HD">
     <title>DAZN LaLiga</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
@@ -10611,6 +10611,552 @@
 · Tras la muerte de Franco, España vivió una revolución cultural en sus pantallas. Este documental, narrado por Iggy Pop, explora el fenómeno de las "Clasificada S".
 · País: España
 · Dirección: Alberto Sedano.</desc>
+	</programme>
+	<programme start="20261114090000 +0100" stop="20261114120000 +0100" channel="DAZN LaLiga">
+    <title>DAZN LaLiga</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20261114120000 +0100" stop="20261114121500 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Leganés - Burgos</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261114121500 +0100" stop="20261114123000 +0100" channel="DAZN LaLiga">
+    <title>Luis de la Fuente y la Copa visitan DAZN</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Luis de la Fuente, seleccionador nacional, visita DAZN.
+· País: España</desc>
+	</programme>
+	<programme start="20261114123000 +0100" stop="20261114134500 +0100" channel="DAZN LaLiga">
+    <title>Trending T26/27 · Programa 31</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Espacio diario para el repaso de lo más actual del fútbol internacional. De lunes a viernes a las 15:00.
+· País: España</desc>
+	</programme>
+	<programme start="20261114134500 +0100" stop="20261114140000 +0100" channel="DAZN LaLiga">
+    <title>Premier Corner by Guiness 0,0: Pedrito T2026 · Pedro Rodríguez, la grandeza no entiende de escenarios</title>
+    <desc>Entretenimiento,Entrevista | 2026 | TP | *6.0/10
+· Pedrito, campeón del Mundo en 2010 y leyenda del FC Barcelona, repasa su carrera deportiva tras anunciar la retirada.
+· País: España</desc>
+	</programme>
+	<programme start="20261114140000 +0100" stop="20261114160000 +0100" channel="DAZN LaLiga">
+    <title>LaLiga Santander T22/23 · Jornada 9: Real Madrid - Barcelona</title>
+    <desc>Deportes,Fútbol | 2022 | TP | *6.6/10
+· Partido de la novena jornada del campeonato liguero entre Real Madrid y Barcelona.
+· País: España</desc>
+	</programme>
+	<programme start="20261114160000 +0100" stop="20261114173000 +0100" channel="DAZN LaLiga">
+    <title>Trending T26/27 · Programa 32</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Espacio diario para el repaso de lo más actual del fútbol internacional. De lunes a viernes a las 15:00.
+· País: España</desc>
+	</programme>
+	<programme start="20261114173000 +0100" stop="20261114174500 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Leganés - Burgos</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261114174500 +0100" stop="20261114180000 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Valladolid - Castellón</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261114180000 +0100" stop="20261114194500 +0100" channel="DAZN LaLiga">
+    <title>La Dazoneta T2 · Programa 13</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Espacio abierto para el debate, la información.
+· País: España</desc>
+	</programme>
+	<programme start="20261114194500 +0100" stop="20261114200000 +0100" channel="DAZN LaLiga">
+    <title>Masterclass T1 · Borja Iglesias</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.4/10
+· Borja Iglesias, el carismático delantero del RC Celta, es el cuarto jugador en pasar por nuestro 'Masterclass'. En DAZN analizamos sus mejores goles y habilidades con el balón. ¡No te lo pierdas!
+· País: España</desc>
+	</programme>
+	<programme start="20261114200000 +0100" stop="20261114203000 +0100" channel="DAZN LaLiga">
+    <title>Premier Corner by Guiness 0,0: Pedrito T2026 · Pedro Rodríguez, la grandeza no entiende de escenarios</title>
+    <desc>Entretenimiento,Entrevista | 2026 | TP | *6.0/10
+· Pedrito, campeón del Mundo en 2010 y leyenda del FC Barcelona, repasa su carrera deportiva tras anunciar la retirada.
+· País: España</desc>
+	</programme>
+	<programme start="20261114203000 +0100" stop="20261114210000 +0100" channel="DAZN LaLiga">
+    <title>Revelado - Luis de la Fuente</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Luis de la Fuente entró sin hacer ruido en el banquillo de la Selección.
+· País: España</desc>
+	</programme>
+	<programme start="20261114210000 +0100" stop="20261114220000 +0100" channel="DAZN LaLiga">
+    <title>El último duelo</title>
+    <desc>Documentales,Deportes | 2026 | TP | *6.4/10
+· El Mundial de 2026 podría ser el último en el que coincidan Cristiano Ronaldo y Lionel Messi. Con este telón de fondo, este documental realiza un viaje al origen de la rivalidad que protagonizó el fútbol moderno y convirtió LaLiga en un fenómeno global.
+· País: España
+· Dirección: Adrià Vila Pujals, Ivan Fanlo Torrecilla.
+· Reparto: Mauricio Pochettino, Andoni Zubizarreta, Axel Torres Xirau, Joan Verdú, Jorge Valdano, Ricard Torquemada.</desc>
+	</programme>
+	<programme start="20261114220000 +0100" stop="20261114221500 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Real Sociedad B - Sporting</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261114221500 +0100" stop="20261114223000 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Almería - Andorra</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261114223000 +0100" stop="20261115003000 +0100" channel="DAZN LaLiga">
+    <title>LALIGA EA SPORTS T23/24 · Jornada 11: Barcelona - Real Madrid</title>
+    <desc>Deportes,Fútbol | 2023 | TP | *6.2/10
+· ¡Llega ElClásico! Por primera vez en la historia, el FC Barcelona se enfrenta al Real Madrid en el Estadi Olímpic Lluís Companys. Los azulgranas y los merengues luchan por hacerse con el liderato de LALIGA EA SPORTS.
+· País: España</desc>
+	</programme>
+	<programme start="20261115003000 +0100" stop="20261115010000 +0100" channel="DAZN LaLiga">
+    <title>Premier Corner by Guiness 0,0 T2026 · Pepe Reina</title>
+    <desc>Entretenimiento,Entrevista | 2026 | TP | *6.2/10
+· Programa de entrevistas a los futbolistas más destacados de la Premier League. Los deportistas analizan sus trayectorias profesionales y repasan los mejores momentos de laliga.
+· País: España</desc>
+	</programme>
+	<programme start="20261115010000 +0100" stop="20261115050000 +0100" channel="DAZN LaLiga">
+    <title>DAZN LaLiga</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20261115050000 +0100" stop="20261115090000 +0100" channel="DAZN LaLiga">
+    <title>DAZN LaLiga</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20261115090000 +0100" stop="20261115120000 +0100" channel="DAZN LaLiga">
+    <title>DAZN LaLiga</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20261115120000 +0100" stop="20261115121500 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Valladolid - Castellón</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261115121500 +0100" stop="20261115123000 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Real Sociedad B - Sporting</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261115123000 +0100" stop="20261115124500 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Almería - Andorra</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261115124500 +0100" stop="20261115130000 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Mallorca - Córdoba</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261115130000 +0100" stop="20261115131500 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Oviedo - Girona</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261115131500 +0100" stop="20261115133000 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Leganés - Burgos</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261115133000 +0100" stop="20261115140000 +0100" channel="DAZN LaLiga">
+    <title>Revelado - Luis de la Fuente</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Luis de la Fuente entró sin hacer ruido en el banquillo de la Selección.
+· País: España</desc>
+	</programme>
+	<programme start="20261115140000 +0100" stop="20261115160000 +0100" channel="DAZN LaLiga">
+    <title>LALIGA EA SPORTS T24/25 · Jornada 11: Real Madrid - Barcelona</title>
+    <desc>Deportes,Fútbol | 2024 | TP | *6.6/10
+· Llega uno de los momentos más esperados de la temporada. Tras exhibirse ambos en Champions, el Clásico mide a los dos grandes aspirantes al título liguero. El Real Madrid cuenta con el Bernabéu en ebullición; el Barcelona, con tres puntos de ventaja.
+· País: España</desc>
+	</programme>
+	<programme start="20261115160000 +0100" stop="20261115173000 +0100" channel="DAZN LaLiga">
+    <title>Trending T26/27 · Programa 34</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Espacio diario para el repaso de lo más actual del fútbol internacional. De lunes a viernes a las 15:00.
+· País: España</desc>
+	</programme>
+	<programme start="20261115173000 +0100" stop="20261115174500 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Tenerife - Ceuta</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261115174500 +0100" stop="20261115194500 +0100" channel="DAZN LaLiga">
+    <title>LALIGA EA SPORTS T25/26 · Jornada 10: Real Madrid - Barcelona</title>
+    <desc>Deportes,Fútbol | 2025 | TP | *6.6/10
+· Nuevo episodio en la rivalidad que marca el paso en LaLiga. Real Madrid y Barcelona se miden con el liderato en juego. Los blancos, con dos puntos de ventaja, pueden poner tierra de por medio. Los culés han salido airosos en los últimos Clásicos.
+· País: España</desc>
+	</programme>
+	<programme start="20261115194500 +0100" stop="20261115213000 +0100" channel="DAZN LaLiga">
+    <title>El Post de DAZN T26/27 · Programa 9</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· La jornada de LALIGA no termina con el pitido final del último partido. El Post ofrece las mejores imágenes y análisis de los partidos de la jornada. Es el programa perfecto para enterarte de todo lo que ha sucedido en cada encuentro.
+· País: España</desc>
+	</programme>
+	<programme start="20261115213000 +0100" stop="20261115214500 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Granada - Las Palmas</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261115214500 +0100" stop="20261115220000 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Almería - Andorra</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261115220000 +0100" stop="20261115221500 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Mallorca - Córdoba</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261115221500 +0100" stop="20261115223000 +0100" channel="DAZN LaLiga">
+    <title>Premier Corner by Guiness 0,0 T2026 · Álvaro Arbeloa, de formar talento en Valdebebas a competir en la Premier</title>
+    <desc>Entretenimiento,Entrevista | 2026 | TP | *6.2/10
+· Programa de entrevistas a los futbolistas más destacados de la Premier League. Los deportistas analizan sus trayectorias profesionales y repasan los mejores momentos de laliga.
+· País: España</desc>
+	</programme>
+	<programme start="20261115223000 +0100" stop="20261116003000 +0100" channel="DAZN LaLiga">
+    <title>LALIGA EA SPORTS T26/27 · Jornada 10: Barcelona - Real Madrid</title>
+    <desc>Deportes,Fútbol | 2026 | TP
+· Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
+· País: España</desc>
+	</programme>
+	<programme start="20261116003000 +0100" stop="20261116010000 +0100" channel="DAZN LaLiga">
+    <title>Premier Corner by Guiness 0,0: Pedrito T2026 · Pedro Rodríguez, la grandeza no entiende de escenarios</title>
+    <desc>Entretenimiento,Entrevista | 2026 | TP | *6.0/10
+· Pedrito, campeón del Mundo en 2010 y leyenda del FC Barcelona, repasa su carrera deportiva tras anunciar la retirada.
+· País: España</desc>
+	</programme>
+	<programme start="20261116010000 +0100" stop="20261116050000 +0100" channel="DAZN LaLiga">
+    <title>DAZN LaLiga</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20261116050000 +0100" stop="20261116090000 +0100" channel="DAZN LaLiga">
+    <title>DAZN LaLiga</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20261116090000 +0100" stop="20261116120000 +0100" channel="DAZN LaLiga">
+    <title>DAZN LaLiga</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20261116120000 +0100" stop="20261116140000 +0100" channel="DAZN LaLiga">
+    <title>LALIGA EA SPORTS T26/27 · Jornada 7: Atlético de Madrid - Real Madrid</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
+· Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
+· País: España</desc>
+	</programme>
+	<programme start="20261116140000 +0100" stop="20261116141500 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Tenerife - Ceuta</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261116141500 +0100" stop="20261116143000 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Granada - Las Palmas</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261116143000 +0100" stop="20261116144500 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Eibar - Cádiz</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261116144500 +0100" stop="20261116150000 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Eldense - Sabadell</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261116150000 +0100" stop="20261116160000 +0100" channel="DAZN LaLiga">
+    <title>DIRECTO Programa 35 T26/27 · Trending</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Espacio diario para el repaso de lo más actual del fútbol internacional. De lunes a viernes a las 15:00.
+· País: España</desc>
+	</programme>
+	<programme start="20261116160000 +0100" stop="20261116161500 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes DAZN LaLiga EA Sports T26/27 · Jornada 12: Real Sociedad - Rayo</title>
+    <desc>Deportes,Fútbol | 2026 | TP
+· Resumen con lo más destacado de cada uno de los partidos de Primera División.
+· País: España</desc>
+	</programme>
+	<programme start="20261116161500 +0100" stop="20261116163000 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes DAZN LaLiga EA Sports T26/27 · Jornada 12: Celta - Levante</title>
+    <desc>Deportes,Fútbol | 2026 | TP
+· Resumen con lo más destacado de cada uno de los partidos de Primera División.
+· País: España</desc>
+	</programme>
+	<programme start="20261116163000 +0100" stop="20261116164500 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes DAZN LaLiga EA Sports T26/27 · Jornada 12: Atlético de Madrid - Barcelona</title>
+    <desc>Deportes,Fútbol | 2026 | TP
+· Resumen con lo más destacado de cada uno de los partidos de Primera División.
+· País: España</desc>
+	</programme>
+	<programme start="20261116164500 +0100" stop="20261116170000 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes DAZN LaLiga EA Sports T26/27 · Jornada 12: Osasuna - Athletic</title>
+    <desc>Deportes,Fútbol | 2026 | TP
+· Resumen con lo más destacado de cada uno de los partidos de Primera División.
+· País: España</desc>
+	</programme>
+	<programme start="20261116170000 +0100" stop="20261116183000 +0100" channel="DAZN LaLiga">
+    <title>DIRECTO Programa 14 T2 · La Dazoneta</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Un vistazo a la actualidad futbolística del fin de semana desde un tono desenfadado, cercano a los aficionados y donde el humor está muy presente.
+· País: España</desc>
+	</programme>
+	<programme start="20261116183000 +0100" stop="20261116184500 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Almería - Andorra</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261116184500 +0100" stop="20261116190000 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Mallorca - Córdoba</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261116190000 +0100" stop="20261116210000 +0100" channel="DAZN LaLiga">
+    <title>LALIGA EA SPORTS T26/27 · Jornada 10: Barcelona - Real Madrid</title>
+    <desc>Deportes,Fútbol | 2026 | TP
+· Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
+· País: España</desc>
+	</programme>
+	<programme start="20261116210000 +0100" stop="20261116220000 +0100" channel="DAZN LaLiga">
+    <title>Programa 35 T26/27 · Trending</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Espacio diario para el repaso de lo más actual del fútbol internacional. De lunes a viernes a las 15:00.
+· País: España</desc>
+	</programme>
+	<programme start="20261116220000 +0100" stop="20261116230000 +0100" channel="DAZN LaLiga">
+    <title>Ganar. El reto de volver a reinar</title>
+    <desc>Documentales,Deportes | 2026 | TP | *6.6/10
+· José Mourinho vuelve al Real Madrid con un desafío que va mucho más allá de un regreso. El club quiere recuperar su lugar en la cima del fútbol europeo y Mourinho afronta también el reto de volver a ocupar el suyo.
+· País: España
+· Dirección: Ivan Fanlo Torrecilla.
+· Productora: Mediapro.</desc>
+	</programme>
+	<programme start="20261116230000 +0100" stop="20261117003000 +0100" channel="DAZN LaLiga">
+    <title>Programa 14 T2 · La Dazoneta</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Un vistazo a la actualidad futbolística del fin de semana desde un tono desenfadado, cercano a los aficionados y donde el humor está muy presente.
+· País: España</desc>
+	</programme>
+	<programme start="20261117003000 +0100" stop="20261117004500 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Eldense - Sabadell</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261117004500 +0100" stop="20261117010000 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Albacete - Celta Fortuna</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261117010000 +0100" stop="20261117050000 +0100" channel="DAZN LaLiga">
+    <title>DAZN LaLiga</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20261117050000 +0100" stop="20261117090000 +0100" channel="DAZN LaLiga">
+    <title>DAZN LaLiga</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20261117090000 +0100" stop="20261117120000 +0100" channel="DAZN LaLiga">
+    <title>DAZN LaLiga</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20261117120000 +0100" stop="20261117140000 +0100" channel="DAZN LaLiga">
+    <title>LALIGA EA SPORTS T26/27 · Jornada 10: Barcelona - Real Madrid</title>
+    <desc>Deportes,Fútbol | 2026 | TP
+· Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
+· País: España</desc>
+	</programme>
+	<programme start="20261117140000 +0100" stop="20261117141500 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Mallorca - Córdoba</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261117141500 +0100" stop="20261117143000 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Granada - Las Palmas</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261117143000 +0100" stop="20261117144500 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Eibar - Cádiz</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261117144500 +0100" stop="20261117150000 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Eldense - Sabadell</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261117150000 +0100" stop="20261117163000 +0100" channel="DAZN LaLiga">
+    <title>DIRECTO Programa 36 T26/27 · Trending</title>
+    <desc>Deportes,Programa deportes | 2026 | TP
+· Una cita diaria con el latido del fútbol internacional. Un rincón exclusivo donde se desmenuza la actualidad de las grandes ligas, con las mejores imágenes y el testimonio de los protagonistas.
+· País: España</desc>
+	</programme>
+	<programme start="20261117163000 +0100" stop="20261117164500 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Leganés - Burgos</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261117164500 +0100" stop="20261117170000 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Valladolid - Castellón</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261117170000 +0100" stop="20261117171500 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Real Sociedad B - Sporting</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261117171500 +0100" stop="20261117173000 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Almería - Andorra</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261117173000 +0100" stop="20261117190000 +0100" channel="DAZN LaLiga">
+    <title>Programa 14 T2 · La Dazoneta</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Un vistazo a la actualidad futbolística del fin de semana desde un tono desenfadado, cercano a los aficionados y donde el humor está muy presente.
+· País: España</desc>
+	</programme>
+	<programme start="20261117190000 +0100" stop="20261117210000 +0100" channel="DAZN LaLiga">
+    <title>LALIGA EA SPORTS T26/27 · Jornada 12: Valencia - Real Madrid</title>
+    <desc>Deportes,Fútbol | 2026 | TP
+· Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
+· País: España</desc>
+	</programme>
+	<programme start="20261117210000 +0100" stop="20261117223000 +0100" channel="DAZN LaLiga">
+    <title>Programa 36 T26/27 · Trending</title>
+    <desc>Deportes,Programa deportes | 2026 | TP
+· Una cita diaria con el latido del fútbol internacional. Un rincón exclusivo donde se desmenuza la actualidad de las grandes ligas, con las mejores imágenes y el testimonio de los protagonistas.
+· País: España</desc>
+	</programme>
+	<programme start="20261117223000 +0100" stop="20261118003000 +0100" channel="DAZN LaLiga">
+    <title>LALIGA EA SPORTS T26/27 · Jornada 11: Athletic - Real Sociedad</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *7.6/10
+· Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
+· País: España</desc>
+	</programme>
+	<programme start="20261118003000 +0100" stop="20261118004500 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Oviedo - Girona</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261118004500 +0100" stop="20261118010000 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Tenerife - Ceuta</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261118010000 +0100" stop="20261118050000 +0100" channel="DAZN LaLiga">
+    <title>DAZN LaLiga</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20261118050000 +0100" stop="20261118090000 +0100" channel="DAZN LaLiga">
+    <title>DAZN LaLiga</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20261118090000 +0100" stop="20261118120000 +0100" channel="DAZN LaLiga">
+    <title>DAZN LaLiga</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20261118120000 +0100" stop="20261118133000 +0100" channel="DAZN LaLiga">
+    <title>Programa 36 T26/27 · Trending</title>
+    <desc>Deportes,Programa deportes | 2026 | TP
+· Una cita diaria con el latido del fútbol internacional. Un rincón exclusivo donde se desmenuza la actualidad de las grandes ligas, con las mejores imágenes y el testimonio de los protagonistas.
+· País: España</desc>
+	</programme>
+	<programme start="20261118133000 +0100" stop="20261118150000 +0100" channel="DAZN LaLiga">
+    <title>Programa 14 T2 · La Dazoneta</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Un vistazo a la actualidad futbolística del fin de semana desde un tono desenfadado, cercano a los aficionados y donde el humor está muy presente.
+· País: España</desc>
+	</programme>
+	<programme start="20261118150000 +0100" stop="20261118163000 +0100" channel="DAZN LaLiga">
+    <title>DIRECTO Programa 37 T26/27 · Trending</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *10.0/10
+· Una cita diaria con el latido del fútbol internacional. Un rincón exclusivo donde se desmenuza la actualidad de las grandes ligas, con las mejores imágenes y el testimonio de los protagonistas.
+· País: España</desc>
+	</programme>
+	<programme start="20261118163000 +0100" stop="20261118164500 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Mallorca - Córdoba</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261118164500 +0100" stop="20261118184500 +0100" channel="DAZN LaLiga">
+    <title>LALIGA EA SPORTS T26/27 · Jornada 10: Barcelona - Real Madrid</title>
+    <desc>Deportes,Fútbol | 2026 | TP
+· Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
+· País: España</desc>
+	</programme>
+	<programme start="20261118184500 +0100" stop="20261118190000 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Eibar - Cádiz</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261118190000 +0100" stop="20261118210000 +0100" channel="DAZN LaLiga">
+    <title>LALIGA EA SPORTS T26/27 · Jornada 11: R. Racing Club - Real Madrid</title>
+    <desc>Deportes,Fútbol | 2026 | TP
+· Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
+· País: España</desc>
+	</programme>
+	<programme start="20261118210000 +0100" stop="20261118223000 +0100" channel="DAZN LaLiga">
+    <title>Programa 37 T26/27 · Trending</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *10.0/10
+· Una cita diaria con el latido del fútbol internacional. Un rincón exclusivo donde se desmenuza la actualidad de las grandes ligas, con las mejores imágenes y el testimonio de los protagonistas.
+· País: España</desc>
+	</programme>
+	<programme start="20261118223000 +0100" stop="20261119003000 +0100" channel="DAZN LaLiga">
+    <title>LALIGA EA SPORTS T25/26 · Jornada 17: Villarreal - Barcelona</title>
+    <desc>Deportes,Fútbol | 2025 | TP | *6.4/10
+· Partido de la 17ª jornada del campeonato liguero entre Villarreal y Barcelona.
+· País: España</desc>
+	</programme>
+	<programme start="20261119003000 +0100" stop="20261119004500 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Leganés - Burgos</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261119004500 +0100" stop="20261119010000 +0100" channel="DAZN LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Valladolid - Castellón</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+	</programme>
+	<programme start="20261119010000 +0100" stop="20261119050000 +0100" channel="DAZN LaLiga">
+    <title>DAZN LaLiga</title>
+    <desc>· Programa por determinar...</desc>
 	</programme>
 	<programme start="20261114060800 +0100" stop="20261114080000 +0100" channel="M+ LaLiga">
     <title>LALIGA HYPERMOTION T26/27 · Jornada 13: Girona FC - UD Almería</title>
