@@ -117,6 +117,15 @@
     <display-name>M+ Documentales HD UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png" />
   </channel>
+  <channel id="AMC Break">
+    <display-name>AMC Break</display-name>
+    <display-name>AMC Break SD</display-name>
+    <display-name>AMC Break HD</display-name>
+    <display-name>AMC Break 4K</display-name>
+    <display-name>AMC Break Full HD</display-name>
+    <display-name>AMC Break UHD</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Break.png" />
+  </channel>
 	<programme start="20261119012800 +0100" stop="20261119020800 +0100" channel="Historia">
     <title>Alienígenas T16 E16</title>
     <desc>Documental,Otros,Histórico
@@ -10823,6 +10832,2098 @@
     <desc>Entretenimiento,Humor | 2026 | +7 | *6.2/10
 · Shane Gillis batió récords en verano con su show en Filadelfia. Su serie “Tires” acaba de ser renovada. Rosalía vuelve al programa. La ganadora de un Grammy acaba de finalizar su gira mundial Lux.
 · País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261119012100 +0100" stop="20261119014400 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E16</title>
+    <desc>Series,Telenovelas
+· En Westminster, Dave Hester encuentra piezas de coche clásico, Brandi arriesga a espaldas de Jarrod con un lote muy caro y Barry descubre un antiguo aparato médico. Darrell Sheets llega con fajos de billetes pero se marcha sin gastar.</desc>
+	</programme>
+	<programme start="20261119014400 +0100" stop="20261119020500 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E22 · Que llueva el dinero</title>
+    <desc>Series,Telenovelas | 2010 | +7 | *6.3/10
+· Los compradores invaden la tranquila ciudad de Simi Valley (California). Darrell y Brandon derrotan a la competencia. Jarrod y Brandi encuentran unas cajas fuertes.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Brandi Passante, Jarrod Schulz, Laura Dotson, Dan Dotson, Barry Weiss, Darrell Sheets, Dave Hester, Brandon Sheets, Ivy Calvin.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261119020500 +0100" stop="20261119022800 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E22 · Que llueva el dinero</title>
+    <desc>Series,Telenovelas | 2010 | +7 | *6.3/10
+· Los compradores invaden la tranquila ciudad de Simi Valley (California). Darrell y Brandon derrotan a la competencia. Jarrod y Brandi encuentran unas cajas fuertes.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Brandi Passante, Jarrod Schulz, Laura Dotson, Dan Dotson, Barry Weiss, Darrell Sheets, Dave Hester, Brandon Sheets, Ivy Calvin.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261119022800 +0100" stop="20261119024900 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E22 · Que llueva el dinero</title>
+    <desc>Series,Telenovelas | 2010 | +7 | *6.3/10
+· Los compradores invaden la tranquila ciudad de Simi Valley (California). Darrell y Brandon derrotan a la competencia. Jarrod y Brandi encuentran unas cajas fuertes.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Brandi Passante, Jarrod Schulz, Laura Dotson, Dan Dotson, Barry Weiss, Darrell Sheets, Dave Hester, Brandon Sheets, Ivy Calvin.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261119024900 +0100" stop="20261119031500 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E23 · Smoke 'Em If You Find 'Em</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· Los postores vuelven al barrio de Dave Hester, en Newport Beach, California, donde tendrán una visita.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Brandi Passante, Jarrod Schulz, Laura Dotson, Dan Dotson, Barry Weiss, Darrell Sheets, Dave Hester, Brandon Sheets, Ivy Calvin.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261119031500 +0100" stop="20261119033600 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E28 · No es un osito cualquiera</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· Los postores peregrinan al desierto de Lancaster, en California. Nabila Haniss, la dura competidora de la zona oeste, le pone empeño y recibe una gran recompensa.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Laura Dotson, Brandi Passante, Jarrod Schulz, Dan Dotson, Barry Weiss, Darrell Sheets, Dave Hester, Brandon Sheets, Ivy Calvin.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261119033600 +0100" stop="20261119040100 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E30 · Operación vagabundo</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· Los postores se dirigen a Harbor City, California. Jarrod y Brandi regresan al negocio de las subastas.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Dan Dotson, Laura Dotson, Brandi Passante, Jarrod Schulz, Darrell Sheets, Dave Hester, Ivy Calvin, Brandon Sheets.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261119040100 +0100" stop="20261119042200 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E31 · Échale la culpa a la lluvia</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· La Dotson llegan a Santa Cruz, California, siguiendo el rastro del dinero, y los postores persiguen a los Dotson, hasta el mismísimo corazón de una tormenta torrencial.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Brandi Passante, Jarrod Schulz, Laura Dotson, Dan Dotson, Barry Weiss, Darrell Sheets, Dave Hester, Brandon Sheets, Ivy Calvin.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261119042200 +0100" stop="20261119044700 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E24 · La guerra de los drones</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· Los postores regresan a Gardena, California, y también regresa Nabila Hannis, la rival de Dave Hester.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Brandi Passante, Jarrod Schulz, Laura Dotson, Dan Dotson, Darrell Sheets, Brandon Sheets, Dave Hester, Ivy Calvin.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261119044700 +0100" stop="20261119050800 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E25 · Brandi sola ante el peligro</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· Los postores regresan a Santa Ana, California, con una excepción llamativa: Jarrod Schulz.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Laura Dotson, Brandi Passante, Jarrod Schulz, Dan Dotson, Darrell Sheets, Brandon Sheets, Dave Hester, Ivy Calvin.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261119050800 +0100" stop="20261119052400 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E26 · ¡Viva Hollywood!</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· Los postores están en North Hollywood, California, pero lo primero es la gran reapertura de la tienda de Jarrod y Brandi.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Laura Dotson, Brandi Passante, Jarrod Schulz, Dan Dotson, Darrell Sheets, Brandon Sheets, Dave Hester, Ivy Calvin.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261119052400 +0100" stop="20261119054700 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E32 · ¡Viva San Francisco!</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· La serie de subastas de trasteros más exitosa del mundo. ¡No hay nada que se les resista a nuestros cazadores de fortunas!
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Dan Dotson, Laura Dotson, Brandi Passante, Jarrod Schulz, Darrell Sheets, Dave Hester, Ivy Calvin, Brandon Sheets.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261119054700 +0100" stop="20261119060800 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E33 · Mal de altura</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· Los postores entran en una zona elevada y desértica hasta llegar a Highland, California.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Brandi Passante, Jarrod Schulz, Laura Dotson, Dan Dotson, Darrell Sheets, Dave Hester, Ivy Calvin, Brandon Sheets.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261119060800 +0100" stop="20261119063100 +0100" channel="AMC Break">
+    <title>¿Quién da más? T1 E2 · El laberinto</title>
+    <desc>Series,Telenovelas | 2010 | +7 | *6.3/10
+· En Cerritos, los compradores se enfrentan en un laberinto de trasteros con cañas de pescar de bambú, plata y secretos que podrían cambiar su suerte.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Dan Dotson, Brad Withford, Laura Dotson, Dave Hester, Darrell Sheets, Brandi Passante, Jarrod Schulz, Ivy Calvin, Brandon Sheets.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261119063100 +0100" stop="20261119071400 +0100" channel="AMC Break">
+    <title>Mountain Men T13 E9 · Corriendo tras un sueño</title>
+    <desc>Series,Telenovelas | 2024 | +16 | *7.3/10
+· Lauro comienza la Iditarod, una carrera de 1.600 km, con su equipo de dieciséis perros, enfrentándose a condiciones adversas y a un terreno accidentado en una de las carreras más duras del mundo.
+· País: Estados Unidos
+· Dirección: David Arabia, Mason Gertz.
+· Reparto: Charlie Tucker, Josh Kirk, Martha Tansy, Kidd Youren, Harry Youren, Tom Oar, Eustace Conway, Marty Meierotto, Jake Herak, Mike Horstman, Lauro Eklund, Bret Bohn, Ivy O'Guinn, Paul Antczak, Soraya Painter, Chance Painter, Rich Lewis, Morgan Beasley.</desc>
+	</programme>
+	<programme start="20261119071400 +0100" stop="20261119075700 +0100" channel="AMC Break">
+    <title>Mountain Men T13 E10 · Oso abatido</title>
+    <desc>Series,Telenovelas | 2024 | +16 | *7.3/10
+· Lauro continúa su aventura para completar la Iditarod cruzando el interior helado de Alaska. Bret e Ivy persiguen a un oso por un terreno peligrosamente escarpado.
+· País: Estados Unidos
+· Dirección: David Arabia, Mason Gertz.
+· Reparto: Charlie Tucker, Josh Kirk, Martha Tansy, Kidd Youren, Harry Youren, Tom Oar, Eustace Conway, Marty Meierotto, Jake Herak, Mike Horstman, Lauro Eklund, Bret Bohn, Ivy O'Guinn, Paul Antczak, Soraya Painter, Chance Painter, Rich Lewis, Morgan Beasley.</desc>
+	</programme>
+	<programme start="20261119075700 +0100" stop="20261119083800 +0100" channel="AMC Break">
+    <title>Mountain Men T13 E11 · Resistencia</title>
+    <desc>Series,Telenovelas | 2024 | +16 | *7.3/10
+· Lauro se enfrenta a una temperatura de -40 °C, un trineo roto y perros agotados en la ruta Iditarod mientras recorre el río Yukón helado. Bret e Ivy consiguen una impresionante captura de castores.
+· País: Estados Unidos
+· Dirección: David Arabia, Mason Gertz.
+· Reparto: Charlie Tucker, Harry Youren, Kidd Youren, Josh Kirk, Martha Tansy, Tom Oar, Eustace Conway, Marty Meierotto, Jake Herak, Mike Horstman, Lauro Eklund, Bret Bohn, Ivy O'Guinn, Paul Antczak, Soraya Painter, Chance Painter, Rich Lewis, Morgan Beasley.</desc>
+	</programme>
+	<programme start="20261119083800 +0100" stop="20261119092200 +0100" channel="AMC Break">
+    <title>Mountain Men T13 E12 · La línea de meta</title>
+    <desc>Series,Telenovelas | 2024 | +16 | *7.3/10
+· Final de temporada. Lauro se acerca al final de la Iditarod, cruzando 400 kilómetros de hielo a lo largo de la costa del mar de Bering para llegar a la meta en Nome.
+· País: Estados Unidos
+· Dirección: David Arabia, Mason Gertz.
+· Reparto: Charlie Tucker, Harry Youren, Kidd Youren, Josh Kirk, Martha Tansy, Tom Oar, Eustace Conway, Marty Meierotto, Jake Herak, Mike Horstman, Lauro Eklund, Bret Bohn, Ivy O'Guinn, Paul Antczak, Soraya Painter, Chance Painter, Rich Lewis, Morgan Beasley.</desc>
+	</programme>
+	<programme start="20261119092200 +0100" stop="20261119094400 +0100" channel="AMC Break">
+    <title>Empeños en Beverly Hills T2 E20 · Jason y Marilyn y Yossi y Alice</title>
+    <desc>Series,Telenovelas | 2014 | +12 | *5.5/10
+· Yossi se encuentra con la máscara de hockey de Jason de las películas de Viernes 13, un ejemplar de la primera edición de Alicia en el País de las Maravillas y una gran colección de Marilyn Monroe.
+· País: Estados Unidos
+· Dirección: Mike Roth, Scott James, Genevieve Wong.
+· Reparto: Aria Johnson, Yossi Dina, Cory Oliver, Dominique Witten, Rob Klein, Rocco Leo Gaglioti, Melissa Ricci, Mandell Frazier, Kim Hopkins, Rosemary Gore.
+· Producción: Marielle Skouras.</desc>
+	</programme>
+	<programme start="20261119094400 +0100" stop="20261119100800 +0100" channel="AMC Break">
+    <title>Empeños en Beverly Hills T2 E18 · Yossi conoce a un 'Monster'</title>
+    <desc>Series,Telenovelas | 2014 | +12 | *5.5/10
+· Yossi y Cory reciben la visita del actor Butch 'Eddie Munster' Patrick, que quiere venderles su espeluznante bicicleta. Yossi y Aria pueden comprar un ejemplar antiguo de Pinocho.
+· País: Estados Unidos
+· Dirección: Mike Roth, Scott James, Genevieve Wong.
+· Reparto: Aria Johnson, Yossi Dina, Cory Oliver, Dominique Witten, Rob Klein, Rocco Leo Gaglioti, Melissa Ricci, Mandell Frazier, Kim Hopkins, Rosemary Gore.
+· Producción: Marielle Skouras.</desc>
+	</programme>
+	<programme start="20261119100800 +0100" stop="20261119103000 +0100" channel="AMC Break">
+    <title>Empeños en Beverly Hills T2 E22 · Un profesional del tenis y un caballero</title>
+    <desc>Series,Telenovelas | 2014 | +12 | *5.5/10
+· Yossi y Dominique esperan vender una raqueta usada firmada por Andre Agassi. Yossi y Aria deben encontrar el accesorio de joyería perfecto para Gentleman Norman, el perro de los famosos.
+· País: Estados Unidos
+· Dirección: Mike Roth, Scott James, Genevieve Wong.
+· Reparto: Aria Johnson, Yossi Dina, Cory Oliver, Dominique Witten, Rob Klein, Rocco Leo Gaglioti, Melissa Ricci, Mandell Frazier, Kim Hopkins, Rosemary Gore.
+· Producción: Marielle Skouras.</desc>
+	</programme>
+	<programme start="20261119103000 +0100" stop="20261119105200 +0100" channel="AMC Break">
+    <title>Empeños en Beverly Hills T2 E23 · Gremlins, gurkhas y oro</title>
+    <desc>Series,Telenovelas | 2014 | +12 | *5.5/10
+· Yossi y Aria examinan de cerca unos guiones gráficos espeluznantes de los Gremlins, la clásica película de monstruos de los 80. Una clienta quiere vender un resplandeciente brazalete de oro.
+· País: Estados Unidos
+· Dirección: Mike Roth.
+· Reparto: Aria Johnson, Yossi Dina, Cory Oliver, Dominique Witten, Rob Klein, Rocco Leo Gaglioti, Melissa Ricci, Mandell Frazier, Kim Hopkins, Rosemary Gore.</desc>
+	</programme>
+	<programme start="20261119105200 +0100" stop="20261119111600 +0100" channel="AMC Break">
+    <title>Empeños en Beverly Hills T2 E24 · El prestamista chiflado</title>
+    <desc>Series,Telenovelas | 2014 | +12 | *5.5/10
+· Yossi y Cory tienen la oportunidad de comprar un par de accesorios cinematográficos muy inusuales: las manos con efectos de maquillaje de Eddie Murphy de El profesor chiflado II: La familia Klump.
+· País: Estados Unidos
+· Dirección: Mike Roth, Scott James, Genevieve Wong.
+· Reparto: Aria Johnson, Yossi Dina, Cory Oliver, Dominique Witten, Rob Klein, Rocco Leo Gaglioti, Melissa Ricci, Mandell Frazier, Kim Hopkins, Rosemary Gore.
+· Producción: Marielle Skouras.</desc>
+	</programme>
+	<programme start="20261119111600 +0100" stop="20261119114200 +0100" channel="AMC Break">
+    <title>Empeños en Beverly Hills T5 E13 · Coches clásicos, diamantes rosas y leyendas del..</title>
+    <desc>Series,Telenovelas | 2014 | +12 | *5.5/10
+· Yossi tiene que lidiar con una obra de arte original pintada por Miles Davis, la leyenda del jazz; un anillo de diamantes rosas para una mujer embarazada y un clásico Ford Thunderbird de 1963.
+· País: Estados Unidos
+· Dirección: Mike Roth, Scott James, Genevieve Wong.
+· Reparto: Aria Johnson, Yossi Dina, Cory Oliver, Dominique Witten, Rob Klein, Rocco Leo Gaglioti, Melissa Ricci, Mandell Frazier, Kim Hopkins, Rosemary Gore.
+· Producción: Marielle Skouras.</desc>
+	</programme>
+	<programme start="20261119114200 +0100" stop="20261119120700 +0100" channel="AMC Break">
+    <title>Empeños en Beverly Hills T5 E13 · Coches clásicos, diamantes rosas y leyendas del..</title>
+    <desc>Series,Telenovelas | 2014 | +12 | *5.5/10
+· Yossi tiene que lidiar con una obra de arte original pintada por Miles Davis, la leyenda del jazz; un anillo de diamantes rosas para una mujer embarazada y un clásico Ford Thunderbird de 1963.
+· País: Estados Unidos
+· Dirección: Mike Roth, Scott James, Genevieve Wong.
+· Reparto: Aria Johnson, Yossi Dina, Cory Oliver, Dominique Witten, Rob Klein, Rocco Leo Gaglioti, Melissa Ricci, Mandell Frazier, Kim Hopkins, Rosemary Gore.
+· Producción: Marielle Skouras.</desc>
+	</programme>
+	<programme start="20261119120700 +0100" stop="20261119123300 +0100" channel="AMC Break">
+    <title>Empeños en Beverly Hills T1 E1 · Quiero comprar una isla</title>
+    <desc>Series,Telenovelas | 2013 | +12 | *5.5/10
+· El militar israelí Yossi Dina y su exquisita casa de empeños situada en Beverly Hills llegan a la pantalla de Divinity. Desde The Dina Collection, los espectadores asisten a las historias que surgen durante la compra-venta de objetos de valor.
+· País: Estados Unidos
+· Dirección: Mike Roth, Scott James, Genevieve Wong.
+· Reparto: Aria Johnson, Yossi Dina, Cory Oliver, Dominique Witten, Rob Klein, Rocco Leo Gaglioti, Melissa Ricci, Mandell Frazier, Kim Hopkins, Rosemary Gore.
+· Producción: Asylum Entertainment, Marielle Skouras.</desc>
+	</programme>
+	<programme start="20261119123300 +0100" stop="20261119131900 +0100" channel="AMC Break">
+    <title>Cazatesoros T24 E9 · Remolque De Madera</title>
+    <desc>Programa,Entretenimiento,Reality | 2023 | +12 | *7.1/10
+· Robbie mira un trailer de madera; Mike consigue un mecánico de primera línea para ayudar a revivir un grupo de Harleys e Indians ultra raras.
+· País: Estados Unidos
+· Dirección: Mike Wolfe, Frank Fritz, Jason Romeo, Elias Orelup, John Chiappardi, Todd Broder, Ian Gelfand, Catherine Pappas, Adam Matalon, Mary Swanhaus, Jerry Carita, Keshia Coe, Guy Fiorita, Ben Epstein, Anthony Mastanduno, Stephen Tyler Carnathan.
+· Reparto: Mike Wolfe, Frank Fritz, Danielle Colby-Cushman, Robbie Wolfe, Lauren Wray Grisham, Dave Ohrt, Jon Szalay, Emily Gwin, Michael Mefford.
+· Producción: Mike Wolfe.</desc>
+	</programme>
+	<programme start="20261119131900 +0100" stop="20261119140400 +0100" channel="AMC Break">
+    <title>Cazatesoros T24 E10 · Soñando con Detroit</title>
+    <desc>Programa,Entretenimiento,Reality | 2023 | +7 | *7.1/10
+· En la abandonada planta Packard de Detroit, Mike realiza un tour por este emblemático símbolo de la industria estadounidense antes de que desaparezca. Mientras tanto, en Buffalo, la colección de Retro Ron incluye el Santo Grial de las motos vintage.
+· País: Estados Unidos
+· Dirección: Mike Wolfe, Anthony Mastanduno, Ian Gelfand, Stephen Tyler Carnathan, Keshia Coe, Elias Orelup, Ben Epstein, Jason Romeo, Catherine Pappas, Jerry Carita, Guy Fiorita, Adam Matalon, Todd Broder, Mary Swanhaus, John Chiappardi.
+· Reparto: Mike Wolfe, Frank Fritz, Danielle Colby-Cushman, Robbie Wolfe, Lauren Wray Grisham, Dave Ohrt, Jon Szalay, Emily Gwin, Michael Mefford.
+· Producción: Mike Wolfe.</desc>
+	</programme>
+	<programme start="20261119140400 +0100" stop="20261119145000 +0100" channel="AMC Break">
+    <title>Cazatesoros T24 E11 · La pequeña tienda de las maravillas</title>
+    <desc>Programa,Entretenimiento,Reality | 2023 | +12 | *7.1/10
+· Mike y Jersey descubren una pequeña tienda repleta de maravillas en el corazón de Manhattan. Mientras tanto, Robbie persigue el Santo Grial de los carteles de la era del latón.
+· País: Estados Unidos
+· Dirección: Mike Wolfe, Anthony Mastanduno, Ian Gelfand, Stephen Tyler Carnathan, Keshia Coe, Elias Orelup, Ben Epstein, Jason Romeo, Catherine Pappas, Jerry Carita, Guy Fiorita, Adam Matalon, Todd Broder, Mary Swanhaus, John Chiappardi.
+· Reparto: Mike Wolfe, Frank Fritz, Danielle Colby-Cushman, Lauren Wray Grisham, Dave Ohrt, Jon Szalay, Robbie Wolfe, Emily Gwin, Michael Mefford.
+· Producción: Mike Wolfe.</desc>
+	</programme>
+	<programme start="20261119145000 +0100" stop="20261119153600 +0100" channel="AMC Break">
+    <title>Cazatesoros T24 E12 · El príncipe del metro</title>
+    <desc>Programa,Entretenimiento,Reality | 2023 | +7 | *7.1/10
+· Mike se atreve a probar el baile de barra cuando un artista que bucea en contenedores lo invita a participar. Mientras tanto, Robbie y Jersey descubren un auténtico filón de carteles antiguos del metro de Nueva York.
+· País: Estados Unidos
+· Dirección: Anthony Mastanduno, Ian Gelfand, Stephen Tyler Carnathan, Keshia Coe, Elias Orelup, Ben Epstein, Jason Romeo, Catherine Pappas, Jerry Carita, Guy Fiorita, Adam Matalon, Todd Broder, Mary Swanhaus, John Chiappardi.
+· Reparto: Mike Wolfe, Danielle Colby-Cushman, Lauren Wray Grisham, Dave Ohrt, Jon Szalay, Robbie Wolfe, Emily Gwin, Michael Mefford.
+· Producción: Mike Wolfe.</desc>
+	</programme>
+	<programme start="20261119153600 +0100" stop="20261119161200 +0100" channel="AMC Break">
+    <title>Policías en acción T1 E3 · Asaltantes de viviendas</title>
+    <desc>Programa,Reality,Entretenimiento | 2013 | +16 | *5.8/10
+· La policía persigue a unos asaltantes de viviendas. Los agentes valencianos detienen a un joven que presuntamente estaba maltratando a su novia. Agentes madrileños desarticulan una red de atracadores.
+· País: España
+· Dirección: David Ortega.
+· Reparto: Eric Winstrom, Jen Wordelman, Michael Maycroft, Tony Leonard.</desc>
+	</programme>
+	<programme start="20261119161200 +0100" stop="20261119170600 +0100" channel="AMC Break">
+    <title>Policías en acción T1 E4 · Tenencia ilícita de armas</title>
+    <desc>Programa,Reality,Entretenimiento | 2013 | +16 | *5.8/10
+· Unos jóvenes llaman a la policía tras descubrir que hay un individuo dentro de su coche. Cuando llegan los agentes registran al hombre: llevaba una navaja y varios utensilios guardados en una mochila.
+· País: España
+· Dirección: David Ortega.
+· Reparto: Eric Winstrom, Jen Wordelman, Michael Maycroft, Tony Leonard.</desc>
+	</programme>
+	<programme start="20261119170600 +0100" stop="20261119175700 +0100" channel="AMC Break">
+    <title>Policías en acción T1 E5 · Agresiones y peleas</title>
+    <desc>Programa,Entretenimiento,Reality | 2013 | +16 | *5.8/10
+· Un tiroteo frente a un bar de Grand Rapids deja dos muertos. Al investigar el caso, los detectives descubren la implicación de dos hermanos gemelos que alegan legítima defensa, pero las pesquisas apuntan a que una de las víctimas huía desarmada.
+· País: España, Estados Unidos
+· Dirección: David Ortega.
+· Reparto: Eric Winstrom, Jen Wordelman, Michael Maycroft, Tony Leonard.</desc>
+	</programme>
+	<programme start="20261119175700 +0100" stop="20261119185000 +0100" channel="AMC Break">
+    <title>Policías en acción T1 E6 · Ajuste de cuentas</title>
+    <desc>Programa,Entretenimiento,Reality | 2013 | +16 | *5.8/10
+· Un chico apuñalado en el metro de Madrid, un joven brutalmente apaleado en la calle, un grupo de personas intoxicadas en una discoteca… son algunos de los sucesos que protagonizarán la noche.
+· País: España
+· Dirección: David Ortega.
+· Reparto: Eric Winstrom, Jen Wordelman, Michael Maycroft, Tony Leonard.</desc>
+	</programme>
+	<programme start="20261119185000 +0100" stop="20261119191400 +0100" channel="AMC Break">
+    <title>Veterinario en apuros T4 E38 · Pasaje a la India</title>
+    <desc>Series,Telenovelas | 2015 | +12 | *8.9/10
+· Esta vez Jeff y Daniel se van a la India con la idea de comprar muebles a buen precio. Aun así, los indios son conocidos por ser los mejores negociadores del mundo.
+· País: Reino Unido, Japón, Estados Unidos
+· Reparto: Amy Hutcheson, Dr. Lindsay Matheson, Dr. Donald Kraft.</desc>
+	</programme>
+	<programme start="20261119191400 +0100" stop="20261119193900 +0100" channel="AMC Break">
+    <title>Veterinario en apuros T4 E39 · A grandes males, grandes Schwarz</title>
+    <desc>Series,Telenovelas | 2015 | +12 | *8.9/10
+· Jeff y Daniel están en la India con Nafisa, su traductora y guía. Después de aprender trucos acerca de cómo negociar con la gente del país, Jeff decide ir a por su auténtico objetivo: muebles indios.
+· País: Reino Unido, Japón, Estados Unidos
+· Reparto: Amy Hutcheson, Dr. Lindsay Matheson, Dr. Donald Kraft.</desc>
+	</programme>
+	<programme start="20261119193900 +0100" stop="20261119200300 +0100" channel="AMC Break">
+    <title>The Liquidator T3 E15 · Dinero enterrado</title>
+    <desc>Programa,Reality,Entretenimiento | 2014 | +12 | *7.2/10
+· Jeff se enorgullece de su habilidad de acceder a nuevos nichos del mercado, pero incluso él tiene problemas cuando se trata de atraer compradores para su última adquisición.
+· País: Canadá
+· Dirección: Fred Frame.
+· Reparto: Rin, Jeff Schwarz, Daniel Fu, José Pesquera, Sheldon, Laura Jacobs, Daniel.</desc>
+	</programme>
+	<programme start="20261119200300 +0100" stop="20261119202900 +0100" channel="AMC Break">
+    <title>The Liquidator T3 E16 · Algo huele a podrido..</title>
+    <desc>Programa,Reality,Entretenimiento | 2013 | +12 | *7.2/10
+· Mientras Sheldon trata de vender un restaurante embargado, Jeff arriesga una buena cantidad para hacerse con una subasta prometedora.
+· País: Canadá
+· Dirección: Fred Frame.
+· Reparto: James Cousineau, José Pesquera, Laura Jacobs, Daniel Fu, Daniel, Rin, Jeff Schwarz, Sheldon.</desc>
+	</programme>
+	<programme start="20261119202900 +0100" stop="20261119205600 +0100" channel="AMC Break">
+    <title>The Liquidator T3 E17 · Viaje a California</title>
+    <desc>Programa,Reality,Entretenimiento | 2013 | +12 | *7.2/10
+· Jeff recibe una llamada de su primo Sasha y decide ponerse en viaje a California para comprar unas estatuas de Popeye y Olivia. ¿Quién le acompañará en esta aventura? ¿Conseguirá hacerse con las estatuas a un precio justo?
+· País: Canadá
+· Dirección: Fred Frame.
+· Reparto: James Cousineau, José Pesquera, Laura Jacobs, Daniel Fu, Daniel, Rin, Jeff Schwarz, Sheldon.</desc>
+	</programme>
+	<programme start="20261119205600 +0100" stop="20261119212200 +0100" channel="AMC Break">
+    <title>The Liquidator T3 E18 · Tocado... pero no hundido</title>
+    <desc>Programa,Reality,Entretenimiento | 2013 | +12 | *7.2/10
+· Jeff tendrá que organizar una subasta para vender los artículos de carpintería que ha embargado Sheldon que resultará mucho más complicada de lo que imaginaba.
+· País: Canadá
+· Dirección: Fred Frame, Alec MacNeill Richardson.
+· Reparto: James Cousineau, José Pesquera, Laura Jacobs, Daniel Fu.</desc>
+	</programme>
+	<programme start="20261119212200 +0100" stop="20261119214800 +0100" channel="AMC Break">
+    <title>The Liquidator T3 E19 · Tocado... pero no hundido</title>
+    <desc>Programa,Reality,Entretenimiento | 2014 | +12 | *7.2/10
+· Jeff tendrá que organizar una subasta para vender los artículos de carpintería que ha embargado Sheldon que resultará mucho más complicada de lo que imaginaba.
+· País: Canadá
+· Dirección: Alec MacNeill Richardson, Fred Frame.
+· Reparto: James Cousineau, José Pesquera, Laura Jacobs, Daniel Fu, Daniel, Rin, Jeff Schwarz, Sheldon.</desc>
+	</programme>
+	<programme start="20261119214800 +0100" stop="20261119221500 +0100" channel="AMC Break">
+    <title>The Liquidator T3 E20 · Intercambio de favores</title>
+    <desc>Programa,Reality,Entretenimiento | 2013 | +12 | *7.2/10
+· Jeff pronto recordará lo difícil que es ser buena persona cuando le llegan un camión con cuentas, un barco de pesca y unos familiares.
+· País: Canadá
+· Dirección: Alec MacNeill Richardson, Fred Frame.
+· Reparto: James Cousineau, José Pesquera, Laura Jacobs, Daniel Fu, Daniel, Rin, Jeff Schwarz, Sheldon.</desc>
+	</programme>
+	<programme start="20261119221500 +0100" stop="20261119225000 +0100" channel="AMC Break">
+    <title>Currantes extremos T1 E7 · Basura a lo grande</title>
+    <desc>Programa,Entretenimiento,Reality | 2025 | +7
+· Dan se une a un equipo que trabaja a un ritmo frenético para gestionar todo aquello de lo que los demás quieren deshacerse.
+· País: Canadá, Estados Unidos</desc>
+	</programme>
+	<programme start="20261119225000 +0100" stop="20261119232000 +0100" channel="AMC Break">
+    <title>Currantes extremos T1 E8 · Entre las ramas</title>
+    <desc>Programa,Entretenimiento,Reality | 2025 | +7
+· Plantar, podar y trepar a gran altura. Dan descubre que el trabajo de los arboristas combina habilidad, riesgo y una buena dosis de adrenalina.
+· País: Canadá, Estados Unidos</desc>
+	</programme>
+	<programme start="20261119232000 +0100" stop="20261119235000 +0100" channel="AMC Break">
+    <title>Currantes extremos T1 E9 · En primera línea</title>
+    <desc>Programa,Entretenimiento,Reality | 2025 | +7
+· Dan se entrena junto a un cuerpo de bomberos y comprueba que, para subir al camión, tendrá que enfrentarse a equipos pesados, alturas vertiginosas y una exigente preparación física.
+· País: Canadá, Estados Unidos</desc>
+	</programme>
+	<programme start="20261119235000 +0100" stop="20261120001900 +0100" channel="AMC Break">
+    <title>Currantes extremos T1 E4 · Día de pesca</title>
+    <desc>Programa,Entretenimiento,Reality | 2025 | +7
+· Madrugones, redes repletas de peces y largas jornadas en alta mar. Dan se embarca con una flota pesquera comercial para conocer de primera mano uno de los trabajos más duros de la industria.
+· País: Canadá, Estados Unidos</desc>
+	</programme>
+	<programme start="20261120001900 +0100" stop="20261120005500 +0100" channel="AMC Break">
+    <title>Currantes extremos T1 E5 · Caos en la granja</title>
+    <desc>Programa,Entretenimiento,Reality | 2025 | +7
+· En una moderna explotación lechera gestionada por varias generaciones, Dan se pone a las órdenes de los más jóvenes y descubre que la vida en la granja guarda más sorpresas de las que imaginaba.
+· País: Canadá, Estados Unidos</desc>
+	</programme>
+	<programme start="20261120005500 +0100" stop="20261120013100 +0100" channel="AMC Break">
+    <title>Currantes extremos T1 E6 · Control de plagas</title>
+    <desc>Programa,Entretenimiento,Reality | 2025 | +7
+· El valor de Dan se pone a prueba cuando acompaña a expertos en control de plagas encargados de eliminar insectos invasores y capturar visitantes indeseados.
+· País: Canadá, Estados Unidos</desc>
+	</programme>
+	<programme start="20261120013100 +0100" stop="20261120015100 +0100" channel="AMC Break">
+    <title>Fugitivos: Pillados en cámara T2 E13</title>
+    <desc>Documental,Otros | 2025 | +12
+· Varios cuerpos policiales persiguen fugitivos armados y peligrosos, enfrentando incidentes como secuestros, colisiones y maniobras evasivas.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120015100 +0100" stop="20261120021300 +0100" channel="AMC Break">
+    <title>Fugitivos: Pillados en cámara T2 E14</title>
+    <desc>Documental,Otros | 2025 | +12
+· La policía persigue a distintos fugitivos sospechosos de asesinato, de robo de equipaje y de conducción bajo efectos del alcohol en vehículos robados.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120021300 +0100" stop="20261120023300 +0100" channel="AMC Break">
+    <title>Fugitivos: Pillados en cámara T2 E15</title>
+    <desc>Documental,Otros | 2025 | +12
+· Los policías que persiguen a un fugitivo encuentran a una niña en el coche, un civil ayuda en una persecución y una acusada de hurto provoca disturbios.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120023300 +0100" stop="20261120025500 +0100" channel="AMC Break">
+    <title>Fugitivos: Pillados en cámara T2 E16</title>
+    <desc>Documental,Otros | 2025 | +12
+· Entre la persecuciones policiales de hoy, un perro policía va tras un fugitivo saltando desde un puente, un fugitivo arroja un mazo y otro trata de escapar en moto por el cementerio.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120025500 +0100" stop="20261120031500 +0100" channel="AMC Break">
+    <title>Fugitivos: Pillados en cámara T2 E17</title>
+    <desc>Documental,Otros | 2025 | +12
+· Entre otras situaciones, veremos a la policía tras una mujer ebria que conduce de modo temerario una autocaravana, a un sospechoso armado y un fugitivo que huye a 160 km/h.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120031500 +0100" stop="20261120033700 +0100" channel="AMC Break">
+    <title>Fugitivos: Pillados en cámara T2 E18</title>
+    <desc>Documental,Otros | 2025 | +12
+· En este episodio, veremos a la policía enfrentarse a tiroteos, persecuciones y arrestos de sospechosos en situaciones peligrosas y condiciones adversas.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120033700 +0100" stop="20261120035700 +0100" channel="AMC Break">
+    <title>Fugitivos: Pillados en cámara T2 E19</title>
+    <desc>Documental,Otros | 2025 | +12
+· Hoy tenemos la persecución de una motocicleta en sentido contrario, la búsqueda de una bomba casera y cómo los ayudantes del sheriff evitan clavos en una fuga entre varios estados.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120035700 +0100" stop="20261120041900 +0100" channel="AMC Break">
+    <title>Fugitivos: Pillados en cámara T2 E20</title>
+    <desc>Documental,Otros | 2025 | +12
+· Entre las persecuciones que veremos a un hombre armado que roba un coche patrulla, también a un vehículo que en la huida se incendia y a un sospechoso huye en un camión hacia Canadá.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120041900 +0100" stop="20261120043900 +0100" channel="AMC Break">
+    <title>Cops T36 E3 · Con el corazón roto en vacaciones</title>
+    <desc>Programa,Reality | 2024 | +12
+· Un menor de edad es sorprendido con alcohol y recibe una multa. Tolerancia cero en el condado de Pinellas respecto al consumo de alcohol y los envases de vidrio en la playa.
+· País: Reino Unido, Estados Unidos
+· Dirección: Varios.
+· Reparto: Varios, Ruben Barela, Andrew Fincher, Heather Ashley Chase, Ryan Mann, Thomas Lynn, Alex Cox.
+· Producción: Malcolm Barbour, John langley.</desc>
+	</programme>
+	<programme start="20261120043900 +0100" stop="20261120050000 +0100" channel="AMC Break">
+    <title>Cops T36 E4 · La fiesta de la primavera</title>
+    <desc>Programa,Reality | 2024 | +12
+· Turistas bailando en el Strip de Las Vegas. Una estudiante que se niega a cooperar acaba esposada. Surfistas y socorristas rescatan a unos bañistas. Un joven miente sobre su edad.
+· País: Reino Unido, Estados Unidos
+· Dirección: Varios.
+· Reparto: Varios, Ruben Barela, Andrew Fincher, Heather Ashley Chase, Ryan Mann, Thomas Lynn, Alex Cox.
+· Producción: Malcolm Barbour, John langley.</desc>
+	</programme>
+	<programme start="20261120050000 +0100" stop="20261120052100 +0100" channel="AMC Break">
+    <title>Cops T36 E12 · Peleas, huyes o te paralizas</title>
+    <desc>Programa,Reality | 2024 | +12
+· Persecución en coche y con la unidad canina. Una maniobra PIT para detener un vehículo robado. Un hombre afirma que tiene «ojos de loco» cuando un agente sospecha que conduce drogado.
+· País: Reino Unido, Estados Unidos
+· Dirección: Varios.
+· Reparto: Varios, Ruben Barela, Andrew Fincher, Heather Ashley Chase, Ryan Mann, Thomas Lynn, Alex Cox.
+· Producción: Malcolm Barbour, John langley.</desc>
+	</programme>
+	<programme start="20261120052100 +0100" stop="20261120054300 +0100" channel="AMC Break">
+    <title>Cops T36 E13 · Coches robados y estrellas de películas</title>
+    <desc>Programa,Reality | 2024 | +12
+· Una mujer en un coche robado pierde el control y huye de la policía. Un robo en una iglesia, durante el que un sospechoso rompe las ventanas. Una matrícula robada y alterada con corrector líquido.
+· País: Reino Unido, Estados Unidos
+· Dirección: Varios.
+· Reparto: Varios, Ruben Barela, Andrew Fincher, Heather Ashley Chase, Ryan Mann, Thomas Lynn, Alex Cox.</desc>
+	</programme>
+	<programme start="20261120054300 +0100" stop="20261120060300 +0100" channel="AMC Break">
+    <title>Cops T36 E15 · Crisis de identidad</title>
+    <desc>Programa,Reality | 2024 | +12
+· Un televisor robado cuelga de una furgoneta durante una persecución a poca velocidad. Una mujer muerde a su novio durante una discusión. Un hombre afirma que recibió un coche robado de un familiar.
+· País: Reino Unido, Estados Unidos
+· Dirección: Varios.
+· Reparto: Varios, Ruben Barela, Andrew Fincher, Heather Ashley Chase, Ryan Mann, Thomas Lynn, Alex Cox.
+· Producción: Malcolm Barbour, John langley.</desc>
+	</programme>
+	<programme start="20261120060300 +0100" stop="20261120062500 +0100" channel="AMC Break">
+    <title>Cops T27 E17 · Persecución</title>
+    <desc>Programa,Reality | 2024 | +12
+· Los policías atienen un llamado de robo de auto, con 4 sospechosos y se inicia una persecución. Un hombre intoxicado amenaza a su madre con un cuchillo. La policía trata de detener a un vehículo y en la persecución van tirando algo.
+· País: Reino Unido, Estados Unidos
+· Reparto: Ruben Barela, Andrew Fincher, Heather Ashley Chase, Ryan Mann, Thomas Lynn, Alex Cox.
+· Producción: Malcolm Barbour, John langley.</desc>
+	</programme>
+	<programme start="20261120062500 +0100" stop="20261120070900 +0100" channel="AMC Break">
+    <title>Gigantes de la carga T1 E2</title>
+    <desc>Programa,Reality | 2022 | +12
+· North Coast Heavy Towing retira un camión cargado de pollos que bloquea una autopista. Clayton's rescata un catamarán varado y Wagga se ocupa de un silo dañado.
+· País: Australia
+· Dirección: Brad Cone.
+· Reparto: Paul, Mike, Bimmy, Reece, Steve, Gerardo, Scott, Baron.</desc>
+	</programme>
+	<programme start="20261120070900 +0100" stop="20261120075100 +0100" channel="AMC Break">
+    <title>Furia al volante T1 E5 · Angel y Donnie</title>
+    <desc>Programa,Reality | 2024 | +12
+· Angel, que trabaja de repartidor, no puede mantener la calma rodeado del tráfico de la ciudad. Donnie descarga su rabia conduciendo lo más rápido posible, buscando un subidón de adrenalina.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120075100 +0100" stop="20261120083100 +0100" channel="AMC Break">
+    <title>Furia al volante T1 E6 · Akilah y Matt</title>
+    <desc>Programa,Reality | 2024 | +12
+· Akilah dice que es demasiado guapa para sentir tanta rabia cuando conduce. Matt se ha divorciado y busca el amor, siempre y cuando su rabia al volante no se interponga.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120083100 +0100" stop="20261120091300 +0100" channel="AMC Break">
+    <title>Furia al volante T1 E9 · Shaina y Kevin</title>
+    <desc>Programa,Reality | 2024 | +12
+· Shaina no puede evitar gritar a casi todos los coches con los que se cruza. Ahora, su hijo le ha dado un ultimátum. Kevin se ha recuperado de un infarto provocado por el estrés, pero teme sufrir otro.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120091300 +0100" stop="20261120093400 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E24 · La guerra de los drones</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· Los postores regresan a Gardena, California, y también regresa Nabila Hannis, la rival de Dave Hester.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Brandi Passante, Jarrod Schulz, Laura Dotson, Dan Dotson, Darrell Sheets, Brandon Sheets, Dave Hester, Ivy Calvin.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261120093400 +0100" stop="20261120095700 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E25 · Brandi sola ante el peligro</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· Los postores regresan a Santa Ana, California, con una excepción llamativa: Jarrod Schulz.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Laura Dotson, Brandi Passante, Jarrod Schulz, Dan Dotson, Darrell Sheets, Brandon Sheets, Dave Hester, Ivy Calvin.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261120095700 +0100" stop="20261120101800 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E26 · ¡Viva Hollywood!</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· Los postores están en North Hollywood, California, pero lo primero es la gran reapertura de la tienda de Jarrod y Brandi.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Laura Dotson, Brandi Passante, Jarrod Schulz, Dan Dotson, Darrell Sheets, Brandon Sheets, Dave Hester, Ivy Calvin.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261120101800 +0100" stop="20261120103900 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E27 · No apuestes tan cerca de mí</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· Los postores se baten en la ciudad de Rancho Cucamonga, California. Dave Hester llega en un camión tan grande que podría caber su ego en él, y también un trastero familiar entero.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Laura Dotson, Brandi Passante, Jarrod Schulz, Dan Dotson, Darrell Sheets, Brandon Sheets, Dave Hester, Ivy Calvin.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261120103900 +0100" stop="20261120110200 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E29 · De cabo a rabo</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· Los postores se dirigen al oeste, a Inglewood, California. Son los dominios de Nabila Haniss, pero lo que encuentra allí podría acabar quedándose en humo.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Laura Dotson, Brandi Passante, Jarrod Schulz, Dan Dotson, Darrell Sheets, Brandon Sheets, Dave Hester, Ivy Calvin.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261120110200 +0100" stop="20261120112700 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E32 · ¡Viva San Francisco!</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· La serie de subastas de trasteros más exitosa del mundo. ¡No hay nada que se les resista a nuestros cazadores de fortunas!
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Dan Dotson, Laura Dotson, Brandi Passante, Jarrod Schulz, Darrell Sheets, Dave Hester, Ivy Calvin, Brandon Sheets.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261120112700 +0100" stop="20261120115100 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E33 · Mal de altura</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· Los postores entran en una zona elevada y desértica hasta llegar a Highland, California.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Brandi Passante, Jarrod Schulz, Laura Dotson, Dan Dotson, Darrell Sheets, Dave Hester, Ivy Calvin, Brandon Sheets.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261120115100 +0100" stop="20261120121700 +0100" channel="AMC Break">
+    <title>¿Quién da más? T1 E2 · El laberinto</title>
+    <desc>Series,Telenovelas | 2010 | +7 | *6.3/10
+· En Cerritos, los compradores se enfrentan en un laberinto de trasteros con cañas de pescar de bambú, plata y secretos que podrían cambiar su suerte.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Dan Dotson, Brad Withford, Laura Dotson, Dave Hester, Darrell Sheets, Brandi Passante, Jarrod Schulz, Ivy Calvin, Brandon Sheets.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261120121700 +0100" stop="20261120124100 +0100" channel="AMC Break">
+    <title>Veterinario en apuros T4 E38 · Pasaje a la India</title>
+    <desc>Series,Telenovelas | 2015 | +12 | *8.9/10
+· Esta vez Jeff y Daniel se van a la India con la idea de comprar muebles a buen precio. Aun así, los indios son conocidos por ser los mejores negociadores del mundo.
+· País: Reino Unido, Japón, Estados Unidos
+· Reparto: Amy Hutcheson, Dr. Lindsay Matheson, Dr. Donald Kraft.</desc>
+	</programme>
+	<programme start="20261120124100 +0100" stop="20261120130500 +0100" channel="AMC Break">
+    <title>Veterinario en apuros T4 E39 · A grandes males, grandes Schwarz</title>
+    <desc>Series,Telenovelas | 2015 | +12 | *8.9/10
+· Jeff y Daniel están en la India con Nafisa, su traductora y guía. Después de aprender trucos acerca de cómo negociar con la gente del país, Jeff decide ir a por su auténtico objetivo: muebles indios.
+· País: Reino Unido, Japón, Estados Unidos
+· Reparto: Amy Hutcheson, Dr. Lindsay Matheson, Dr. Donald Kraft.</desc>
+	</programme>
+	<programme start="20261120130500 +0100" stop="20261120132900 +0100" channel="AMC Break">
+    <title>The Liquidator T3 E15 · Dinero enterrado</title>
+    <desc>Programa,Reality,Entretenimiento | 2014 | +12 | *7.2/10
+· Jeff se enorgullece de su habilidad de acceder a nuevos nichos del mercado, pero incluso él tiene problemas cuando se trata de atraer compradores para su última adquisición.
+· País: Canadá
+· Dirección: Fred Frame.
+· Reparto: Rin, Jeff Schwarz, Daniel Fu, José Pesquera, Sheldon, Laura Jacobs, Daniel.</desc>
+	</programme>
+	<programme start="20261120132900 +0100" stop="20261120135300 +0100" channel="AMC Break">
+    <title>The Liquidator T3 E16 · Algo huele a podrido..</title>
+    <desc>Programa,Reality,Entretenimiento | 2013 | +12 | *7.2/10
+· Mientras Sheldon trata de vender un restaurante embargado, Jeff arriesga una buena cantidad para hacerse con una subasta prometedora.
+· País: Canadá
+· Dirección: Fred Frame.
+· Reparto: James Cousineau, José Pesquera, Laura Jacobs, Daniel Fu, Daniel, Rin, Jeff Schwarz, Sheldon.</desc>
+	</programme>
+	<programme start="20261120135300 +0100" stop="20261120141700 +0100" channel="AMC Break">
+    <title>The Liquidator T3 E17 · Viaje a California</title>
+    <desc>Programa,Reality,Entretenimiento | 2013 | +12 | *7.2/10
+· Jeff recibe una llamada de su primo Sasha y decide ponerse en viaje a California para comprar unas estatuas de Popeye y Olivia. ¿Quién le acompañará en esta aventura? ¿Conseguirá hacerse con las estatuas a un precio justo?
+· País: Canadá
+· Dirección: Fred Frame.
+· Reparto: James Cousineau, José Pesquera, Laura Jacobs, Daniel Fu, Daniel, Rin, Jeff Schwarz, Sheldon.</desc>
+	</programme>
+	<programme start="20261120141700 +0100" stop="20261120144200 +0100" channel="AMC Break">
+    <title>The Liquidator T3 E18 · Tocado... pero no hundido</title>
+    <desc>Programa,Reality,Entretenimiento | 2013 | +12 | *7.2/10
+· Jeff tendrá que organizar una subasta para vender los artículos de carpintería que ha embargado Sheldon que resultará mucho más complicada de lo que imaginaba.
+· País: Canadá
+· Dirección: Fred Frame, Alec MacNeill Richardson.
+· Reparto: James Cousineau, José Pesquera, Laura Jacobs, Daniel Fu.</desc>
+	</programme>
+	<programme start="20261120144200 +0100" stop="20261120150600 +0100" channel="AMC Break">
+    <title>The Liquidator T3 E19 · Tocado... pero no hundido</title>
+    <desc>Programa,Reality,Entretenimiento | 2014 | +12 | *7.2/10
+· Jeff tendrá que organizar una subasta para vender los artículos de carpintería que ha embargado Sheldon que resultará mucho más complicada de lo que imaginaba.
+· País: Canadá
+· Dirección: Alec MacNeill Richardson, Fred Frame.
+· Reparto: James Cousineau, José Pesquera, Laura Jacobs, Daniel Fu, Daniel, Rin, Jeff Schwarz, Sheldon.</desc>
+	</programme>
+	<programme start="20261120150600 +0100" stop="20261120153000 +0100" channel="AMC Break">
+    <title>The Liquidator T3 E20 · Intercambio de favores</title>
+    <desc>Programa,Reality,Entretenimiento | 2013 | +12 | *7.2/10
+· Jeff pronto recordará lo difícil que es ser buena persona cuando le llegan un camión con cuentas, un barco de pesca y unos familiares.
+· País: Canadá
+· Dirección: Alec MacNeill Richardson, Fred Frame.
+· Reparto: James Cousineau, José Pesquera, Laura Jacobs, Daniel Fu, Daniel, Rin, Jeff Schwarz, Sheldon.</desc>
+	</programme>
+	<programme start="20261120153000 +0100" stop="20261120155400 +0100" channel="AMC Break">
+    <title>Guerra de vecinos T7 E3 · Cuando el río suena, agua lleva</title>
+    <desc>Programa,Reality | 2025 | +16 | *6.7/10
+· Una propietaria se queja de que sus vecinos fuman demasiado cerca. Un vecino rocía agua bendita en una puerta. Un hombre es acusado por su vecino de tener un muñeco de vudú.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120155400 +0100" stop="20261120161900 +0100" channel="AMC Break">
+    <title>Guerra de vecinos T7 E4 · La mejor defensa es una valla</title>
+    <desc>Programa,Reality | 2025 | +16 | *6.7/10
+· Un hombre con un bate aterroriza un barrio de noche. Una pareja de ancianos discute con jóvenes por pescar cerca de su casa. Vecinos pelean por un arbusto que separa sus parcelas.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120161900 +0100" stop="20261120164300 +0100" channel="AMC Break">
+    <title>Guerra de vecinos T7 E5 · Se acabó la fiesta</title>
+    <desc>Programa,Reality | 2025 | +16 | *6.7/10
+· Una discusión entre vecinos se agrava de repente con un tiroteo. Una senderista es reprendida por supuesta invasión de propiedad. Una pareja fiestera tiene problemas con sus vecinos por el ruido.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120164300 +0100" stop="20261120170700 +0100" channel="AMC Break">
+    <title>Guerra de vecinos T7 E6 · Jaque mate</title>
+    <desc>Programa,Reality | 2025 | +16 | *6.7/10
+· Compañeros de piso reciben insultos extraños de un vecino. Una disputa entre vecinos por no respetar un acuerdo verbal. Una multitud reprende a una conductora por dejar a su perro en el coche al sol.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120170700 +0100" stop="20261120173100 +0100" channel="AMC Break">
+    <title>Guerra de vecinos T7 E7 · Jaque mate</title>
+    <desc>Programa,Reality | 2025 | +16 | *6.7/10
+· Compañeros de piso reciben insultos extraños de un vecino. Una disputa entre vecinos por no respetar un acuerdo verbal. Una multitud reprende a una conductora por dejar a su perro en el coche al sol.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120173100 +0100" stop="20261120175600 +0100" channel="AMC Break">
+    <title>Guerra de vecinos T7 E8 · Este sitio es mío</title>
+    <desc>Programa,Reality | 2025 | +16 | *6.7/10
+· Dos vecinos rivalizan por un sitio en el desfile navideño. Impiden la entrada a un hombre que dice llevar medicación a su abuela. Un joven se gana la antipatía de su anciano vecino.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120175600 +0100" stop="20261120182100 +0100" channel="AMC Break">
+    <title>Guerra de vecinos T7 E9 · La valla de la discordia</title>
+    <desc>Programa,Reality | 2025 | +16 | *6.7/10
+· Una valla desata un conflicto vecinal, una mujer estalla por el ruido de una fiesta; y un propietario, con ayuda de su esposa armada con un palo, planta cara a un presunto ladrón.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120182100 +0100" stop="20261120184600 +0100" channel="AMC Break">
+    <title>Guerra de vecinos T7 E10 · Un pez muy molesto</title>
+    <desc>Programa,Reality | 2025 | +16 | *6.7/10
+· Un pescador choca con sus vecinos por dónde pescar, una pelea callejera deja a un testigo arrepentido de sus comentarios y los fuegos artificiales provocan otro conflicto vecinal.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120184600 +0100" stop="20261120191000 +0100" channel="AMC Break">
+    <title>¿Quién da más?: Texas T2 E7 · Fin del mundo de Bubba</title>
+    <desc>Programa,Reality | 2012 | +7 | *5.1/10
+· Bubba hace una oferta alta en contra de Víctor; Jenny va por un objeto estimulante; por fin María y Moe tienen una estrategia; Ricky consigue una moneda de colección que puede ser la salvación.
+· País: Estados Unidos
+· Reparto: Walt Cade, Ricky Smith, Bubba Smith, Mary Padian, Victor Rjesnjansky, Jenny Grumbles, Morris Prigoff, Lesa Lewis.</desc>
+	</programme>
+	<programme start="20261120191000 +0100" stop="20261120193500 +0100" channel="AMC Break">
+    <title>¿Quién da más?: Texas T2 E8 · Noche de zombis</title>
+    <desc>Programa,Reality | 2012 | +7 | *5.1/10
+· Ricky y Bubba compran objetos para el ganado; Jenny busca antigüedades; Víctor encuentra equipo de motocicleta; Mary y Moe descubren un objeto que Benjamin Franklin pudo haber construido;.
+· País: Estados Unidos
+· Reparto: Walt Cade, Ricky Smith, Bubba Smith, Mary Padian, Victor Rjesnjansky, Jenny Grumbles, Morris Prigoff, Lesa Lewis.</desc>
+	</programme>
+	<programme start="20261120193500 +0100" stop="20261120200000 +0100" channel="AMC Break">
+    <title>¿Quién da más?: Texas T2 E9 · Jenny puede con todo</title>
+    <desc>Programa,Reality | 2012 | +7 | *5.1/10
+· Los postores buscan ofertas en Mesquite, Texas; Víctor busca arrebatar su pedazo del pastel, pero Jenny se atraviesa con una lesión en la cabeza; Mary quiere impresionar a Moe en el billar.
+· País: Estados Unidos
+· Reparto: Walt Cade, Ricky Smith, Bubba Smith, Mary Padian, Victor Rjesnjansky, Jenny Grumbles, Morris Prigoff, Lesa Lewis.</desc>
+	</programme>
+	<programme start="20261120200000 +0100" stop="20261120202700 +0100" channel="AMC Break">
+    <title>¿Quién da más?: Texas T2 E11 · El auténtico Austin</title>
+    <desc>Programa,Reality | 2012 | +7 | *5.1/10
+· Moe y Mary pelean por antigüedades que valen miles de dólares; Jenny recibe clases de Rock and Roll; Ricky y Bubba sacan ventaja como locales en la ciudad que tiene por lema "Mantén a Austin raro".
+· País: Estados Unidos
+· Reparto: Walt Cade, Ricky Smith, Bubba Smith, Mary Padian, Victor Rjesnjansky.</desc>
+	</programme>
+	<programme start="20261120202700 +0100" stop="20261120205400 +0100" channel="AMC Break">
+    <title>¿Quién da más?: Texas T1 E6 · ¿Recuerdas el Álamo?</title>
+    <desc>Programa,Reality | 2011 | +7 | *5.1/10
+· El grupo se dirige a una instalación en Fort Worth donde las apariencias engañan; Moe intenta obtener una gran ganancia luego de haberse perdido la subasta en el lugar de Walt mientras Lesa espera que un tarro de galletas tenga algún valor monetario.
+· País: Estados Unidos
+· Reparto: Walt Cade, Ricky Smith, Bubba Smith, Mary Padian, Victor Rjesnjansky, Jenny Grumbles, Morris Prigoff, Lesa Lewis.</desc>
+	</programme>
+	<programme start="20261120205400 +0100" stop="20261120212100 +0100" channel="AMC Break">
+    <title>¿Quién da más?: Texas T1 E9 · Si fuese un tibetano</title>
+    <desc>Programa,Reality | 2011 | +7 | *5.1/10
+· Bubba y Ricky deben certificar su hallazgo antes de celebrar en Fort Worth; Lesa intenta demostrar que no es solo una oportunista; Víctor se enfrenta a una situación difícil; la competencia se intensifica cuando los compradores hallan mubles de lujo.
+· País: Estados Unidos
+· Reparto: Walt Cade, Ricky Smith, Bubba Smith, Mary Padian, Victor Rjesnjansky, Jenny Grumbles, Lesa Lewis, Jerry Simpson, Morris Prigoff.</desc>
+	</programme>
+	<programme start="20261120212100 +0100" stop="20261120214800 +0100" channel="AMC Break">
+    <title>¿Quién da más?: Texas T1 E5 · Indios y vaqueros</title>
+    <desc>Programa,Reality | 2012 | +7 | *5.1/10
+· Cuatro compradores buscan artículos de inspiración occidental; dos compradores buscan el consejo de un vaquero mientras que otro trata de agradar al público; un comprador encuentra algo para usar en contra de su rival en Fort Worth, Texas.
+· País: Estados Unidos
+· Reparto: Walt Cade, Ricky Smith, Bubba Smith, Mary Padian, Victor Rjesnjansky, Roy Williams, Jenny Grumbles, Morris Prigoff, Lesa Lewis.</desc>
+	</programme>
+	<programme start="20261120214800 +0100" stop="20261120221500 +0100" channel="AMC Break">
+    <title>¿Quién da más?: Texas T1 E6 · ¿Quién compró JFK?</title>
+    <desc>Programa,Reality | 2011 | +7 | *5.1/10
+· Lesa y un jugador de fútbol retirado luchan por una unidad que tiene un objeto siniestro; Víctor descubre un cofre, pero debe hallar su llave antes de que pueda ver que tesoros contiene; un comprador halla una pieza única de la historia del EE. UU.
+· País: Estados Unidos
+· Reparto: Walt Cade, Ricky Smith, Bubba Smith, Mary Padian, Victor Rjesnjansky, Roy Williams, Stephen Fagin, Jenny Grumbles, Morris Prigoff, Lesa Lewis.</desc>
+	</programme>
+	<programme start="20261120221500 +0100" stop="20261120224100 +0100" channel="AMC Break">
+    <title>Guerra de vecinos T7 E11 · Un vecino indecente</title>
+    <desc>Programa,Reality | 2025 | +16 | *6.7/10
+· Una cámara de vigilancia desata una insólita protesta, un vecino exige apagar unas luces nocturnas y una pareja protesta por la entrega de un mantillo de fuerte olor que pidieron sus vecinos.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120224100 +0100" stop="20261120230800 +0100" channel="AMC Break">
+    <title>Guerra de vecinos T8 E2 · Pelea en Battle Creek</title>
+    <desc>Programa,Reality | 2025 | +16 | *6.7/10
+· Una disputa vecinal por un acceso acaba con una desbrozadora como arma, una ola gigante siembra el caos y una familia despierta por unos disparos y un intruso enmascarado.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120230800 +0100" stop="20261120233500 +0100" channel="AMC Break">
+    <title>Guerra de vecinos T8 E1 · Ciclistas bajo el fuego</title>
+    <desc>Programa,Reality | 2025 | +16 | *6.7/10
+· Unos ciclistas esquivan disparos de un vecino, dos parejas enfrentadas se acusan mutuamente y un conflicto por el sistema de drenaje desata otra disputa vecinal.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120233500 +0100" stop="20261121000100 +0100" channel="AMC Break">
+    <title>Guerra de vecinos T8 E3 · Estás contaminando nuestro aire</title>
+    <desc>Programa,Reality | 2025 | +16 | *6.7/10
+· Una mujer estalla por el humo de una quema de residuos, un choque entre vecinos causa un gran revuelo y cambiar el aceite del coche de noche provoca otra disputa.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261121000100 +0100" stop="20261121002800 +0100" channel="AMC Break">
+    <title>Guerra de vecinos T8 E5 · Te perseguiré</title>
+    <desc>Programa,Reality | 2025 | +16 | *6.7/10
+· Un comercial es expulsado por un vecino furioso, una reforma en un jardín genera tensión y el humo de la hoguera de un propietario tiene a su vecino echando humo.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261121002800 +0100" stop="20261121005400 +0100" channel="AMC Break">
+    <title>Guerra de vecinos T8 E7 · Acceso restringido</title>
+    <desc>Programa,Reality | 2025 | +16 | *6.7/10
+· Dos vecinos rivalizan mientras construyen sus casas, un piloto estrella su avión en un jardín y sobrevive; y un hombre acusa a sus vecinos de inundarle el césped.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261121005400 +0100" stop="20261121012100 +0100" channel="AMC Break">
+    <title>Guerra de vecinos T8 E1 · Ocho niños, ochenta decibelios</title>
+    <desc>Programa,Reality | 2025 | +16 | *6.7/10
+· Una mujer asegura que sus ocho hijos respetan el silencio, pero los vecinos discrepan. Una mujer saca una pistola por el gato del vecino. Una familia se enfrenta a su casero por unas cámaras.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261121012100 +0100" stop="20261121014400 +0100" channel="AMC Break">
+    <title>Guerra de vecinos T8 E6 · En forma para la pelea</title>
+    <desc>Programa,Reality | 2025 | +16 | *6.7/10
+· Un hombre lanza huevos y acusa a sus vecinos en un enfrentamiento grabado. Una mujer recibe insultos crueles sobre su fertilidad. Una disputa por excrementos de perro termina en gritos y palabrotas.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261121014400 +0100" stop="20261121022700 +0100" channel="AMC Break">
+    <title>Alone T11 E5 · Silencio roto</title>
+    <desc>Programa,Reality | 2024 | +12 | *8.4/10
+· Con el cambio de estación, uno de los participantes se ve obligado a emprender un proyecto arriesgado y de gran envergadura. Mientras tanto, una manada de lobos rompe la calma de la noche ártica, trayendo problemas para otro de los supervivientes.
+· País: Estados Unidos
+· Reparto: Alex Ribar, Logan Ribar, Brody Wilkes, Chris Wilkes, David Whipple, Nicole Apelian, Sam Larson, Brooke Whipple, Jesse Bosdell, Brad Richardson.</desc>
+	</programme>
+	<programme start="20261121022700 +0100" stop="20261121031200 +0100" channel="AMC Break">
+    <title>Alone T11 E6 · La ley de Murphy</title>
+    <desc>Programa,Reality | 2024 | +12 | *8.4/10
+· La competición comienza a desgastar a los participantes, que deben enfrentarse a las consecuencias de sus propias estrategias. Todos parecen estar al borde del colapso, aunque uno en particular se ve superado por su frustrante rendimiento.
+· País: Estados Unidos
+· Reparto: Alex Ribar, Logan Ribar, Brody Wilkes, Chris Wilkes, David Whipple, Nicole Apelian, Sam Larson, Brooke Whipple, Jesse Bosdell, Brad Richardson.</desc>
+	</programme>
+	<programme start="20261121031200 +0100" stop="20261121035400 +0100" channel="AMC Break">
+    <title>Alone T11 E7 · El peso del Ártico</title>
+    <desc>Programa,Reality | 2024 | +12 | *8.4/10
+· El deseo de volver a casa se intensifica mientras la crudeza del Ártico se hace sentir. Uno de los supervivientes finalmente tiene la oportunidad de cazar una gran presa, mientras otro se ve sorprendido por una falsa sensación de seguridad.
+· País: Estados Unidos
+· Reparto: Alex Ribar, Logan Ribar, Brody Wilkes, Chris Wilkes, David Whipple, Nicole Apelian, Sam Larson, Brooke Whipple, Jesse Bosdell, Brad Richardson.</desc>
+	</programme>
+	<programme start="20261121035400 +0100" stop="20261121044800 +0100" channel="AMC Break">
+    <title>Alone T11 E8 · Segundas oportunidades</title>
+    <desc>Programa,Reality | 2024 | +12 | *8.4/10
+· El clima cambia y la recolección deja de ser suficiente. Un participante pierde lo que había conseguido, mientras otro encuentra una inesperada oportunidad para redimirse.
+· País: Estados Unidos
+· Reparto: Alex Ribar, Logan Ribar, Brody Wilkes, Chris Wilkes, David Whipple, Nicole Apelian, Sam Larson, Brooke Whipple, Jesse Bosdell, Brad Richardson.</desc>
+	</programme>
+	<programme start="20261121044800 +0100" stop="20261121050900 +0100" channel="AMC Break">
+    <title>Trato hecho T2 E11 · Alambique / Nudillos de la Guerra de Secesión</title>
+    <desc>Documental,Otros | 2021 | +7 | *5.9/10
+· Paul averigua si es legal vender un auténtico alambique de los Apalaches para destilar licor. Un par de nudillos de hierro en muy mal estado podrían ser unas reliquias de la Guerra de Secesión.
+· País: Estados Unidos
+· Reparto: Paul Brown, Cindy Shook, Jon Hammond, Delfino Ramos, Jason Brooks, Guerry Wise, Bob Brown, Charles Tovar, Lori Verderame, Ernie Garrett.</desc>
+	</programme>
+	<programme start="20261121050900 +0100" stop="20261121053300 +0100" channel="AMC Break">
+    <title>Trato hecho T2 E5 · Balanza adivina / Cromos de béisbol</title>
+    <desc>Documental,Otros | 2021 | +7 | *5.9/10
+· Entre otros artículos, una báscula antigua novedosa que te dice el peso... y la fortuna; y una caja metálica con cromos de béisbol de los años 30 que puede contener varias curiosidades.
+· País: Estados Unidos
+· Reparto: Paul Brown, Cindy Shook, Jon Hammond, Delfino Ramos, Jason Brooks, Guerry Wise, Bob Brown, Charles Tovar, Lori Verderame, Ernie Garrett.</desc>
+	</programme>
+	<programme start="20261121053300 +0100" stop="20261121055500 +0100" channel="AMC Break">
+    <title>Trato hecho T2 E6 · El Cadillac de Elvis / La carta de Edison</title>
+    <desc>Documental,Otros | 2021 | +7 | *5.9/10
+· En este episodio aparecen una guitarra con la bandera estadounidense firmada por Bruce Springsteen, un Cadillac que perteneció primero a Elvis Presley y unas notas manuscritas de Thomas Edison.
+· País: Estados Unidos
+· Reparto: Paul Brown, Cindy Shook, Jon Hammond, Delfino Ramos, Jason Brooks, Guerry Wise, Bob Brown, Charles Tovar, Lori Verderame, Ernie Garrett.</desc>
+	</programme>
+	<programme start="20261121055500 +0100" stop="20261121061800 +0100" channel="AMC Break">
+    <title>Trato hecho T2 E7 · El Cadillac de Elvis / La carta de Edison</title>
+    <desc>Documental,Otros | 2021 | +7 | *5.9/10
+· En este episodio aparecen una guitarra con la bandera estadounidense firmada por Bruce Springsteen, un Cadillac que perteneció primero a Elvis Presley y unas notas manuscritas de Thomas Edison.
+· País: Estados Unidos
+· Reparto: Paul Brown, Cindy Shook, Jon Hammond, Delfino Ramos, Jason Brooks, Guerry Wise, Bob Brown, Charles Tovar, Lori Verderame, Ernie Garrett.</desc>
+	</programme>
+	<programme start="20261121061800 +0100" stop="20261121064000 +0100" channel="AMC Break">
+    <title>Empeños en Beverly Hills T2 E20 · Jason y Marilyn y Yossi y Alice</title>
+    <desc>Series,Telenovelas | 2014 | +12 | *5.5/10
+· Yossi se encuentra con la máscara de hockey de Jason de las películas de Viernes 13, un ejemplar de la primera edición de Alicia en el País de las Maravillas y una gran colección de Marilyn Monroe.
+· País: Estados Unidos
+· Dirección: Mike Roth, Scott James, Genevieve Wong.
+· Reparto: Aria Johnson, Yossi Dina, Cory Oliver, Dominique Witten, Rob Klein, Rocco Leo Gaglioti, Melissa Ricci, Mandell Frazier, Kim Hopkins, Rosemary Gore.
+· Producción: Marielle Skouras.</desc>
+	</programme>
+	<programme start="20261121064000 +0100" stop="20261121070400 +0100" channel="AMC Break">
+    <title>Empeños en Beverly Hills T2 E18 · Yossi conoce a un 'Monster'</title>
+    <desc>Series,Telenovelas | 2014 | +12 | *5.5/10
+· Yossi y Cory reciben la visita del actor Butch 'Eddie Munster' Patrick, que quiere venderles su espeluznante bicicleta. Yossi y Aria pueden comprar un ejemplar antiguo de Pinocho.
+· País: Estados Unidos
+· Dirección: Mike Roth, Scott James, Genevieve Wong.
+· Reparto: Aria Johnson, Yossi Dina, Cory Oliver, Dominique Witten, Rob Klein, Rocco Leo Gaglioti, Melissa Ricci, Mandell Frazier, Kim Hopkins, Rosemary Gore.
+· Producción: Marielle Skouras.</desc>
+	</programme>
+	<programme start="20261121070400 +0100" stop="20261121072600 +0100" channel="AMC Break">
+    <title>Empeños en Beverly Hills T2 E22 · Un profesional del tenis y un caballero</title>
+    <desc>Series,Telenovelas | 2014 | +12 | *5.5/10
+· Yossi y Dominique esperan vender una raqueta usada firmada por Andre Agassi. Yossi y Aria deben encontrar el accesorio de joyería perfecto para Gentleman Norman, el perro de los famosos.
+· País: Estados Unidos
+· Dirección: Mike Roth, Scott James, Genevieve Wong.
+· Reparto: Aria Johnson, Yossi Dina, Cory Oliver, Dominique Witten, Rob Klein, Rocco Leo Gaglioti, Melissa Ricci, Mandell Frazier, Kim Hopkins, Rosemary Gore.
+· Producción: Marielle Skouras.</desc>
+	</programme>
+	<programme start="20261121072600 +0100" stop="20261121075000 +0100" channel="AMC Break">
+    <title>Empeños en Beverly Hills T2 E23 · Gremlins, gurkhas y oro</title>
+    <desc>Series,Telenovelas | 2014 | +12 | *5.5/10
+· Yossi y Aria examinan de cerca unos guiones gráficos espeluznantes de los Gremlins, la clásica película de monstruos de los 80. Una clienta quiere vender un resplandeciente brazalete de oro.
+· País: Estados Unidos
+· Dirección: Mike Roth.
+· Reparto: Aria Johnson, Yossi Dina, Cory Oliver, Dominique Witten, Rob Klein, Rocco Leo Gaglioti, Melissa Ricci, Mandell Frazier, Kim Hopkins, Rosemary Gore.</desc>
+	</programme>
+	<programme start="20261121075000 +0100" stop="20261121081200 +0100" channel="AMC Break">
+    <title>Empeños en Beverly Hills T2 E24 · El prestamista chiflado</title>
+    <desc>Series,Telenovelas | 2014 | +12 | *5.5/10
+· Yossi y Cory tienen la oportunidad de comprar un par de accesorios cinematográficos muy inusuales: las manos con efectos de maquillaje de Eddie Murphy de El profesor chiflado II: La familia Klump.
+· País: Estados Unidos
+· Dirección: Mike Roth, Scott James, Genevieve Wong.
+· Reparto: Aria Johnson, Yossi Dina, Cory Oliver, Dominique Witten, Rob Klein, Rocco Leo Gaglioti, Melissa Ricci, Mandell Frazier, Kim Hopkins, Rosemary Gore.
+· Producción: Marielle Skouras.</desc>
+	</programme>
+	<programme start="20261121081200 +0100" stop="20261121083600 +0100" channel="AMC Break">
+    <title>Empeños en Beverly Hills T5 E13 · Coches clásicos, diamantes rosas y leyendas del..</title>
+    <desc>Series,Telenovelas | 2014 | +12 | *5.5/10
+· Yossi tiene que lidiar con una obra de arte original pintada por Miles Davis, la leyenda del jazz; un anillo de diamantes rosas para una mujer embarazada y un clásico Ford Thunderbird de 1963.
+· País: Estados Unidos
+· Dirección: Mike Roth, Scott James, Genevieve Wong.
+· Reparto: Aria Johnson, Yossi Dina, Cory Oliver, Dominique Witten, Rob Klein, Rocco Leo Gaglioti, Melissa Ricci, Mandell Frazier, Kim Hopkins, Rosemary Gore.
+· Producción: Marielle Skouras.</desc>
+	</programme>
+	<programme start="20261121083600 +0100" stop="20261121085800 +0100" channel="AMC Break">
+    <title>Empeños en Beverly Hills T5 E13 · Coches clásicos, diamantes rosas y leyendas del..</title>
+    <desc>Series,Telenovelas | 2014 | +12 | *5.5/10
+· Yossi tiene que lidiar con una obra de arte original pintada por Miles Davis, la leyenda del jazz; un anillo de diamantes rosas para una mujer embarazada y un clásico Ford Thunderbird de 1963.
+· País: Estados Unidos
+· Dirección: Mike Roth, Scott James, Genevieve Wong.
+· Reparto: Aria Johnson, Yossi Dina, Cory Oliver, Dominique Witten, Rob Klein, Rocco Leo Gaglioti, Melissa Ricci, Mandell Frazier, Kim Hopkins, Rosemary Gore.
+· Producción: Marielle Skouras.</desc>
+	</programme>
+	<programme start="20261121085800 +0100" stop="20261121092200 +0100" channel="AMC Break">
+    <title>Empeños en Beverly Hills T1 E1 · Quiero comprar una isla</title>
+    <desc>Series,Telenovelas | 2013 | +12 | *5.5/10
+· El militar israelí Yossi Dina y su exquisita casa de empeños situada en Beverly Hills llegan a la pantalla de Divinity. Desde The Dina Collection, los espectadores asisten a las historias que surgen durante la compra-venta de objetos de valor.
+· País: Estados Unidos
+· Dirección: Mike Roth, Scott James, Genevieve Wong.
+· Reparto: Aria Johnson, Yossi Dina, Cory Oliver, Dominique Witten, Rob Klein, Rocco Leo Gaglioti, Melissa Ricci, Mandell Frazier, Kim Hopkins, Rosemary Gore.
+· Producción: Asylum Entertainment, Marielle Skouras.</desc>
+	</programme>
+	<programme start="20261121092200 +0100" stop="20261121100700 +0100" channel="AMC Break">
+    <title>Gigantes de la carga T1 E2</title>
+    <desc>Programa,Reality | 2022 | +12
+· North Coast Heavy Towing retira un camión cargado de pollos que bloquea una autopista. Clayton's rescata un catamarán varado y Wagga se ocupa de un silo dañado.
+· País: Australia
+· Dirección: Brad Cone.
+· Reparto: Paul, Mike, Bimmy, Reece, Steve, Gerardo, Scott, Baron.</desc>
+	</programme>
+	<programme start="20261121100700 +0100" stop="20261121104700 +0100" channel="AMC Break">
+    <title>Furia al volante T1 E5 · Angel y Donnie</title>
+    <desc>Programa,Reality | 2024 | +12
+· Angel, que trabaja de repartidor, no puede mantener la calma rodeado del tráfico de la ciudad. Donnie descarga su rabia conduciendo lo más rápido posible, buscando un subidón de adrenalina.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261121104700 +0100" stop="20261121112900 +0100" channel="AMC Break">
+    <title>Furia al volante T1 E6 · Akilah y Matt</title>
+    <desc>Programa,Reality | 2024 | +12
+· Akilah dice que es demasiado guapa para sentir tanta rabia cuando conduce. Matt se ha divorciado y busca el amor, siempre y cuando su rabia al volante no se interponga.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261121112900 +0100" stop="20261121121300 +0100" channel="AMC Break">
+    <title>Furia al volante T1 E9 · Shaina y Kevin</title>
+    <desc>Programa,Reality | 2024 | +12
+· Shaina no puede evitar gritar a casi todos los coches con los que se cruza. Ahora, su hijo le ha dado un ultimátum. Kevin se ha recuperado de un infarto provocado por el estrés, pero teme sufrir otro.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261121121300 +0100" stop="20261121123600 +0100" channel="AMC Break">
+    <title>Guerra de clientes T6 E1 · Mesas y tiaras</title>
+    <desc>Programa,Reality | 2025 | +16 | *6.6/10
+· Confusión en un tranvía, una pelea en un desfile de moda, un aterrizaje de emergencia, una discusión entre un repartidor y un residente, y un altercado con un posible hombre armado.
+· País: Estados Unidos
+· Producción: Jason Cilo, Jonathan Skogmo.</desc>
+	</programme>
+	<programme start="20261121123600 +0100" stop="20261121130100 +0100" channel="AMC Break">
+    <title>Guerra de clientes T4 E13 · Pasajeros fuera de control</title>
+    <desc>Programa,Reality | 2024 | +16 | *6.6/10
+· Esta serie pone de manifiesto conflictos que surgen cuando clientes descontentos se enfrentan a empleados que hacen todo lo posible por satisfacer sus necesidades y demuestra que la idea de que ‘el cliente siempre tiene razón’ es más bien una excepción.
+· País: Estados Unidos
+· Producción: Jason Cilo, Jonathan Skogmo.</desc>
+	</programme>
+	<programme start="20261121130100 +0100" stop="20261121132400 +0100" channel="AMC Break">
+    <title>Guerra de clientes T4 E1 · Caos en las pistas de esquí</title>
+    <desc>Programa,Reality | 2024 | +16 | *6.6/10
+· En este episodio, un cliente furioso siembra el caos en una tienda de telefonía y una bola de nieve desencadena una pelea en una estación de esquí, y mucho más.
+· País: Estados Unidos
+· Producción: Jason Cilo, Jonathan Skogmo.</desc>
+	</programme>
+	<programme start="20261121132400 +0100" stop="20261121134900 +0100" channel="AMC Break">
+    <title>Guerra de clientes T4 E2 · Entrega catastrófica</title>
+    <desc>Programa,Reality | 2024 | +16 | *6.6/10
+· En este episodio, una pasajera monta en cólera tras ser expulsada de un vuelo y un niño queda colgado de un telesilla mientras intentan rescatarlo, y mucho más.
+· País: Estados Unidos
+· Dirección: Jason Cilo.
+· Producción: Jason Cilo, Jonathan Skogmo.</desc>
+	</programme>
+	<programme start="20261121134900 +0100" stop="20261121141300 +0100" channel="AMC Break">
+    <title>Guerra de clientes T4 E3 · Caos en la tienda</title>
+    <desc>Programa,Reality | 2024 | +16 | *6.6/10
+· En este episodio, una discusión entre un cliente y un empleado se sale de control y dos hermanos acaban peleándose mientras descienden un río, y mucho más.
+· País: Estados Unidos
+· Producción: Jason Cilo, Jonathan Skogmo.</desc>
+	</programme>
+	<programme start="20261121141300 +0100" stop="20261121143800 +0100" channel="AMC Break">
+    <title>Guerra de clientes T4 E4 · Alboroto en el estadio</title>
+    <desc>Programa,Reality | 2024 | +16 | *6.6/10
+· En este episodio, aficionados intentan salvar a un gato atrapado en un estadio y una disputa en un concesionario toma un giro aterrador, y mucho más.
+· País: Estados Unidos
+· Producción: Jason Cilo, Jonathan Skogmo.</desc>
+	</programme>
+	<programme start="20261121143800 +0100" stop="20261121150100 +0100" channel="AMC Break">
+    <title>Guerra de clientes T4 E5 · Peligro en el transporte público</title>
+    <desc>Programa,Reality | 2024 | +16 | *6.6/10
+· Esta serie pone de manifiesto conflictos que surgen cuando clientes descontentos se enfrentan a empleados que hacen todo lo posible por satisfacer sus necesidades y demuestra que la idea de que ‘el cliente siempre tiene razón’ es más bien una excepción.
+· País: Canadá, Reino Unido, Estados Unidos
+· Producción: Jason Cilo, Jonathan Skogmo.</desc>
+	</programme>
+	<programme start="20261121150100 +0100" stop="20261121152400 +0100" channel="AMC Break">
+    <title>Guerra de clientes T4 E6 · Retail Rampage</title>
+    <desc>Programa,Reality | 2024 | +16 | *6.6/10
+· Esta serie pone de manifiesto conflictos que surgen cuando clientes descontentos se enfrentan a empleados que hacen todo lo posible por satisfacer sus necesidades y demuestra que la idea de que ‘el cliente siempre tiene razón’ es más bien una excepción.
+· País: Canadá, Reino Unido, Estados Unidos
+· Producción: Jason Cilo, Jonathan Skogmo.</desc>
+	</programme>
+	<programme start="20261121152400 +0100" stop="20261121154900 +0100" channel="AMC Break">
+    <title>Empeños a lo bestia T3 E6 · Mala sangre</title>
+    <desc>Series,Telenovelas | 2011 | +16 | *4.9/10
+· Les y Seth se suben por las paredes cuando un empleado rompe un televisor de pantalla plana. Ashley le echa en cara a Seth delante de todo el personal la forma de gestionar el problema del televisor.
+· País: Estados Unidos
+· Dirección: Marcus J. Fox, Anthony Mastanduno, Berry English, Ken Snow.
+· Reparto: Dennis Kaminer, Tiffany Jean Jones, Les Gold, Seth Gold, Ashley Broad, Sean Harper, Bobby Janiec, Karen Mitchell, Joe, Joel 'Big Joe' Shannon, Rich Pyle, Fielding 'Felix' Teichman.
+· Producción: Richard Dominick.</desc>
+	</programme>
+	<programme start="20261121154900 +0100" stop="20261121161500 +0100" channel="AMC Break">
+    <title>Empeños a lo bestia T3 E7 · La venganza de Les</title>
+    <desc>Series,Telenovelas | 2011 | +16 | *4.9/10
+· Les se venga cuando Seth realiza una compra impulsiva con dinero de la empresa. Más tarde, un hombre trae una pieza singular de la historia de Detroit y Les está dispuesto a pagar mucho dinero.
+· País: Estados Unidos
+· Dirección: Marcus J. Fox, Anthony Mastanduno, Berry English, Ken Snow.
+· Reparto: Dennis Kaminer, Tiffany Jean Jones, Les Gold, Seth Gold, Ashley Broad, Bobby Janiec, Karen Mitchell, Joe, Joel 'Big Joe' Shannon, Rich Pyle, Fielding 'Felix' Teichman.
+· Producción: Richard Dominick.</desc>
+	</programme>
+	<programme start="20261121161500 +0100" stop="20261121164000 +0100" channel="AMC Break">
+    <title>Empeños a lo bestia T3 E8 · La fiebre de los Gold</title>
+    <desc>Series,Telenovelas | 2011 | +16 | *4.9/10
+· Les pierde los papeles con Ashley cuando le hace perder un cliente importante por culpa de su mala actitud. Luego, llega la hora del enfrentamiento cuando Ashley se planta ante su padre y su hermano.
+· País: Estados Unidos
+· Dirección: Marcus J. Fox, Anthony Mastanduno, Berry English, Ken Snow.
+· Reparto: Dennis Kaminer, Tiffany Jean Jones, Les Gold, Seth Gold, Ashley Broad, Bobby Janiec, Karen Mitchell, Joe, Joel 'Big Joe' Shannon, Rich Pyle, Fielding 'Felix' Teichman.
+· Producción: Richard Dominick.</desc>
+	</programme>
+	<programme start="20261121164000 +0100" stop="20261121170500 +0100" channel="AMC Break">
+    <title>Empeños a lo bestia T3 E9 · Guerra entre hermanos</title>
+    <desc>Series,Telenovelas | 2011 | +16 | *4.9/10
+· La amarga rivalidad entre Seth y Ashley llega a un punto álgido y pone la tienda patas arriba. Mientras tanto, un artículo antiguo de coleccionista desencadena una acalorada negociación.
+· País: Estados Unidos
+· Dirección: Marcus J. Fox, Anthony Mastanduno, Berry English.
+· Reparto: Dennis Kaminer, Tiffany Jean Jones, Les Gold, Seth Gold, Ashley Broad, Bobby Janiec, Karen Mitchell, Joe, Joel 'Big Joe' Shannon, Rich Pyle, Fielding 'Felix' Teichman.
+· Producción: Richard Dominick.</desc>
+	</programme>
+	<programme start="20261121170500 +0100" stop="20261121173000 +0100" channel="AMC Break">
+    <title>Empeños a lo bestia T3 E10 · A la manera de Les</title>
+    <desc>Series,Telenovelas | 2011 | +16 | *4.9/10
+· Serie documental que sobre una casa de empeños en Detroit. Seth menosprecia a Les ante el resto de empleados, y además discuten sobre una decisión importante para el negocio.
+· País: Estados Unidos
+· Dirección: Marcus J. Fox, Anthony Mastanduno, Berry English.
+· Reparto: Dennis Kaminer, Tiffany Jean Jones, Les Gold, Seth Gold, Ashley Broad, Bobby Janiec, Karen Mitchell, Joe, Joel 'Big Joe' Shannon, Rich Pyle, Fielding 'Felix' Teichman.
+· Producción: Richard Dominick.</desc>
+	</programme>
+	<programme start="20261121173000 +0100" stop="20261121175500 +0100" channel="AMC Break">
+    <title>Empeños a lo bestia T3 E11 · Golpe de efecto</title>
+    <desc>Series,Telenovelas | 2011 | +16 | *4.9/10
+· Les se apresura a encontrar un comprador para un espléndido autobús de fiesta con el fin de ganar una vieja apuesta con Seth. Más tarde, Seth revela algo tan impactante que vuelve loca a una pareja.
+· País: Estados Unidos
+· Dirección: Marcus J. Fox, Anthony Mastanduno, Berry English, Ken Snow.
+· Reparto: Dennis Kaminer, Tiffany Jean Jones, Les Gold, Seth Gold, Ashley Broad, Bobby Janiec, Karen Mitchell, Joe, Joel 'Big Joe' Shannon, Rich Pyle, Fielding 'Felix' Teichman.
+· Producción: Richard Dominick.</desc>
+	</programme>
+	<programme start="20261121175500 +0100" stop="20261121182100 +0100" channel="AMC Break">
+    <title>Empeños a lo bestia T3 E12 · Gold apaciguador</title>
+    <desc>Series,Telenovelas | 2011 | +16 | *4.9/10
+· Seth interviene cuando un cliente y un empleado se enfrentan en el aparcamiento. Luego, Les y Ashley aprenden lo que significa la palabra 'valentía' cuando intentan calmar a la madre de una clienta.
+· País: Estados Unidos
+· Dirección: Marcus J. Fox, Anthony Mastanduno, Berry English, Robyn Hutt.
+· Reparto: Dennis Kaminer, Tiffany Jean Jones, Les Gold, Seth Gold, Ashley Broad, Bobby Janiec, Karen Mitchell, Joe, Joel 'Big Joe' Shannon, Rich Pyle, Fielding 'Felix' Teichman.
+· Producción: Richard Dominick.</desc>
+	</programme>
+	<programme start="20261121182100 +0100" stop="20261121184500 +0100" channel="AMC Break">
+    <title>Empeños a lo bestia T3 E13 · ¡Renuncio!</title>
+    <desc>Series,Telenovelas | 2011 | +16 | *4.9/10
+· Les y Seth se enfrentan a Ashley en una lucha de poder definitiva que podría cambiar para siempre la cara de American Jewelry &amp; Loan.
+· País: Estados Unidos
+· Dirección: Marcus J. Fox, Berry English, Anthony Mastanduno.
+· Reparto: Dennis Kaminer, Tiffany Jean Jones, Les Gold, Seth Gold, Ashley Broad, Bobby Janiec, Karen Mitchell, Joe, Joel 'Big Joe' Shannon, Rich Pyle, Fielding 'Felix' Teichman.
+· Producción: Richard Dominick.</desc>
+	</programme>
+	<programme start="20261121184500 +0100" stop="20261121191000 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E16 · Paseando a Miss Barry</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· En Westminster, Dave Hester encuentra piezas de coche clásico, Brandi arriesga a espaldas de Jarrod con un lote muy caro y Barry descubre un antiguo aparato médico. Darrell Sheets llega con fajos de billetes pero se marcha sin gastar.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Dave Hester, Barry Weiss, Dan Dotson, Laura Dotson, Brandi Passante, Jarrod Schulz, Darrell Sheets, Brandon Sheets, Ivy Calvin.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261121191000 +0100" stop="20261121193500 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E22 · Que llueva el dinero</title>
+    <desc>Series,Telenovelas | 2010 | +7 | *6.3/10
+· Los compradores invaden la tranquila ciudad de Simi Valley (California). Darrell y Brandon derrotan a la competencia. Jarrod y Brandi encuentran unas cajas fuertes.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Brandi Passante, Jarrod Schulz, Laura Dotson, Dan Dotson, Barry Weiss, Darrell Sheets, Dave Hester, Brandon Sheets, Ivy Calvin.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261121193500 +0100" stop="20261121200000 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E22 · Que llueva el dinero</title>
+    <desc>Series,Telenovelas | 2010 | +7 | *6.3/10
+· Los compradores invaden la tranquila ciudad de Simi Valley (California). Darrell y Brandon derrotan a la competencia. Jarrod y Brandi encuentran unas cajas fuertes.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Brandi Passante, Jarrod Schulz, Laura Dotson, Dan Dotson, Barry Weiss, Darrell Sheets, Dave Hester, Brandon Sheets, Ivy Calvin.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261121200000 +0100" stop="20261121202700 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E22 · Que llueva el dinero</title>
+    <desc>Series,Telenovelas | 2010 | +7 | *6.3/10
+· Los compradores invaden la tranquila ciudad de Simi Valley (California). Darrell y Brandon derrotan a la competencia. Jarrod y Brandi encuentran unas cajas fuertes.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Brandi Passante, Jarrod Schulz, Laura Dotson, Dan Dotson, Barry Weiss, Darrell Sheets, Dave Hester, Brandon Sheets, Ivy Calvin.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261121202700 +0100" stop="20261121205400 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E23 · Smoke 'Em If You Find 'Em</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· Los postores vuelven al barrio de Dave Hester, en Newport Beach, California, donde tendrán una visita.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Brandi Passante, Jarrod Schulz, Laura Dotson, Dan Dotson, Barry Weiss, Darrell Sheets, Dave Hester, Brandon Sheets, Ivy Calvin.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261121205400 +0100" stop="20261121212100 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E28 · No es un osito cualquiera</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· Los postores peregrinan al desierto de Lancaster, en California. Nabila Haniss, la dura competidora de la zona oeste, le pone empeño y recibe una gran recompensa.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Laura Dotson, Brandi Passante, Jarrod Schulz, Dan Dotson, Barry Weiss, Darrell Sheets, Dave Hester, Brandon Sheets, Ivy Calvin.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261121212100 +0100" stop="20261121214800 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E30 · Operación vagabundo</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· Los postores se dirigen a Harbor City, California. Jarrod y Brandi regresan al negocio de las subastas.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Dan Dotson, Laura Dotson, Brandi Passante, Jarrod Schulz, Darrell Sheets, Dave Hester, Ivy Calvin, Brandon Sheets.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261121214800 +0100" stop="20261121221500 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E31 · Échale la culpa a la lluvia</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· La Dotson llegan a Santa Cruz, California, siguiendo el rastro del dinero, y los postores persiguen a los Dotson, hasta el mismísimo corazón de una tormenta torrencial.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Brandi Passante, Jarrod Schulz, Laura Dotson, Dan Dotson, Barry Weiss, Darrell Sheets, Dave Hester, Brandon Sheets, Ivy Calvin.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261121221500 +0100" stop="20261121224100 +0100" channel="AMC Break">
+    <title>WWE: Mejores momentos T2 E12 · Regresos inolvidables</title>
+    <desc>Documental,Otros | 2025 | +12
+· Uno de los aspectos más emocionantes del wrestling profesional siempre ha sido el regreso inesperado de una superestrella al cuadrilátero. Y los mejores retornos son aquellos que nadie ve venir.
+· País: Estados Unidos
+· Reparto: Michael Cole, Michael Coulthard.</desc>
+	</programme>
+	<programme start="20261121224100 +0100" stop="20261121230700 +0100" channel="AMC Break">
+    <title>WWE: Mejores momentos T2 E13 · André the Giant</title>
+    <desc>Documental,Otros | 2025 | +12
+· A lo largo de la historia del wrestling profesional, jamás ha existido una superestrella tan colosal, imponente y legendaria como él. En este episodio revivimos algunos de los momentos más memorables.
+· País: Estados Unidos
+· Reparto: Michael Cole, Michael Coulthard.</desc>
+	</programme>
+	<programme start="20261121230700 +0100" stop="20261121233400 +0100" channel="AMC Break">
+    <title>WWE: Mejores momentos T2 E14 · Combates por el título en los 90</title>
+    <desc>Documental,Otros | 2025 | +12
+· El Campeonato de WWE ha sido siempre el premio máximo, el sueño que separa a las leyendas del resto. Y en los años 90, la lucha por ese título alcanzó un nivel de intensidad nunca visto.
+· País: Estados Unidos
+· Reparto: Michael Cole, Michael Coulthard.</desc>
+	</programme>
+	<programme start="20261121233400 +0100" stop="20261122000000 +0100" channel="AMC Break">
+    <title>WWE: Mejores momentos T2 E15 · Macho Man' Randy Savage</title>
+    <desc>Documental,Otros | 2025 | +12
+· A lo largo de la historia del wrestling profesional, pocas superestrellas han encarnado la palabra carisma con tanta intensidad como ‘Macho Man’ Randy Savage.
+· País: Estados Unidos
+· Reparto: Michael Cole, Michael Coulthard.</desc>
+	</programme>
+	<programme start="20261122000000 +0100" stop="20261122002700 +0100" channel="AMC Break">
+    <title>WWE: Mejores momentos T2 E16 · Survivor Series en los 2000</title>
+    <desc>Documental,Otros | 2025 | +12
+· Cada año, equipos de superestrellas luchan por sobrevivir en el evento conocido como 'Survivor Series'. Y en la impredecible década de los 2000, cualquier cosa podía suceder.
+· País: Estados Unidos
+· Reparto: Michael Cole, Michael Coulthard.</desc>
+	</programme>
+	<programme start="20261122002700 +0100" stop="20261122005300 +0100" channel="AMC Break">
+    <title>WWE: Mejores momentos T2 E17 · The Undertaker, la eterna leyenda</title>
+    <desc>Documental,Otros | 2025 | +12
+· El Phenom de WWE, The Undertaker, es una presencia que el público jamás había visto antes. Desde su debut en 1990, el 'Deadman' ha construido un legado repleto de momentos inolvidables.
+· País: Estados Unidos
+· Reparto: Michael Cole, Michael Coulthard.</desc>
+	</programme>
+	<programme start="20261122005300 +0100" stop="20261122011900 +0100" channel="AMC Break">
+    <title>WWE: Mejores momentos T1 E1 · Nace una revolución</title>
+    <desc>Documental,Otros | 2025 | +12
+· Monday Night Raw' se estrenó en 1993 y se convirtió al instante en un programa imprescindible, no faltaron momentos inolvidables en la etapa más salvaje de la historia de WWE.
+· País: Estados Unidos
+· Dirección: Holly Mitchell.
+· Reparto: Michael Cole, Michael Coulthard.</desc>
+	</programme>
+	<programme start="20261122011900 +0100" stop="20261122014100 +0100" channel="AMC Break">
+    <title>WWE: Mejores momentos T1 E2 · Royal Rumble: Los primeros años</title>
+    <desc>Documental,Otros | 2025 | +12
+· Las altísimas apuestas del Royal Rumble, la oportunidad de conseguir un combate por el campeonato en WrestleMania, lo convirtieron en uno de los eventos premium más importantes del año.
+· País: Estados Unidos
+· Dirección: Holly Mitchell.
+· Reparto: Michael Cole, Michael Coulthard.</desc>
+	</programme>
+	<programme start="20261122014100 +0100" stop="20261122020400 +0100" channel="AMC Break">
+    <title>Accidentes en cámara T1 E7</title>
+    <desc>Programa,Entretenimiento,Automovilismo | 2015 | +12
+· Las peores maniobras de marcha atrás, carreteras heladas y escapadas por pura suerte ponen a prueba a los conductores mientras buscamos al verdadero culpable.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20261122020400 +0100" stop="20261122022800 +0100" channel="AMC Break">
+    <title>Accidentes en cámara T1 E8</title>
+    <desc>Programa,Entretenimiento,Automovilismo | 2015 | +12
+· Mala conducción en autopista, arriesgadas aventuras fuera del asfalto y camiones conflictivos protagonizan una nueva dosis de caos sobre ruedas.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20261122022800 +0100" stop="20261122031300 +0100" channel="AMC Break">
+    <title>Cámaras de salpicadero T2 E4</title>
+    <desc>Documental,Otros | 2018 | +12
+· Los acontecimientos se descontrolan cuando la gasolina y las chispas se combinan. Además, los percances del deporte, los peores villanos de la carretera o la conducción temeraria en el extranjero.
+· País: Australia, Reino Unido, Estados Unidos
+· Dirección: Peter Davies, Chris Matthews.
+· Producción: Wade McElwain.</desc>
+	</programme>
+	<programme start="20261122031300 +0100" stop="20261122035900 +0100" channel="AMC Break">
+    <title>Cámaras de salpicadero T2 E5</title>
+    <desc>Documental,Otros | 2018 | +12
+· Vamos a descubrir lo peor que puede ofrecernos la Madre Naturaleza, desde tormentas y vientos, hasta nieve y hielo. Además, cómo un comportamiento racional y pasivo puede transformarse en furia.
+· País: Reino Unido
+· Dirección: Peter Davies, Chris Matthews.
+· Producción: Wade McElwain.</desc>
+	</programme>
+	<programme start="20261122035900 +0100" stop="20261122044100 +0100" channel="AMC Break">
+    <title>Emergencia en Los Ángeles T1 E3 · Los verdaderos vigilanes de la playa</title>
+    <desc>Programa,Reality | 2022 | +12
+· Los socorristas del condado y el equipo de operaciones aéreas colaboran en un rescate durante el triatlón de Malibú; mientras, el parque 16 de Watts muestra su compromiso con la comunidad.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261122044100 +0100" stop="20261122050800 +0100" channel="AMC Break">
+    <title>Emergencia en Los Ángeles T1 E5 · El fuego en la sangre</title>
+    <desc>Programa,Reality | 2022 | +12
+· El capitán Dan Olivas celebra la graduación de su hijo en la Academia de Bomberos y le da la bienvenida al cuerpo. Los socorristas del parque 172 revelan el impacto emocional del trabajo.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261122050800 +0100" stop="20261122053000 +0100" channel="AMC Break">
+    <title>Subastas gigantes T1 E8 · Grande Prairie - Día 2</title>
+    <desc>Documental,Otros | 2013 | +7 | *5.0/10
+· Grande Prairie no quiere que la cosa decaiga y para este segundo día disponen de más toneladas de hierro, listas para pasar por la sala de subastas.
+· País: Canadá
+· Dirección: Andrew Macdonald.
+· Reparto: Ritchie Bros. Auctioneers.</desc>
+	</programme>
+	<programme start="20261122053000 +0100" stop="20261122055400 +0100" channel="AMC Break">
+    <title>Subastas gigantes T1 E3 · Edmonton - Día 1</title>
+    <desc>Documental,Otros | 2013 | +7 | *5.0/10
+· La subasta de dos días de Edmonton se perfila como la mayor del mes hasta la fecha. Con un despliegue sin igual de maquinaria pesada, esta subasta no dejará indiferente a nadie.
+· País: Canadá
+· Dirección: Tim Alp.
+· Reparto: Ritchie Bros. Auctioneers.</desc>
+	</programme>
+	<programme start="20261122055400 +0100" stop="20261122061600 +0100" channel="AMC Break">
+    <title>Subastas gigantes T1 E3 · Edmonton - Día 1</title>
+    <desc>Documental,Otros | 2013 | +7 | *5.0/10
+· La subasta de dos días de Edmonton se perfila como la mayor del mes hasta la fecha. Con un despliegue sin igual de maquinaria pesada, esta subasta no dejará indiferente a nadie.
+· País: Canadá
+· Dirección: Tim Alp.
+· Reparto: Ritchie Bros. Auctioneers.</desc>
+	</programme>
+	<programme start="20261122061600 +0100" stop="20261122063900 +0100" channel="AMC Break">
+    <title>Subastas gigantes T2 E4 · Beaumont y Sovereign</title>
+    <desc>Documental,Otros | 2014 | +7 | *5.0/10
+· En Beaumont, la familia Lavigne se prepara para vender la granja familiar, y en Sovereign, Trevor Winney quiere deshacerse de parte de su cuantiosa maquinaria agrícola.
+· País: Canadá
+· Dirección: Tim Alp, Tyson Hepburn.
+· Reparto: Ritchie Bros. Auctioneers.</desc>
+	</programme>
+	<programme start="20261122063900 +0100" stop="20261122065900 +0100" channel="AMC Break">
+    <title>Veterinario en apuros T4 E38 · Pasaje a la India</title>
+    <desc>Series,Telenovelas | 2015 | +12 | *8.9/10
+· Esta vez Jeff y Daniel se van a la India con la idea de comprar muebles a buen precio. Aun así, los indios son conocidos por ser los mejores negociadores del mundo.
+· País: Reino Unido, Japón, Estados Unidos
+· Reparto: Amy Hutcheson, Dr. Lindsay Matheson, Dr. Donald Kraft.</desc>
+	</programme>
+	<programme start="20261122065900 +0100" stop="20261122072100 +0100" channel="AMC Break">
+    <title>Veterinario en apuros T4 E39 · A grandes males, grandes Schwarz</title>
+    <desc>Series,Telenovelas | 2015 | +12 | *8.9/10
+· Jeff y Daniel están en la India con Nafisa, su traductora y guía. Después de aprender trucos acerca de cómo negociar con la gente del país, Jeff decide ir a por su auténtico objetivo: muebles indios.
+· País: Reino Unido, Japón, Estados Unidos
+· Reparto: Amy Hutcheson, Dr. Lindsay Matheson, Dr. Donald Kraft.</desc>
+	</programme>
+	<programme start="20261122072100 +0100" stop="20261122074200 +0100" channel="AMC Break">
+    <title>The Liquidator T3 E15 · Dinero enterrado</title>
+    <desc>Programa,Reality,Entretenimiento | 2014 | +12 | *7.2/10
+· Jeff se enorgullece de su habilidad de acceder a nuevos nichos del mercado, pero incluso él tiene problemas cuando se trata de atraer compradores para su última adquisición.
+· País: Canadá
+· Dirección: Fred Frame.
+· Reparto: Rin, Jeff Schwarz, Daniel Fu, José Pesquera, Sheldon, Laura Jacobs, Daniel.</desc>
+	</programme>
+	<programme start="20261122074200 +0100" stop="20261122080400 +0100" channel="AMC Break">
+    <title>The Liquidator T3 E16 · Algo huele a podrido..</title>
+    <desc>Programa,Reality,Entretenimiento | 2013 | +12 | *7.2/10
+· Mientras Sheldon trata de vender un restaurante embargado, Jeff arriesga una buena cantidad para hacerse con una subasta prometedora.
+· País: Canadá
+· Dirección: Fred Frame.
+· Reparto: James Cousineau, José Pesquera, Laura Jacobs, Daniel Fu, Daniel, Rin, Jeff Schwarz, Sheldon.</desc>
+	</programme>
+	<programme start="20261122080400 +0100" stop="20261122082500 +0100" channel="AMC Break">
+    <title>The Liquidator T3 E17 · Viaje a California</title>
+    <desc>Programa,Reality,Entretenimiento | 2013 | +12 | *7.2/10
+· Jeff recibe una llamada de su primo Sasha y decide ponerse en viaje a California para comprar unas estatuas de Popeye y Olivia. ¿Quién le acompañará en esta aventura? ¿Conseguirá hacerse con las estatuas a un precio justo?
+· País: Canadá
+· Dirección: Fred Frame.
+· Reparto: James Cousineau, José Pesquera, Laura Jacobs, Daniel Fu, Daniel, Rin, Jeff Schwarz, Sheldon.</desc>
+	</programme>
+	<programme start="20261122082500 +0100" stop="20261122084700 +0100" channel="AMC Break">
+    <title>The Liquidator T3 E18 · Tocado... pero no hundido</title>
+    <desc>Programa,Reality,Entretenimiento | 2013 | +12 | *7.2/10
+· Jeff tendrá que organizar una subasta para vender los artículos de carpintería que ha embargado Sheldon que resultará mucho más complicada de lo que imaginaba.
+· País: Canadá
+· Dirección: Fred Frame, Alec MacNeill Richardson.
+· Reparto: James Cousineau, José Pesquera, Laura Jacobs, Daniel Fu.</desc>
+	</programme>
+	<programme start="20261122084700 +0100" stop="20261122090700 +0100" channel="AMC Break">
+    <title>The Liquidator T3 E19 · Tocado... pero no hundido</title>
+    <desc>Programa,Reality,Entretenimiento | 2014 | +12 | *7.2/10
+· Jeff tendrá que organizar una subasta para vender los artículos de carpintería que ha embargado Sheldon que resultará mucho más complicada de lo que imaginaba.
+· País: Canadá
+· Dirección: Alec MacNeill Richardson, Fred Frame.
+· Reparto: James Cousineau, José Pesquera, Laura Jacobs, Daniel Fu, Daniel, Rin, Jeff Schwarz, Sheldon.</desc>
+	</programme>
+	<programme start="20261122090700 +0100" stop="20261122093000 +0100" channel="AMC Break">
+    <title>The Liquidator T3 E20 · Intercambio de favores</title>
+    <desc>Programa,Reality,Entretenimiento | 2013 | +12 | *7.2/10
+· Jeff pronto recordará lo difícil que es ser buena persona cuando le llegan un camión con cuentas, un barco de pesca y unos familiares.
+· País: Canadá
+· Dirección: Alec MacNeill Richardson, Fred Frame.
+· Reparto: James Cousineau, José Pesquera, Laura Jacobs, Daniel Fu, Daniel, Rin, Jeff Schwarz, Sheldon.</desc>
+	</programme>
+	<programme start="20261122093000 +0100" stop="20261122095100 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E16 · Paseando a Miss Barry</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· En Westminster, Dave Hester encuentra piezas de coche clásico, Brandi arriesga a espaldas de Jarrod con un lote muy caro y Barry descubre un antiguo aparato médico. Darrell Sheets llega con fajos de billetes pero se marcha sin gastar.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Dave Hester, Barry Weiss, Dan Dotson, Laura Dotson, Brandi Passante, Jarrod Schulz, Darrell Sheets, Brandon Sheets, Ivy Calvin.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261122095100 +0100" stop="20261122101300 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E22 · Que llueva el dinero</title>
+    <desc>Series,Telenovelas | 2010 | +7 | *6.3/10
+· Los compradores invaden la tranquila ciudad de Simi Valley (California). Darrell y Brandon derrotan a la competencia. Jarrod y Brandi encuentran unas cajas fuertes.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Brandi Passante, Jarrod Schulz, Laura Dotson, Dan Dotson, Barry Weiss, Darrell Sheets, Dave Hester, Brandon Sheets, Ivy Calvin.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261122101300 +0100" stop="20261122103500 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E22 · Que llueva el dinero</title>
+    <desc>Series,Telenovelas | 2010 | +7 | *6.3/10
+· Los compradores invaden la tranquila ciudad de Simi Valley (California). Darrell y Brandon derrotan a la competencia. Jarrod y Brandi encuentran unas cajas fuertes.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Brandi Passante, Jarrod Schulz, Laura Dotson, Dan Dotson, Barry Weiss, Darrell Sheets, Dave Hester, Brandon Sheets, Ivy Calvin.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261122103500 +0100" stop="20261122105600 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E22 · Que llueva el dinero</title>
+    <desc>Series,Telenovelas | 2010 | +7 | *6.3/10
+· Los compradores invaden la tranquila ciudad de Simi Valley (California). Darrell y Brandon derrotan a la competencia. Jarrod y Brandi encuentran unas cajas fuertes.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Brandi Passante, Jarrod Schulz, Laura Dotson, Dan Dotson, Barry Weiss, Darrell Sheets, Dave Hester, Brandon Sheets, Ivy Calvin.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261122105600 +0100" stop="20261122111900 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E23 · Smoke 'Em If You Find 'Em</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· Los postores vuelven al barrio de Dave Hester, en Newport Beach, California, donde tendrán una visita.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Brandi Passante, Jarrod Schulz, Laura Dotson, Dan Dotson, Barry Weiss, Darrell Sheets, Dave Hester, Brandon Sheets, Ivy Calvin.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261122111900 +0100" stop="20261122114300 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E28 · No es un osito cualquiera</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· Los postores peregrinan al desierto de Lancaster, en California. Nabila Haniss, la dura competidora de la zona oeste, le pone empeño y recibe una gran recompensa.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Laura Dotson, Brandi Passante, Jarrod Schulz, Dan Dotson, Barry Weiss, Darrell Sheets, Dave Hester, Brandon Sheets, Ivy Calvin.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261122114300 +0100" stop="20261122120800 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E30 · Operación vagabundo</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· Los postores se dirigen a Harbor City, California. Jarrod y Brandi regresan al negocio de las subastas.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Dan Dotson, Laura Dotson, Brandi Passante, Jarrod Schulz, Darrell Sheets, Dave Hester, Ivy Calvin, Brandon Sheets.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261122120800 +0100" stop="20261122123300 +0100" channel="AMC Break">
+    <title>¿Quién da más? T2 E31 · Échale la culpa a la lluvia</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· La Dotson llegan a Santa Cruz, California, siguiendo el rastro del dinero, y los postores persiguen a los Dotson, hasta el mismísimo corazón de una tormenta torrencial.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Brandi Passante, Jarrod Schulz, Laura Dotson, Dan Dotson, Barry Weiss, Darrell Sheets, Dave Hester, Brandon Sheets, Ivy Calvin.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261122123300 +0100" stop="20261122125900 +0100" channel="AMC Break">
+    <title>Empeños en Beverly Hills T2 E20 · Jason y Marilyn y Yossi y Alice</title>
+    <desc>Series,Telenovelas | 2014 | +12 | *5.5/10
+· Yossi se encuentra con la máscara de hockey de Jason de las películas de Viernes 13, un ejemplar de la primera edición de Alicia en el País de las Maravillas y una gran colección de Marilyn Monroe.
+· País: Estados Unidos
+· Dirección: Mike Roth, Scott James, Genevieve Wong.
+· Reparto: Aria Johnson, Yossi Dina, Cory Oliver, Dominique Witten, Rob Klein, Rocco Leo Gaglioti, Melissa Ricci, Mandell Frazier, Kim Hopkins, Rosemary Gore.
+· Producción: Marielle Skouras.</desc>
+	</programme>
+	<programme start="20261122125900 +0100" stop="20261122132500 +0100" channel="AMC Break">
+    <title>Empeños en Beverly Hills T2 E18 · Yossi conoce a un 'Monster'</title>
+    <desc>Series,Telenovelas | 2014 | +12 | *5.5/10
+· Yossi y Cory reciben la visita del actor Butch 'Eddie Munster' Patrick, que quiere venderles su espeluznante bicicleta. Yossi y Aria pueden comprar un ejemplar antiguo de Pinocho.
+· País: Estados Unidos
+· Dirección: Mike Roth, Scott James, Genevieve Wong.
+· Reparto: Aria Johnson, Yossi Dina, Cory Oliver, Dominique Witten, Rob Klein, Rocco Leo Gaglioti, Melissa Ricci, Mandell Frazier, Kim Hopkins, Rosemary Gore.
+· Producción: Marielle Skouras.</desc>
+	</programme>
+	<programme start="20261122132500 +0100" stop="20261122135000 +0100" channel="AMC Break">
+    <title>Empeños en Beverly Hills T2 E22 · Un profesional del tenis y un caballero</title>
+    <desc>Series,Telenovelas | 2014 | +12 | *5.5/10
+· Yossi y Dominique esperan vender una raqueta usada firmada por Andre Agassi. Yossi y Aria deben encontrar el accesorio de joyería perfecto para Gentleman Norman, el perro de los famosos.
+· País: Estados Unidos
+· Dirección: Mike Roth, Scott James, Genevieve Wong.
+· Reparto: Aria Johnson, Yossi Dina, Cory Oliver, Dominique Witten, Rob Klein, Rocco Leo Gaglioti, Melissa Ricci, Mandell Frazier, Kim Hopkins, Rosemary Gore.
+· Producción: Marielle Skouras.</desc>
+	</programme>
+	<programme start="20261122135000 +0100" stop="20261122141600 +0100" channel="AMC Break">
+    <title>Empeños en Beverly Hills T2 E23 · Gremlins, gurkhas y oro</title>
+    <desc>Series,Telenovelas | 2014 | +12 | *5.5/10
+· Yossi y Aria examinan de cerca unos guiones gráficos espeluznantes de los Gremlins, la clásica película de monstruos de los 80. Una clienta quiere vender un resplandeciente brazalete de oro.
+· País: Estados Unidos
+· Dirección: Mike Roth.
+· Reparto: Aria Johnson, Yossi Dina, Cory Oliver, Dominique Witten, Rob Klein, Rocco Leo Gaglioti, Melissa Ricci, Mandell Frazier, Kim Hopkins, Rosemary Gore.</desc>
+	</programme>
+	<programme start="20261122141600 +0100" stop="20261122144200 +0100" channel="AMC Break">
+    <title>Empeños en Beverly Hills T2 E24 · El prestamista chiflado</title>
+    <desc>Series,Telenovelas | 2014 | +12 | *5.5/10
+· Yossi y Cory tienen la oportunidad de comprar un par de accesorios cinematográficos muy inusuales: las manos con efectos de maquillaje de Eddie Murphy de El profesor chiflado II: La familia Klump.
+· País: Estados Unidos
+· Dirección: Mike Roth, Scott James, Genevieve Wong.
+· Reparto: Aria Johnson, Yossi Dina, Cory Oliver, Dominique Witten, Rob Klein, Rocco Leo Gaglioti, Melissa Ricci, Mandell Frazier, Kim Hopkins, Rosemary Gore.
+· Producción: Marielle Skouras.</desc>
+	</programme>
+	<programme start="20261122144200 +0100" stop="20261122150800 +0100" channel="AMC Break">
+    <title>Empeños en Beverly Hills T5 E13 · Coches clásicos, diamantes rosas y leyendas del..</title>
+    <desc>Series,Telenovelas | 2014 | +12 | *5.5/10
+· Yossi tiene que lidiar con una obra de arte original pintada por Miles Davis, la leyenda del jazz; un anillo de diamantes rosas para una mujer embarazada y un clásico Ford Thunderbird de 1963.
+· País: Estados Unidos
+· Dirección: Mike Roth, Scott James, Genevieve Wong.
+· Reparto: Aria Johnson, Yossi Dina, Cory Oliver, Dominique Witten, Rob Klein, Rocco Leo Gaglioti, Melissa Ricci, Mandell Frazier, Kim Hopkins, Rosemary Gore.
+· Producción: Marielle Skouras.</desc>
+	</programme>
+	<programme start="20261122150800 +0100" stop="20261122153400 +0100" channel="AMC Break">
+    <title>Empeños en Beverly Hills T5 E13 · Coches clásicos, diamantes rosas y leyendas del..</title>
+    <desc>Series,Telenovelas | 2014 | +12 | *5.5/10
+· Yossi tiene que lidiar con una obra de arte original pintada por Miles Davis, la leyenda del jazz; un anillo de diamantes rosas para una mujer embarazada y un clásico Ford Thunderbird de 1963.
+· País: Estados Unidos
+· Dirección: Mike Roth, Scott James, Genevieve Wong.
+· Reparto: Aria Johnson, Yossi Dina, Cory Oliver, Dominique Witten, Rob Klein, Rocco Leo Gaglioti, Melissa Ricci, Mandell Frazier, Kim Hopkins, Rosemary Gore.
+· Producción: Marielle Skouras.</desc>
+	</programme>
+	<programme start="20261122153400 +0100" stop="20261122155900 +0100" channel="AMC Break">
+    <title>Empeños en Beverly Hills T1 E1 · Quiero comprar una isla</title>
+    <desc>Series,Telenovelas | 2013 | +12 | *5.5/10
+· El militar israelí Yossi Dina y su exquisita casa de empeños situada en Beverly Hills llegan a la pantalla de Divinity. Desde The Dina Collection, los espectadores asisten a las historias que surgen durante la compra-venta de objetos de valor.
+· País: Estados Unidos
+· Dirección: Mike Roth, Scott James, Genevieve Wong.
+· Reparto: Aria Johnson, Yossi Dina, Cory Oliver, Dominique Witten, Rob Klein, Rocco Leo Gaglioti, Melissa Ricci, Mandell Frazier, Kim Hopkins, Rosemary Gore.
+· Producción: Asylum Entertainment, Marielle Skouras.</desc>
+	</programme>
+	<programme start="20261122155900 +0100" stop="20261122162300 +0100" channel="AMC Break">
+    <title>Pareja a la puja T2 E12 · Los Taylor</title>
+    <desc>Programa,Reality | 2012 | +7 | *4.5/10
+· Los hermanos Taylor tienen muchísimo dinero y continúan en San Diego con su fiesta californiana de compras en una de las subastas de contenedores portátiles de Sean.
+· País: Estados Unidos
+· Reparto: Cam Rowe, Brandon Bernier, Lori Bernier, Jesse McClure, Tarrell Wright, Ronald Kirkpatrick, Will C, James Lesley Taylor, Dustin Taylor, Sean Kelly.
+· Producción: Sean Kelly.</desc>
+	</programme>
+	<programme start="20261122162300 +0100" stop="20261122164800 +0100" channel="AMC Break">
+    <title>Pareja a la puja T1 E13 · Parada en Culver City</title>
+    <desc>Programa,Reality | 2011 | +7 | *4.5/10
+· Brandon gana un contenedor lleno de equipos de espionaje dignos de James Bond, y utiliza sus habilidades de detective para seguir un rastro de oro. Además, necesitará toda la ayuda posible cuando se dirige a su mayor desafío con los Taylor hasta la fecha.
+· País: Estados Unidos
+· Dirección: Michael Courtney.
+· Reparto: Sean Kelly, Cam Rowe, Brandon Bernier, Lori Bernier, Jesse McClure, Tarrell Wright, Ronald Kirkpatrick, Will C, James Lesley Taylor, Dustin Taylor.
+· Producción: Sean Kelly.</desc>
+	</programme>
+	<programme start="20261122164800 +0100" stop="20261122171200 +0100" channel="AMC Break">
+    <title>Pareja a la puja T1 E14 · Resaca en el valle</title>
+    <desc>Programa,Reality | 2011 | +7 | *4.5/10
+· Jesse presiona cada vez más a Brandon y a Lori, y pone a prueba una nueva lealtad con Papa Bear. Y todos se llevan una gran sorpresa cuando Sean abre un contenedor que se ha utilizado para una broma al estilo de Resacón.
+· País: Estados Unidos
+· Dirección: Michael Courtney.
+· Reparto: Sean Kelly, Cam Rowe, Brandon Bernier, Lori Bernier, Jesse McClure, Tarrell Wright, Ronald Kirkpatrick, Will C, James Lesley Taylor, Dustin Taylor.
+· Producción: Sean Kelly.</desc>
+	</programme>
+	<programme start="20261122171200 +0100" stop="20261122173800 +0100" channel="AMC Break">
+    <title>Pareja a la puja T1 E16 · Palabrería</title>
+    <desc>Programa,Reality | 2011 | +7 | *4.5/10
+· Brandon se decide por un contenedor lleno de fotos de desnudos. ¿Son obras de arte valiosas, como él espera, o se trata de fotos escalofriantes y sin valor, como Lori se teme?
+· País: Estados Unidos
+· Reparto: Sean Kelly, Cam Rowe, Brandon Bernier, Lori Bernier, Jesse McClure, Tarrell Wright, Ronald Kirkpatrick, Will C, James Lesley Taylor, Dustin Taylor.
+· Producción: Sean Kelly.</desc>
+	</programme>
+	<programme start="20261122173800 +0100" stop="20261122180200 +0100" channel="AMC Break">
+    <title>Pareja a la puja T3 E9 · Suena la alarma</title>
+    <desc>Programa,Reality | 2013 | +7 | *4.5/10
+· Unos cartuchos de escopeta llevan a un postor inteligente a obtener un excelente beneficio. Papa Bear y Brandon se enfurecen ante un equipo inesperado, y una última sorpresa enciende el fuego bajo los postores... y sus carteras.
+· País: Estados Unidos
+· Reparto: John Kim, Christian Kane, Lindy Booth, John Larroquette, Noah Wyle, Sean Kelly, Jesse McClure, Cam Rowe, Brandon Bernier, Lori Bernier, Will C, Ronald Kirkpatrick, Tarrell Wright, James Lesley Taylor, Dustin Taylor.
+· Producción: Sean Kelly.</desc>
+	</programme>
+	<programme start="20261122180200 +0100" stop="20261122182700 +0100" channel="AMC Break">
+    <title>Pareja a la puja T2 E4 · Doble traición</title>
+    <desc>Programa,Reality | 2012 | +7 | *4.5/10
+· Los archienemigos Brandon y Jesse bajan la guardia para formar equipo contra una nueva amenaza. Luego, sucede lo mismo cuando Desert Dan arriesga todo por un neumático y una corazonada.
+· País: Estados Unidos
+· Dirección: Dave Theis.
+· Reparto: Cam Rowe, Brandon Bernier, Lori Bernier, Jesse McClure, Tarrell Wright, Ronald Kirkpatrick, Will C, James Lesley Taylor, Dustin Taylor, Sean Kelly, Tony Shalhoub, Tim Daly, Steven Weber, Crystal Bernard, Rebecca Schull, David Schramm.
+· Producción: Sean Kelly.</desc>
+	</programme>
+	<programme start="20261122182700 +0100" stop="20261122185200 +0100" channel="AMC Break">
+    <title>Pareja a la puja T2 E14 · Hombres en guerra</title>
+    <desc>Programa,Reality | 2012 | +7 | *4.5/10
+· Viejos rivales salen a escena en un intento por descubrir hallazgos únicos.Jesse intenta vencer a Brandon y Lori, ¿logrará un buen resultado o será eliminado?
+· País: Estados Unidos
+· Dirección: Michael McNamara.
+· Reparto: Sean Kelly, Cam Rowe, Brandon Bernier, Lori Bernier, Jesse McClure, Tarrell Wright, Ronald Kirkpatrick, Will C, James Lesley Taylor, Dustin Taylor, Tony Shalhoub, Tim Daly, Steven Weber, Crystal Bernard, Rebecca Schull, David Schramm.
+· Producción: Sean Kelly.</desc>
+	</programme>
+	<programme start="20261122185200 +0100" stop="20261122191700 +0100" channel="AMC Break">
+    <title>Pareja a la puja T2 E16 · Garras por dinero</title>
+    <desc>Programa,Reality | 2012 | +7 | *4.5/10
+· Scott apuesta fuerte por un contenedor que podría costarle un ojo de la cara. Después, T Money descubre un tesoro que podría enviarle directamente al podio.
+· País: Estados Unidos
+· Dirección: Michael McNamara.
+· Reparto: Sean Kelly, Cam Rowe, Brandon Bernier, Lori Bernier, Jesse McClure, Tarrell Wright, Ronald Kirkpatrick, Will C, James Lesley Taylor, Dustin Taylor, Tony Shalhoub, Tim Daly, Steven Weber, Crystal Bernard, Rebecca Schull, David Schramm.
+· Producción: Sean Kelly.</desc>
+	</programme>
+	<programme start="20261122191700 +0100" stop="20261122200000 +0100" channel="AMC Break">
+    <title>Cazatesoros: Grandes Hallazgos T1 E5 · Joyas sobre ruedas</title>
+    <desc>Documental,Histórico,Otros | 2026 | +12
+· Desde viejos coches abandonados en desguaces hasta clásicos perdidos durante décadas, exploramos vehículos y recuerdos del mundo del motor que reaparecieron para protagonizar auténticos negocios millonarios.
+· País: Estados Unidos
+· Dirección: Stephen Scott, Mike Wolfe.
+· Reparto: Mike Wolfe.</desc>
+	</programme>
+	<programme start="20261122200000 +0100" stop="20261122204000 +0100" channel="AMC Break">
+    <title>Cazatesoros: Grandes Hallazgos T1 E6 · Tesoros inquietantes</title>
+    <desc>Documental,Histórico,Otros | 2026 | +12
+· De lo macabro a lo absolutamente desconcertante, estas historias revelan descubrimientos inquietantes que acabaron convirtiéndose en inesperadas fortunas.
+· País: Estados Unidos
+· Dirección: Stephen Scott, Mike Wolfe.
+· Reparto: Mike Wolfe.
+· Producción: J.C. Mills, Tanya Blake, Max Micallef, Mike Wolfe.</desc>
+	</programme>
+	<programme start="20261122204000 +0100" stop="20261122212700 +0100" channel="AMC Break">
+    <title>Cazatesoros: Grandes Hallazgos T1 E7 · Objetos olvidados</title>
+    <desc>Documental,Histórico,Otros | 2026 | +12
+· Encontrados en cobertizos, propiedades abandonadas e incluso vertederos, estos objetos olvidados y descartados acabaron convirtiéndose en descubrimientos tan sorprendentes como lucrativos.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Stephen Scott, Mike Wolfe.
+· Reparto: Mike Wolfe, Martin K.A. Morgan, Kavitha Davidson, Jason Liebig, Dan Riskin, Austin Rogers.
+· Producción: Mike Wolfe, J.C. Mills, Tanya Blake, Max Micallef.</desc>
+	</programme>
+	<programme start="20261122212700 +0100" stop="20261122221500 +0100" channel="AMC Break">
+    <title>Cazatesoros: Grandes Hallazgos T1 E8 · Maestros del espectáculo</title>
+    <desc>Documental,Histórico,Otros | 2026 | +12
+· De los estadios deportivos a la pista del circo y de allí a la gran pantalla, este episodio explora valiosos objetos relacionados con algunos de los artistas y figuras del espectáculo más legendarios de todos los tiempos.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Stephen Scott, Mike Wolfe.
+· Reparto: Mike Wolfe, Austin Rogers, Dan Riskin, Kavitha Davidson, Martin K.A. Morgan, Jason Liebig, Nehemiah Mabry.
+· Producción: Mike Wolfe, J.C. Mills, Tanya Blake, Max Micallef.</desc>
+	</programme>
+	<programme start="20261122221500 +0100" stop="20261122230500 +0100" channel="AMC Break">
+    <title>Cazatesoros T24 E9 · Remolque De Madera</title>
+    <desc>Programa,Entretenimiento,Reality | 2023 | +12 | *7.1/10
+· Robbie mira un trailer de madera; Mike consigue un mecánico de primera línea para ayudar a revivir un grupo de Harleys e Indians ultra raras.
+· País: Estados Unidos
+· Dirección: Mike Wolfe, Frank Fritz, Jason Romeo, Elias Orelup, John Chiappardi, Todd Broder, Ian Gelfand, Catherine Pappas, Adam Matalon, Mary Swanhaus, Jerry Carita, Keshia Coe, Guy Fiorita, Ben Epstein, Anthony Mastanduno, Stephen Tyler Carnathan.
+· Reparto: Mike Wolfe, Frank Fritz, Danielle Colby-Cushman, Robbie Wolfe, Lauren Wray Grisham, Dave Ohrt, Jon Szalay, Emily Gwin, Michael Mefford.
+· Producción: Mike Wolfe.</desc>
+	</programme>
+	<programme start="20261122230500 +0100" stop="20261122235400 +0100" channel="AMC Break">
+    <title>Cazatesoros T24 E10 · Soñando con Detroit</title>
+    <desc>Programa,Entretenimiento,Reality | 2023 | +7 | *7.1/10
+· Mike recorre la planta abandonada de Packard en Detroit antes de su destrucción; encuentra el santo grial de las bicicletas antiguas en Buffalo.
+· País: Estados Unidos
+· Dirección: Mike Wolfe, Anthony Mastanduno, Ian Gelfand, Stephen Tyler Carnathan, Keshia Coe, Elias Orelup, Ben Epstein, Jason Romeo, Catherine Pappas, Jerry Carita, Guy Fiorita, Adam Matalon, Todd Broder, Mary Swanhaus, John Chiappardi.
+· Reparto: Mike Wolfe, Frank Fritz, Danielle Colby-Cushman, Robbie Wolfe, Lauren Wray Grisham, Dave Ohrt, Jon Szalay, Emily Gwin, Michael Mefford.
+· Producción: Mike Wolfe.</desc>
+	</programme>
+	<programme start="20261122235400 +0100" stop="20261123004400 +0100" channel="AMC Break">
+    <title>Cazatesoros T24 E11 · La pequeña tienda de las maravillas</title>
+    <desc>Programa,Entretenimiento,Reality | 2023 | +12 | *7.1/10
+· Mike y Jersey descubren una pequeña tienda repleta de maravillas en el corazón de Manhattan. Mientras tanto, Robbie persigue el Santo Grial de los carteles de la era del latón.
+· País: Estados Unidos
+· Dirección: Mike Wolfe, Anthony Mastanduno, Ian Gelfand, Stephen Tyler Carnathan, Keshia Coe, Elias Orelup, Ben Epstein, Jason Romeo, Catherine Pappas, Jerry Carita, Guy Fiorita, Adam Matalon, Todd Broder, Mary Swanhaus, John Chiappardi.
+· Reparto: Mike Wolfe, Frank Fritz, Danielle Colby-Cushman, Lauren Wray Grisham, Dave Ohrt, Jon Szalay, Robbie Wolfe, Emily Gwin, Michael Mefford.
+· Producción: Mike Wolfe.</desc>
+	</programme>
+	<programme start="20261123004400 +0100" stop="20261123013400 +0100" channel="AMC Break">
+    <title>Cazatesoros T24 E12 · El príncipe del metro</title>
+    <desc>Programa,Entretenimiento,Reality | 2023 | +7 | *7.1/10
+· Mike se atreve a probar el baile de barra cuando un artista que bucea en contenedores lo invita a participar. Mientras tanto, Robbie y Jersey descubren un auténtico filón de carteles antiguos del metro de Nueva York.
+· País: Estados Unidos
+· Dirección: Anthony Mastanduno, Ian Gelfand, Stephen Tyler Carnathan, Keshia Coe, Elias Orelup, Ben Epstein, Jason Romeo, Catherine Pappas, Jerry Carita, Guy Fiorita, Adam Matalon, Todd Broder, Mary Swanhaus, John Chiappardi.
+· Reparto: Mike Wolfe, Danielle Colby-Cushman, Lauren Wray Grisham, Dave Ohrt, Jon Szalay, Robbie Wolfe, Emily Gwin, Michael Mefford.
+· Producción: Mike Wolfe.</desc>
+	</programme>
+	<programme start="20261123013400 +0100" stop="20261123021700 +0100" channel="AMC Break">
+    <title>Mountain Men T13 E9 · Corriendo tras un sueño</title>
+    <desc>Series,Telenovelas | 2024 | +16 | *7.3/10
+· Lauro comienza la Iditarod, una carrera de 1.600 km, con su equipo de dieciséis perros, enfrentándose a condiciones adversas y a un terreno accidentado en una de las carreras más duras del mundo.
+· País: Estados Unidos
+· Dirección: David Arabia, Mason Gertz.
+· Reparto: Charlie Tucker, Josh Kirk, Martha Tansy, Kidd Youren, Harry Youren, Tom Oar, Eustace Conway, Marty Meierotto, Jake Herak, Mike Horstman, Lauro Eklund, Bret Bohn, Ivy O'Guinn, Paul Antczak, Soraya Painter, Chance Painter, Rich Lewis, Morgan Beasley.</desc>
+	</programme>
+	<programme start="20261123021700 +0100" stop="20261123030000 +0100" channel="AMC Break">
+    <title>Mountain Men T13 E10 · Oso abatido</title>
+    <desc>Series,Telenovelas | 2024 | +16 | *7.3/10
+· Lauro continúa su aventura para completar la Iditarod cruzando el interior helado de Alaska. Bret e Ivy persiguen a un oso por un terreno peligrosamente escarpado.
+· País: Estados Unidos
+· Dirección: David Arabia, Mason Gertz.
+· Reparto: Charlie Tucker, Josh Kirk, Martha Tansy, Kidd Youren, Harry Youren, Tom Oar, Eustace Conway, Marty Meierotto, Jake Herak, Mike Horstman, Lauro Eklund, Bret Bohn, Ivy O'Guinn, Paul Antczak, Soraya Painter, Chance Painter, Rich Lewis, Morgan Beasley.</desc>
+	</programme>
+	<programme start="20261123030000 +0100" stop="20261123034100 +0100" channel="AMC Break">
+    <title>Mountain Men T13 E11 · Resistencia</title>
+    <desc>Series,Telenovelas | 2024 | +16 | *7.3/10
+· Lauro se enfrenta a una temperatura de -40 °C, un trineo roto y perros agotados en la ruta Iditarod mientras recorre el río Yukón helado. Bret e Ivy consiguen una impresionante captura de castores.
+· País: Estados Unidos
+· Dirección: David Arabia, Mason Gertz.
+· Reparto: Charlie Tucker, Harry Youren, Kidd Youren, Josh Kirk, Martha Tansy, Tom Oar, Eustace Conway, Marty Meierotto, Jake Herak, Mike Horstman, Lauro Eklund, Bret Bohn, Ivy O'Guinn, Paul Antczak, Soraya Painter, Chance Painter, Rich Lewis, Morgan Beasley.</desc>
+	</programme>
+	<programme start="20261123034100 +0100" stop="20261123042500 +0100" channel="AMC Break">
+    <title>Mountain Men T13 E12 · La línea de meta</title>
+    <desc>Series,Telenovelas | 2024 | +16 | *7.3/10
+· Final de temporada. Lauro se acerca al final de la Iditarod, cruzando 400 kilómetros de hielo a lo largo de la costa del mar de Bering para llegar a la meta en Nome.
+· País: Estados Unidos
+· Dirección: David Arabia, Mason Gertz.
+· Reparto: Charlie Tucker, Harry Youren, Kidd Youren, Josh Kirk, Martha Tansy, Tom Oar, Eustace Conway, Marty Meierotto, Jake Herak, Mike Horstman, Lauro Eklund, Bret Bohn, Ivy O'Guinn, Paul Antczak, Soraya Painter, Chance Painter, Rich Lewis, Morgan Beasley.</desc>
+	</programme>
+	<programme start="20261123042500 +0100" stop="20261123045400 +0100" channel="AMC Break">
+    <title>Furia al volante T1 E9 · Shaina y Kevin</title>
+    <desc>Programa,Reality | 2024 | +12
+· Shaina no puede evitar gritar a casi todos los coches con los que se cruza. Ahora, su hijo le ha dado un ultimátum. Kevin se ha recuperado de un infarto provocado por el estrés, pero teme sufrir otro.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261123045400 +0100" stop="20261123053400 +0100" channel="AMC Break">
+    <title>Furia al volante T1 E2 · Kevin y Ryan</title>
+    <desc>Programa,Reality | 2024 | +12
+· Kevin tiene un grave problema: se enfurece al volante y es de los conductores más iracundos de Estados Unidos. A Ryan le gusta conducir rápido y no soporta que nadie se interponga en su camino.
+· País: Estados Unidos
+· Dirección: Varios.</desc>
+	</programme>
+	<programme start="20261123053400 +0100" stop="20261123061700 +0100" channel="AMC Break">
+    <title>Furia al volante T1 E3 · Michelle y Seeta</title>
+    <desc>Programa,Reality | 2024 | +12
+· Michelle se cree la dueña de la carretera. Su marido y su hijo temen por su seguridad y la suya propia. Seeta, una conductora profesional, cree que es la única persona que sabe conducir.
+· País: Estados Unidos
+· Dirección: Varios.</desc>
+	</programme>
+	<programme start="20261123061700 +0100" stop="20261123063700 +0100" channel="AMC Break">
+    <title>The Liquidator T3 E21 · Operación: Liquidar</title>
+    <desc>Programa,Reality,Entretenimiento | 2013 | +12 | *7.2/10
+· El negocio de las liquidaciones es como la guerra y Jeff necesita soldados dispuestos a todo, aun si ello conlleva encargarse de cuatro tráilers cargados de atrezo en un almacén lleno hasta los topes.
+· País: Canadá
+· Dirección: Fred Frame, Alex Kahn, Blake Maddox.
+· Reparto: James Cousineau, José Pesquera, Laura Jacobs, Daniel Fu, Daniel, Rin, Jeff Schwarz, Sheldon.</desc>
+	</programme>
+	<programme start="20261123063700 +0100" stop="20261123070000 +0100" channel="AMC Break">
+    <title>The Liquidator T3 E22 · ¿Tesoro o basura?</title>
+    <desc>Programa,Reality,Entretenimiento | 2013 | +12 | *7.2/10
+· Jeff no tiene problemas en convencer a los vendedores de que su mercancía es inservible cuando eso le ayuda a sacar tajada, pero no siempre es fácil convencer a los compradores de lo contrario.
+· País: Canadá
+· Dirección: Alex Kahn, Blake Maddox, Fred Frame.
+· Reparto: James Cousineau, José Pesquera, Laura Jacobs, Daniel Fu.</desc>
+	</programme>
+	<programme start="20261123070000 +0100" stop="20261123072000 +0100" channel="AMC Break">
+    <title>The Liquidator T3 E23 · Fuera de temporada</title>
+    <desc>Programa,Reality,Entretenimiento | 2014 | +12 | *7.2/10
+· Jeff decide invertir en ochocientos pares de botas de agua de marca en plena ola de calor y en mobiliario de exterior a finales de verano. ¿Conseguirá vender todos los productos o el tiempo le jugará una mala pasada?
+· País: Canadá
+· Dirección: Fred Frame, Alec MacNeill Richardson.
+· Reparto: James Cousineau, José Pesquera, Laura Jacobs, Daniel Fu, Daniel, Rin, Jeff Schwarz, Sheldon.</desc>
+	</programme>
+	<programme start="20261123072000 +0100" stop="20261123074200 +0100" channel="AMC Break">
+    <title>The Liquidator T3 E24 · Tomadura de pelo</title>
+    <desc>Programa,Reality,Entretenimiento | 2013 | +12 | *7.2/10
+· En un viaje a California, Jeff se enamoró de una moto con sidecar antigua y decidió comprarla. Ahora, cuando las cosas se complican con el mecánico, deberá pedir ayuda a Sheldon, el agente de embargos, si quiere recuperarla.
+· País: Canadá
+· Dirección: Alec MacNeill Richardson, Fred Frame, Mark Lawrence, Alex Khan.
+· Reparto: James Cousineau, José Pesquera, Laura Jacobs, Daniel Fu.</desc>
+	</programme>
+	<programme start="20261123074200 +0100" stop="20261123080300 +0100" channel="AMC Break">
+    <title>The Liquidator T3 E26 · Pandilla de gañanes</title>
+    <desc>Programa,Reality,Entretenimiento | 2014 | +12 | *7.2/10
+· A Jeff le va el estilo clásico del puerta a puerta, mientras que Daniel prefiere internet. Los dos viajarán al desierto americano para visitar un pueblo en venta.
+· País: Canadá
+· Dirección: Alec MacNeill Richardson, Fred Frame, Mark Lawrence, Alex Khan.
+· Reparto: James Cousineau, José Pesquera, Laura Jacobs, Daniel Fu, Jeff Schwarz, Daniel, Rin, Sheldon.</desc>
+	</programme>
+	<programme start="20261123080300 +0100" stop="20261123082500 +0100" channel="AMC Break">
+    <title>The Liquidator T3 E25 · Una situación peliaguda</title>
+    <desc>Programa,Reality,Entretenimiento | 2014 | +12 | *7.2/10
+· Jeff compra miles de dólares en abrigos de piel sin esperar la reacción negativa de sus empleados. Por si fuera poco, la subasta soñada parece estar a punto de írsele de las manos. ¿Podrá el pelo de Elvis salvar la situación?
+· País: Canadá
+· Dirección: Fred Frame, Mark Lawrence, Alex Khan.
+· Reparto: James Cousineau, José Pesquera, Laura Jacobs, Daniel Fu, Jeff Schwarz, Daniel, Rin, Sheldon.</desc>
+	</programme>
+	<programme start="20261123082500 +0100" stop="20261123084600 +0100" channel="AMC Break">
+    <title>The Liquidator T4 E1 · Nadar o ahogarse</title>
+    <desc>Programa,Reality,Entretenimiento | 2015 | +12 | *7.2/10
+· Sheldon embarga un yate valorado en cientos de miles de dólares y Jeff decide celebrar una subasta. A pocos días de la subasta, el propietario decide pagar por él y recuperarlo.
+· País: Canadá
+· Dirección: Alec MacNeill Richardson, Mark Lawrence, Alec Richardson, Fred Frame, Alex Khan.
+· Reparto: James Cousineau, José Pesquera, Laura Jacobs, Daniel Fu, Daniel, Rin, Jeff Schwarz, Sheldon.</desc>
+	</programme>
+	<programme start="20261123084600 +0100" stop="20261123090800 +0100" channel="AMC Break">
+    <title>The Liquidator T4 E2 · El rey de las sobras</title>
+    <desc>Programa,Reality,Entretenimiento | 2015 | +12 | *7.2/10
+· A primera vista, parece que el lote de objetos étnicos que recibe Jeff del viejo Rolly no va a cundir mucho, pero Jeff está decidido a hacer que su subasta sea un éxito.
+· País: Canadá
+· Dirección: Alec MacNeill Richardson, Mark Lawrence, Alec MacNeill, Fred Frame, Alex Khan.
+· Reparto: James Cousineau, José Pesquera, Laura Jacobs, Daniel Fu, Daniel, Rin, Sheldon.</desc>
+	</programme>
+	<programme start="20261123090800 +0100" stop="20261123092900 +0100" channel="AMC Break">
+    <title>¿Quién da más?: Texas T1 E7 · Un puñado de subastas</title>
+    <desc>Programa,Reality | 2011 | +7 | *5.1/10
+· Los compradores deben elegir entre una subasta segura y una de alto riesgo; mientras Lesa compite con un comprador mas joven, los hermanos encuentran algunos juguetes antiguos de pistolero; Roy decide emplear una nueva estrategia.
+· País: Estados Unidos
+· Reparto: Walt Cade, Ricky Smith, Bubba Smith, Mary Padian, Victor Rjesnjansky, Roy Williams.</desc>
+	</programme>
+	<programme start="20261123092900 +0100" stop="20261123095200 +0100" channel="AMC Break">
+    <title>¿Quién da más?: Texas T2 E7 · Costoso té</title>
+    <desc>Programa,Reality | 2011 | +7 | *5.1/10
+· Lesa y Víctor compiten por una unidad que tiene un piano que se toca por sí mismo; Roy Williams descubre un objeto que provoca un impacto; Bubba y Ricky aprenden algunas cosas sobre las fiestas de té en la próspera ciudad de Lewisville, Texas.
+· País: Estados Unidos
+· Reparto: Walt Cade, Ricky Smith, Bubba Smith, Mary Padian, Victor Rjesnjansky, Roy Williams, Lesa Lewis, Morris Prigoff, Jerry Simpson, Jenny Grumbles.</desc>
+	</programme>
+	<programme start="20261123095200 +0100" stop="20261123101300 +0100" channel="AMC Break">
+    <title>¿Quién da más?: Texas T1 E9 · Por algunos casilleros más</title>
+    <desc>Programa,Reality | 2011 | +7 | *5.1/10
+· Ricky y Bubba usan una estrategia que ha funcionado para el pescador; Víctor se fija en algunas maquinas de video póquer; Jerry obliga a Lesa a hacer una compra; Moe se involucra en un negocio cuestionable durante las subastas consecutivas.
+· País: Estados Unidos
+· Reparto: Walt Cade, Ricky Smith, Bubba Smith, Mary Padian, Victor Rjesnjansky, Jenny Grumbles, Morris Prigoff, Lesa Lewis.</desc>
+	</programme>
+	<programme start="20261123101300 +0100" stop="20261123103600 +0100" channel="AMC Break">
+    <title>¿Quién da más?: Texas T1 E2 · Bounty Hunter Bubba Fett</title>
+    <desc>Programa,Reality | 2011 | +7 | *5.1/10
+· Lesa y Moe Prigoff compiten entre sí por un casilla y el objeto misterioso que guarda dentro; Víctor intenta obtener lucros con una unidad chica; Bubba y Ricky esperan que la suerte esté de su lado cuando pujen por una unidad llena de coleccionables.
+· País: Estados Unidos
+· Reparto: Walt Cade, Ricky Smith, Bubba Smith, Mary Padian, Victor Rjesnjansky, Jenny Grumbles, Lesa Lewis, Jerry Simpson, Morris Prigoff.</desc>
+	</programme>
+	<programme start="20261123103600 +0100" stop="20261123105700 +0100" channel="AMC Break">
+    <title>¿Quién da más?: Texas T1 E11 · Se vende Texas</title>
+    <desc>Programa,Reality | 2011 | +7 | *5.1/10
+· La guerra de los guardamuebles se extiende por el estado de la estrella solitaria.
+· País: Estados Unidos
+· Reparto: Walt Cade, Ricky Smith, Bubba Smith, Mary Padian, Victor Rjesnjansky, Jenny Grumbles, Lesa Lewis, Jerry Simpson, Morris Prigoff.</desc>
+	</programme>
+	<programme start="20261123105700 +0100" stop="20261123112000 +0100" channel="AMC Break">
+    <title>¿Quién da más?: Texas T1 E4 · Mucho más dinero</title>
+    <desc>Programa,Reality | 2011 | +7 | *5.1/10
+· El grupo soportan una dura competencia en una subasta en Longview; Ricky y Lesa compiten por herramientas eléctricas; Víctor puja por un casillero de mediados de siglo; Moe tiene un amigo que transforma una unidad llena de basura en tesoros.
+· País: Estados Unidos
+· Reparto: Walt Cade, Ricky Smith, Bubba Smith, Mary Padian, Victor Rjesnjansky, Jenny Grumbles, Lesa Lewis, Jerry Simpson, Morris Prigoff.</desc>
+	</programme>
+	<programme start="20261123112000 +0100" stop="20261123114500 +0100" channel="AMC Break">
+    <title>¿Quién da más?: Texas T1 E13 · El bueno, el malo y el hambriento</title>
+    <desc>Programa,Reality | 2011 | +7 | *5.1/10
+· Se pone a la venta el guardamuebles de un magnate recientemente fallecido y los compradores se preparan para una guerra sin cuartel.
+· País: Estados Unidos
+· Reparto: Walt Cade, Ricky Smith, Bubba Smith, Mary Padian, Victor Rjesnjansky, Jenny Grumbles, Lesa Lewis, Jerry Simpson, Morris Prigoff.</desc>
+	</programme>
+	<programme start="20261123114500 +0100" stop="20261123120900 +0100" channel="AMC Break">
+    <title>¿Quién da más?: Texas T1 E7 · Hogar de la extraña</title>
+    <desc>Programa,Reality | 2011 | +7 | *5.1/10
+· Moe busca objetos extravagantes en un almacén en Burleson, Texas; Víctor y Lesa compiten por una exhibición que se valora a $8,000; Ricky y Bubba se topan con algo que parece ser un dispositivo médico único.
+· País: Estados Unidos
+· Reparto: Walt Cade, Ricky Smith, Bubba Smith, Mary Padian, Victor Rjesnjansky, Jenny Grumbles, Lesa Lewis, Jerry Simpson, Morris Prigoff.</desc>
+	</programme>
+	<programme start="20261123120900 +0100" stop="20261123123400 +0100" channel="AMC Break">
+    <title>Pareja a la puja T2 E19 · Más leña al fuego</title>
+    <desc>Programa,Reality | 2012 | +7 | *4.5/10
+· En un día lleno de sorpresas explosivas, el equipo Brandori busca una gran victoria mientras los hermanos Alvarado se la juegan. T Money consigue un artilugio para hacer fuego.
+· País: Estados Unidos
+· Dirección: Michael McNamara.
+· Reparto: Cam Rowe, Brandon Bernier, Lori Bernier, Jesse McClure, Tarrell Wright, Ronald Kirkpatrick, Will C, James Lesley Taylor, Dustin Taylor, Tony Shalhoub, Sean Kelly, Tim Daly, Steven Weber, Crystal Bernard, Rebecca Schull, David Schramm.
+· Producción: Sean Kelly.</desc>
+	</programme>
+	<programme start="20261123123400 +0100" stop="20261123125900 +0100" channel="AMC Break">
+    <title>Pareja a la puja T2 E20 · Métodos peligrosos</title>
+    <desc>Programa,Reality | 2012 | +7 | *4.5/10
+· Brandon y Lori van a por el oro, pero encuentran algo aún mejor. Jesse se enfrenta al equipo Brandori. T-Money lanza su propia y peligrosa apuesta. ¿Se llevarán Scott y Chrissy el premio de oro?
+· País: Estados Unidos
+· Dirección: Michael McNamara.
+· Reparto: Cam Rowe, Brandon Bernier, Lori Bernier, Jesse McClure, Tarrell Wright, Ronald Kirkpatrick, Will C, James Lesley Taylor, Dustin Taylor, Tony Shalhoub, Sean Kelly, Tim Daly, Steven Weber, Crystal Bernard, Rebecca Schull, David Schramm.
+· Producción: Sean Kelly.</desc>
+	</programme>
+	<programme start="20261123125900 +0100" stop="20261123132300 +0100" channel="AMC Break">
+    <title>Pareja a la puja T2 E25 · A por todas</title>
+    <desc>Programa,Reality | 2012 | +7 | *4.5/10
+· Scott se la juega con un cubo de la Oktoberfest. Los hermanos Alvarado pujan por objetos de colección. T Money se lleva un gran premio. Brandon y Lori investigan un contenedor de una escena de crimen.
+· País: Estados Unidos
+· Dirección: Michael McNamara.
+· Reparto: Cam Rowe, Brandon Bernier, Lori Bernier, Jesse McClure, Tarrell Wright, Ronald Kirkpatrick, Will C, James Lesley Taylor, Dustin Taylor, Tony Shalhoub, Sean Kelly, Tim Daly, Steven Weber, Crystal Bernard, Rebecca Schull, David Schramm.
+· Producción: Sean Kelly.</desc>
+	</programme>
+	<programme start="20261123132300 +0100" stop="20261123134700 +0100" channel="AMC Break">
+    <title>Pareja a la puja T2 E26 · Negocios engañosos</title>
+    <desc>Programa,Reality | 2012 | +7 | *4.5/10
+· Sean organiza una subasta exclusiva en Malibú, en el Rolls-Royce de los almacenes. T Money necesita un robot. Jesse intenta burlar a sus competidores. Brandon y Lori hacen una de sus mayores apuestas.
+· País: Estados Unidos
+· Dirección: Michael McNamara.
+· Reparto: Cam Rowe, Brandon Bernier, Lori Bernier, Jesse McClure, Tarrell Wright, Ronald Kirkpatrick, Will C, James Lesley Taylor, Dustin Taylor, Tony Shalhoub, Sean Kelly, Tim Daly, Steven Weber, Crystal Bernard, Rebecca Schull, David Schramm.
+· Producción: Sean Kelly.</desc>
+	</programme>
+	<programme start="20261123134700 +0100" stop="20261123141100 +0100" channel="AMC Break">
+    <title>Pareja a la puja T2 E8 · Ganancias y pérdidas</title>
+    <desc>Programa,Reality | 2012 | +7 | *4.5/10
+· En Las Vegas, la cosa está que arde. Scott, Brandon y Lori han venido a ver si pueden hacerse ricos no sólo en los casinos. Y adivinad quién ha vuelto, el rival de Brandon, Dustin Taylor.
+· País: Estados Unidos
+· Dirección: Dave Theis.
+· Reparto: Cam Rowe, Brandon Bernier, Lori Bernier, Jesse McClure, Tarrell Wright, Ronald Kirkpatrick, Will C, James Lesley Taylor, Dustin Taylor, Sean Kelly, Tony Shalhoub, Tim Daly, Steven Weber, Crystal Bernard, Rebecca Schull, David Schramm.
+· Producción: Sean Kelly.</desc>
+	</programme>
+	<programme start="20261123141100 +0100" stop="20261123143600 +0100" channel="AMC Break">
+    <title>Pareja a la puja T2 E9 · Ahora lo ves, ahora no</title>
+    <desc>Programa,Reality | 2012 | +7 | *4.5/10
+· Dustin Taylor emerge de los pantanos del Mississippi para renovar su desafío contra Brandon y Lori en Las Vegas.
+· País: Estados Unidos
+· Dirección: Dave Theis.
+· Reparto: Cam Rowe, Brandon Bernier, Lori Bernier, Jesse McClure, Tarrell Wright, Ronald Kirkpatrick, Will C, James Lesley Taylor, Dustin Taylor, Tony Shalhoub, Sean Kelly, Tim Daly, Steven Weber, Crystal Bernard, Rebecca Schull, David Schramm.
+· Producción: Sean Kelly.</desc>
+	</programme>
+	<programme start="20261123143600 +0100" stop="20261123150100 +0100" channel="AMC Break">
+    <title>Pareja a la puja T2 E10 · ¡No puede ser!</title>
+    <desc>Programa,Reality | 2012 | +7 | *4.5/10
+· Un rumor de que Sean subastará vehículos atrae a los compradores al pie de la montaña, pero el contenido real de estos contenedores es una auténtica incógnita.
+· País: Estados Unidos
+· Dirección: Dave Theis.
+· Reparto: Cam Rowe, Brandon Bernier, Lori Bernier, Jesse McClure, Tarrell Wright, Ronald Kirkpatrick, Will C, James Lesley Taylor, Dustin Taylor, Sean Kelly, Tony Shalhoub, Tim Daly, Steven Weber, Crystal Bernard, Rebecca Schull, David Schramm.
+· Producción: Sean Kelly.</desc>
+	</programme>
+	<programme start="20261123150100 +0100" stop="20261123152500 +0100" channel="AMC Break">
+    <title>Pareja a la puja T2 E13 · Mantenerse firme y apostar fuerte</title>
+    <desc>Programa,Reality | 2012 | +7 | *4.5/10
+· La competición está en pleno apogeo, nuestros protagonistas luchan por encontrar artículos curiosos en una subasta en el aeropuerto y hay de todo.
+· País: Estados Unidos
+· Dirección: Dave Theis.
+· Reparto: Sean Kelly, Taylor Spreitler, Cam Rowe, Ryan Cartwright, Brandon Bernier, Leah Remini, Lori Bernier, Jesse McClure, Tarrell Wright, Ronald Kirkpatrick, Will C, James Lesley Taylor, Dustin Taylor, Tony Shalhoub, Tim Daly, Steven Weber, Crystal Bernard, Rebecca Schull, David Schramm.
+· Producción: Sean Kelly.</desc>
+	</programme>
+	<programme start="20261123152500 +0100" stop="20261123155100 +0100" channel="AMC Break">
+    <title>¿Quién da más? T1 E3 · Ruleta rusa</title>
+    <desc>Series,Telenovelas | 2018 | +7 | *6.3/10
+· Dave Hester y Darrell Sheets compiten por un armario con un desembolso $ 20.000; Jarrod compra una unidad sospechosa causando una pelea; Barry saca un arma secreta para una competición de enanos.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261123155100 +0100" stop="20261123161500 +0100" channel="AMC Break">
+    <title>¿Quién da más? T1 E7 · Cultura hispana</title>
+    <desc>Series,Telenovelas | 2010 | +7 | *6.3/10
+· En una ciudad con raíces hispanas, los compradores descubren un teléfono único, un alambique y muebles de oficina. ¿Valen algo?
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Dan Dotson, Laura Dotson, Dave Hester, Brad Withford.</desc>
+	</programme>
+	<programme start="20261123161500 +0100" stop="20261123164100 +0100" channel="AMC Break">
+    <title>¿Quién da más? T1 E8 · Las dos videntes</title>
+    <desc>Series,Telenovelas | 2010 | +7 | *6.3/10
+· En Gardena, videntes, tensión y un toque escalofriante. Jarrod y Brandi apuestan por un guardamuebles que podría salvar su negocio.
+· País: Francia, Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Dan Dotson, Brad Withford, Laura Dotson, Dave Hester, Brandi Passante, Jarrod Schulz, Darrell Sheets, Ivy Calvin, Brandon Sheets.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261123164100 +0100" stop="20261123170600 +0100" channel="AMC Break">
+    <title>¿Quién da más? T1 E15 · Aventuras en la ciudad</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· En Perris, la aventura manda: equipos de excursión, herramientas y apuestas que revelan el secreto del éxito.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.</desc>
+	</programme>
+	<programme start="20261123170600 +0100" stop="20261123173100 +0100" channel="AMC Break">
+    <title>¿Quién da más? T1 E16 · La batalla de los sexos</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· En Torrance, la batalla se intensifica: un Jaguar clásico, apuestas arriesgadas y un duelo entre sexos.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Dan Dotson, Brad Withford, Laura Dotson, Dave Hester, Barry Weiss, Darrell Sheets, Brandi Passante, Jarrod Schulz, Brandon Sheets, Ivy Calvin.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261123173100 +0100" stop="20261123175700 +0100" channel="AMC Break">
+    <title>¿Quién da más? T1 E17 · Inquilino misterioso</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· En Orange, seis guardamuebles del mismo inquilino desatan rumores, rivalidades y hallazgos inesperados.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Brad Withford, Laura Dotson, Dan Dotson.</desc>
+	</programme>
+	<programme start="20261123175700 +0100" stop="20261123182200 +0100" channel="AMC Break">
+    <title>¿Quién da más? T1 E18 · Cabeza de caballo</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· En Yucaipa, discusiones encendidas, apuestas por mobiliario antiguo y un descubrimiento que podría cambiarlo todo.
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Brad Withford, Laura Dotson, Dave Hester, Dan Dotson, Darrell Sheets, Brandi Passante, Jarrod Schulz, Ivy Calvin, Brandon Sheets.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261123182200 +0100" stop="20261123184700 +0100" channel="AMC Break">
+    <title>¿Quién da más? T1 E19 · La ciudad hippy</title>
+    <desc>Series,Telenovelas | 2011 | +7 | *6.3/10
+· Las más divertidas subastas de guardamuebles y los postores más emblemáticos se dan cita en A&amp;E. ¿Qué tesoros ocultos se esconden tras la cortina?
+· País: Estados Unidos
+· Dirección: Matthew Bennett.
+· Reparto: Dan Dotson, Brad Withford, Laura Dotson, Dave Hester, Brandi Passante, Jarrod Schulz, Darrell Sheets, Ivy Calvin, Brandon Sheets.
+· Producción: Thom Beers.</desc>
+	</programme>
+	<programme start="20261123184700 +0100" stop="20261123191200 +0100" channel="AMC Break">
+    <title>Empeños a lo bestia T4 E1 · Vida después de la muerte</title>
+    <desc>Series,Telenovelas | 2011 | +16 | *4.9/10
+· ¿Recuerdan cuando Ashley dejó el negocio? Seth y Les sí lo recuerdan. Rebobinamos y lo vemos con ellos, además de observar cómo Seth lidió con la presión de ser el único hijo en la tienda.
+· País: Estados Unidos
+· Dirección: Marcus J. Fox, Anthony Mastanduno, Berry English.
+· Reparto: Dennis Kaminer, Tiffany Jean Jones, Les Gold, Seth Gold, Ashley Broad, Bobby Janiec, Karen Mitchell, Joe, Joel 'Big Joe' Shannon, Rich Pyle, Fielding 'Felix' Teichman.
+· Producción: Richard Dominick.</desc>
+	</programme>
+	<programme start="20261123191200 +0100" stop="20261123193500 +0100" channel="AMC Break">
+    <title>Empeños a lo bestia T4 E2 · ¿El retorno de la reina?</title>
+    <desc>Series,Telenovelas | 2011 | +16 | *4.9/10
+· Les llama a Ashley para una reunión familiar, ya que quiere que vuelva a la tienda, pero ella tiene sus propios planes. ¿Volverá o se interpondrá Seth en el camino?
+· País: Estados Unidos
+· Dirección: Marcus J. Fox, Anthony Mastanduno, Berry English, Ken Snow.
+· Reparto: Dennis Kaminer, Tiffany Jean Jones, Les Gold, Seth Gold, Ashley Broad, Brian Blume, Bobby Janiec, Karen Mitchell, Joe, Joel 'Big Joe' Shannon, Rich Pyle, Fielding 'Felix' Teichman.
+· Producción: Richard Dominick.</desc>
+	</programme>
+	<programme start="20261123193500 +0100" stop="20261123195900 +0100" channel="AMC Break">
+    <title>Empeños a lo bestia T4 E3 · ¡Fuego!</title>
+    <desc>Series,Telenovelas | 2011 | +16 | *4.9/10
+· El incendio de un coche en el aparcamiento amenaza con alcanzar los cables de la electricidad, pero las cosas empeoran cuando la familia se entera de que puede haber alguien dentro del coche.
+· País: Estados Unidos
+· Dirección: Marcus J. Fox, Anthony Mastanduno, Berry English.
+· Reparto: Dennis Kaminer, Tiffany Jean Jones, Les Gold, Seth Gold, Ashley Broad, Bobby Janiec, Karen Mitchell, Joe, Joel 'Big Joe' Shannon, Rich Pyle, Fielding 'Felix' Teichman.
+· Producción: Richard Dominick.</desc>
+	</programme>
+	<programme start="20261123195900 +0100" stop="20261123202600 +0100" channel="AMC Break">
+    <title>Empeños a lo bestia T4 E4 · Les se marcha</title>
+    <desc>Series,Telenovelas | 2011 | +16 | *4.9/10
+· Tras la marcha de Les, Ashley planea acabar con Seth. Mientras tanto, un cliente quiere mucho dinero por sus joyas, pero un desacuerdo sobre su valor lleva a una violenta discusión.
+· País: Estados Unidos
+· Dirección: Marcus J. Fox, Anthony Mastanduno, Berry English.
+· Reparto: Dennis Kaminer, Tiffany Jean Jones, Les Gold, Seth Gold, Ashley Broad, Bobby Janiec, Karen Mitchell, Joe, Joel 'Big Joe' Shannon, Rich Pyle, Fielding 'Felix' Teichman.
+· Producción: Richard Dominick.</desc>
+	</programme>
+	<programme start="20261123202600 +0100" stop="20261123205400 +0100" channel="AMC Break">
+    <title>Empeños a lo bestia T4 E5 · Les explota</title>
+    <desc>Series,Telenovelas | 2011 | +16 | *4.9/10
+· Una clienta ebria se pone beligerante, pero cuando menta a la madre de Les, este explota como nunca. ¿Podrán los de seguridad calmar la situación o Les llevará las cosas demasiado lejos?
+· País: Estados Unidos
+· Dirección: Marcus J. Fox, Anthony Mastanduno, Berry English.
+· Reparto: Dennis Kaminer, Tiffany Jean Jones, Les Gold, Seth Gold, Ashley Broad.</desc>
+	</programme>
+	<programme start="20261123205400 +0100" stop="20261123212100 +0100" channel="AMC Break">
+    <title>Empeños a lo bestia T4 E6 · Linaje</title>
+    <desc>Series,Telenovelas | 2011 | +16 | *4.9/10
+· Cuando la rivalidad entre los hermanos llega a un punto álgido, Les se ve obligado a tomar una decisión que cambiará para siempre la forma de hacer negocios en la casa de empeños.
+· País: Estados Unidos
+· Dirección: Marcus J. Fox, Anthony Mastanduno, Berry English.
+· Reparto: Dennis Kaminer, Tiffany Jean Jones, Les Gold, Seth Gold, Ashley Broad, Joe, Joel 'Big Joe' Shannon, Rich Pyle, Fielding 'Felix' Teichman, Bobby Janiec, Karen Mitchell.
+· Producción: Richard Dominick.</desc>
+	</programme>
+	<programme start="20261123212100 +0100" stop="20261123214800 +0100" channel="AMC Break">
+    <title>Empeños a lo bestia T4 E7 · Guerras territoriales</title>
+    <desc>Series,Telenovelas | 2011 | +16 | *4.9/10
+· Con la tienda oficialmente dividida, Seth y Ashley se enfrentan para defender su territorio. Más tarde, un problema con una identificación falsa pone a Les en una situación peligrosa.
+· País: Estados Unidos
+· Dirección: Marcus J. Fox, Anthony Mastanduno, Berry English, Ken Snow.
+· Reparto: Dennis Kaminer, Tiffany Jean Jones, Les Gold, Seth Gold, Ashley Broad, Joe, Joel 'Big Joe' Shannon, Rich Pyle, Fielding 'Felix' Teichman, Bobby Janiec, Karen Mitchell.
+· Producción: Richard Dominick.</desc>
+	</programme>
+	<programme start="20261123214800 +0100" stop="20261123221500 +0100" channel="AMC Break">
+    <title>Empeños a lo bestia T4 E8 · Todo en la familia</title>
+    <desc>Series,Telenovelas | 2011 | +16 | *4.9/10
+· Ashley y Seth han marcado sus territorios. Hay mucha tensión entre los dos, pero cuando un cliente quiere conseguir dinero para comprar droga se ven obligados a unirse por el bien de la tienda.
+· País: Estados Unidos
+· Dirección: Marcus J. Fox, Anthony Mastanduno, Berry English, Ken Snow.
+· Reparto: Dennis Kaminer, Tiffany Jean Jones, Les Gold, Seth Gold, Ashley Broad, Joe, Joel 'Big Joe' Shannon, Rich Pyle, Fielding 'Felix' Teichman, Bobby Janiec, Karen Mitchell.
+· Producción: Richard Dominick.</desc>
+	</programme>
+	<programme start="20261123221500 +0100" stop="20261123224200 +0100" channel="AMC Break">
+    <title>Empeños a lo bestia T4 E9 · Ashley contra Rich</title>
+    <desc>Series,Telenovelas | 2011 | +16 | *4.9/10
+· Rich invade el territorio de Ashley en el departamento de joyas y préstamos y ella lo pone en su lugar. Pero más tarde vuelve a pasarse de la raya y saca de quicio a Ashley.
+· País: Estados Unidos
+· Dirección: Marcus J. Fox, Anthony Mastanduno, Berry English, Ken Snow.
+· Reparto: Dennis Kaminer, Tiffany Jean Jones, Les Gold, Seth Gold, Ashley Broad, Joe, Joel 'Big Joe' Shannon, Rich Pyle, Fielding 'Felix' Teichman, Bobby Janiec, Karen Mitchell.
+· Producción: Richard Dominick.</desc>
+	</programme>
+	<programme start="20261123224200 +0100" stop="20261123231000 +0100" channel="AMC Break">
+    <title>Empeños a lo bestia T4 E10 · Nuevo contrato y despido</title>
+    <desc>Series,Telenovelas | 2011 | +16 | *4.9/10
+· Serie documental sobre una casa de empeños en Detroit. Ashley contrata a una mujer para trabajar en el puesto de joyería sin consultárselo a Seth ni a Les.
+· País: Estados Unidos
+· Dirección: Marcus J. Fox, Anthony Mastanduno, Berry English.
+· Reparto: Dennis Kaminer, Tiffany Jean Jones, Les Gold, Seth Gold, Ashley Broad, Joe, Joel 'Big Joe' Shannon, Rich Pyle, Fielding 'Felix' Teichman, Bobby Janiec, Karen Mitchell.
+· Producción: Richard Dominick.</desc>
+	</programme>
+	<programme start="20261123231000 +0100" stop="20261123233700 +0100" channel="AMC Break">
+    <title>Empeños a lo bestia T4 E11 · Seth contra Rich</title>
+    <desc>Series,Telenovelas | 2011 | +16 | *4.9/10
+· Rich mete la pata con un trabajo importante para Les y la responsabilidad recae sobre Seth. Como este no está dispuesto a fracasar ante los ojos de su padre, se enfrenta cara a cara con Rich.
+· País: Estados Unidos
+· Dirección: Marcus J. Fox, Anthony Mastanduno, Berry English.
+· Reparto: Dennis Kaminer, Tiffany Jean Jones, Les Gold, Seth Gold, Ashley Broad, Joe, Joel 'Big Joe' Shannon, Rich Pyle, Fielding 'Felix' Teichman, Bobby Janiec, Karen Mitchell.
+· Producción: Richard Dominick.</desc>
+	</programme>
+	<programme start="20261123233700 +0100" stop="20261124000300 +0100" channel="AMC Break">
+    <title>Empeños a lo bestia T4 E12 · Les suelta la bomba</title>
+    <desc>Series,Telenovelas | 2011 | +16 | *4.9/10
+· Les quiere celebrar el 30° aniversario de la tienda. Pero cuando suelta la bomba y les dice a Seth y a Ashley que tienen que planificar el evento, todo empieza a venirse abajo.
+· País: Estados Unidos
+· Dirección: Marcus J. Fox, Anthony Mastanduno, Berry English, Ken Snow.
+· Reparto: Dennis Kaminer, Tiffany Jean Jones, Les Gold, Seth Gold, Ashley Broad, Joe, Joel 'Big Joe' Shannon, Rich Pyle, Fielding 'Felix' Teichman, Bobby Janiec, Karen Mitchell.
+· Producción: Richard Dominick.</desc>
+	</programme>
+	<programme start="20261124000300 +0100" stop="20261124002800 +0100" channel="AMC Break">
+    <title>Empeños a lo bestia T4 E13 · La debacle</title>
+    <desc>Series,Telenovelas | 2011 | +16 | *4.9/10
+· A medida que se acerca la fecha de la fiesta del 30° aniversario de la tienda, Seth y Ashley se apresuran a organizar sus eventos individuales. Entonces, el caos aumenta hasta la debacle.
+· País: Estados Unidos
+· Dirección: Marcus J. Fox, Anthony Mastanduno, Berry English.
+· Reparto: Dennis Kaminer, Tiffany Jean Jones, Les Gold, Seth Gold, Ashley Broad, Joe, Joel 'Big Joe' Shannon, Rich Pyle, Fielding 'Felix' Teichman, Bobby Janiec, Karen Mitchell.
+· Producción: Richard Dominick.</desc>
+	</programme>
+	<programme start="20261124002800 +0100" stop="20261124005500 +0100" channel="AMC Break">
+    <title>Empeños a lo bestia T5 E1 · Consecuencias</title>
+    <desc>Series,Telenovelas | 2011 | +16 | *4.9/10
+· Serie documental que sigue el día a día de una casa de empeños familiar en Detroit. Les sorprende a los demás cuando revela el plan de comprar una nueva tienda.
+· País: Estados Unidos
+· Dirección: Marcus J. Fox, Berry English, Anthony Mastanduno.
+· Reparto: Dennis Kaminer, Tiffany Jean Jones, Les Gold, Seth Gold, Ashley Broad, Joe, Joel 'Big Joe' Shannon, Rich Pyle, Fielding 'Felix' Teichman, Bobby Janiec, Karen Mitchell.
+· Producción: Richard Dominick.</desc>
+	</programme>
+	<programme start="20261124005500 +0100" stop="20261124012300 +0100" channel="AMC Break">
+    <title>Empeños a lo bestia T5 E2 · Decisión final</title>
+    <desc>Series,Telenovelas | 2011 | +16 | *4.9/10
+· Les comunica a Seth y a Ashley si va a comprar la nueva casa de empeños o no, pero su decisión tiene mayores consecuencias de las que nadie podría haber imaginado.
+· País: Estados Unidos
+· Dirección: Marcus J. Fox, Berry English, Anthony Mastanduno.
+· Reparto: Dennis Kaminer, Tiffany Jean Jones, Les Gold, Seth Gold, Ashley Broad, Joe, Joel 'Big Joe' Shannon, Rich Pyle, Fielding 'Felix' Teichman, Bobby Janiec, Karen Mitchell.
+· Producción: Richard Dominick.</desc>
+	</programme>
+	<programme start="20261124012300 +0100" stop="20261124014500 +0100" channel="AMC Break">
+    <title>Empeños a lo bestia T5 E3 · ¿Oro robado?</title>
+    <desc>Series,Telenovelas | 2011 | +16 | *4.9/10
+· Tras comprar la nueva tienda, Les descubre una bolsa de joyas en la mesa de un antiguo empleado. Pero no es oro todo lo que reluce y el empleado se presenta para exigir que le devuelvan la mercancía.
+· País: Estados Unidos
+· Dirección: Marcus J. Fox, Anthony Mastanduno, Berry English.
+· Reparto: Dennis Kaminer, Tiffany Jean Jones, Les Gold, Seth Gold, Ashley Broad, Joel 'Big Joe' Shannon, Rich Pyle, Fielding 'Felix' Teichman, Bobby Janiec, Karen Mitchell.
+· Producción: Richard Dominick.</desc>
+	</programme>
+	<programme start="20261124014500 +0100" stop="20261124020600 +0100" channel="AMC Break">
+    <title>The Liquidator T3 E21 · Operación: Liquidar</title>
+    <desc>Programa,Reality,Entretenimiento | 2013 | +12 | *7.2/10
+· El negocio de las liquidaciones es como la guerra y Jeff necesita soldados dispuestos a todo, aun si ello conlleva encargarse de cuatro tráilers cargados de atrezo en un almacén lleno hasta los topes.
+· País: Canadá
+· Dirección: Fred Frame, Alex Kahn, Blake Maddox.
+· Reparto: James Cousineau, José Pesquera, Laura Jacobs, Daniel Fu, Daniel, Rin, Jeff Schwarz, Sheldon.</desc>
 	</programme>
 	<programme start="20261118021100 +0100" stop="20261118025600 +0100" channel="Historia">
     <title>Expedientes extraterrestres reabiertos T1 E5</title>
