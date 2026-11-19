@@ -11,5 +11,5 @@ M+ Liga de Campeones 3 HD,M+ Liga de Campeones 3 HD
 LaLiga TV BAR,LaLiga TV BAR
 M+ Originales HD,M+ Originales HD
 M+ Documentales HD,M+ Documentales HD
-AMC Crimen,AMC Crimen
+AMC Crime,AMC Crime
 AMC Break,AMC Break
