@@ -117,6 +117,15 @@
     <display-name>M+ Documentales HD UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png" />
   </channel>
+  <channel id="AMC Crime">
+    <display-name>AMC Crime</display-name>
+    <display-name>AMC Crime SD</display-name>
+    <display-name>AMC Crime HD</display-name>
+    <display-name>AMC Crime 4K</display-name>
+    <display-name>AMC Crime Full HD</display-name>
+    <display-name>AMC Crime UHD</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png" />
+  </channel>
   <channel id="AMC Break">
     <display-name>AMC Break</display-name>
     <display-name>AMC Break SD</display-name>
@@ -10832,6 +10841,1169 @@
     <desc>Entretenimiento,Humor | 2026 | +7 | *6.2/10
 · Shane Gillis batió récords en verano con su show en Filadelfia. Su serie “Tires” acaba de ser renovada. Rosalía vuelve al programa. La ganadora de un Grammy acaba de finalizar su gira mundial Lux.
 · País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261119011000 +0100" stop="20261119015100 +0100" channel="AMC Crime">
+    <title>Casos sin resolver T3 E7</title>
+    <desc>Documental,Otros
+· Un incendio con consecuencias letales se cobra la vida de una familia en una zona rural de Oklahoma y los investigadores sospechan que se trata de un crimen.</desc>
+	</programme>
+	<programme start="20261119015100 +0100" stop="20261119023200 +0100" channel="AMC Crime">
+    <title>Casos sin resolver T3 E8 · La reina de los Ozarks</title>
+    <desc>Documental,Otros | 2022 | +16
+· En junio de 1985, una joven, reina del festival «Sucker Day», aparece asesinada de una paliza. La pequeña comunidad de Nixa en Missouri está segura de que un rico empresario local es el responsable.
+· País: Estados Unidos
+· Reparto: Bradford Eckhart, Laurent Andruet, Gregory Falatek, Evangelos Giovanis, Keith J. Obit, Angelica Olson, Grey Robertson, Andrew Rudy, Brian Sturges, Danny Glover, Bill Kurtis, David Snyder.</desc>
+	</programme>
+	<programme start="20261119023200 +0100" stop="20261119031400 +0100" channel="AMC Crime">
+    <title>Casos sin resolver T3 E9 · El guardián de los huesos</title>
+    <desc>Documental,Otros | 2022 | +16
+· En diciembre de 1985, la búsqueda del adolescente David Reed llega a su fin al descubrirse unos huesos humanos en el bosque.
+· País: Estados Unidos
+· Reparto: Bradford Eckhart, Laurent Andruet, Gregory Falatek, Evangelos Giovanis, Keith J. Obit, Angelica Olson, Grey Robertson, Andrew Rudy, Brian Sturges, Danny Glover, Bill Kurtis, David Snyder.</desc>
+	</programme>
+	<programme start="20261119031400 +0100" stop="20261119035600 +0100" channel="AMC Crime">
+    <title>Casos sin resolver T3 E10 · P de pirómano</title>
+    <desc>Documental,Otros | 2022 | +16
+· Cuando el bombero Gary Parks muere en un incendio que se considera provocado, la investigación de su muerte pasa a ser un caso de homicidio.
+· País: Estados Unidos
+· Reparto: Bradford Eckhart, Laurent Andruet, Gregory Falatek, Evangelos Giovanis, Keith J. Obit, Angelica Olson, Grey Robertson, Andrew Rudy, Brian Sturges, Danny Glover, Bill Kurtis, David Snyder.</desc>
+	</programme>
+	<programme start="20261119035600 +0100" stop="20261119043700 +0100" channel="AMC Crime">
+    <title>La chica de la caja T1 E1 · 1ª Parte</title>
+    <desc>Programa,Crimen | 2016 | +16
+· Raptada por un sádico depredador y su mujer, Colleen Stan fue atormentada, sugestionada y encerrada durante mucho tiempo en una caja del tamaño de un ataúd.
+· País: Canadá, Estados Unidos
+· Dirección: Sean Turrell.</desc>
+	</programme>
+	<programme start="20261119043700 +0100" stop="20261119051000 +0100" channel="AMC Crime">
+    <title>La chica de la caja T1 E2 · 2ª Parte</title>
+    <desc>Programa,Crimen | 2016 | +16
+· Colleen Stan, superviviente de un largo secuestro, está decidida a encontrar justicia para otra joven víctima, que murió y a la que no encontraron.
+· País: Canadá, Estados Unidos
+· Dirección: Sean Turrell.</desc>
+	</programme>
+	<programme start="20261119051000 +0100" stop="20261119053900 +0100" channel="AMC Crime">
+    <title>Desafíos criminales T1 E7 · Morir en familia</title>
+    <desc>Series,Policíaca | 2025 | +12
+· En 2010, un trabajador de la granja de los Mouriño vio la casa arder. No podía entrar ni conseguir ayuda. Desesperado, detuvo un autobús escolar y pidió que avisaran a los bomberos.
+· País: España
+· Dirección: Jacobo Dominguez.</desc>
+	</programme>
+	<programme start="20261119053900 +0100" stop="20261119062000 +0100" channel="AMC Crime">
+    <title>Matar o morir T1 E1 · El arma de la abuela</title>
+    <desc>Programa,Crimen | 2024 | +16
+· Un adolescente llama al número de emergencias asegurando que su abuela le ha disparado.
+· País: Estados Unidos
+· Reparto: John Sanders, Daniel Cioffoletti, Que Terrell, Jaime Snyder, Bryan Enright.</desc>
+	</programme>
+	<programme start="20261119062000 +0100" stop="20261119070100 +0100" channel="AMC Crime">
+    <title>Matar o morir T1 E2 · Amigos hasta el final</title>
+    <desc>Programa,Crimen | 2024 | +16
+· Una salida entre amigos termina en tragedia.
+· País: Estados Unidos
+· Reparto: John Sanders, Daniel Cioffoletti, Que Terrell, Jaime Snyder, Bryan Enright.</desc>
+	</programme>
+	<programme start="20261119070100 +0100" stop="20261119074300 +0100" channel="AMC Crime">
+    <title>Matar o morir T1 E3 · Encrucijada fatal</title>
+    <desc>Programa,Crimen | 2024 | +16
+· Una joven aspirante a médica mata a tiros a su marido delante de sus dos hijos, junto a una carretera de Nebraska. El jurado deberá decidir si actuó para salvar su vida, o si quiso poner fin a su matrimonio para siempre.
+· País: Estados Unidos
+· Reparto: John Sanders, Daniel Cioffoletti, Que Terrell, Jaime Snyder, Bryan Enright.</desc>
+	</programme>
+	<programme start="20261119074300 +0100" stop="20261119082400 +0100" channel="AMC Crime">
+    <title>Matar o morir T1 E4 · Conflicto entre familiares</title>
+    <desc>Programa,Crimen | 2024 | +16
+· Una familia queda devastada cuando el patriarca mata a su cuñado alegando defensa propia. Pero al salir a la luz sospechas de dinero desaparecido y traiciones, incluso su entorno más cercano empieza a poner en duda lo ocurrido.
+· País: Estados Unidos
+· Reparto: John Sanders, Daniel Cioffoletti, Que Terrell, Jaime Snyder, Bryan Enright.</desc>
+	</programme>
+	<programme start="20261119082400 +0100" stop="20261119090600 +0100" channel="AMC Crime">
+    <title>Matar o morir T1 E5 · Enfrentamiento en las afueras</title>
+    <desc>Programa,Crimen | 2024 | +16
+· Un exmarine es abatido por su vecino a plena luz del día. El autor afirma que actuó en defensa propia, pero los testigos aseguran lo contrario. Una disputa entre ambos siembra dudas sobre lo ocurrido.
+· País: Estados Unidos
+· Reparto: John Sanders, Daniel Cioffoletti, Que Terrell, Jaime Snyder, Bryan Enright.</desc>
+	</programme>
+	<programme start="20261119090600 +0100" stop="20261119094700 +0100" channel="AMC Crime">
+    <title>Casos sin resolver T3 E6 · Escrito con sangre</title>
+    <desc>Documental,Otros | 2022 | +16
+· En julio de 1970, el violento asesinato de Loretta Jones, madre soltera, deja huérfana a Heidi Jones, de cuatro años. Casi 40 años después, Heidi se compromete a resolver el caso de su madre.
+· País: Estados Unidos
+· Dirección: Phil Lott.
+· Reparto: Laurent Andruet, Bradford Eckhart, Gregory Falatek, Evangelos Giovanis, Keith J. Obit, Angelica Olson, Grey Robertson, Andrew Rudy.</desc>
+	</programme>
+	<programme start="20261119094700 +0100" stop="20261119103000 +0100" channel="AMC Crime">
+    <title>Casos sin resolver T3 E7 · Cenizas frías</title>
+    <desc>Documental,Otros | 2022 | +16
+· Un incendio con consecuencias letales se cobra la vida de una familia en una zona rural de Oklahoma y los investigadores sospechan que se trata de un crimen.
+· País: Estados Unidos
+· Reparto: Bradford Eckhart, Laurent Andruet, Gregory Falatek, Evangelos Giovanis, Keith J. Obit, Angelica Olson, Grey Robertson, Andrew Rudy, Brian Sturges, Danny Glover, Bill Kurtis, David Snyder.</desc>
+	</programme>
+	<programme start="20261119103000 +0100" stop="20261119111100 +0100" channel="AMC Crime">
+    <title>Casos sin resolver T3 E8 · La reina de los Ozarks</title>
+    <desc>Documental,Otros | 2022 | +16
+· En junio de 1985, una joven, reina del festival «Sucker Day», aparece asesinada de una paliza. La pequeña comunidad de Nixa en Missouri está segura de que un rico empresario local es el responsable.
+· País: Estados Unidos
+· Reparto: Bradford Eckhart, Laurent Andruet, Gregory Falatek, Evangelos Giovanis, Keith J. Obit, Angelica Olson, Grey Robertson, Andrew Rudy, Brian Sturges, Danny Glover, Bill Kurtis, David Snyder.</desc>
+	</programme>
+	<programme start="20261119111100 +0100" stop="20261119115200 +0100" channel="AMC Crime">
+    <title>Casos sin resolver T3 E9 · El guardián de los huesos</title>
+    <desc>Documental,Otros | 2022 | +16
+· En diciembre de 1985, la búsqueda del adolescente David Reed llega a su fin al descubrirse unos huesos humanos en el bosque.
+· País: Estados Unidos
+· Reparto: Bradford Eckhart, Laurent Andruet, Gregory Falatek, Evangelos Giovanis, Keith J. Obit, Angelica Olson, Grey Robertson, Andrew Rudy, Brian Sturges, Danny Glover, Bill Kurtis, David Snyder.</desc>
+	</programme>
+	<programme start="20261119115200 +0100" stop="20261119123500 +0100" channel="AMC Crime">
+    <title>Casos sin resolver T3 E10 · P de pirómano</title>
+    <desc>Documental,Otros | 2022 | +16
+· Cuando el bombero Gary Parks muere en un incendio que se considera provocado, la investigación de su muerte pasa a ser un caso de homicidio.
+· País: Estados Unidos
+· Reparto: Bradford Eckhart, Laurent Andruet, Gregory Falatek, Evangelos Giovanis, Keith J. Obit, Angelica Olson, Grey Robertson, Andrew Rudy, Brian Sturges, Danny Glover, Bill Kurtis, David Snyder.</desc>
+	</programme>
+	<programme start="20261119123500 +0100" stop="20261119131600 +0100" channel="AMC Crime">
+    <title>Crímenes en California T3 E1 · Pesadilla en Laguna</title>
+    <desc>Documental,Otros | 2022 | +16 | *6.7/10
+· Después de que un querido organizador de eventos en un icónico hotel de Laguna Beach es encontrado asesinado en su casa, los investigadores recurren a herramientas de alta tecnología y al trabajo policial tradicional para atrapar a dos asesinos.
+· País: Estados Unidos
+· Reparto: Phillip-Charlie Daniell, DonnaKelli Barnett, Travis Scott, Leah Knauer, Jeanne Carr, Sarah Moliski, Laura Przybilla, Anthony Ruggieri.</desc>
+	</programme>
+	<programme start="20261119131600 +0100" stop="20261119135800 +0100" channel="AMC Crime">
+    <title>Crímenes en California T3 E2 · Impulso asesino</title>
+    <desc>Documental,Otros | 2022 | +16 | *6.7/10
+· Cuando dos leales empleados de una empresa familiar dedicada a las casas prefabricadas son asesinados a tiros en su lugar de trabajo, los detectives se encuentran sin pistas sobre el móvil del crimen.
+· País: Estados Unidos
+· Reparto: Phillip-Charlie Daniell, DonnaKelli Barnett, Travis Scott, Leah Knauer, Jeanne Carr, Sarah Moliski, Laura Przybilla, Anthony Ruggieri.</desc>
+	</programme>
+	<programme start="20261119135800 +0100" stop="20261119144400 +0100" channel="AMC Crime">
+    <title>Crímenes en California T3 E3 · Víctimas del destino</title>
+    <desc>Documental,Otros | 2022 | +16 | *6.7/10
+· Cuando un apuesto jugador de hockey y una madre soltera aparecen muertos en un lujoso condominio de Newport Beach, sus seres queridos no tienen idea de cómo se conocían.
+· País: Estados Unidos
+· Reparto: Phillip-Charlie Daniell, DonnaKelli Barnett, Travis Scott, Leah Knauer, Jeanne Carr, Sarah Moliski, Laura Przybilla, Anthony Ruggieri.</desc>
+	</programme>
+	<programme start="20261119144400 +0100" stop="20261119152900 +0100" channel="AMC Crime">
+    <title>Crímenes en California T3 E4 · Mentiras mortales</title>
+    <desc>Documental,Otros | 2022 | +16 | *6.7/10
+· Una joven le dice a su madre que saldrá a pasar la noche con amigos, pero nunca regresa a casa, en un desconcertante caso que permaneció sin resolver durante nueve angustiosos años.
+· País: Estados Unidos
+· Reparto: Phillip-Charlie Daniell, DonnaKelli Barnett, Travis Scott, Leah Knauer, Jeanne Carr, Sarah Moliski, Laura Przybilla, Anthony Ruggieri.</desc>
+	</programme>
+	<programme start="20261119152900 +0100" stop="20261119161500 +0100" channel="AMC Crime">
+    <title>Crímenes en California T3 E5 · Catástrofe navideña</title>
+    <desc>Documental,Otros | 2022 | +16 | *6.7/10
+· Cuando una acaudalada y devota mujer es encontrada asesinada en su habitación una semana antes de Navidad, los investigadores creen en un principio que se trata de un robo que salió mal.
+· País: Estados Unidos
+· Reparto: Phillip-Charlie Daniell, DonnaKelli Barnett, Travis Scott, Leah Knauer, Jeanne Carr, Sarah Moliski, Laura Przybilla, Anthony Ruggieri.</desc>
+	</programme>
+	<programme start="20261119161500 +0100" stop="20261119165900 +0100" channel="AMC Crime">
+    <title>Hermanos asesinos T3 E3 · Los Engel</title>
+    <desc>Documental,Otros | 2021 | +16 | *6.7/10
+· Cuando se encuentra el cuerpo de una mujer joven en una camioneta incendiada, los investigadores desentrañan un complot mortal.
+· País: Estados Unidos
+· Dirección: Eric Mazer, Zig Gauthier, Matthew Watts.
+· Reparto: Chanda Davetas, Michael Dumas, Harven Danelian, Rebecca Scarpati, Adam Walker Federman, Anthony Balsano, Nate Albright, Yukon Clement, Justine Liza, Nicole Holmes.</desc>
+	</programme>
+	<programme start="20261119165900 +0100" stop="20261119174500 +0100" channel="AMC Crime">
+    <title>Hermanos asesinos T3 E4 · Los Merrick</title>
+    <desc>Documental,Otros | 2021 | +16 | *6.7/10
+· Un doble homicidio brutal en un pequeño pueblo de Ohio, conduce a la policía hacia un rencoroso miembro de la familia.
+· País: Estados Unidos
+· Dirección: Eric Mazer, Zig Gauthier, Matthew Watts.
+· Reparto: Michael Dumas, Rebecca Scarpati, Adam Walker Federman, Anthony Balsano, Harven Danelian, Chanda Davetas, Ryan Babcock, Willow Eve, Nate Albright, Justine Liza, Nicole Holmes.</desc>
+	</programme>
+	<programme start="20261119174500 +0100" stop="20261119183000 +0100" channel="AMC Crime">
+    <title>Hermanos asesinos T1 E7 · Lewis y Machuca</title>
+    <desc>Documental,Otros | 2019 | +16 | *6.7/10
+· En el verano de 1991, un par de hermanastros siembran el pánico en el sur de California al embarcarse en una oleada de crímenes terribles al azar, dirigidos contra personas corrientes.
+· País: Estados Unidos
+· Dirección: Eric Mazer, Matthew Watts.
+· Reparto: Chanda Davetas, Peter Heinrich, Michael Dumas, Harven Danelian, Rebecca Scarpati, Nate Albright, Justine Liza, Nicole Holmes.</desc>
+	</programme>
+	<programme start="20261119183000 +0100" stop="20261119191500 +0100" channel="AMC Crime">
+    <title>Hermanos asesinos T1 E8 · Los Briley</title>
+    <desc>Documental,Otros | 2019 | +16 | *6.7/10
+· A lo largo de 7 meses, un trío de hermanos comete una serie de crímenes cada vez más violentos en la ciudad de Richmond y dejan tras de sí un creciente número de cadáveres.
+· País: Estados Unidos
+· Dirección: Matthew Watts, Eric Mazer.
+· Reparto: Chanda Davetas, Michael Dumas, Harven Danelian, Rebecca Scarpati, Peter Heinrich, Nate Albright, Justine Liza, Nicole Holmes.</desc>
+	</programme>
+	<programme start="20261119191500 +0100" stop="20261119200100 +0100" channel="AMC Crime">
+    <title>Hermanos asesinos T1 E9 · Los Bondurante</title>
+    <desc>Documental,Otros | 2019 | +16 | *6.7/10
+· Unos gemelos cometen una serie de violentos ataques en un pequeño pueblo de Tennessee. Con cada crimen, los hermanos se envalentonan más.
+· País: Estados Unidos
+· Dirección: Matthew Watts, Eric Mazer.
+· Reparto: Chanda Davetas, Michael Dumas, Harven Danelian, Rebecca Scarpati, Peter Heinrich, Nate Albright, Justine Liza, Nicole Holmes.</desc>
+	</programme>
+	<programme start="20261119200100 +0100" stop="20261119205500 +0100" channel="AMC Crime">
+    <title>Asesinatos en cámara T3 E4 · Martika Ferguson y Tiffiney Crawford</title>
+    <desc>Documental,Otros | 2025 | +12
+· Un análisis de cómo fueron asesinadas Martika Ferguson y Tiffiney Crawford, que revela el impacto del mezquino deseo de venganza y un asesinato disfrazado de suicidio.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Aidan Woodward, Craig Chambers.
+· Reparto: George Hristakopoulos.</desc>
+	</programme>
+	<programme start="20261119205500 +0100" stop="20261119215000 +0100" channel="AMC Crime">
+    <title>Asesinatos en cámara T3 E7 · Nitosha Lee Flug-Presley y Alice Ruggles</title>
+    <desc>Documental,Otros | 2025 | +12
+· Cuatro personas fueron asesinadas a tiros por Antoine Suggs después de una noche de fiesta. En el Reino Unido, Alice Ruggles fue asesinada por su expareja Dhillon tras sufrir su acoso.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Aidan Woodward, Craig Chambers.
+· Reparto: George Hristakopoulos.</desc>
+	</programme>
+	<programme start="20261119215000 +0100" stop="20261119224500 +0100" channel="AMC Crime">
+    <title>Asesinatos en cámara T3 E8 · Asesinatos en La Madera y Ana Rascon</title>
+    <desc>Documental,Otros | 2025 | +12
+· Una adolescente escapa después de que su hermano mata a cinco personas. Una madre es asesinada en una remota cabaña. La investigación forense digital y las cámaras permiten atrapar a sus asesinos.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Aidan Woodward, Craig Chambers.
+· Reparto: George Hristakopoulos.</desc>
+	</programme>
+	<programme start="20261119224500 +0100" stop="20261119234000 +0100" channel="AMC Crime">
+    <title>Asesinatos en cámara T3 E8 · Asesinatos en La Madera y Ana Rascon</title>
+    <desc>Documental,Otros | 2025 | +12
+· Una adolescente escapa después de que su hermano mata a cinco personas. Una madre es asesinada en una remota cabaña. La investigación forense digital y las cámaras permiten atrapar a sus asesinos.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Aidan Woodward, Craig Chambers.
+· Reparto: George Hristakopoulos.</desc>
+	</programme>
+	<programme start="20261119234000 +0100" stop="20261120003400 +0100" channel="AMC Crime">
+    <title>Asesinatos en cámara T3 E6 · Mo Wilson y Liam Smith</title>
+    <desc>Documental,Otros | 2025 | +12
+· Las cámaras de seguridad y el GPS delataron a Kaitlin Armstrong por el asesinato de Mo Wilson. Las cámaras y la investigación forense digital llevaron hasta los asesinos de Liam Smith.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Aidan Woodward, Craig Chambers.
+· Reparto: George Hristakopoulos.</desc>
+	</programme>
+	<programme start="20261120003400 +0100" stop="20261120012400 +0100" channel="AMC Crime">
+    <title>Crímenes en Atlanta T2 E15 · Un trato mortal</title>
+    <desc>Documental,Otros | 2022 | +12 | *7.0/10
+· Cuando un joven empresario recibe un disparo y su cadáver es abandonado en un pozo rural en las afueras de Atlanta, los detectives buscan frenéticamente pistas sobre quién cometió el horrible asesinato.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120012400 +0100" stop="20261120020600 +0100" channel="AMC Crime">
+    <title>Crímenes en Atlanta T2 E16 · Asesino de la cocaína</title>
+    <desc>Documental,Otros | 2022 | +12 | *7.0/10
+· En el auge tecnológico de los años 90 en Atlanta, un programador de IBM es encontrado en su casa muerto a balazos y rodeado de cocaína.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120020600 +0100" stop="20261120024800 +0100" channel="AMC Crime">
+    <title>Crímenes en Floribama T1 E1 · Injusticia en el condado de Jackson</title>
+    <desc>Documental,Otros | 2023 | +16 | *6.7/10
+· Los investigadores deben descubrir cómo los fuegos artificiales de una celebración del 4 de julio acabaron en asesinato.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120024800 +0100" stop="20261120033000 +0100" channel="AMC Crime">
+    <title>Crímenes en Floribama T1 E2 · Asesino en el condado de Clay</title>
+    <desc>Documental,Otros | 2023 | +16 | *6.7/10
+· Cuando los propietarios de una tienda rural son asesinados, los detectives deben desentrañar sus secretos.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120033000 +0100" stop="20261120041200 +0100" channel="AMC Crime">
+    <title>Crímenes en Floribama T1 E3 · Escondido en Chunchula</title>
+    <desc>Documental,Otros | 2023 | +16 | *6.7/10
+· El descubrimiento de un cadáver en una casa incendiada tras el huracán pone en marcha una investigación.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120041200 +0100" stop="20261120045400 +0100" channel="AMC Crime">
+    <title>Crímenes en California T3 E1 · Pesadilla en Laguna</title>
+    <desc>Documental,Otros | 2022 | +16 | *6.7/10
+· Después de que un querido organizador de eventos en un icónico hotel de Laguna Beach es encontrado asesinado en su casa, los investigadores recurren a herramientas de alta tecnología y al trabajo policial tradicional para atrapar a dos asesinos.
+· País: Estados Unidos
+· Reparto: Phillip-Charlie Daniell, DonnaKelli Barnett, Travis Scott, Leah Knauer, Jeanne Carr, Sarah Moliski, Laura Przybilla, Anthony Ruggieri.</desc>
+	</programme>
+	<programme start="20261120045400 +0100" stop="20261120053600 +0100" channel="AMC Crime">
+    <title>Crímenes en California T3 E2 · Impulso asesino</title>
+    <desc>Documental,Otros | 2022 | +16 | *6.7/10
+· Cuando dos leales empleados de una empresa familiar dedicada a las casas prefabricadas son asesinados a tiros en su lugar de trabajo, los detectives se encuentran sin pistas sobre el móvil del crimen.
+· País: Estados Unidos
+· Reparto: Phillip-Charlie Daniell, DonnaKelli Barnett, Travis Scott, Leah Knauer, Jeanne Carr, Sarah Moliski, Laura Przybilla, Anthony Ruggieri.</desc>
+	</programme>
+	<programme start="20261120053600 +0100" stop="20261120062300 +0100" channel="AMC Crime">
+    <title>Crímenes en California T3 E3 · Víctimas del destino</title>
+    <desc>Documental,Otros | 2022 | +16 | *6.7/10
+· Cuando un apuesto jugador de hockey y una madre soltera aparecen muertos en un lujoso condominio de Newport Beach, sus seres queridos no tienen idea de cómo se conocían.
+· País: Estados Unidos
+· Reparto: Phillip-Charlie Daniell, DonnaKelli Barnett, Travis Scott, Leah Knauer, Jeanne Carr, Sarah Moliski, Laura Przybilla, Anthony Ruggieri.</desc>
+	</programme>
+	<programme start="20261120062300 +0100" stop="20261120070500 +0100" channel="AMC Crime">
+    <title>Crímenes en California T3 E4 · Mentiras mortales</title>
+    <desc>Documental,Otros | 2022 | +16 | *6.7/10
+· Una joven le dice a su madre que saldrá a pasar la noche con amigos, pero nunca regresa a casa, en un desconcertante caso que permaneció sin resolver durante nueve angustiosos años.
+· País: Estados Unidos
+· Reparto: Phillip-Charlie Daniell, DonnaKelli Barnett, Travis Scott, Leah Knauer, Jeanne Carr, Sarah Moliski, Laura Przybilla, Anthony Ruggieri.</desc>
+	</programme>
+	<programme start="20261120070500 +0100" stop="20261120074800 +0100" channel="AMC Crime">
+    <title>Crímenes en California T3 E5 · Catástrofe navideña</title>
+    <desc>Documental,Otros | 2022 | +16 | *6.7/10
+· Cuando una acaudalada y devota mujer es encontrada asesinada en su habitación una semana antes de Navidad, los investigadores creen en un principio que se trata de un robo que salió mal.
+· País: Estados Unidos
+· Reparto: Phillip-Charlie Daniell, DonnaKelli Barnett, Travis Scott, Leah Knauer, Jeanne Carr, Sarah Moliski, Laura Przybilla, Anthony Ruggieri.</desc>
+	</programme>
+	<programme start="20261120074800 +0100" stop="20261120083000 +0100" channel="AMC Crime">
+    <title>Crímenes en Atlanta T2 E15 · Un trato mortal</title>
+    <desc>Documental,Otros | 2022 | +12 | *7.0/10
+· Cuando un joven empresario recibe un disparo y su cadáver es abandonado en un pozo rural en las afueras de Atlanta, los detectives buscan frenéticamente pistas sobre quién cometió el horrible asesinato.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120083000 +0100" stop="20261120091300 +0100" channel="AMC Crime">
+    <title>Crímenes en Atlanta T2 E16 · Asesino de la cocaína</title>
+    <desc>Documental,Otros | 2022 | +12 | *7.0/10
+· En el auge tecnológico de los años 90 en Atlanta, un programador de IBM es encontrado en su casa muerto a balazos y rodeado de cocaína.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120091300 +0100" stop="20261120095400 +0100" channel="AMC Crime">
+    <title>Crímenes en Floribama T1 E1 · Injusticia en el condado de Jackson</title>
+    <desc>Documental,Otros | 2023 | +16 | *6.7/10
+· Los investigadores deben descubrir cómo los fuegos artificiales de una celebración del 4 de julio acabaron en asesinato.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120095400 +0100" stop="20261120103600 +0100" channel="AMC Crime">
+    <title>Crímenes en Floribama T1 E2 · Asesino en el condado de Clay</title>
+    <desc>Documental,Otros | 2023 | +16 | *6.7/10
+· Cuando los propietarios de una tienda rural son asesinados, los detectives deben desentrañar sus secretos.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120103600 +0100" stop="20261120112000 +0100" channel="AMC Crime">
+    <title>Crímenes en Floribama T1 E3 · Escondido en Chunchula</title>
+    <desc>Documental,Otros | 2023 | +16 | *6.7/10
+· El descubrimiento de un cadáver en una casa incendiada tras el huracán pone en marcha una investigación.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261120112000 +0100" stop="20261120120900 +0100" channel="AMC Crime">
+    <title>Madeleine McCann, el sospechoso número uno</title>
+    <desc>Documental,Otros | 2025 | +12
+· En este documental, el criminólogo Graham Hill retoma la investigación sobre la desaparición de Madeleine McCann y examina el caso contra Christian Brueckner, el principal sospechoso.
+· País: Reino Unido
+· Reparto: Dr Graham Hill.</desc>
+	</programme>
+	<programme start="20261120120900 +0100" stop="20261120125600 +0100" channel="AMC Crime">
+    <title>Asesinatos en cámara T3 E4 · Martika Ferguson y Tiffiney Crawford</title>
+    <desc>Documental,Otros | 2025 | +12
+· Un análisis de cómo fueron asesinadas Martika Ferguson y Tiffiney Crawford, que revela el impacto del mezquino deseo de venganza y un asesinato disfrazado de suicidio.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Aidan Woodward, Craig Chambers.
+· Reparto: George Hristakopoulos.</desc>
+	</programme>
+	<programme start="20261120125600 +0100" stop="20261120134300 +0100" channel="AMC Crime">
+    <title>Asesinatos en cámara T3 E7 · Nitosha Lee Flug-Presley y Alice Ruggles</title>
+    <desc>Documental,Otros | 2025 | +12
+· Cuatro personas fueron asesinadas a tiros por Antoine Suggs después de una noche de fiesta. En el Reino Unido, Alice Ruggles fue asesinada por su expareja Dhillon tras sufrir su acoso.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Aidan Woodward, Craig Chambers.
+· Reparto: George Hristakopoulos.</desc>
+	</programme>
+	<programme start="20261120134300 +0100" stop="20261120143300 +0100" channel="AMC Crime">
+    <title>Asesinatos en cámara T3 E8 · Asesinatos en La Madera y Ana Rascon</title>
+    <desc>Documental,Otros | 2025 | +12
+· Una adolescente escapa después de que su hermano mata a cinco personas. Una madre es asesinada en una remota cabaña. La investigación forense digital y las cámaras permiten atrapar a sus asesinos.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Aidan Woodward, Craig Chambers.
+· Reparto: George Hristakopoulos.</desc>
+	</programme>
+	<programme start="20261120143300 +0100" stop="20261120152400 +0100" channel="AMC Crime">
+    <title>Asesinatos en cámara T3 E8 · Asesinatos en La Madera y Ana Rascon</title>
+    <desc>Documental,Otros | 2025 | +12
+· Una adolescente escapa después de que su hermano mata a cinco personas. Una madre es asesinada en una remota cabaña. La investigación forense digital y las cámaras permiten atrapar a sus asesinos.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Aidan Woodward, Craig Chambers.
+· Reparto: George Hristakopoulos.</desc>
+	</programme>
+	<programme start="20261120152400 +0100" stop="20261120161500 +0100" channel="AMC Crime">
+    <title>Asesinatos en cámara T3 E6 · Mo Wilson y Liam Smith</title>
+    <desc>Documental,Otros | 2025 | +12
+· Las cámaras de seguridad y el GPS delataron a Kaitlin Armstrong por el asesinato de Mo Wilson. Las cámaras y la investigación forense digital llevaron hasta los asesinos de Liam Smith.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Aidan Woodward, Craig Chambers.
+· Reparto: George Hristakopoulos.</desc>
+	</programme>
+	<programme start="20261120161500 +0100" stop="20261120170400 +0100" channel="AMC Crime">
+    <title>Crimen en cámara T8 E1 · Lo sabía en el fondo de mi corazón</title>
+    <desc>Documental,Otros | 2022 | +16 | *8.0/10
+· Cuando Diamond Bradley desaparece, la policía espera que las imágenes de vigilancia les conduzcan hasta ella antes de que sea demasiado tarde, pero su rastro es más aterrador de lo que nadie esperaba.
+· País: Canadá, Reino Unido, Estados Unidos
+· Reparto: Adam Donneky, Stephen Lennhoff, Bryan Edwards, Tamara Rambaran, James J. Wilson, Matthew Sauve, Drew Riedstra, Michal Ochkie, Morgan Bragg.</desc>
+	</programme>
+	<programme start="20261120170400 +0100" stop="20261120175300 +0100" channel="AMC Crime">
+    <title>Crimen en cámara T8 E2 · El cheque del alquiler</title>
+    <desc>Documental,Otros | 2022 | +16 | *8.0/10
+· Tras alistarse en el Ejército de Estados Unidos y realizar dos misiones en Irak, Maribel Ramos hace realidad su sueño de ir a la universidad. Pero semanas antes de su graduación, Maribel desaparece.
+· País: Canadá, Reino Unido, Estados Unidos
+· Reparto: Adam Donneky, Stephen Lennhoff, Bryan Edwards, Tamara Rambaran, James J. Wilson, Matthew Sauve, Drew Riedstra, Michal Ochkie, Morgan Bragg.</desc>
+	</programme>
+	<programme start="20261120175300 +0100" stop="20261120184300 +0100" channel="AMC Crime">
+    <title>Crimen en cámara T9 E1 · Tragedia en una autopista de Tennessee</title>
+    <desc>Documental,Otros | 2022 | +16 | *8.0/10
+· Cuando un policía estatal de Tennessee aparece asesinado en una autopista, los investigadores recurren a su cámara en busca de respuestas, pero harán falta más vídeos para encontrar al asesino.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Chris Roberts, Kim Smith, Christopher Puttock.
+· Reparto: Bryan Edwards, James J. Wilson, Tamara Rambaran, Matthew Sauve, Drew Riedstra, Michal Ochkie, Morgan Bragg.</desc>
+	</programme>
+	<programme start="20261120184300 +0100" stop="20261120193300 +0100" channel="AMC Crime">
+    <title>Crimen en cámara T8 E4 · Oferta final</title>
+    <desc>Documental,Otros | 2022 | +16 | *8.0/10
+· Laura Ackerson es una madre soltera que sale a trabajar una mañana y no regresa. Sin pistas, la policía recurre a las cámaras de vigilancia, pero estas muestran un caso cada vez más siniestro.
+· País: Canadá, Reino Unido, Estados Unidos
+· Reparto: Adam Donneky, Jules Williamson, Bryan Edwards, Tamara Rambaran, James J. Wilson, Matthew Sauve, Drew Riedstra, Michal Ochkie, Morgan Bragg.</desc>
+	</programme>
+	<programme start="20261120193300 +0100" stop="20261120202300 +0100" channel="AMC Crime">
+    <title>Crimen en cámara T9 E3 · Matar a alguien</title>
+    <desc>Documental,Otros | 2022 | +16 | *8.0/10
+· Michelle Mockbee va a trabajar temprano, pero es asesinada en la puerta de su oficina. Las cámaras revelan una serie de sucios secretos por los que podría haber merecido la pena matar.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Chris Roberts, Kim Smith, Christopher Puttock, Neil Rawles.
+· Reparto: Bryan Edwards, James J. Wilson, Tamara Rambaran, Matthew Sauve, Drew Riedstra, Michal Ochkie, Morgan Bragg.</desc>
+	</programme>
+	<programme start="20261120202300 +0100" stop="20261120212200 +0100" channel="AMC Crime">
+    <title>En guardia T2 E4 · El caso de Eva Blanco</title>
+    <desc>Documental,Otros | 2025 | +16
+· El homicidio de Eva Blanco en 1997 quedó impune durante casi dos décadas hasta que la perseverancia policial logró identificar y detener a su asesino.
+· País: España
+· Dirección: Aida Rebordinos.</desc>
+	</programme>
+	<programme start="20261120212200 +0100" stop="20261120222000 +0100" channel="AMC Crime">
+    <title>En guardia T2 E5 · La desaparición de Manuela Chavero</title>
+    <desc>Documental,Otros | 2025 | +18
+· La desaparición de Manuela Chavero en 2016 abrió una larga investigación marcada por la incertidumbre hasta que, cuatro años después, un vecino confesó el crimen.
+· País: España
+· Dirección: Aida Rebordinos.</desc>
+	</programme>
+	<programme start="20261120222000 +0100" stop="20261120231800 +0100" channel="AMC Crime">
+    <title>En guardia T2 E6 · El crimen de Badoo</title>
+    <desc>Documental,Otros | 2025 | +16
+· La desaparición de un informático de Getxo destapó un crimen planeado a través de una app de citas, con un final brutal que nadie esperaba.
+· País: España
+· Dirección: Aida Rebordinos.</desc>
+	</programme>
+	<programme start="20261120231800 +0100" stop="20261121001000 +0100" channel="AMC Crime">
+    <title>7-J: Los atentados de Londres T1 E1</title>
+    <desc>Documental,Otros | 2024 | +16
+· Este episodio narra la búsqueda urgente de la Policía Metropolitana de Londres para localizar a los presuntos terroristas suicidas tras los atentados del 7 de julio de 2005.
+· País: Reino Unido
+· Dirección: Liza Williams.
+· Reparto: Bask Victory.</desc>
+	</programme>
+	<programme start="20261121001000 +0100" stop="20261121010200 +0100" channel="AMC Crime">
+    <title>7-J: Los atentados de Londres T1 E2</title>
+    <desc>Documental,Otros | 2024 | +16
+· Este episodio analiza las consecuencias del tiroteo y revela errores importantes en la identificación, la comunicación y la toma de decisiones.
+· País: Reino Unido
+· Dirección: Liza Williams.
+· Reparto: Bask Victory.</desc>
+	</programme>
+	<programme start="20261121010200 +0100" stop="20261121012200 +0100" channel="AMC Crime">
+    <title>Court Cam, acción judicial T5 E33</title>
+    <desc>Programa,Reality,Entretenimiento | 2022 | +16 | *7.3/10
+· Un juez arremete contra un abogado que se refiere a su cliente como un héroe. Un líder religioso es condenado por abusar sexualmente de menores. Un traficante de drogas quiere despedir a su abogado.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261121012200 +0100" stop="20261121014300 +0100" channel="AMC Crime">
+    <title>Court Cam, acción judicial T5 E34</title>
+    <desc>Programa,Reality,Entretenimiento | 2022 | +16 | *7.3/10
+· Una mujer cuyo marido la obligó a decapitar a su amante declara contra él ante el tribunal. Un juez reprende a un abogado que le acusó de parcialidad. Una víctima de abusos sexuales se enfrenta a su agresor en el tribunal.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261121014300 +0100" stop="20261121020300 +0100" channel="AMC Crime">
+    <title>Court Cam, acción judicial T5 E35</title>
+    <desc>Programa,Reality,Entretenimiento | 2022 | +16 | *7.3/10
+· Un acusado se desnuda y finge que boxea con un oponente imaginario durante su vista. La familia de una víctima de asesinato ataca al acusado en la sala. Un tirador convicto pide perdón a la familia de una víctima.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261121020300 +0100" stop="20261121022300 +0100" channel="AMC Crime">
+    <title>Court Cam, acción judicial T5 E36</title>
+    <desc>Programa,Reality,Entretenimiento | 2022 | +16 | *7.3/10
+· Un hombre grita a su cuñada por la desaparición de su sobrino. Un trabajador asiste a su vista virtual desde la cadena de montaje. Un asesino culpa a su víctima.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261121022300 +0100" stop="20261121024400 +0100" channel="AMC Crime">
+    <title>Court Cam, acción judicial T5 E37</title>
+    <desc>Programa,Reality,Entretenimiento | 2022 | +16 | *7.3/10
+· Un padre afligido ataca al asesino de su hijo de 3 años en la sala. Un juez grita improperios a un miembro del público. Un acusado en silla de ruedas trata de escapar antes de entrar en la sala.
+· País: Estados Unidos
+· Dirección: Varios.</desc>
+	</programme>
+	<programme start="20261121024400 +0100" stop="20261121030400 +0100" channel="AMC Crime">
+    <title>Court Cam, acción judicial T5 E38</title>
+    <desc>Programa,Reality,Entretenimiento | 2022 | +16 | *7.3/10
+· Un acusado de asesinato anuncia los resultados de béisbol universitario durante su juicio. Un hombre acusado de tráfico de drogas es sorprendido fumando marihuana en la sala virtual del tribunal. Un sospechoso de violencia doméstica amenaza a un juez.
+· País: Estados Unidos
+· Dirección: Varios.</desc>
+	</programme>
+	<programme start="20261121030400 +0100" stop="20261121032400 +0100" channel="AMC Crime">
+    <title>Court Cam, acción judicial T5 E39</title>
+    <desc>Programa,Reality,Entretenimiento | 2022 | +16 | *7.3/10
+· Un sospechoso ataca a un alguacil en el tribunal. Una madre grita al conductor que atropelló y mató a su hija. Un jurado comete un error en el momento de dictar sentencia en un juicio por asesinato.
+· País: Estados Unidos
+· Dirección: Varios.</desc>
+	</programme>
+	<programme start="20261121032400 +0100" stop="20261121034400 +0100" channel="AMC Crime">
+    <title>Court Cam, acción judicial T5 E40</title>
+    <desc>Programa,Reality,Entretenimiento | 2022 | +16 | *7.3/10
+· Un condenado por triple asesinato se pelea con el juez durante la sentencia. Un acusado descamisado despide a su abogado. Una reclusa somnolienta le dice al juez que es su mejor amigo.
+· País: Estados Unidos
+· Dirección: Varios.</desc>
+	</programme>
+	<programme start="20261121034400 +0100" stop="20261121040400 +0100" channel="AMC Crime">
+    <title>Court Cam, acción judicial T5 E41</title>
+    <desc>Programa,Reality,Entretenimiento | 2022 | +16 | *7.3/10
+· Un acusado de agresión sexual se masturba durante su vista virtual. Un acusado ruega al juez que le deje irse a casa para cuidar de su perro. Un condenado por asesinato le dice al juez que «se dé prisa» durante la sentencia.
+· País: Estados Unidos
+· Dirección: Varios.</desc>
+	</programme>
+	<programme start="20261121040400 +0100" stop="20261121042600 +0100" channel="AMC Crime">
+    <title>Court Cam, acción judicial T5 E42</title>
+    <desc>Programa,Reality,Entretenimiento | 2022 | +16 | *7.3/10
+· Un padre ataca al asesino de su hijo en el tribunal. Un acusado suelta una palabrota durante una vista virtual. Un condenado por abuso de menores arremete contra el juez.
+· País: Estados Unidos
+· Dirección: Varios.</desc>
+	</programme>
+	<programme start="20261121042600 +0100" stop="20261121052600 +0100" channel="AMC Crime">
+    <title>Madeleine McCann, el sospechoso número uno</title>
+    <desc>Documental,Otros | 2025 | +12
+· En este documental, el criminólogo Graham Hill retoma la investigación sobre la desaparición de Madeleine McCann y examina el caso contra Christian Brueckner, el principal sospechoso.
+· País: Reino Unido
+· Reparto: Dr Graham Hill.</desc>
+	</programme>
+	<programme start="20261121052600 +0100" stop="20261121061300 +0100" channel="AMC Crime">
+    <title>Asesinatos en cámara T3 E4 · Martika Ferguson y Tiffiney Crawford</title>
+    <desc>Documental,Otros | 2025 | +12
+· Un análisis de cómo fueron asesinadas Martika Ferguson y Tiffiney Crawford, que revela el impacto del mezquino deseo de venganza y un asesinato disfrazado de suicidio.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Aidan Woodward, Craig Chambers.
+· Reparto: George Hristakopoulos.</desc>
+	</programme>
+	<programme start="20261121061300 +0100" stop="20261121070100 +0100" channel="AMC Crime">
+    <title>Asesinatos en cámara T3 E7 · Nitosha Lee Flug-Presley y Alice Ruggles</title>
+    <desc>Documental,Otros | 2025 | +12
+· Cuatro personas fueron asesinadas a tiros por Antoine Suggs después de una noche de fiesta. En el Reino Unido, Alice Ruggles fue asesinada por su expareja Dhillon tras sufrir su acoso.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Aidan Woodward, Craig Chambers.
+· Reparto: George Hristakopoulos.</desc>
+	</programme>
+	<programme start="20261121070100 +0100" stop="20261121074800 +0100" channel="AMC Crime">
+    <title>Asesinatos en cámara T3 E8 · Asesinatos en La Madera y Ana Rascon</title>
+    <desc>Documental,Otros | 2025 | +12
+· Una adolescente escapa después de que su hermano mata a cinco personas. Una madre es asesinada en una remota cabaña. La investigación forense digital y las cámaras permiten atrapar a sus asesinos.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Aidan Woodward, Craig Chambers.
+· Reparto: George Hristakopoulos.</desc>
+	</programme>
+	<programme start="20261121074800 +0100" stop="20261121083500 +0100" channel="AMC Crime">
+    <title>Asesinatos en cámara T3 E8 · Asesinatos en La Madera y Ana Rascon</title>
+    <desc>Documental,Otros | 2025 | +12
+· Una adolescente escapa después de que su hermano mata a cinco personas. Una madre es asesinada en una remota cabaña. La investigación forense digital y las cámaras permiten atrapar a sus asesinos.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Aidan Woodward, Craig Chambers.
+· Reparto: George Hristakopoulos.</desc>
+	</programme>
+	<programme start="20261121083500 +0100" stop="20261121092300 +0100" channel="AMC Crime">
+    <title>Asesinatos en cámara T3 E6 · Mo Wilson y Liam Smith</title>
+    <desc>Documental,Otros | 2025 | +12
+· Las cámaras de seguridad y el GPS delataron a Kaitlin Armstrong por el asesinato de Mo Wilson. Las cámaras y la investigación forense digital llevaron hasta los asesinos de Liam Smith.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Aidan Woodward, Craig Chambers.
+· Reparto: George Hristakopoulos.</desc>
+	</programme>
+	<programme start="20261121092300 +0100" stop="20261121100500 +0100" channel="AMC Crime">
+    <title>La pareja perfecta</title>
+    <desc>Programa,Crimen | 2013 | +16
+· La relación de Kelley y Jim culminó en una boda de ensueño, amor, dinero y un futuro brillante... hasta que todo se vino abajo.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261121100500 +0100" stop="20261121104600 +0100" channel="AMC Crime">
+    <title>Hermanos asesinos T3 E3 · Los Engel</title>
+    <desc>Documental,Otros | 2021 | +16 | *6.7/10
+· Cuando se encuentra el cuerpo de una mujer joven en una camioneta incendiada, los investigadores desentrañan un complot mortal.
+· País: Estados Unidos
+· Dirección: Eric Mazer, Zig Gauthier, Matthew Watts.
+· Reparto: Chanda Davetas, Michael Dumas, Harven Danelian, Rebecca Scarpati, Adam Walker Federman, Anthony Balsano, Nate Albright, Yukon Clement, Justine Liza, Nicole Holmes.</desc>
+	</programme>
+	<programme start="20261121104600 +0100" stop="20261121112900 +0100" channel="AMC Crime">
+    <title>Hermanos asesinos T3 E4 · Los Merrick</title>
+    <desc>Documental,Otros | 2021 | +16 | *6.7/10
+· Un doble homicidio brutal en un pequeño pueblo de Ohio, conduce a la policía hacia un rencoroso miembro de la familia.
+· País: Estados Unidos
+· Dirección: Eric Mazer, Zig Gauthier, Matthew Watts.
+· Reparto: Michael Dumas, Rebecca Scarpati, Adam Walker Federman, Anthony Balsano, Harven Danelian, Chanda Davetas, Ryan Babcock, Willow Eve, Nate Albright, Justine Liza, Nicole Holmes.</desc>
+	</programme>
+	<programme start="20261121112900 +0100" stop="20261121121100 +0100" channel="AMC Crime">
+    <title>Hermanos asesinos T1 E7 · Lewis y Machuca</title>
+    <desc>Documental,Otros | 2019 | +16 | *6.7/10
+· En el verano de 1991, un par de hermanastros siembran el pánico en el sur de California al embarcarse en una oleada de crímenes terribles al azar, dirigidos contra personas corrientes.
+· País: Estados Unidos
+· Dirección: Eric Mazer, Matthew Watts.
+· Reparto: Chanda Davetas, Peter Heinrich, Michael Dumas, Harven Danelian, Rebecca Scarpati, Nate Albright, Justine Liza, Nicole Holmes.</desc>
+	</programme>
+	<programme start="20261121121100 +0100" stop="20261121125300 +0100" channel="AMC Crime">
+    <title>Hermanos asesinos T1 E8 · Los Briley</title>
+    <desc>Documental,Otros | 2019 | +16 | *6.7/10
+· A lo largo de 7 meses, un trío de hermanos comete una serie de crímenes cada vez más violentos en la ciudad de Richmond y dejan tras de sí un creciente número de cadáveres.
+· País: Estados Unidos
+· Dirección: Matthew Watts, Eric Mazer.
+· Reparto: Chanda Davetas, Michael Dumas, Harven Danelian, Rebecca Scarpati, Peter Heinrich, Nate Albright, Justine Liza, Nicole Holmes.</desc>
+	</programme>
+	<programme start="20261121125300 +0100" stop="20261121133600 +0100" channel="AMC Crime">
+    <title>Hermanos asesinos T1 E9 · Los Bondurante</title>
+    <desc>Documental,Otros | 2019 | +16 | *6.7/10
+· Unos gemelos cometen una serie de violentos ataques en un pequeño pueblo de Tennessee. Con cada crimen, los hermanos se envalentonan más.
+· País: Estados Unidos
+· Dirección: Matthew Watts, Eric Mazer.
+· Reparto: Chanda Davetas, Michael Dumas, Harven Danelian, Rebecca Scarpati, Peter Heinrich, Nate Albright, Justine Liza, Nicole Holmes.</desc>
+	</programme>
+	<programme start="20261121133600 +0100" stop="20261121142700 +0100" channel="AMC Crime">
+    <title>En guardia T2 E4 · El caso de Eva Blanco</title>
+    <desc>Documental,Otros | 2025 | +16
+· El homicidio de Eva Blanco en 1997 quedó impune durante casi dos décadas hasta que la perseverancia policial logró identificar y detener a su asesino.
+· País: España
+· Dirección: Aida Rebordinos.</desc>
+	</programme>
+	<programme start="20261121142700 +0100" stop="20261121152100 +0100" channel="AMC Crime">
+    <title>En guardia T2 E5 · La desaparición de Manuela Chavero</title>
+    <desc>Documental,Otros | 2025 | +18
+· La desaparición de Manuela Chavero en 2016 abrió una larga investigación marcada por la incertidumbre hasta que, cuatro años después, un vecino confesó el crimen.
+· País: España
+· Dirección: Aida Rebordinos.</desc>
+	</programme>
+	<programme start="20261121152100 +0100" stop="20261121161500 +0100" channel="AMC Crime">
+    <title>En guardia T2 E6 · El crimen de Badoo</title>
+    <desc>Documental,Otros | 2025 | +16
+· La desaparición de un informático de Getxo destapó un crimen planeado a través de una app de citas, con un final brutal que nadie esperaba.
+· País: España
+· Dirección: Aida Rebordinos.</desc>
+	</programme>
+	<programme start="20261121161500 +0100" stop="20261121174100 +0100" channel="AMC Crime">
+    <title>Dr. Death: Engaño mortal</title>
+    <desc>Cine,Documentales | 2023 | +12
+· El estremecedor ascenso y caída de Paolo Macchiarini, el cirujano superestrella expuesto como un estafador internacional, quien dejó un rastro de pacientes devastados y con secuelas de sus desastrosas operaciones.
+· País: Estados Unidos
+· Reparto: Chris Bezaire, Judy Ho, Benita Alexander.</desc>
+	</programme>
+	<programme start="20261121174100 +0100" stop="20261121185900 +0100" channel="AMC Crime">
+    <title>El polígrafo T1 E1 · Shannon Price</title>
+    <desc>Documental,Otros,Social | 2025 | +12
+· Años después de la controvertida y trágica muerte del querido actor Gary Coleman, su exmujer, Shannon Price, acepta someterse a la prueba del polígrafo.
+· País: Estados Unidos
+· Reparto: Tony Harris, George Olivo.</desc>
+	</programme>
+	<programme start="20261121185900 +0100" stop="20261121194300 +0100" channel="AMC Crime">
+    <title>El polígrafo T1 E2 · Matheau Moore</title>
+    <desc>Documental,Otros,Social | 2025 | +12
+· Matheau Moore se somete a la prueba del polígrafo con el exagente del FBI George Olivo, con la esperanza de limpiar su nombre.
+· País: Estados Unidos
+· Reparto: Tony Harris, George Olivo.</desc>
+	</programme>
+	<programme start="20261121194300 +0100" stop="20261121202600 +0100" channel="AMC Crime">
+    <title>El polígrafo T1 E3 · Jesse Holton</title>
+    <desc>Documental,Otros,Social | 2025 | +12
+· Jesse Holton, sospechoso de la violenta muerte de sus padres, se somete al polígrafo en una prueba crucial con George Olivo, un agente retirado del FBI.
+· País: Estados Unidos
+· Reparto: Tony Harris, George Olivo.</desc>
+	</programme>
+	<programme start="20261121202600 +0100" stop="20261121211600 +0100" channel="AMC Crime">
+    <title>Durmiendo con la muerte T1 E1 · Abandonada a su suerte</title>
+    <desc>Programa,Crimen | 2022 | +16 | *7.0/10
+· Johnia Berry muere tras ser apuñalada más de 22 veces en la habitación de su casa de Knoxville (Tennessee), mientras su compañero de piso logra escapar.
+· País: Estados Unidos
+· Dirección: Somni.</desc>
+	</programme>
+	<programme start="20261121211600 +0100" stop="20261121220600 +0100" channel="AMC Crime">
+    <title>Durmiendo con la muerte T1 E2 · El drama de una hija</title>
+    <desc>Programa,Crimen | 2022 | +16 | *7.0/10
+· Al despertar, una adolescente descubre que su padre ha muerto apuñalado. Entonces, surgen preguntas sobre si de verdad no oyó su desesperada pelea antes de morir.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Somni.</desc>
+	</programme>
+	<programme start="20261121220600 +0100" stop="20261121225500 +0100" channel="AMC Crime">
+    <title>Durmiendo con la muerte T1 E3 · Mala sangre</title>
+    <desc>Programa,Crimen | 2022 | +16 | *7.0/10
+· Una mujer muere asesinada mientras su novio duerme junto a ella. Los investigadores acusan al novio, pero una exhaustiva investigación descubre al sorprendente asesino.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Somni.</desc>
+	</programme>
+	<programme start="20261121225500 +0100" stop="20261121234500 +0100" channel="AMC Crime">
+    <title>Durmiendo con la muerte T1 E4 · Un monstruo en la noche</title>
+    <desc>Programa,Crimen | 2022 | +16 | *7.0/10
+· Una madre muere tiroteada mientras sus hijas duermen en la misma habitación. Los investigadores se preguntan si el hecho de que una puerta estuviera abierta invitó a entrar a un intruso.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Somni.</desc>
+	</programme>
+	<programme start="20261121234500 +0100" stop="20261122003900 +0100" channel="AMC Crime">
+    <title>Crimen en cámara T8 E1 · Lo sabía en el fondo de mi corazón</title>
+    <desc>Documental,Otros | 2022 | +16 | *8.0/10
+· Cuando Diamond Bradley desaparece, la policía espera que las imágenes de vigilancia les conduzcan hasta ella antes de que sea demasiado tarde, pero su rastro es más aterrador de lo que nadie esperaba.
+· País: Canadá, Reino Unido, Estados Unidos
+· Reparto: Adam Donneky, Stephen Lennhoff, Bryan Edwards, Tamara Rambaran, James J. Wilson, Matthew Sauve, Drew Riedstra, Michal Ochkie, Morgan Bragg.</desc>
+	</programme>
+	<programme start="20261122003900 +0100" stop="20261122013200 +0100" channel="AMC Crime">
+    <title>Crimen en cámara T8 E2 · El cheque del alquiler</title>
+    <desc>Documental,Otros | 2022 | +16 | *8.0/10
+· Tras alistarse en el Ejército de Estados Unidos y realizar dos misiones en Irak, Maribel Ramos hace realidad su sueño de ir a la universidad. Pero semanas antes de su graduación, Maribel desaparece.
+· País: Canadá, Reino Unido, Estados Unidos
+· Reparto: Adam Donneky, Stephen Lennhoff, Bryan Edwards, Tamara Rambaran, James J. Wilson, Matthew Sauve, Drew Riedstra, Michal Ochkie, Morgan Bragg.</desc>
+	</programme>
+	<programme start="20261122013200 +0100" stop="20261122021800 +0100" channel="AMC Crime">
+    <title>Crimen en cámara T9 E1 · Tragedia en una autopista de Tennessee</title>
+    <desc>Documental,Otros | 2022 | +16 | *8.0/10
+· Cuando un policía estatal de Tennessee aparece asesinado en una autopista, los investigadores recurren a su cámara en busca de respuestas, pero harán falta más vídeos para encontrar al asesino.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Chris Roberts, Kim Smith, Christopher Puttock.
+· Reparto: Bryan Edwards, James J. Wilson, Tamara Rambaran, Matthew Sauve, Drew Riedstra, Michal Ochkie, Morgan Bragg.</desc>
+	</programme>
+	<programme start="20261122021800 +0100" stop="20261122030400 +0100" channel="AMC Crime">
+    <title>Crimen en cámara T8 E4 · Oferta final</title>
+    <desc>Documental,Otros | 2022 | +16 | *8.0/10
+· Laura Ackerson es una madre soltera que sale a trabajar una mañana y no regresa. Sin pistas, la policía recurre a las cámaras de vigilancia, pero estas muestran un caso cada vez más siniestro.
+· País: Canadá, Reino Unido, Estados Unidos
+· Reparto: Adam Donneky, Jules Williamson, Bryan Edwards, Tamara Rambaran, James J. Wilson, Matthew Sauve, Drew Riedstra, Michal Ochkie, Morgan Bragg.</desc>
+	</programme>
+	<programme start="20261122030400 +0100" stop="20261122035200 +0100" channel="AMC Crime">
+    <title>Crimen en cámara T9 E3 · Matar a alguien</title>
+    <desc>Documental,Otros | 2022 | +16 | *8.0/10
+· Michelle Mockbee va a trabajar temprano, pero es asesinada en la puerta de su oficina. Las cámaras revelan una serie de sucios secretos por los que podría haber merecido la pena matar.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Chris Roberts, Kim Smith, Christopher Puttock.
+· Reparto: Bryan Edwards, James J. Wilson, Tamara Rambaran, Matthew Sauve, Drew Riedstra, Michal Ochkie, Morgan Bragg.</desc>
+	</programme>
+	<programme start="20261122035200 +0100" stop="20261122051300 +0100" channel="AMC Crime">
+    <title>Los niños perdidos de Dozier</title>
+    <desc>Programa,Otros | 2016 | +16
+· La siniestra historia del reformatorio Dozier, con un terrible legado de esclavitud, discriminación racial y abuso infantil durante más de cien años.
+· País: Estados Unidos
+· Dirección: Heidi Burke.</desc>
+	</programme>
+	<programme start="20261122051300 +0100" stop="20261122060300 +0100" channel="AMC Crime">
+    <title>En guardia T2 E5 · La desaparición de Manuela Chavero</title>
+    <desc>Documental,Otros | 2025 | +18
+· La desaparición de Manuela Chavero en 2016 abrió una larga investigación marcada por la incertidumbre hasta que, cuatro años después, un vecino confesó el crimen.
+· País: España
+· Dirección: Aida Rebordinos.</desc>
+	</programme>
+	<programme start="20261122060300 +0100" stop="20261122065300 +0100" channel="AMC Crime">
+    <title>En guardia T2 E6 · El crimen de Badoo</title>
+    <desc>Documental,Otros | 2025 | +16
+· La desaparición de un informático de Getxo destapó un crimen planeado a través de una app de citas, con un final brutal que nadie esperaba.
+· País: España
+· Dirección: Aida Rebordinos.</desc>
+	</programme>
+	<programme start="20261122065300 +0100" stop="20261122073800 +0100" channel="AMC Crime">
+    <title>7-J: Los atentados de Londres T1 E1</title>
+    <desc>Documental,Otros | 2024 | +16
+· Este episodio narra la búsqueda urgente de la Policía Metropolitana de Londres para localizar a los presuntos terroristas suicidas tras los atentados del 7 de julio de 2005.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20261122073800 +0100" stop="20261122082000 +0100" channel="AMC Crime">
+    <title>7-J: Los atentados de Londres T1 E2</title>
+    <desc>Documental,Otros | 2024 | +16
+· Este episodio analiza las consecuencias del tiroteo y revela errores importantes en la identificación, la comunicación y la toma de decisiones.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20261122082000 +0100" stop="20261122090600 +0100" channel="AMC Crime">
+    <title>Crimen en cámara T8 E1 · Lo sabía en el fondo de mi corazón</title>
+    <desc>Documental,Otros | 2022 | +16 | *8.0/10
+· Cuando Diamond Bradley desaparece, la policía espera que las imágenes de vigilancia les conduzcan hasta ella antes de que sea demasiado tarde, pero su rastro es más aterrador de lo que nadie esperaba.
+· País: Canadá, Reino Unido, Estados Unidos
+· Reparto: Adam Donneky, Stephen Lennhoff, Bryan Edwards, Tamara Rambaran, James J. Wilson, Matthew Sauve, Drew Riedstra, Michal Ochkie, Morgan Bragg.</desc>
+	</programme>
+	<programme start="20261122090600 +0100" stop="20261122095100 +0100" channel="AMC Crime">
+    <title>Crimen en cámara T8 E2 · El cheque del alquiler</title>
+    <desc>Documental,Otros | 2022 | +16 | *8.0/10
+· Tras alistarse en el Ejército de Estados Unidos y realizar dos misiones en Irak, Maribel Ramos hace realidad su sueño de ir a la universidad. Pero semanas antes de su graduación, Maribel desaparece.
+· País: Canadá, Reino Unido, Estados Unidos
+· Reparto: Adam Donneky, Stephen Lennhoff, Bryan Edwards, Tamara Rambaran, James J. Wilson, Matthew Sauve, Drew Riedstra, Michal Ochkie, Morgan Bragg.</desc>
+	</programme>
+	<programme start="20261122095100 +0100" stop="20261122103800 +0100" channel="AMC Crime">
+    <title>Crimen en cámara T9 E1 · Tragedia en una autopista de Tennessee</title>
+    <desc>Documental,Otros | 2022 | +16 | *8.0/10
+· Cuando un policía estatal de Tennessee aparece asesinado en una autopista, los investigadores recurren a su cámara en busca de respuestas, pero harán falta más vídeos para encontrar al asesino.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Chris Roberts, Kim Smith, Christopher Puttock.
+· Reparto: Bryan Edwards, James J. Wilson, Tamara Rambaran, Matthew Sauve, Drew Riedstra, Michal Ochkie, Morgan Bragg.</desc>
+	</programme>
+	<programme start="20261122103800 +0100" stop="20261122112500 +0100" channel="AMC Crime">
+    <title>Crimen en cámara T8 E4 · Oferta final</title>
+    <desc>Documental,Otros | 2022 | +16 | *8.0/10
+· Laura Ackerson es una madre soltera que sale a trabajar una mañana y no regresa. Sin pistas, la policía recurre a las cámaras de vigilancia, pero estas muestran un caso cada vez más siniestro.
+· País: Canadá, Reino Unido, Estados Unidos
+· Reparto: Adam Donneky, Jules Williamson, Bryan Edwards, Tamara Rambaran, James J. Wilson, Matthew Sauve, Drew Riedstra, Michal Ochkie, Morgan Bragg.</desc>
+	</programme>
+	<programme start="20261122112500 +0100" stop="20261122121200 +0100" channel="AMC Crime">
+    <title>Crimen en cámara T9 E3 · Matar a alguien</title>
+    <desc>Documental,Otros | 2022 | +16 | *8.0/10
+· Michelle Mockbee va a trabajar temprano, pero es asesinada en la puerta de su oficina. Las cámaras revelan una serie de sucios secretos por los que podría haber merecido la pena matar.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Chris Roberts, Kim Smith, Christopher Puttock.
+· Reparto: Bryan Edwards, James J. Wilson, Tamara Rambaran, Matthew Sauve, Drew Riedstra, Michal Ochkie, Morgan Bragg.</desc>
+	</programme>
+	<programme start="20261122121200 +0100" stop="20261122125400 +0100" channel="AMC Crime">
+    <title>Durmiendo con la muerte T1 E1 · Abandonada a su suerte</title>
+    <desc>Programa,Crimen | 2022 | +16 | *7.0/10
+· Johnia Berry muere tras ser apuñalada más de 22 veces en la habitación de su casa de Knoxville (Tennessee), mientras su compañero de piso logra escapar.
+· País: Estados Unidos
+· Dirección: Somni.</desc>
+	</programme>
+	<programme start="20261122125400 +0100" stop="20261122133600 +0100" channel="AMC Crime">
+    <title>Durmiendo con la muerte T1 E2 · El drama de una hija</title>
+    <desc>Programa,Crimen | 2022 | +16 | *7.0/10
+· Al despertar, una adolescente descubre que su padre ha muerto apuñalado. Entonces, surgen preguntas sobre si de verdad no oyó su desesperada pelea antes de morir.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Somni.</desc>
+	</programme>
+	<programme start="20261122133600 +0100" stop="20261122142300 +0100" channel="AMC Crime">
+    <title>Durmiendo con la muerte T1 E3 · Mala sangre</title>
+    <desc>Programa,Crimen | 2022 | +16 | *7.0/10
+· Una mujer muere asesinada mientras su novio duerme junto a ella. Los investigadores acusan al novio, pero una exhaustiva investigación descubre al sorprendente asesino.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Somni.</desc>
+	</programme>
+	<programme start="20261122142300 +0100" stop="20261122151100 +0100" channel="AMC Crime">
+    <title>Durmiendo con la muerte T1 E4 · Un monstruo en la noche</title>
+    <desc>Programa,Crimen | 2022 | +16 | *7.0/10
+· Una madre muere tiroteada mientras sus hijas duermen en la misma habitación. Los investigadores se preguntan si el hecho de que una puerta estuviera abierta invitó a entrar a un intruso.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Somni.</desc>
+	</programme>
+	<programme start="20261122151100 +0100" stop="20261122161500 +0100" channel="AMC Crime">
+    <title>Las mentiras de Ellie Williams</title>
+    <desc>Documental,Otros | 2024 | +12
+· En 2019, Eillie Williams inventa una historia de maltrato, pero la verdad sale a la luz, revelando un escándalo de manipulación en redes sociales.
+· País: Reino Unido
+· Dirección: Jack Rampling.</desc>
+	</programme>
+	<programme start="20261122161500 +0100" stop="20261122170700 +0100" channel="AMC Crime">
+    <title>Gemelos malvados T1 E1 · Las gemelas Whitehead</title>
+    <desc>Documental,Otros | 2024 | +12
+· Investigamos el caso de las hermanas adolescentes Whitehead, dos gemelas de Atlanta (Georgia) condenadas por el brutal asesinato de su propia madre.
+· País: Reino Unido
+· Dirección: Thomas Meadmore.
+· Reparto: Jackie Dunn, Damian Loone, Greg Carson, Shanelle Dawson.</desc>
+	</programme>
+	<programme start="20261122170700 +0100" stop="20261122175900 +0100" channel="AMC Crime">
+    <title>Gemelos malvados T1 E2 · Los gemelos Dawson</title>
+    <desc>Documental,Otros | 2024 | +12
+· Un podcast sobre Lyn Dawson convierte un caso de desaparición en una investigación por asesinato. Su marido, Chris Dawson, es sospechoso; y surgen más acusaciones contra él y su hermano gemelo.
+· País: Reino Unido
+· Dirección: Thomas Meadmore.
+· Reparto: Jackie Dunn, Damian Loone, Greg Carson, Shanelle Dawson.</desc>
+	</programme>
+	<programme start="20261122175900 +0100" stop="20261122185100 +0100" channel="AMC Crime">
+    <title>Las azafatas asesinadas T1 E3</title>
+    <desc>Documental,Otros | 2023 | +12
+· La investigación del asesinato sin resolver de la azafata Jeeta permite albergar esperanzas sobre lo que podría hacerse por las tres primeras víctimas.
+· País: Reino Unido, Estados Unidos
+· Dirección: Jasleen Kaur Sethi.
+· Reparto: Richard Ray.
+· Producción: Jasleen Sethi.</desc>
+	</programme>
+	<programme start="20261122185100 +0100" stop="20261122194400 +0100" channel="AMC Crime">
+    <title>Las azafatas asesinadas T1 E3</title>
+    <desc>Documental,Otros | 2023 | +12
+· La investigación del asesinato sin resolver de la azafata Jeeta permite albergar esperanzas sobre lo que podría hacerse por las tres primeras víctimas.
+· País: Reino Unido, Estados Unidos
+· Dirección: Jasleen Kaur Sethi.
+· Reparto: Richard Ray.
+· Producción: Jasleen Sethi.</desc>
+	</programme>
+	<programme start="20261122194400 +0100" stop="20261122203200 +0100" channel="AMC Crime">
+    <title>Asesinados antes del amanecer T2 E6 · El club Drama</title>
+    <desc>Programa,Crimen | 2021 | +12 | *6.9/10
+· Una alegre velada de Nochebuena en los pantanos de Luisiana termina en asesinato cuando una de las personas más queridas del bar local aparece muerta en un charco de su propia sangre.
+· País: Estados Unidos
+· Reparto: Nathalie Jones, R Scott Hoffman, Anna Mhairi, Cazimir Milostan, Brendan Connor.</desc>
+	</programme>
+	<programme start="20261122203200 +0100" stop="20261122212100 +0100" channel="AMC Crime">
+    <title>Asesinados antes del amanecer T2 E7 · Bajo una atenta mirada</title>
+    <desc>Programa,Crimen | 2021 | +12 | *6.9/10
+· Una noche de fútbol y celebración se convierte en tragedia cuando al día siguiente se encuentra muerto en su casa a un joven aficionado al fútbol del Orlando City. La policía se enfrenta a un numeroso grupo de sospechosos y muy pocas respuestas.
+· País: Estados Unidos
+· Reparto: Nathalie Jones, R Scott Hoffman, Anna Mhairi, Cazimir Milostan, Brendan Connor.</desc>
+	</programme>
+	<programme start="20261122212100 +0100" stop="20261122221100 +0100" channel="AMC Crime">
+    <title>Asesinados antes del amanecer T2 E8 · Asesinato en la montaña</title>
+    <desc>Programa,Crimen | 2021 | +12 | *6.9/10
+· Una lujosa boda en un albergue de montaña termina en tragedia cuando dos personas mueren asesinadas a tiros en su cabaña. Un misterioso desconocido que parece haberse desvanecido sin dejar rastro podría ser la clave del tiroteo.
+· País: Estados Unidos
+· Reparto: Nathalie Jones, R Scott Hoffman, Anna Mhairi, Cazimir Milostan, Brendan Connor.</desc>
+	</programme>
+	<programme start="20261122221100 +0100" stop="20261122230100 +0100" channel="AMC Crime">
+    <title>Asesinados antes del amanecer T2 E9 · A la espera</title>
+    <desc>Programa,Crimen | 2021 | +12 | *6.9/10
+· En Dodge City (Kansas), dos mujeres salen a pasar una noche de diversión y se encuentran con una serie de antiguos y potenciales novios. A la mañana siguiente, una de ellas aparece muerta en su casa y comienza la investigación sobre sus últimas horas.
+· País: Estados Unidos
+· Reparto: Nathalie Jones, R Scott Hoffman, Anna Mhairi, Cazimir Milostan, Brendan Connor.</desc>
+	</programme>
+	<programme start="20261122230100 +0100" stop="20261122235000 +0100" channel="AMC Crime">
+    <title>Asesinados antes del amanecer T2 E10 · El turno de noche</title>
+    <desc>Programa,Crimen | 2021 | +12 | *6.9/10
+· Un miembro del personal aparece muerto dentro del recinto de un hospital tras desaparecer durante un turno de noche. ¿Ha sido un ataque selectivo o hay un asesino acechando aún por los pasillos?
+· País: Estados Unidos
+· Reparto: Nathalie Jones, R Scott Hoffman, Anna Mhairi, Cazimir Milostan, Brendan Connor.</desc>
+	</programme>
+	<programme start="20261122235000 +0100" stop="20261123012300 +0100" channel="AMC Crime">
+    <title>Dr. Death: Engaño mortal</title>
+    <desc>Cine,Documentales | 2023 | +12
+· El estremecedor ascenso y caída de Paolo Macchiarini, el cirujano superestrella expuesto como un estafador internacional, quien dejó un rastro de pacientes devastados y con secuelas de sus desastrosas operaciones.
+· País: Estados Unidos
+· Reparto: Chris Bezaire, Judy Ho, Benita Alexander.</desc>
+	</programme>
+	<programme start="20261123012300 +0100" stop="20261123022100 +0100" channel="AMC Crime">
+    <title>Las mentiras de Ellie Williams</title>
+    <desc>Documental,Otros | 2024 | +12
+· En 2019, Eillie Williams inventa una historia de maltrato, pero la verdad sale a la luz, revelando un escándalo de manipulación en redes sociales.
+· País: Reino Unido
+· Dirección: Jack Rampling.</desc>
+	</programme>
+	<programme start="20261123022100 +0100" stop="20261123031600 +0100" channel="AMC Crime">
+    <title>Anatomía de una mentira T1 E1 · El talento de la señora Finch</title>
+    <desc>Documental,Otros | 2024 | +12 | *7.1/10
+· La extraordinaria historia de la vida de la guionista de televisión Elisabeth Finch cautiva a Hollywood mientras brilla en 'Anatomía de Grey'.
+· País: Argentina, Reino Unido, Estados Unidos
+· Dirección: Evgenia Peretz, David Schisgall.
+· Reparto: Elisabeth Finch, Kiley Donovan, Jennifer Beyer, Andy Reaser, Mark Wilding.</desc>
+	</programme>
+	<programme start="20261123031600 +0100" stop="20261123040800 +0100" channel="AMC Crime">
+    <title>Anatomía de una mentira T1 E2 · Quién se lleva el protagonismo</title>
+    <desc>Documental,Otros | 2024 | +12 | *7.1/10
+· Elisabeth Finch logra atraer a Jenn Beyer, superviviente de un trauma. Beyer le cuenta todo a Finch, pero empiezan a aparecer lagunas en la historia de esta última.
+· País: Argentina, Reino Unido, Estados Unidos
+· Dirección: Evgenia Peretz, David Schisgall.
+· Reparto: Elisabeth Finch, Kiley Donovan, Jennifer Beyer, Andy Reaser, Mark Wilding.</desc>
+	</programme>
+	<programme start="20261123040800 +0100" stop="20261123050100 +0100" channel="AMC Crime">
+    <title>Anatomía de una mentira T1 E3 · Atrápame si puedes</title>
+    <desc>Documental,Otros | 2024 | +12 | *7.1/10
+· Jennifer Beyer se enfrenta a una maestra manipuladora como Elisabeth Finch y emprende una misión para revelar la escandalosa verdad, sin importar el coste.
+· País: Argentina, Reino Unido, Estados Unidos
+· Dirección: Evgenia Peretz, David Schisgall.
+· Reparto: Elisabeth Finch, Kiley Donovan, Jennifer Beyer, Andy Reaser, Mark Wilding.</desc>
+	</programme>
+	<programme start="20261123050100 +0100" stop="20261123052100 +0100" channel="AMC Crime">
+    <title>Court Cam, acción judicial T5 E43</title>
+    <desc>Programa,Reality,Entretenimiento | 2022 | +16 | *7.3/10
+· Un presunto delincuente sexual infantil y pirómano se mata al saltar por una barandilla. Un acusado da un cabezazo a su abogado. Un ladrón de tarjetas de crédito llora cuando le envían a la cárcel.
+· País: Estados Unidos
+· Dirección: Varios.</desc>
+	</programme>
+	<programme start="20261123052100 +0100" stop="20261123054300 +0100" channel="AMC Crime">
+    <title>Court Cam, acción judicial T5 E44</title>
+    <desc>Programa,Reality,Entretenimiento | 2022 | +16 | *7.3/10
+· Un asesino convicto niega haberse masturbado durante una evaluación psicológica. Un juez se harta de las tácticas de un ciudadano soberano. Un acusado suelta una palabrota en el tribunal de fianzas.
+· País: Estados Unidos
+· Dirección: Varios.</desc>
+	</programme>
+	<programme start="20261123054300 +0100" stop="20261123060300 +0100" channel="AMC Crime">
+    <title>Court Cam, acción judicial T5 E45</title>
+    <desc>Programa,Reality,Entretenimiento | 2022 | +16 | *7.3/10
+· Se produce un sorprendente giro de los acontecimientos en un juicio por asesinato. Una madre se enfrenta a la mujer que le robó a su bebé. Una viuda en duelo grita al hombre que mató a su marido.
+· País: Estados Unidos
+· Dirección: Varios.</desc>
+	</programme>
+	<programme start="20261123060300 +0100" stop="20261123062400 +0100" channel="AMC Crime">
+    <title>Court Cam, acción judicial T5 E46</title>
+    <desc>Programa,Reality,Entretenimiento | 2022 | +16 | *7.3/10
+· Un acusado de violencia doméstica pierde los nervios durante una vista virtual. Unos padres desconsolados se dirigen al asesino de su hijo. Un juez habla con mucha dureza a un pirómano adolescente.
+· País: Estados Unidos
+· Dirección: Varios.</desc>
+	</programme>
+	<programme start="20261123062400 +0100" stop="20261123064500 +0100" channel="AMC Crime">
+    <title>Court Cam, acción judicial T5 E47</title>
+    <desc>Programa,Reality,Entretenimiento | 2022 | +16 | *7.3/10
+· Un acusado de robo se duerme una y otra vez durante su vista virtual. Un juez se harta de las argucias de un ciudadano soberano. Un conductor acusado de conducir ebrio un autobús escolar se presenta borracho a su vista.
+· País: Estados Unidos
+· Dirección: Varios.</desc>
+	</programme>
+	<programme start="20261123064500 +0100" stop="20261123070600 +0100" channel="AMC Crime">
+    <title>Court Cam, acción judicial T5 E48</title>
+    <desc>Programa,Reality,Entretenimiento | 2022 | +16 | *7.3/10
+· Un delincuente muestra al juez sus heridas de bala. Un juez se ríe de la torpeza de un acusado al intentar aparcar en paralelo. Un asesino se enfrenta a una jueza conocida como la Temible Mary.
+· País: Estados Unidos
+· Dirección: Varios.</desc>
+	</programme>
+	<programme start="20261123070600 +0100" stop="20261123072600 +0100" channel="AMC Crime">
+    <title>Court Cam, acción judicial T5 E49</title>
+    <desc>Programa,Reality,Entretenimiento | 2022 | +16 | *7.3/10
+· Un convicto suelta una palabrota durante una vista virtual. Una madre en duelo lleva las cenizas de su hijo a la vista de la sentencia de su asesino. Un jugador profesional de bingo tiene dificultades para recordar su pasado delictivo.
+· País: Estados Unidos
+· Dirección: Varios.</desc>
+	</programme>
+	<programme start="20261123072600 +0100" stop="20261123074800 +0100" channel="AMC Crime">
+    <title>Court Cam, acción judicial T1 E10 · Top 5 \u2018Jueces insólitos\u2019 - 3</title>
+    <desc>Programa,Reality,Entretenimiento | 2023 | +16 | *7.3/10
+· Un repaso a algunos de los momentos más disparatados en los tribunales protagonizados por jueces con un comportamiento escandaloso.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261123074800 +0100" stop="20261123080800 +0100" channel="AMC Crime">
+    <title>Court Cam, acción judicial T1 E11 · Court Cam, acción judicial 'Especial'</title>
+    <desc>Programa,Reality | 2023 | +16
+· Un repaso a algunos de los altercados más violentos captados por las cámaras. Entre otros, el estallido de un acusado que se enfrenta a una condena a muerte y una pelea entre una mujer y su suegra.
+· País: Estados Unidos
+· Producción: Dan Abrams.</desc>
+	</programme>
+	<programme start="20261123080800 +0100" stop="20261123083200 +0100" channel="AMC Crime">
+    <title>Court Cam, acción judicial T1 E12 · Court Cam, acción judicial 'Especial'</title>
+    <desc>Programa,Reality | 2023 | +16
+· Un repaso a algunos de los momentos de indignación más impactantes ocurridos en las salas de los tribunales.
+· País: Estados Unidos
+· Producción: Dan Abrams.</desc>
+	</programme>
+	<programme start="20261123083200 +0100" stop="20261123095200 +0100" channel="AMC Crime">
+    <title>El polígrafo T1 E1 · Shannon Price</title>
+    <desc>Documental,Otros,Social | 2025 | +12
+· Años después de la controvertida y trágica muerte del querido actor Gary Coleman, su exmujer, Shannon Price, acepta someterse a la prueba del polígrafo.
+· País: Estados Unidos
+· Reparto: Tony Harris, George Olivo.</desc>
+	</programme>
+	<programme start="20261123095200 +0100" stop="20261123103200 +0100" channel="AMC Crime">
+    <title>El polígrafo T1 E2 · Matheau Moore</title>
+    <desc>Documental,Otros,Social | 2025 | +12
+· Matheau Moore se somete a la prueba del polígrafo con el exagente del FBI George Olivo, con la esperanza de limpiar su nombre.
+· País: Estados Unidos
+· Reparto: Tony Harris, George Olivo.</desc>
+	</programme>
+	<programme start="20261123103200 +0100" stop="20261123111300 +0100" channel="AMC Crime">
+    <title>El polígrafo T1 E3 · Jesse Holton</title>
+    <desc>Documental,Otros,Social | 2025 | +12
+· Jesse Holton, sospechoso de la violenta muerte de sus padres, se somete al polígrafo en una prueba crucial con George Olivo, un agente retirado del FBI.
+· País: Estados Unidos
+· Reparto: Tony Harris, George Olivo.</desc>
+	</programme>
+	<programme start="20261123111300 +0100" stop="20261123123500 +0100" channel="AMC Crime">
+    <title>Dr. Death: Engaño mortal</title>
+    <desc>Cine,Documentales | 2023 | +12
+· El estremecedor ascenso y caída de Paolo Macchiarini, el cirujano superestrella expuesto como un estafador internacional, quien dejó un rastro de pacientes devastados y con secuelas de sus desastrosas operaciones.
+· País: Estados Unidos
+· Reparto: Chris Bezaire, Judy Ho, Benita Alexander.</desc>
+	</programme>
+	<programme start="20261123123500 +0100" stop="20261123131600 +0100" channel="AMC Crime">
+    <title>Asesinados antes del amanecer T2 E6 · El club Drama</title>
+    <desc>Programa,Crimen | 2021 | +12 | *6.9/10
+· Una alegre velada de Nochebuena en los pantanos de Luisiana termina en asesinato cuando una de las personas más queridas del bar local aparece muerta en un charco de su propia sangre.
+· País: Estados Unidos
+· Reparto: Nathalie Jones, R Scott Hoffman, Anna Mhairi, Cazimir Milostan, Brendan Connor.</desc>
+	</programme>
+	<programme start="20261123131600 +0100" stop="20261123135800 +0100" channel="AMC Crime">
+    <title>Asesinados antes del amanecer T2 E7 · Bajo una atenta mirada</title>
+    <desc>Programa,Crimen | 2021 | +12 | *6.9/10
+· Una noche de fútbol y celebración se convierte en tragedia cuando al día siguiente se encuentra muerto en su casa a un joven aficionado al fútbol del Orlando City. La policía se enfrenta a un numeroso grupo de sospechosos y muy pocas respuestas.
+· País: Estados Unidos
+· Reparto: Nathalie Jones, R Scott Hoffman, Anna Mhairi, Cazimir Milostan, Brendan Connor.</desc>
+	</programme>
+	<programme start="20261123135800 +0100" stop="20261123144400 +0100" channel="AMC Crime">
+    <title>Asesinados antes del amanecer T2 E8 · Asesinato en la montaña</title>
+    <desc>Programa,Crimen | 2021 | +12 | *6.9/10
+· Una lujosa boda en un albergue de montaña termina en tragedia cuando dos personas mueren asesinadas a tiros en su cabaña. Un misterioso desconocido que parece haberse desvanecido sin dejar rastro podría ser la clave del tiroteo.
+· País: Estados Unidos
+· Reparto: Nathalie Jones, R Scott Hoffman, Anna Mhairi, Cazimir Milostan, Brendan Connor.</desc>
+	</programme>
+	<programme start="20261123144400 +0100" stop="20261123152900 +0100" channel="AMC Crime">
+    <title>Asesinados antes del amanecer T2 E9 · A la espera</title>
+    <desc>Programa,Crimen | 2021 | +12 | *6.9/10
+· En Dodge City (Kansas), dos mujeres salen a pasar una noche de diversión y se encuentran con una serie de antiguos y potenciales novios. A la mañana siguiente, una de ellas aparece muerta en su casa y comienza la investigación sobre sus últimas horas.
+· País: Estados Unidos
+· Reparto: Nathalie Jones, R Scott Hoffman, Anna Mhairi, Cazimir Milostan, Brendan Connor.</desc>
+	</programme>
+	<programme start="20261123152900 +0100" stop="20261123161500 +0100" channel="AMC Crime">
+    <title>Asesinados antes del amanecer T2 E10 · El turno de noche</title>
+    <desc>Programa,Crimen | 2021 | +12 | *6.9/10
+· Un miembro del personal aparece muerto dentro del recinto de un hospital tras desaparecer durante un turno de noche. ¿Ha sido un ataque selectivo o hay un asesino acechando aún por los pasillos?
+· País: Estados Unidos
+· Reparto: Nathalie Jones, R Scott Hoffman, Anna Mhairi, Cazimir Milostan, Brendan Connor.</desc>
+	</programme>
+	<programme start="20261123161500 +0100" stop="20261123170000 +0100" channel="AMC Crime">
+    <title>Atrapadas T31 E7 · Willa Blanc</title>
+    <desc>Documental,Otros | 2023 | +16 | *7.7/10
+· Cuando se denuncia la desaparición de un físico nuclear jubilado, los investigadores descubren que llevaba una vida solitaria marcada por la paranoia.
+· País: Estados Unidos
+· Producción: Zak Weisfeld, Stephen Land, Geoffrey Proud, Deborah Allen, Todd Moss.</desc>
+	</programme>
+	<programme start="20261123170000 +0100" stop="20261123174500 +0100" channel="AMC Crime">
+    <title>Atrapadas T31 E8 · Rebecca Barker</title>
+    <desc>Documental,Otros | 2023 | +16 | *7.7/10
+· Cuando el propietario de una tienda de Rusk (Texas) llama a emergencias para hacer una estremecedora confesión, el caso parece estar claro, hasta que los detectives profundizan en la investigación.
+· País: Estados Unidos
+· Producción: Zak Weisfeld, Stephen Land, Geoffrey Proud, Deborah Allen, Todd Moss.</desc>
+	</programme>
+	<programme start="20261123174500 +0100" stop="20261123183100 +0100" channel="AMC Crime">
+    <title>Atrapadas T30 E7 · Daisy Gutierrez</title>
+    <desc>Documental,Otros | 2021 | +16 | *7.7/10
+· La familia de un joven desaparecido en Chicago recibe un inquietante mensaje. Los detectives investigan y descubren lo que de verdad se oculta detrás de su desaparición.
+· País: Estados Unidos
+· Producción: Stephen Land, Zak Weisfeld, Geoffrey Proud, Deborah Allen, Todd Moss.</desc>
+	</programme>
+	<programme start="20261123183100 +0100" stop="20261123191600 +0100" channel="AMC Crime">
+    <title>Atrapadas T30 E8 · Claudia Hoerig</title>
+    <desc>Documental,Otros | 2021 | +16 | *7.7/10
+· Tras el asesinato de un piloto de la Fuerza Aérea en Ohio, las autoridades inician una persecución internacional que durará más de diez años para capturar al fugitivo.
+· País: Estados Unidos
+· Reparto: Michael Cutali, Larry Lemanski.
+· Producción: Stephen Land, Zak Weisfeld, Geoffrey Proud, Deborah Allen, Todd Moss.</desc>
+	</programme>
+	<programme start="20261123191600 +0100" stop="20261123200200 +0100" channel="AMC Crime">
+    <title>Atrapadas T30 E9 · Ciera Harp</title>
+    <desc>Documental,Otros | 2021 | +16 | *7.7/10
+· Justo cuando los detectives que investigan la muerte de un rapero de Atlanta están a punto de cerrar lo que parece ser un caso de disputa doméstica, se topan con unas pruebas espeluznantes que la víctima dejó colocadas segundos antes de morir.
+· País: Estados Unidos
+· Producción: Stephen Land, Zak Weisfeld, Geoffrey Proud, Deborah Allen, Todd Moss.</desc>
+	</programme>
+	<programme start="20261123200200 +0100" stop="20261123205400 +0100" channel="AMC Crime">
+    <title>Parejas asesinas T8 E9 · Buenos amigos: Michelle Hetzel</title>
+    <desc>Documental,Otros | 2021 | +16 | *7.0/10
+· La policía se queda estupefacta al encontrar a una joven casi decapitada en su coche, pero se queda aún más sorprendida al enterarse de que el móvil del crimen es un letal triángulo amoroso.
+· País: Estados Unidos
+· Dirección: Rex Short, Christopher Mitchell, Jeff Woods, Bryan Gildner.
+· Reparto: Emily Muse, Daniel Lukes, Andrew D. Erath, Tim Munsey, Nancy Valentine, Dustin Bolt, Roger Albelo, Jay Heselschwerdt.
+· Producción: Chad Cunningham, Brian Peery, Gregory Kohn.</desc>
+	</programme>
+	<programme start="20261123205400 +0100" stop="20261123214700 +0100" channel="AMC Crime">
+    <title>Parejas asesinas T2 E33 · Buenos amigos: Sheila Eddy y Rachel Shoaf</title>
+    <desc>Documental,Otros | 2021 | +16 | *7.0/10
+· La comunidad de Star City (Virginia Occidental) busca unida a una adolescente desaparecida. Lo que no sabe es que sus asesinas forman parte del grupo de búsqueda.
+· País: Estados Unidos
+· Dirección: Jeff Woods, Bryan Gildner, Christopher Mitchell.
+· Reparto: Andrew D. Erath, Emily Muse, Leigh Scarbrough, Daniel Lukes, My'Chyl Purr, Jeff Weekley, Dustin Bolt, Aja De Coudreaux, Ike Newton, Tim Munsey, Nancy Valentine, Roger Albelo, Jay Heselschwerdt.
+· Producción: Chad Cunningham, Brian Peery, Gregory Kohn.</desc>
+	</programme>
+	<programme start="20261123214700 +0100" stop="20261123223900 +0100" channel="AMC Crime">
+    <title>Parejas asesinas T2 E34 · Buenos amigos: Kalila Taylor</title>
+    <desc>Documental,Otros | 2021 | +16 | *7.0/10
+· Cuando una futura enfermera desaparece de camino a clase y aparece asesinada en el bosque un mes después, los investigadores descubren que una coartada no cuadra del todo.
+· País: Estados Unidos
+· Dirección: Jeff Woods, Bryan Gildner, Christopher Mitchell.
+· Reparto: Andrew D. Erath, Emily Muse, Leigh Scarbrough, Daniel Lukes, My'Chyl Purr, Jeff Weekley, Dustin Bolt, Aja De Coudreaux, Ike Newton, Tim Munsey, Nancy Valentine, Roger Albelo, Jay Heselschwerdt.
+· Producción: Chad Cunningham, Brian Peery, Gregory Kohn.</desc>
+	</programme>
+	<programme start="20261123223900 +0100" stop="20261123233200 +0100" channel="AMC Crime">
+    <title>Parejas asesinas T2 E35 · Buenos amigos: Brian Winchester</title>
+    <desc>Documental,Otros | 2021 | +16 | *7.0/10
+· Cuando un hombre desaparece tras salir a cazar, la policía cree que acabó devorado por los caimanes. Años más tarde, sale a la luz algo mucho más siniestro que involucra a uno de sus mejores amigos.
+· País: Estados Unidos
+· Dirección: Bryan Gildner, Christopher Mitchell.
+· Reparto: Andrew D. Erath, Emily Muse, Leigh Scarbrough, Daniel Lukes, Jeff Weekley, Dustin Bolt, My'Chyl Purr, Aja De Coudreaux, Ike Newton, Tim Munsey, Nancy Valentine, Roger Albelo, Jay Heselschwerdt.
+· Producción: Chad Cunningham, Brian Peery, Gregory Kohn.</desc>
+	</programme>
+	<programme start="20261123233200 +0100" stop="20261124002400 +0100" channel="AMC Crime">
+    <title>Parejas asesinas T2 E36 · Buenos amigos: Linda Leedom</title>
+    <desc>Documental,Otros | 2021 | +16 | *7.0/10
+· Cuando una querida vecina muere en un sospechoso incendio doméstico en Horn Lake (Mississippi), la investigación desvela una trama de asesinato, codicia y traición.
+· País: Estados Unidos
+· Dirección: Bryan Gildner, Christopher Mitchell.
+· Reparto: Andrew D. Erath, Emily Muse, Leigh Scarbrough, Daniel Lukes, Dustin Bolt, Jeff Weekley, My'Chyl Purr, Aja De Coudreaux, Ike Newton, Tim Munsey, Nancy Valentine, Roger Albelo, Jay Heselschwerdt.
+· Producción: Chad Cunningham, Brian Peery, Gregory Kohn.</desc>
+	</programme>
+	<programme start="20261124002400 +0100" stop="20261124011800 +0100" channel="AMC Crime">
+    <title>Gemelos malvados T1 E1 · Las gemelas Whitehead</title>
+    <desc>Documental,Otros | 2024 | +12
+· Investigamos el caso de las hermanas adolescentes Whitehead, dos gemelas de Atlanta (Georgia) condenadas por el brutal asesinato de su propia madre.
+· País: Reino Unido
+· Dirección: Thomas Meadmore.
+· Reparto: Jackie Dunn, Damian Loone, Greg Carson, Shanelle Dawson.</desc>
+	</programme>
+	<programme start="20261124011800 +0100" stop="20261124020500 +0100" channel="AMC Crime">
+    <title>Gemelos malvados T1 E2 · Los gemelos Dawson</title>
+    <desc>Documental,Otros | 2024 | +12
+· Un podcast sobre Lyn Dawson convierte un caso de desaparición en una investigación por asesinato. Su marido, Chris Dawson, es sospechoso; y surgen más acusaciones contra él y su hermano gemelo.
+· País: Reino Unido
+· Dirección: Thomas Meadmore.
+· Reparto: Jackie Dunn, Damian Loone, Greg Carson, Shanelle Dawson.</desc>
 	</programme>
 	<programme start="20261119012100 +0100" stop="20261119014400 +0100" channel="AMC Break">
     <title>¿Quién da más? T2 E16</title>
