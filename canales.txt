@@ -13,3 +13,7 @@ M+ Originales HD,M+ Originales HD
 M+ Documentales HD,M+ Documentales HD
 AMC Crime,AMC Crime
 AMC Break,AMC Break
+Todo Crimen (Rakuten TV),Todo Crimen (Rakuten TV)
+BBC History,BBC History
+BBC Earth,BBC Earth
+BBC Lifestyle,BBC Lifestyle
