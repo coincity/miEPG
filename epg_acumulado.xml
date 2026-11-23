@@ -180,6 +180,15 @@
     <display-name>Clan UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Clan.png" />
   </channel>
+  <channel id="">
+    <display-name></display-name>
+    <display-name> SD</display-name>
+    <display-name> HD</display-name>
+    <display-name> 4K</display-name>
+    <display-name> Full HD</display-name>
+    <display-name> UHD</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Crimen%26Historia.png" />
+  </channel>
 	<programme start="20261123020000 +0100" stop="20261123024000 +0100" channel="Historia">
     <title>Skinwalker: El Rancho Maldito T5 E7</title>
     <desc>Documental,Otros,Científico
