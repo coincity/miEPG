@@ -180,13 +180,13 @@
     <display-name>Clan UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Clan.png" />
   </channel>
-  <channel id="">
-    <display-name></display-name>
-    <display-name> SD</display-name>
-    <display-name> HD</display-name>
-    <display-name> 4K</display-name>
-    <display-name> Full HD</display-name>
-    <display-name> UHD</display-name>
+  <channel id="Crimen&amp;Historia">
+    <display-name>Crimen&amp;Historia</display-name>
+    <display-name>Crimen&amp;Historia SD</display-name>
+    <display-name>Crimen&amp;Historia HD</display-name>
+    <display-name>Crimen&amp;Historia 4K</display-name>
+    <display-name>Crimen&amp;Historia Full HD</display-name>
+    <display-name>Crimen&amp;Historia UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Crimen%26Historia.png" />
   </channel>
 	<programme start="20261123020000 +0100" stop="20261123024000 +0100" channel="Historia">
@@ -21756,6 +21756,945 @@
 · Dirección: Tito Fernández.
 · Reparto: Imanol Arias, Ana Duato, María Galiana, Pablo Rivero, Irene Visedo, Ricardo Gómez, José Sancho, Enrique San Francisco, Pere Ponce, Tony Leblanc, Luis Cuenca, Fernando Fernán Gómez.
 · Productora: TVE, Grupo Ganga, Grupo Ganga Producciones.</desc>
+	</programme>
+	<programme start="20261123002300 +0100" stop="20261123005000 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E1</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos, Canadá
+· Dirección: Nicholas Treeshin.</desc>
+	</programme>
+	<programme start="20261123005000 +0100" stop="20261123011600 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E11</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos, Canadá</desc>
+	</programme>
+	<programme start="20261123011600 +0100" stop="20261123014300 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E6</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos
+· Dirección: Nicholas Treeshin.
+· Reparto: Jeff Cole.
+· Productora: Rob Bromley.</desc>
+	</programme>
+	<programme start="20261123014300 +0100" stop="20261123021000 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E2</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos
+· Dirección: Eunice Lee, Nicholas Treeshin.
+· Reparto: Jeff Cole.
+· Productora: Arnold Shapiro, Rob Bromley.</desc>
+	</programme>
+	<programme start="20261123021000 +0100" stop="20261123030500 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E17 · El teléfono móvil blanco</title>
+    <desc>Documentales | 2021 | TP
+· En febrero de 2014, Tequila Suter, una estudiante de posgrado de 26 años, es víctima de un brutal apuñalamiento en su casa del tranquilo barrio de Lackawanna, en Buffalo (Nueva York). Con pocas pistas, la policía se esfuerza por entender por qué alguien querría hacer daño a esta joven, miembro activo de la iglesia y una dedicada voluntaria en la comunidad. El hecho de que no forzaran la entrada indica que Tequila conocía y confiaba en el asesino, pero el móvil del violento asesinato sigue siendo un misterio. Cuando los detectives empiezan a reunir las imágenes de las cámaras de seguridad de la ciudad acabarán por descubrir una historia oculta de engaño, traición y rabia.
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261123030500 +0100" stop="20261123040000 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E14 · Gritos silenciosos</title>
+    <desc>Documentales | 2021 | TP
+· En febrero de 2013, Kira Steger, de 30 años, no se presenta a su turno en una tienda de ropa del Mall of America de Minnesota. Sus preocupados compañeros llaman a su marido Jeff, pero él no ha visto a Kira desde la mañana anterior, cuando salió a hacer unos recados. Tras una búsqueda desesperada, encuentran el coche de Kira en el aparcamiento del centro comercial y cerca de allí aparecen algunas prendas y objetos empapados en sangre. Los detectives de Homicidios inician la investigación, pero a medida que indagan en los antecedentes de Kira, crece el desconcierto. En busca de pruebas concretas, recurren a las grabaciones de seguridad y se centran en un asesino engañoso.
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261123040000 +0100" stop="20261123045500 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E18 · Creo que ha muerto</title>
+    <desc>Documentales | 2021 | TP
+· Cristian Domínguez Aguilar, un inmigrante mexicano de 18 años, vive el sueño americano con su hermano mayor en Fontana (California). Pero la noche anterior al Día de Acción de Gracias de 2017, ese sueño se convierte en pesadilla cuando Cristian no regresa a casa tras su trabajo en una fábrica local. La policía pronto descubre que el adolescente fue víctima de un extraño accidente de tráfico, pero el misterio se intensifica cuando el conductor desaparece sin dejar rastro. Los detectives creen que se ha producido un crimen y recurren a las cámaras de seguridad para intentar averiguar lo que ocurrió. ¿Estaba Cristian en el lugar equivocado en el momento equivocado o alguien le persiguió de forma deliberada y le mató?
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261123045500 +0100" stop="20261123055100 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E16 · Quería a mi hija</title>
+    <desc>Documentales | 2021 | TP
+· El 6 de marzo de 2014, los detectives de Galveston (Texas) reciben un aviso de que han aparecido dos cadáveres junto al contenedor de un supermercado en Península Bolívar. Pronto identifican a las víctimas como Crystal Jackson y Britney Cosby, una pareja veinteañera. Las mujeres vivían en Houston, a 80 kilómetros de distancia, así que ¿cómo fueron asesinadas y acabaron sus cadáveres tan lejos de casa? Hay muchos sospechosos en el punto de mira y la investigación comienza despacio, hasta que las cámaras de vigilancia empiezan a mostrar sus secretos. ¿Puede una serie de imágenes de vídeo entre Galveston y Houston revelar quién mató a estas jóvenes y por qué?
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261123055100 +0100" stop="20261123064600 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E15 · Rojo de ira</title>
+    <desc>Documentales | 2021 | TP
+· El 28 de junio de 2017, la policía acude al lugar de un siniestro en una autopista de West Chester (Pensilvania). Bianca Roberson, de 18 años, aparece muerta al volante de su vehículo, pero los investigadores no tardan en descubrir que no se trata de un simple accidente de tráfico. Los testigos presenciales mencionan una camioneta roja que huyó del lugar a toda velocidad, pero nadie anotó la matrícula. Los detectives buscan una aguja en un pajar, ya que hay miles de vehículos similares en la zona. Las imágenes de vigilancia son su única esperanza para resolver el caso y llevar ante la justicia al asesino de una prometedora estudiante.
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261123064600 +0100" stop="20261123071300 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E11</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos, Canadá</desc>
+	</programme>
+	<programme start="20261123071300 +0100" stop="20261123073900 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E6</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos
+· Dirección: Nicholas Treeshin.
+· Reparto: Jeff Cole.
+· Productora: Rob Bromley.</desc>
+	</programme>
+	<programme start="20261123073900 +0100" stop="20261123080600 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E2</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos
+· Dirección: Eunice Lee, Nicholas Treeshin.
+· Reparto: Jeff Cole.
+· Productora: Arnold Shapiro, Rob Bromley.</desc>
+	</programme>
+	<programme start="20261123080600 +0100" stop="20261123090100 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E17 · El teléfono móvil blanco</title>
+    <desc>Documentales | 2021 | TP
+· En febrero de 2014, Tequila Suter, una estudiante de posgrado de 26 años, es víctima de un brutal apuñalamiento en su casa del tranquilo barrio de Lackawanna, en Buffalo (Nueva York). Con pocas pistas, la policía se esfuerza por entender por qué alguien querría hacer daño a esta joven, miembro activo de la iglesia y una dedicada voluntaria en la comunidad. El hecho de que no forzaran la entrada indica que Tequila conocía y confiaba en el asesino, pero el móvil del violento asesinato sigue siendo un misterio. Cuando los detectives empiezan a reunir las imágenes de las cámaras de seguridad de la ciudad acabarán por descubrir una historia oculta de engaño, traición y rabia.
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261123090100 +0100" stop="20261123095600 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E14 · Gritos silenciosos</title>
+    <desc>Documentales | 2021 | TP
+· En febrero de 2013, Kira Steger, de 30 años, no se presenta a su turno en una tienda de ropa del Mall of America de Minnesota. Sus preocupados compañeros llaman a su marido Jeff, pero él no ha visto a Kira desde la mañana anterior, cuando salió a hacer unos recados. Tras una búsqueda desesperada, encuentran el coche de Kira en el aparcamiento del centro comercial y cerca de allí aparecen algunas prendas y objetos empapados en sangre. Los detectives de Homicidios inician la investigación, pero a medida que indagan en los antecedentes de Kira, crece el desconcierto. En busca de pruebas concretas, recurren a las grabaciones de seguridad y se centran en un asesino engañoso.
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261123095600 +0100" stop="20261123105200 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E18 · Creo que ha muerto</title>
+    <desc>Documentales | 2021 | TP
+· Cristian Domínguez Aguilar, un inmigrante mexicano de 18 años, vive el sueño americano con su hermano mayor en Fontana (California). Pero la noche anterior al Día de Acción de Gracias de 2017, ese sueño se convierte en pesadilla cuando Cristian no regresa a casa tras su trabajo en una fábrica local. La policía pronto descubre que el adolescente fue víctima de un extraño accidente de tráfico, pero el misterio se intensifica cuando el conductor desaparece sin dejar rastro. Los detectives creen que se ha producido un crimen y recurren a las cámaras de seguridad para intentar averiguar lo que ocurrió. ¿Estaba Cristian en el lugar equivocado en el momento equivocado o alguien le persiguió de forma deliberada y le mató?
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261123105200 +0100" stop="20261123114700 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E16 · Quería a mi hija</title>
+    <desc>Documentales | 2021 | TP
+· El 6 de marzo de 2014, los detectives de Galveston (Texas) reciben un aviso de que han aparecido dos cadáveres junto al contenedor de un supermercado en Península Bolívar. Pronto identifican a las víctimas como Crystal Jackson y Britney Cosby, una pareja veinteañera. Las mujeres vivían en Houston, a 80 kilómetros de distancia, así que ¿cómo fueron asesinadas y acabaron sus cadáveres tan lejos de casa? Hay muchos sospechosos en el punto de mira y la investigación comienza despacio, hasta que las cámaras de vigilancia empiezan a mostrar sus secretos. ¿Puede una serie de imágenes de vídeo entre Galveston y Houston revelar quién mató a estas jóvenes y por qué?
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261123114700 +0100" stop="20261123124200 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E15 · Rojo de ira</title>
+    <desc>Documentales | 2021 | TP
+· El 28 de junio de 2017, la policía acude al lugar de un siniestro en una autopista de West Chester (Pensilvania). Bianca Roberson, de 18 años, aparece muerta al volante de su vehículo, pero los investigadores no tardan en descubrir que no se trata de un simple accidente de tráfico. Los testigos presenciales mencionan una camioneta roja que huyó del lugar a toda velocidad, pero nadie anotó la matrícula. Los detectives buscan una aguja en un pajar, ya que hay miles de vehículos similares en la zona. Las imágenes de vigilancia son su única esperanza para resolver el caso y llevar ante la justicia al asesino de una prometedora estudiante.
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261123124200 +0100" stop="20261123130900 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E1</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos, Canadá
+· Dirección: Nicholas Treeshin.</desc>
+	</programme>
+	<programme start="20261123130900 +0100" stop="20261123133600 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E11</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos, Canadá</desc>
+	</programme>
+	<programme start="20261123133600 +0100" stop="20261123140200 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E6</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos
+· Dirección: Nicholas Treeshin.
+· Reparto: Jeff Cole.
+· Productora: Rob Bromley.</desc>
+	</programme>
+	<programme start="20261123140200 +0100" stop="20261123142900 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E2</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos
+· Dirección: Eunice Lee, Nicholas Treeshin.
+· Reparto: Jeff Cole.
+· Productora: Arnold Shapiro, Rob Bromley.</desc>
+	</programme>
+	<programme start="20261123142900 +0100" stop="20261123152400 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E17 · El teléfono móvil blanco</title>
+    <desc>Documentales | 2021 | TP
+· En febrero de 2014, Tequila Suter, una estudiante de posgrado de 26 años, es víctima de un brutal apuñalamiento en su casa del tranquilo barrio de Lackawanna, en Buffalo (Nueva York). Con pocas pistas, la policía se esfuerza por entender por qué alguien querría hacer daño a esta joven, miembro activo de la iglesia y una dedicada voluntaria en la comunidad. El hecho de que no forzaran la entrada indica que Tequila conocía y confiaba en el asesino, pero el móvil del violento asesinato sigue siendo un misterio. Cuando los detectives empiezan a reunir las imágenes de las cámaras de seguridad de la ciudad acabarán por descubrir una historia oculta de engaño, traición y rabia.
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261123152400 +0100" stop="20261123162000 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E14 · Gritos silenciosos</title>
+    <desc>Documentales | 2021 | TP
+· En febrero de 2013, Kira Steger, de 30 años, no se presenta a su turno en una tienda de ropa del Mall of America de Minnesota. Sus preocupados compañeros llaman a su marido Jeff, pero él no ha visto a Kira desde la mañana anterior, cuando salió a hacer unos recados. Tras una búsqueda desesperada, encuentran el coche de Kira en el aparcamiento del centro comercial y cerca de allí aparecen algunas prendas y objetos empapados en sangre. Los detectives de Homicidios inician la investigación, pero a medida que indagan en los antecedentes de Kira, crece el desconcierto. En busca de pruebas concretas, recurren a las grabaciones de seguridad y se centran en un asesino engañoso.
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261123162000 +0100" stop="20261123171500 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E18 · Creo que ha muerto</title>
+    <desc>Documentales | 2021 | TP
+· Cristian Domínguez Aguilar, un inmigrante mexicano de 18 años, vive el sueño americano con su hermano mayor en Fontana (California). Pero la noche anterior al Día de Acción de Gracias de 2017, ese sueño se convierte en pesadilla cuando Cristian no regresa a casa tras su trabajo en una fábrica local. La policía pronto descubre que el adolescente fue víctima de un extraño accidente de tráfico, pero el misterio se intensifica cuando el conductor desaparece sin dejar rastro. Los detectives creen que se ha producido un crimen y recurren a las cámaras de seguridad para intentar averiguar lo que ocurrió. ¿Estaba Cristian en el lugar equivocado en el momento equivocado o alguien le persiguió de forma deliberada y le mató?
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261123171500 +0100" stop="20261123181000 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E16 · Quería a mi hija</title>
+    <desc>Documentales | 2021 | TP
+· El 6 de marzo de 2014, los detectives de Galveston (Texas) reciben un aviso de que han aparecido dos cadáveres junto al contenedor de un supermercado en Península Bolívar. Pronto identifican a las víctimas como Crystal Jackson y Britney Cosby, una pareja veinteañera. Las mujeres vivían en Houston, a 80 kilómetros de distancia, así que ¿cómo fueron asesinadas y acabaron sus cadáveres tan lejos de casa? Hay muchos sospechosos en el punto de mira y la investigación comienza despacio, hasta que las cámaras de vigilancia empiezan a mostrar sus secretos. ¿Puede una serie de imágenes de vídeo entre Galveston y Houston revelar quién mató a estas jóvenes y por qué?
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261123181000 +0100" stop="20261123190400 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20261123190400 +0100" stop="20261123200000 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E16 · Quería a mi hija</title>
+    <desc>Documentales | 2021 | TP
+· El 6 de marzo de 2014, los detectives de Galveston (Texas) reciben un aviso de que han aparecido dos cadáveres junto al contenedor de un supermercado en Península Bolívar. Pronto identifican a las víctimas como Crystal Jackson y Britney Cosby, una pareja veinteañera. Las mujeres vivían en Houston, a 80 kilómetros de distancia, así que ¿cómo fueron asesinadas y acabaron sus cadáveres tan lejos de casa? Hay muchos sospechosos en el punto de mira y la investigación comienza despacio, hasta que las cámaras de vigilancia empiezan a mostrar sus secretos. ¿Puede una serie de imágenes de vídeo entre Galveston y Houston revelar quién mató a estas jóvenes y por qué?
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261123200000 +0100" stop="20261123205500 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E11 · Nosotros tres</title>
+    <desc>Documentales | 2021 | TP
+· Ivanice Harris viaja junto a unos amigos a Honolulú (Hawái) para celebrar su 29 cumpleaños, pero las cosas se tuercen rápidamente cuando desaparece tras una noche en la ciudad. Sus amigos, preocupados, llaman a los hospitales y cárceles locales, pero cuando Ivanice sigue sin aparecer, presentan una denuncia. Los investigadores no tardan en descubrir que la estancia de la desaparecida en Hawái conlleva algo más y rastrean sus movimientos hasta un bar de Waikiki y un hotel cercano. Las cámaras de ambos lugares captan a Ivanice con un misterioso desconocido. Con el tiempo en contra y toda una isla en la que buscarla, ¿podrán las imágenes ayudar a los detectives a descubrir qué le ocurrió a Ivanice?
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261123205500 +0100" stop="20261123212100 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E4</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos
+· Dirección: Nicholas Treeshin, Joe Babcock, Sean Ellard, Eunice Lee.</desc>
+	</programme>
+	<programme start="20261123212100 +0100" stop="20261123214800 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E5</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos
+· Dirección: Nicholas Treeshin.
+· Reparto: Jeff Cole.
+· Productora: Rob Bromley.</desc>
+	</programme>
+	<programme start="20261123214800 +0100" stop="20261123223900 +0100" channel="Crimen&amp;Historia">
+    <title>Candyman y el payaso asesino T1 E1</title>
+    <desc>Documentales | 2021 | TP
+· Cuando Dean Corll es asesinado a tiros por uno de sus cómplices adolescentes, comienza a desvelarse un siniestro mundo secreto. La policía de Houston descubre un total de 28 cadáveres de chicos en tres fosas comunes. Los cruentos detalles sobre violaciones y torturas conmocionan a la nación, al igual que la historia de los dos secuaces adolescentes de Candyman, que participaron activamente en una orgía de asesinatos.
+· País: Estados Unidos
+· Dirección: Marcus Valentin.
+· Reparto: Sharon Derrick, Dan Furstenfeld, Skip Hollandsworth, Danny James, David Massey, Bernie Milligan, Sidney Smith, Ben Winkler.
+· Productora: Tara Hughes.</desc>
+	</programme>
+	<programme start="20261123223900 +0100" stop="20261123233100 +0100" channel="Crimen&amp;Historia">
+    <title>Candyman y el payaso asesino T1 E2</title>
+    <desc>Documentales | 2021 | TP
+· En diciembre de 1978, John Wayne Gacy, de 36 años, se convierte en el principal sospechoso de la desaparición de un adolescente de Chicago. Sin embargo, lo que comienza como un supuesto secuestro, termina con el espeluznante descubrimiento de 29 cadáveres enterrados bajo su casa. Finalmente, el Payaso asesino, el asesino en serie más prolífico de la historia de Estados Unidos, es condenado a muerte. Décadas más tarde, nuevos datos revelan que podría haber estado vinculado a una red nacional de pervertidos dirigida por un siniestro cabecilla.
+· País: Estados Unidos
+· Dirección: Marcus Valentin.
+· Productora: Tara Hughes.</desc>
+	</programme>
+	<programme start="20261123233100 +0100" stop="20261124002600 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E16 · Quería a mi hija</title>
+    <desc>Documentales | 2021 | TP
+· El 6 de marzo de 2014, los detectives de Galveston (Texas) reciben un aviso de que han aparecido dos cadáveres junto al contenedor de un supermercado en Península Bolívar. Pronto identifican a las víctimas como Crystal Jackson y Britney Cosby, una pareja veinteañera. Las mujeres vivían en Houston, a 80 kilómetros de distancia, así que ¿cómo fueron asesinadas y acabaron sus cadáveres tan lejos de casa? Hay muchos sospechosos en el punto de mira y la investigación comienza despacio, hasta que las cámaras de vigilancia empiezan a mostrar sus secretos. ¿Puede una serie de imágenes de vídeo entre Galveston y Houston revelar quién mató a estas jóvenes y por qué?
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261124002600 +0100" stop="20261124012100 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20261124012100 +0100" stop="20261124021600 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E16 · Quería a mi hija</title>
+    <desc>Documentales | 2021 | TP
+· El 6 de marzo de 2014, los detectives de Galveston (Texas) reciben un aviso de que han aparecido dos cadáveres junto al contenedor de un supermercado en Península Bolívar. Pronto identifican a las víctimas como Crystal Jackson y Britney Cosby, una pareja veinteañera. Las mujeres vivían en Houston, a 80 kilómetros de distancia, así que ¿cómo fueron asesinadas y acabaron sus cadáveres tan lejos de casa? Hay muchos sospechosos en el punto de mira y la investigación comienza despacio, hasta que las cámaras de vigilancia empiezan a mostrar sus secretos. ¿Puede una serie de imágenes de vídeo entre Galveston y Houston revelar quién mató a estas jóvenes y por qué?
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261124021600 +0100" stop="20261124031100 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E11 · Nosotros tres</title>
+    <desc>Documentales | 2021 | TP
+· Ivanice Harris viaja junto a unos amigos a Honolulú (Hawái) para celebrar su 29 cumpleaños, pero las cosas se tuercen rápidamente cuando desaparece tras una noche en la ciudad. Sus amigos, preocupados, llaman a los hospitales y cárceles locales, pero cuando Ivanice sigue sin aparecer, presentan una denuncia. Los investigadores no tardan en descubrir que la estancia de la desaparecida en Hawái conlleva algo más y rastrean sus movimientos hasta un bar de Waikiki y un hotel cercano. Las cámaras de ambos lugares captan a Ivanice con un misterioso desconocido. Con el tiempo en contra y toda una isla en la que buscarla, ¿podrán las imágenes ayudar a los detectives a descubrir qué le ocurrió a Ivanice?
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261124031100 +0100" stop="20261124033700 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E4</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos
+· Dirección: Nicholas Treeshin, Joe Babcock, Sean Ellard, Eunice Lee.</desc>
+	</programme>
+	<programme start="20261124033700 +0100" stop="20261124040400 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E5</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos
+· Dirección: Nicholas Treeshin.
+· Reparto: Jeff Cole.
+· Productora: Rob Bromley.</desc>
+	</programme>
+	<programme start="20261124040400 +0100" stop="20261124045500 +0100" channel="Crimen&amp;Historia">
+    <title>Candyman y el payaso asesino T1 E1</title>
+    <desc>Documentales | 2021 | TP
+· Cuando Dean Corll es asesinado a tiros por uno de sus cómplices adolescentes, comienza a desvelarse un siniestro mundo secreto. La policía de Houston descubre un total de 28 cadáveres de chicos en tres fosas comunes. Los cruentos detalles sobre violaciones y torturas conmocionan a la nación, al igual que la historia de los dos secuaces adolescentes de Candyman, que participaron activamente en una orgía de asesinatos.
+· País: Estados Unidos
+· Dirección: Marcus Valentin.
+· Reparto: Sharon Derrick, Dan Furstenfeld, Skip Hollandsworth, Danny James, David Massey, Bernie Milligan, Sidney Smith, Ben Winkler.
+· Productora: Tara Hughes.</desc>
+	</programme>
+	<programme start="20261124045500 +0100" stop="20261124054700 +0100" channel="Crimen&amp;Historia">
+    <title>Candyman y el payaso asesino T1 E2</title>
+    <desc>Documentales | 2021 | TP
+· En diciembre de 1978, John Wayne Gacy, de 36 años, se convierte en el principal sospechoso de la desaparición de un adolescente de Chicago. Sin embargo, lo que comienza como un supuesto secuestro, termina con el espeluznante descubrimiento de 29 cadáveres enterrados bajo su casa. Finalmente, el Payaso asesino, el asesino en serie más prolífico de la historia de Estados Unidos, es condenado a muerte. Décadas más tarde, nuevos datos revelan que podría haber estado vinculado a una red nacional de pervertidos dirigida por un siniestro cabecilla.
+· País: Estados Unidos
+· Dirección: Marcus Valentin.
+· Productora: Tara Hughes.</desc>
+	</programme>
+	<programme start="20261124054700 +0100" stop="20261124064100 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20261124064100 +0100" stop="20261124073700 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E16 · Quería a mi hija</title>
+    <desc>Documentales | 2021 | TP
+· El 6 de marzo de 2014, los detectives de Galveston (Texas) reciben un aviso de que han aparecido dos cadáveres junto al contenedor de un supermercado en Península Bolívar. Pronto identifican a las víctimas como Crystal Jackson y Britney Cosby, una pareja veinteañera. Las mujeres vivían en Houston, a 80 kilómetros de distancia, así que ¿cómo fueron asesinadas y acabaron sus cadáveres tan lejos de casa? Hay muchos sospechosos en el punto de mira y la investigación comienza despacio, hasta que las cámaras de vigilancia empiezan a mostrar sus secretos. ¿Puede una serie de imágenes de vídeo entre Galveston y Houston revelar quién mató a estas jóvenes y por qué?
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261124073700 +0100" stop="20261124083100 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E11 · Nosotros tres</title>
+    <desc>Documentales | 2021 | TP
+· Ivanice Harris viaja junto a unos amigos a Honolulú (Hawái) para celebrar su 29 cumpleaños, pero las cosas se tuercen rápidamente cuando desaparece tras una noche en la ciudad. Sus amigos, preocupados, llaman a los hospitales y cárceles locales, pero cuando Ivanice sigue sin aparecer, presentan una denuncia. Los investigadores no tardan en descubrir que la estancia de la desaparecida en Hawái conlleva algo más y rastrean sus movimientos hasta un bar de Waikiki y un hotel cercano. Las cámaras de ambos lugares captan a Ivanice con un misterioso desconocido. Con el tiempo en contra y toda una isla en la que buscarla, ¿podrán las imágenes ayudar a los detectives a descubrir qué le ocurrió a Ivanice?
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261124083100 +0100" stop="20261124085800 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E4</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos
+· Dirección: Nicholas Treeshin, Joe Babcock, Sean Ellard, Eunice Lee.</desc>
+	</programme>
+	<programme start="20261124085800 +0100" stop="20261124092500 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E5</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos
+· Dirección: Nicholas Treeshin.
+· Reparto: Jeff Cole.
+· Productora: Rob Bromley.</desc>
+	</programme>
+	<programme start="20261124092500 +0100" stop="20261124101500 +0100" channel="Crimen&amp;Historia">
+    <title>Candyman y el payaso asesino T1 E1</title>
+    <desc>Documentales | 2021 | TP
+· Cuando Dean Corll es asesinado a tiros por uno de sus cómplices adolescentes, comienza a desvelarse un siniestro mundo secreto. La policía de Houston descubre un total de 28 cadáveres de chicos en tres fosas comunes. Los cruentos detalles sobre violaciones y torturas conmocionan a la nación, al igual que la historia de los dos secuaces adolescentes de Candyman, que participaron activamente en una orgía de asesinatos.
+· País: Estados Unidos
+· Dirección: Marcus Valentin.
+· Reparto: Sharon Derrick, Dan Furstenfeld, Skip Hollandsworth, Danny James, David Massey, Bernie Milligan, Sidney Smith, Ben Winkler.
+· Productora: Tara Hughes.</desc>
+	</programme>
+	<programme start="20261124101500 +0100" stop="20261124110700 +0100" channel="Crimen&amp;Historia">
+    <title>Candyman y el payaso asesino T1 E2</title>
+    <desc>Documentales | 2021 | TP
+· En diciembre de 1978, John Wayne Gacy, de 36 años, se convierte en el principal sospechoso de la desaparición de un adolescente de Chicago. Sin embargo, lo que comienza como un supuesto secuestro, termina con el espeluznante descubrimiento de 29 cadáveres enterrados bajo su casa. Finalmente, el Payaso asesino, el asesino en serie más prolífico de la historia de Estados Unidos, es condenado a muerte. Décadas más tarde, nuevos datos revelan que podría haber estado vinculado a una red nacional de pervertidos dirigida por un siniestro cabecilla.
+· País: Estados Unidos
+· Dirección: Marcus Valentin.
+· Productora: Tara Hughes.</desc>
+	</programme>
+	<programme start="20261124110700 +0100" stop="20261124120300 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E16 · Quería a mi hija</title>
+    <desc>Documentales | 2021 | TP
+· El 6 de marzo de 2014, los detectives de Galveston (Texas) reciben un aviso de que han aparecido dos cadáveres junto al contenedor de un supermercado en Península Bolívar. Pronto identifican a las víctimas como Crystal Jackson y Britney Cosby, una pareja veinteañera. Las mujeres vivían en Houston, a 80 kilómetros de distancia, así que ¿cómo fueron asesinadas y acabaron sus cadáveres tan lejos de casa? Hay muchos sospechosos en el punto de mira y la investigación comienza despacio, hasta que las cámaras de vigilancia empiezan a mostrar sus secretos. ¿Puede una serie de imágenes de vídeo entre Galveston y Houston revelar quién mató a estas jóvenes y por qué?
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261124120300 +0100" stop="20261124125700 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20261124125700 +0100" stop="20261124135300 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E16 · Quería a mi hija</title>
+    <desc>Documentales | 2021 | TP
+· El 6 de marzo de 2014, los detectives de Galveston (Texas) reciben un aviso de que han aparecido dos cadáveres junto al contenedor de un supermercado en Península Bolívar. Pronto identifican a las víctimas como Crystal Jackson y Britney Cosby, una pareja veinteañera. Las mujeres vivían en Houston, a 80 kilómetros de distancia, así que ¿cómo fueron asesinadas y acabaron sus cadáveres tan lejos de casa? Hay muchos sospechosos en el punto de mira y la investigación comienza despacio, hasta que las cámaras de vigilancia empiezan a mostrar sus secretos. ¿Puede una serie de imágenes de vídeo entre Galveston y Houston revelar quién mató a estas jóvenes y por qué?
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261124135300 +0100" stop="20261124144700 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E11 · Nosotros tres</title>
+    <desc>Documentales | 2021 | TP
+· Ivanice Harris viaja junto a unos amigos a Honolulú (Hawái) para celebrar su 29 cumpleaños, pero las cosas se tuercen rápidamente cuando desaparece tras una noche en la ciudad. Sus amigos, preocupados, llaman a los hospitales y cárceles locales, pero cuando Ivanice sigue sin aparecer, presentan una denuncia. Los investigadores no tardan en descubrir que la estancia de la desaparecida en Hawái conlleva algo más y rastrean sus movimientos hasta un bar de Waikiki y un hotel cercano. Las cámaras de ambos lugares captan a Ivanice con un misterioso desconocido. Con el tiempo en contra y toda una isla en la que buscarla, ¿podrán las imágenes ayudar a los detectives a descubrir qué le ocurrió a Ivanice?
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261124144700 +0100" stop="20261124154300 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E12 · La dama de las galletas</title>
+    <desc>Documentales | 2022 | +16
+· En 2013, la policía de Dallas recibe una llamada mostrando preocupación por Avanell Cowgill, de 79 años. Esta abuela viuda trabaja como voluntaria en su iglesia local y es miembro activo de la comunidad, pero hace días que nadie la ha visto ni sabe nada de ella. En el interior de su casa, los agentes descubren que Avanell ha sido asesinada a golpes. Sin señales de allanamiento ni ningún motivo obvio, el asesinato es todo un misterio hasta que los detectives descubren una serie de extrañas transacciones en la tarjeta de crédito de la víctima. Puesto que el autor del crimen lleva varios días de ventaja a la policía, ¿podrán los vídeos de vigilancia dar a los investigadores las pistas que necesitan para atrapar al asesino?
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261124154300 +0100" stop="20261124160900 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E4</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos
+· Dirección: Nicholas Treeshin, Joe Babcock, Sean Ellard, Eunice Lee.</desc>
+	</programme>
+	<programme start="20261124160900 +0100" stop="20261124163600 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E5</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos
+· Dirección: Nicholas Treeshin.
+· Reparto: Jeff Cole.
+· Productora: Rob Bromley.</desc>
+	</programme>
+	<programme start="20261124163600 +0100" stop="20261124172600 +0100" channel="Crimen&amp;Historia">
+    <title>Candyman y el payaso asesino T1 E1</title>
+    <desc>Documentales | 2021 | TP
+· Cuando Dean Corll es asesinado a tiros por uno de sus cómplices adolescentes, comienza a desvelarse un siniestro mundo secreto. La policía de Houston descubre un total de 28 cadáveres de chicos en tres fosas comunes. Los cruentos detalles sobre violaciones y torturas conmocionan a la nación, al igual que la historia de los dos secuaces adolescentes de Candyman, que participaron activamente en una orgía de asesinatos.
+· País: Estados Unidos
+· Dirección: Marcus Valentin.
+· Reparto: Sharon Derrick, Dan Furstenfeld, Skip Hollandsworth, Danny James, David Massey, Bernie Milligan, Sidney Smith, Ben Winkler.
+· Productora: Tara Hughes.</desc>
+	</programme>
+	<programme start="20261124172600 +0100" stop="20261124181800 +0100" channel="Crimen&amp;Historia">
+    <title>Candyman y el payaso asesino T1 E2</title>
+    <desc>Documentales | 2021 | TP
+· En diciembre de 1978, John Wayne Gacy, de 36 años, se convierte en el principal sospechoso de la desaparición de un adolescente de Chicago. Sin embargo, lo que comienza como un supuesto secuestro, termina con el espeluznante descubrimiento de 29 cadáveres enterrados bajo su casa. Finalmente, el Payaso asesino, el asesino en serie más prolífico de la historia de Estados Unidos, es condenado a muerte. Décadas más tarde, nuevos datos revelan que podría haber estado vinculado a una red nacional de pervertidos dirigida por un siniestro cabecilla.
+· País: Estados Unidos
+· Dirección: Marcus Valentin.
+· Productora: Tara Hughes.</desc>
+	</programme>
+	<programme start="20261124181800 +0100" stop="20261124191300 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E1 · Vuelve a casa, Carlie</title>
+    <desc>Documentales | 2021 | TP
+· Carlie Brucia, de 11 años, desaparece a plena luz del día en Sarasota (Florida) el 1 de febrero de 2004 cuando volvía a casa tras la fiesta de pijamas de una amiga. Su familia llama desesperada a emergencias y la oficina del sheriff del condado rastrea el vecindario en busca de alguna pista de la niña desaparecida. Cuando la búsqueda resulta infructuosa, un equipo de perros policía sigue el rastro de Carlie hasta una estación de lavado de coches, donde los investigadores descubren las impactantes imágenes de su secuestro grabadas por una cámara. Nadie parece conocer la identidad del hombre que aparece en el vídeo. El tiempo apremia, ¿podrán las pistas ocultas en las imágenes de vigilancia conducir a los detectives hasta el misterioso secuestrador de Carlie?
+· País: Canadá, Reino Unido
+· Dirección: Jules Williamson, Kim Smith, Anthony Lefresne, Tom Brisley.
+· Reparto: Jeff Pincus, Jenna Stevenson, Danielle Powers, Carlie Brucia, Craig Schaeffer, Will Ennis, Joseph Peter Smith, Wolf Blitzer, Ron Shoket, Steven Kansler, Toby Davis, Chris Hallisey, Melissa Winings, Kate Brucia, Jeanne Brucia.
+· Productora: Arrow International Media, Saloon Media, Investigation Discovery, Bell Media, Michael Kot, Betty Orr, Ashley Potterton.</desc>
+	</programme>
+	<programme start="20261124191300 +0100" stop="20261124200800 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E7 · Pontiac dorado</title>
+    <desc>Documentales | 2021 | TP
+· Amanda Douglas y Jennifer Sudar Sanders, dos compañeras de piso, disfrutan de una noche en un casino de Tulsa (Oklahoma) el 25 de noviembre de 2014. A la mañana siguiente, las dos son asesinadas a tiros frente a su bloque de apartamentos. El Departamento de Policía de Tulsa pronto se entera por testigos de que el tirador conducía un Pontiac dorado y las imágenes de vigilancia lo confirman. También revelan que el pistolero acechaba a las dos mujeres, lo que les hace pensar que se trata de un ataque selectivo. Los agentes investigan el pasado de las mujeres y encuentran un posible motivo. ¿Podrán las imágenes de vigilancia recomponer el rompecabezas y revelar la identidad de este asesino a sangre fría?
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261124200800 +0100" stop="20261124210300 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T6 E9 · Lo que parece</title>
+    <desc>Documentales | 2020 | TP
+· Tras un accidente de tráfico, una joven madre, Michele Davis, de Des Moines, aparece atrapada en el asiento del coche, en un estado terrible. Pero, ¿fue algo más siniestro lo que causó esta tragedia?
+· País: Canadá, Reino Unido
+· Dirección: Jules Williamson, Nicola Morgan.
+· Reparto: Todd Cosner, William McClain, Jean Willard, Mike McTaggart, David Seybert.</desc>
+	</programme>
+	<programme start="20261124210300 +0100" stop="20261124213000 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E6</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos
+· Dirección: Nicholas Treeshin.
+· Reparto: Jeff Cole.
+· Productora: Rob Bromley.</desc>
+	</programme>
+	<programme start="20261124213000 +0100" stop="20261124215600 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E8</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos
+· Dirección: Nicholas Treeshin.
+· Reparto: Jeff Cole.
+· Productora: Rob Bromley, Natalia Baldwin León, Sergio Coronado, Matt Deitrich, Daireen Galeano, Aaron Kass, John Michael Scholl, Steve Schrenzel, Arnold Shapiro, Alex Shaw, Jenna Singer, Oren Stambouli.</desc>
+	</programme>
+	<programme start="20261124215600 +0100" stop="20261124224700 +0100" channel="Crimen&amp;Historia">
+    <title>Candyman y el payaso asesino T1 E3 · Candyman y el payaso asesino: Parte 3</title>
+    <desc>Documentales | 2021 | TP
+· Aunque en un principio confesó haber asesinado a más de treinta chicos en 1978, el Payaso asesino contó después una retorcida historia sobre una red nacional de pedófilos y señaló a su despiadado cabecilla. Un antiguo periodista del Chicago Tribune relata cómo una investigación encubierta acabó revelando una enorme red de prostitución y pornografía infantil. Además, los investigadores trabajan a contrarreloj para cerrar el caso de dos de los asesinos en serie más infames de Estados Unidos.
+· País: Estados Unidos
+· Dirección: Marcus Valentin, Jacqueline Bynon.
+· Reparto: Jacqueline Bynon.</desc>
+	</programme>
+	<programme start="20261124224700 +0100" stop="20261124233900 +0100" channel="Crimen&amp;Historia">
+    <title>Candyman y el payaso asesino T1 E4 · Candyman y el payaso asesino: Parte 4</title>
+    <desc>Documentales | 2021 | TP
+· Durante su estancia en el corredor de la muerte, John Wayne Gacy declara que fueron otros los que mataron a las víctimas enterradas en su sótano, y que todos estaban relacionados con la red nacional de tráfico sexual de John David Norman. En la investigación del caso se pone de manifiesto que la red de Norman se infiltró en algunas de las instituciones más respetadas de Estados Unidos, aunque ninguno de sus clientes fue procesado. Mientras tanto, las pruebas forenses ofrecen nuevas esperanzas para identificar a las víctimas todavía anónimas de Gacy y Corll.
+· País: Estados Unidos
+· Dirección: Marcus Valentin, Jacqueline Bynon.
+· Reparto: Jacqueline Bynon.</desc>
+	</programme>
+	<programme start="20261124233900 +0100" stop="20261125003400 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T6 E3 · Corre hacia la puerta</title>
+    <desc>Documentales | 2020 | TP
+· En la madrugada del 8 de diciembre de 2013, Josh Richards fue asesinado a tiros en la discoteca Luna Lounge de Appleton (Wisconsin). Al joven lo ejecutaron de un disparo en la cabeza.
+· País: Canadá, Reino Unido
+· Dirección: Stephen Oxenham, Stephen Lennhoff.
+· Reparto: Galen Sherbon, Jackie Pische, Neal Rabas, Joshua J Richards, Frank Kang, Michael Morrone, Jason Fournier.
+· Productora: Saloon Media, Arrow International Media, Investigation Discovery, Bell Media.</desc>
+	</programme>
+	<programme start="20261125003400 +0100" stop="20261125012900 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E1 · Vuelve a casa, Carlie</title>
+    <desc>Documentales | 2021 | TP
+· Carlie Brucia, de 11 años, desaparece a plena luz del día en Sarasota (Florida) el 1 de febrero de 2004 cuando volvía a casa tras la fiesta de pijamas de una amiga. Su familia llama desesperada a emergencias y la oficina del sheriff del condado rastrea el vecindario en busca de alguna pista de la niña desaparecida. Cuando la búsqueda resulta infructuosa, un equipo de perros policía sigue el rastro de Carlie hasta una estación de lavado de coches, donde los investigadores descubren las impactantes imágenes de su secuestro grabadas por una cámara. Nadie parece conocer la identidad del hombre que aparece en el vídeo. El tiempo apremia, ¿podrán las pistas ocultas en las imágenes de vigilancia conducir a los detectives hasta el misterioso secuestrador de Carlie?
+· País: Canadá, Reino Unido
+· Dirección: Jules Williamson, Kim Smith, Anthony Lefresne, Tom Brisley.
+· Reparto: Jeff Pincus, Jenna Stevenson, Danielle Powers, Carlie Brucia, Craig Schaeffer, Will Ennis, Joseph Peter Smith, Wolf Blitzer, Ron Shoket, Steven Kansler, Toby Davis, Chris Hallisey, Melissa Winings, Kate Brucia, Jeanne Brucia.
+· Productora: Arrow International Media, Saloon Media, Investigation Discovery, Bell Media, Michael Kot, Betty Orr, Ashley Potterton.</desc>
+	</programme>
+	<programme start="20261125012900 +0100" stop="20261125022400 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E7 · Pontiac dorado</title>
+    <desc>Documentales | 2021 | TP
+· Amanda Douglas y Jennifer Sudar Sanders, dos compañeras de piso, disfrutan de una noche en un casino de Tulsa (Oklahoma) el 25 de noviembre de 2014. A la mañana siguiente, las dos son asesinadas a tiros frente a su bloque de apartamentos. El Departamento de Policía de Tulsa pronto se entera por testigos de que el tirador conducía un Pontiac dorado y las imágenes de vigilancia lo confirman. También revelan que el pistolero acechaba a las dos mujeres, lo que les hace pensar que se trata de un ataque selectivo. Los agentes investigan el pasado de las mujeres y encuentran un posible motivo. ¿Podrán las imágenes de vigilancia recomponer el rompecabezas y revelar la identidad de este asesino a sangre fría?
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261125022400 +0100" stop="20261125031900 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T6 E9 · Lo que parece</title>
+    <desc>Documentales | 2020 | TP
+· Tras un accidente de tráfico, una joven madre, Michele Davis, de Des Moines, aparece atrapada en el asiento del coche, en un estado terrible. Pero, ¿fue algo más siniestro lo que causó esta tragedia?
+· País: Canadá, Reino Unido
+· Dirección: Jules Williamson, Nicola Morgan.
+· Reparto: Todd Cosner, William McClain, Jean Willard, Mike McTaggart, David Seybert.</desc>
+	</programme>
+	<programme start="20261125031900 +0100" stop="20261125034500 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E6</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos
+· Dirección: Nicholas Treeshin.
+· Reparto: Jeff Cole.
+· Productora: Rob Bromley.</desc>
+	</programme>
+	<programme start="20261125034500 +0100" stop="20261125041200 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E8</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos
+· Dirección: Nicholas Treeshin.
+· Reparto: Jeff Cole.
+· Productora: Rob Bromley, Natalia Baldwin León, Sergio Coronado, Matt Deitrich, Daireen Galeano, Aaron Kass, John Michael Scholl, Steve Schrenzel, Arnold Shapiro, Alex Shaw, Jenna Singer, Oren Stambouli.</desc>
+	</programme>
+	<programme start="20261125041200 +0100" stop="20261125050200 +0100" channel="Crimen&amp;Historia">
+    <title>Candyman y el payaso asesino T1 E3 · Candyman y el payaso asesino: Parte 3</title>
+    <desc>Documentales | 2021 | TP
+· Aunque en un principio confesó haber asesinado a más de treinta chicos en 1978, el Payaso asesino contó después una retorcida historia sobre una red nacional de pedófilos y señaló a su despiadado cabecilla. Un antiguo periodista del Chicago Tribune relata cómo una investigación encubierta acabó revelando una enorme red de prostitución y pornografía infantil. Además, los investigadores trabajan a contrarreloj para cerrar el caso de dos de los asesinos en serie más infames de Estados Unidos.
+· País: Estados Unidos
+· Dirección: Marcus Valentin, Jacqueline Bynon.
+· Reparto: Jacqueline Bynon.</desc>
+	</programme>
+	<programme start="20261125050200 +0100" stop="20261125055400 +0100" channel="Crimen&amp;Historia">
+    <title>Candyman y el payaso asesino T1 E4 · Candyman y el payaso asesino: Parte 4</title>
+    <desc>Documentales | 2021 | TP
+· Durante su estancia en el corredor de la muerte, John Wayne Gacy declara que fueron otros los que mataron a las víctimas enterradas en su sótano, y que todos estaban relacionados con la red nacional de tráfico sexual de John David Norman. En la investigación del caso se pone de manifiesto que la red de Norman se infiltró en algunas de las instituciones más respetadas de Estados Unidos, aunque ninguno de sus clientes fue procesado. Mientras tanto, las pruebas forenses ofrecen nuevas esperanzas para identificar a las víctimas todavía anónimas de Gacy y Corll.
+· País: Estados Unidos
+· Dirección: Marcus Valentin, Jacqueline Bynon.
+· Reparto: Jacqueline Bynon.</desc>
+	</programme>
+	<programme start="20261125055400 +0100" stop="20261125064900 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E1 · Vuelve a casa, Carlie</title>
+    <desc>Documentales | 2021 | TP
+· Carlie Brucia, de 11 años, desaparece a plena luz del día en Sarasota (Florida) el 1 de febrero de 2004 cuando volvía a casa tras la fiesta de pijamas de una amiga. Su familia llama desesperada a emergencias y la oficina del sheriff del condado rastrea el vecindario en busca de alguna pista de la niña desaparecida. Cuando la búsqueda resulta infructuosa, un equipo de perros policía sigue el rastro de Carlie hasta una estación de lavado de coches, donde los investigadores descubren las impactantes imágenes de su secuestro grabadas por una cámara. Nadie parece conocer la identidad del hombre que aparece en el vídeo. El tiempo apremia, ¿podrán las pistas ocultas en las imágenes de vigilancia conducir a los detectives hasta el misterioso secuestrador de Carlie?
+· País: Canadá, Reino Unido
+· Dirección: Jules Williamson, Kim Smith, Anthony Lefresne, Tom Brisley.
+· Reparto: Jeff Pincus, Jenna Stevenson, Danielle Powers, Carlie Brucia, Craig Schaeffer, Will Ennis, Joseph Peter Smith, Wolf Blitzer, Ron Shoket, Steven Kansler, Toby Davis, Chris Hallisey, Melissa Winings, Kate Brucia, Jeanne Brucia.
+· Productora: Arrow International Media, Saloon Media, Investigation Discovery, Bell Media, Michael Kot, Betty Orr, Ashley Potterton.</desc>
+	</programme>
+	<programme start="20261125064900 +0100" stop="20261125074400 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E7 · Pontiac dorado</title>
+    <desc>Documentales | 2021 | TP
+· Amanda Douglas y Jennifer Sudar Sanders, dos compañeras de piso, disfrutan de una noche en un casino de Tulsa (Oklahoma) el 25 de noviembre de 2014. A la mañana siguiente, las dos son asesinadas a tiros frente a su bloque de apartamentos. El Departamento de Policía de Tulsa pronto se entera por testigos de que el tirador conducía un Pontiac dorado y las imágenes de vigilancia lo confirman. También revelan que el pistolero acechaba a las dos mujeres, lo que les hace pensar que se trata de un ataque selectivo. Los agentes investigan el pasado de las mujeres y encuentran un posible motivo. ¿Podrán las imágenes de vigilancia recomponer el rompecabezas y revelar la identidad de este asesino a sangre fría?
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261125074400 +0100" stop="20261125083900 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T6 E9 · Lo que parece</title>
+    <desc>Documentales | 2020 | TP
+· Tras un accidente de tráfico, una joven madre, Michele Davis, de Des Moines, aparece atrapada en el asiento del coche, en un estado terrible. Pero, ¿fue algo más siniestro lo que causó esta tragedia?
+· País: Canadá, Reino Unido
+· Dirección: Jules Williamson, Nicola Morgan.
+· Reparto: Todd Cosner, William McClain, Jean Willard, Mike McTaggart, David Seybert.</desc>
+	</programme>
+	<programme start="20261125083900 +0100" stop="20261125090600 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E6</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos
+· Dirección: Nicholas Treeshin.
+· Reparto: Jeff Cole.
+· Productora: Rob Bromley.</desc>
+	</programme>
+	<programme start="20261125090600 +0100" stop="20261125093200 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E8</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos
+· Dirección: Nicholas Treeshin.
+· Reparto: Jeff Cole.
+· Productora: Rob Bromley, Natalia Baldwin León, Sergio Coronado, Matt Deitrich, Daireen Galeano, Aaron Kass, John Michael Scholl, Steve Schrenzel, Arnold Shapiro, Alex Shaw, Jenna Singer, Oren Stambouli.</desc>
+	</programme>
+	<programme start="20261125093200 +0100" stop="20261125102300 +0100" channel="Crimen&amp;Historia">
+    <title>Candyman y el payaso asesino T1 E3 · Candyman y el payaso asesino: Parte 3</title>
+    <desc>Documentales | 2021 | TP
+· Aunque en un principio confesó haber asesinado a más de treinta chicos en 1978, el Payaso asesino contó después una retorcida historia sobre una red nacional de pedófilos y señaló a su despiadado cabecilla. Un antiguo periodista del Chicago Tribune relata cómo una investigación encubierta acabó revelando una enorme red de prostitución y pornografía infantil. Además, los investigadores trabajan a contrarreloj para cerrar el caso de dos de los asesinos en serie más infames de Estados Unidos.
+· País: Estados Unidos
+· Dirección: Marcus Valentin, Jacqueline Bynon.
+· Reparto: Jacqueline Bynon.</desc>
+	</programme>
+	<programme start="20261125102300 +0100" stop="20261125111500 +0100" channel="Crimen&amp;Historia">
+    <title>Candyman y el payaso asesino T1 E4 · Candyman y el payaso asesino: Parte 4</title>
+    <desc>Documentales | 2021 | TP
+· Durante su estancia en el corredor de la muerte, John Wayne Gacy declara que fueron otros los que mataron a las víctimas enterradas en su sótano, y que todos estaban relacionados con la red nacional de tráfico sexual de John David Norman. En la investigación del caso se pone de manifiesto que la red de Norman se infiltró en algunas de las instituciones más respetadas de Estados Unidos, aunque ninguno de sus clientes fue procesado. Mientras tanto, las pruebas forenses ofrecen nuevas esperanzas para identificar a las víctimas todavía anónimas de Gacy y Corll.
+· País: Estados Unidos
+· Dirección: Marcus Valentin, Jacqueline Bynon.
+· Reparto: Jacqueline Bynon.</desc>
+	</programme>
+	<programme start="20261125111500 +0100" stop="20261125121000 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T6 E3 · Corre hacia la puerta</title>
+    <desc>Documentales | 2020 | TP
+· En la madrugada del 8 de diciembre de 2013, Josh Richards fue asesinado a tiros en la discoteca Luna Lounge de Appleton (Wisconsin). Al joven lo ejecutaron de un disparo en la cabeza.
+· País: Canadá, Reino Unido
+· Dirección: Stephen Oxenham, Stephen Lennhoff.
+· Reparto: Galen Sherbon, Jackie Pische, Neal Rabas, Joshua J Richards, Frank Kang, Michael Morrone, Jason Fournier.
+· Productora: Saloon Media, Arrow International Media, Investigation Discovery, Bell Media.</desc>
+	</programme>
+	<programme start="20261125121000 +0100" stop="20261125130500 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E1 · Vuelve a casa, Carlie</title>
+    <desc>Documentales | 2021 | TP
+· Carlie Brucia, de 11 años, desaparece a plena luz del día en Sarasota (Florida) el 1 de febrero de 2004 cuando volvía a casa tras la fiesta de pijamas de una amiga. Su familia llama desesperada a emergencias y la oficina del sheriff del condado rastrea el vecindario en busca de alguna pista de la niña desaparecida. Cuando la búsqueda resulta infructuosa, un equipo de perros policía sigue el rastro de Carlie hasta una estación de lavado de coches, donde los investigadores descubren las impactantes imágenes de su secuestro grabadas por una cámara. Nadie parece conocer la identidad del hombre que aparece en el vídeo. El tiempo apremia, ¿podrán las pistas ocultas en las imágenes de vigilancia conducir a los detectives hasta el misterioso secuestrador de Carlie?
+· País: Canadá, Reino Unido
+· Dirección: Jules Williamson, Kim Smith, Anthony Lefresne, Tom Brisley.
+· Reparto: Jeff Pincus, Jenna Stevenson, Danielle Powers, Carlie Brucia, Craig Schaeffer, Will Ennis, Joseph Peter Smith, Wolf Blitzer, Ron Shoket, Steven Kansler, Toby Davis, Chris Hallisey, Melissa Winings, Kate Brucia, Jeanne Brucia.
+· Productora: Arrow International Media, Saloon Media, Investigation Discovery, Bell Media, Michael Kot, Betty Orr, Ashley Potterton.</desc>
+	</programme>
+	<programme start="20261125130500 +0100" stop="20261125140000 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E7 · Pontiac dorado</title>
+    <desc>Documentales | 2021 | TP
+· Amanda Douglas y Jennifer Sudar Sanders, dos compañeras de piso, disfrutan de una noche en un casino de Tulsa (Oklahoma) el 25 de noviembre de 2014. A la mañana siguiente, las dos son asesinadas a tiros frente a su bloque de apartamentos. El Departamento de Policía de Tulsa pronto se entera por testigos de que el tirador conducía un Pontiac dorado y las imágenes de vigilancia lo confirman. También revelan que el pistolero acechaba a las dos mujeres, lo que les hace pensar que se trata de un ataque selectivo. Los agentes investigan el pasado de las mujeres y encuentran un posible motivo. ¿Podrán las imágenes de vigilancia recomponer el rompecabezas y revelar la identidad de este asesino a sangre fría?
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261125140000 +0100" stop="20261125145500 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T6 E9 · Lo que parece</title>
+    <desc>Documentales | 2020 | TP
+· Tras un accidente de tráfico, una joven madre, Michele Davis, de Des Moines, aparece atrapada en el asiento del coche, en un estado terrible. Pero, ¿fue algo más siniestro lo que causó esta tragedia?
+· País: Canadá, Reino Unido
+· Dirección: Jules Williamson, Nicola Morgan.
+· Reparto: Todd Cosner, William McClain, Jean Willard, Mike McTaggart, David Seybert.</desc>
+	</programme>
+	<programme start="20261125145500 +0100" stop="20261125152100 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E6</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos
+· Dirección: Nicholas Treeshin.
+· Reparto: Jeff Cole.
+· Productora: Rob Bromley.</desc>
+	</programme>
+	<programme start="20261125152100 +0100" stop="20261125154800 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E8</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos
+· Dirección: Nicholas Treeshin.
+· Reparto: Jeff Cole.
+· Productora: Rob Bromley, Natalia Baldwin León, Sergio Coronado, Matt Deitrich, Daireen Galeano, Aaron Kass, John Michael Scholl, Steve Schrenzel, Arnold Shapiro, Alex Shaw, Jenna Singer, Oren Stambouli.</desc>
+	</programme>
+	<programme start="20261125154800 +0100" stop="20261125163900 +0100" channel="Crimen&amp;Historia">
+    <title>Candyman y el payaso asesino T1 E3 · Candyman y el payaso asesino: Parte 3</title>
+    <desc>Documentales | 2021 | TP
+· Aunque en un principio confesó haber asesinado a más de treinta chicos en 1978, el Payaso asesino contó después una retorcida historia sobre una red nacional de pedófilos y señaló a su despiadado cabecilla. Un antiguo periodista del Chicago Tribune relata cómo una investigación encubierta acabó revelando una enorme red de prostitución y pornografía infantil. Además, los investigadores trabajan a contrarreloj para cerrar el caso de dos de los asesinos en serie más infames de Estados Unidos.
+· País: Estados Unidos
+· Dirección: Marcus Valentin, Jacqueline Bynon.
+· Reparto: Jacqueline Bynon.</desc>
+	</programme>
+	<programme start="20261125163900 +0100" stop="20261125173100 +0100" channel="Crimen&amp;Historia">
+    <title>Candyman y el payaso asesino T1 E4 · Candyman y el payaso asesino: Parte 4</title>
+    <desc>Documentales | 2021 | TP
+· Durante su estancia en el corredor de la muerte, John Wayne Gacy declara que fueron otros los que mataron a las víctimas enterradas en su sótano, y que todos estaban relacionados con la red nacional de tráfico sexual de John David Norman. En la investigación del caso se pone de manifiesto que la red de Norman se infiltró en algunas de las instituciones más respetadas de Estados Unidos, aunque ninguno de sus clientes fue procesado. Mientras tanto, las pruebas forenses ofrecen nuevas esperanzas para identificar a las víctimas todavía anónimas de Gacy y Corll.
+· País: Estados Unidos
+· Dirección: Marcus Valentin, Jacqueline Bynon.
+· Reparto: Jacqueline Bynon.</desc>
+	</programme>
+	<programme start="20261125173100 +0100" stop="20261125182600 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E20 · Los asesinatos de Hustle Mart</title>
+    <desc>Documentales | 2021 | TP
+· La noche del 1 de abril de 2012, la oficina del sheriff de la tranquila comunidad de Farmville (Carolina del Norte) recibe una inquietante llamada sobre un doble tiroteo en una popular tienda. Aunque esperaban encontrar a dos víctimas, descubren el crimen más violento que la comunidad haya presenciado jamás. Tres miembros de una misma familia, entre ellos un estudiante de secundaria, han sido abatidos a sangre fría y el horror aún no ha terminado. Los detectives deben analizar los vídeos de vigilancia para dar caza a la banda de asesinos y acabar con la ola de asesinatos antes de que haya más víctimas inocentes.
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261125182600 +0100" stop="20261125192100 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E4 · Faros y fuego</title>
+    <desc>Documentales | 2021 | TP
+· El cadáver de una mujer aparece abandonado de noche junto a una carretera sin salida en el condado de Pierce (Washington) el 24 de octubre de 2017. La mujer sin identificar ha sido brutalmente asesinada y le han prendido fuego. Su despiadado asesino ha huido sin dejar rastro. La víctima no lleva ningún tipo de identificación y no hay testigos presenciales, así que la policía se enfrenta a una complicada tarea para dar con el agresor. A medida que avanzan en la investigación, los agentes siguen el rastro de una serie de grabaciones de vigilancia que les conducen a un espeluznante descubrimiento en el domicilio de la mujer. Las cámaras revelan el rostro de un asesino a sangre fría, pero ¿podrán los detectives atraparlo antes de que ataque de nuevo?
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261125192100 +0100" stop="20261125201600 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E13 · Amor cruel</title>
+    <desc>Documentales | 2021 | TP
+· El 1 de septiembre de 2016, en Danville (Kentucky), David Oakley, de 13 años, vuelve a casa del colegio y descubre que su madrastra ha sido asesinada y su hermana Jenna, de 15 años, ha desaparecido. Sin pruebas de allanamiento, las autoridades deben actuar con rapidez para establecer un móvil y encontrar a la adolescente. Cuando los detectives se enteran de que Jenna tiene un exnovio problemático, saltan las alarmas. ¿Podría tratarse de una historia de Romeo y Julieta que salió mal? Con un asesino a sangre fría suelto y el creciente temor por la seguridad de Jenna, la policía hace un llamamiento público y se apresura a examinar las imágenes de vigilancia. Lo que estas revelan conmocionará a todos.
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261125201600 +0100" stop="20261125211000 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T6 E4 · Cambio de parecer</title>
+    <desc>Documentales | 2020 | TP
+· Annie Le, una estudiante de doctorado de Yale de 24 años, desaparece días antes de su boda. Algo le sucedió en el último edificio en el que entró: el Centro de Investigación Animal de Yale.
+· País: Canadá, Reino Unido
+· Dirección: Stephen Oxenham, Stephen Lennhoff.
+· Reparto: Jennifer Simpson, Deborah Kiley, James Lawton, James Kline, Lisa Dadio, J.J Greenberg, Samantha Nemeth.
+· Productora: Saloon Media, Arrow International Media, Investigation Discovery, Bell Media.</desc>
+	</programme>
+	<programme start="20261125211000 +0100" stop="20261125213700 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E9</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos
+· Dirección: Nicholas Treeshin.
+· Reparto: Jeff Cole.
+· Productora: Rob Bromley, Natalia Baldwin León, Sergio Coronado, Matt Deitrich, Aaron Kass, John Michael Scholl, Steve Schrenzel, Arnold Shapiro, Alex Shaw, Jack Marshall, Tracy Powell.</desc>
+	</programme>
+	<programme start="20261125213700 +0100" stop="20261125220300 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E11</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos, Canadá</desc>
+	</programme>
+	<programme start="20261125220300 +0100" stop="20261125225600 +0100" channel="Crimen&amp;Historia">
+    <title>Esposas asesinas T1 E4 · Nancy Anderson</title>
+    <desc>Documentales | 2012 | TP
+· Una mujer con varios matrimonios fallidos a sus espaldas cree que a la cuarta va la vencida cuando conoce a un hombre encantador mayor que ella. Gracias a él disfruta de una vida lujosa, pero pronto le acusa de tener una aventura.
+· País: Estados Unidos
+· Dirección: Evan Cecil, Ted Leonard, Elaine Marie Gibson, Greg Francis, Bryan Gildner, Mike Bruining.</desc>
+	</programme>
+	<programme start="20261125225600 +0100" stop="20261125234800 +0100" channel="Crimen&amp;Historia">
+    <title>Esposas asesinas T2 E3 · Sherrse Gaines</title>
+    <desc>Documentales | 2013 | TP
+· Sherrse Gaines pierde la cabeza por Greg, su primer amor, pero, tras descubrir que la engaña, decide abandonarlo. Entonces conoce a Steve. Como era de esperar, él también le es infiel. Sherrse le perdona, pero le dice que ella también quiere experimentar.
+· País: Estados Unidos
+· Dirección: Ted Leonard.
+· Reparto: Mahal Montoya, Steve C Porter, Casey Jordan, Yazmina Kay, Chido Nwokocha, Devon Libran, Carole Morey, Jonez Cain, Rick Ericson, Lisa Finnie, Douglas Gawoski, Christian Guiton, Katrina Kroetch, Linda Livingston, Euchari Murray-Graham, Lee O'Brian, Stephen Oropeza, Nimo Purcell, Kevin Williamson, LaTasha Yvette, Leon Edwards, Cooper Foster, Jesse Muick, Quille.
+· Guion: Elisabeth de Kleer.</desc>
+	</programme>
+	<programme start="20261125234800 +0100" stop="20261126004400 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E20 · Los asesinatos de Hustle Mart</title>
+    <desc>Documentales | 2021 | TP
+· La noche del 1 de abril de 2012, la oficina del sheriff de la tranquila comunidad de Farmville (Carolina del Norte) recibe una inquietante llamada sobre un doble tiroteo en una popular tienda. Aunque esperaban encontrar a dos víctimas, descubren el crimen más violento que la comunidad haya presenciado jamás. Tres miembros de una misma familia, entre ellos un estudiante de secundaria, han sido abatidos a sangre fría y el horror aún no ha terminado. Los detectives deben analizar los vídeos de vigilancia para dar caza a la banda de asesinos y acabar con la ola de asesinatos antes de que haya más víctimas inocentes.
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261126004400 +0100" stop="20261126013900 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E4 · Faros y fuego</title>
+    <desc>Documentales | 2021 | TP
+· El cadáver de una mujer aparece abandonado de noche junto a una carretera sin salida en el condado de Pierce (Washington) el 24 de octubre de 2017. La mujer sin identificar ha sido brutalmente asesinada y le han prendido fuego. Su despiadado asesino ha huido sin dejar rastro. La víctima no lleva ningún tipo de identificación y no hay testigos presenciales, así que la policía se enfrenta a una complicada tarea para dar con el agresor. A medida que avanzan en la investigación, los agentes siguen el rastro de una serie de grabaciones de vigilancia que les conducen a un espeluznante descubrimiento en el domicilio de la mujer. Las cámaras revelan el rostro de un asesino a sangre fría, pero ¿podrán los detectives atraparlo antes de que ataque de nuevo?
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261126013900 +0100" stop="20261126023400 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E13 · Amor cruel</title>
+    <desc>Documentales | 2021 | TP
+· El 1 de septiembre de 2016, en Danville (Kentucky), David Oakley, de 13 años, vuelve a casa del colegio y descubre que su madrastra ha sido asesinada y su hermana Jenna, de 15 años, ha desaparecido. Sin pruebas de allanamiento, las autoridades deben actuar con rapidez para establecer un móvil y encontrar a la adolescente. Cuando los detectives se enteran de que Jenna tiene un exnovio problemático, saltan las alarmas. ¿Podría tratarse de una historia de Romeo y Julieta que salió mal? Con un asesino a sangre fría suelto y el creciente temor por la seguridad de Jenna, la policía hace un llamamiento público y se apresura a examinar las imágenes de vigilancia. Lo que estas revelan conmocionará a todos.
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261126023400 +0100" stop="20261126032800 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T6 E4 · Cambio de parecer</title>
+    <desc>Documentales | 2020 | TP
+· Annie Le, una estudiante de doctorado de Yale de 24 años, desaparece días antes de su boda. Algo le sucedió en el último edificio en el que entró: el Centro de Investigación Animal de Yale.
+· País: Canadá, Reino Unido
+· Dirección: Stephen Oxenham, Stephen Lennhoff.
+· Reparto: Jennifer Simpson, Deborah Kiley, James Lawton, James Kline, Lisa Dadio, J.J Greenberg, Samantha Nemeth.
+· Productora: Saloon Media, Arrow International Media, Investigation Discovery, Bell Media.</desc>
+	</programme>
+	<programme start="20261126032800 +0100" stop="20261126035500 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E9</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos
+· Dirección: Nicholas Treeshin.
+· Reparto: Jeff Cole.
+· Productora: Rob Bromley, Natalia Baldwin León, Sergio Coronado, Matt Deitrich, Aaron Kass, John Michael Scholl, Steve Schrenzel, Arnold Shapiro, Alex Shaw, Jack Marshall, Tracy Powell.</desc>
+	</programme>
+	<programme start="20261126035500 +0100" stop="20261126044700 +0100" channel="Crimen&amp;Historia">
+    <title>Esposas asesinas T1 E4 · Nancy Anderson</title>
+    <desc>Documentales | 2012 | TP
+· Una mujer con varios matrimonios fallidos a sus espaldas cree que a la cuarta va la vencida cuando conoce a un hombre encantador mayor que ella. Gracias a él disfruta de una vida lujosa, pero pronto le acusa de tener una aventura.
+· País: Estados Unidos
+· Dirección: Evan Cecil, Ted Leonard, Elaine Marie Gibson, Greg Francis, Bryan Gildner, Mike Bruining.</desc>
+	</programme>
+	<programme start="20261126044700 +0100" stop="20261126054000 +0100" channel="Crimen&amp;Historia">
+    <title>Esposas asesinas T2 E3 · Sherrse Gaines</title>
+    <desc>Documentales | 2013 | TP
+· Sherrse Gaines pierde la cabeza por Greg, su primer amor, pero, tras descubrir que la engaña, decide abandonarlo. Entonces conoce a Steve. Como era de esperar, él también le es infiel. Sherrse le perdona, pero le dice que ella también quiere experimentar.
+· País: Estados Unidos
+· Dirección: Ted Leonard.
+· Reparto: Mahal Montoya, Steve C Porter, Casey Jordan, Yazmina Kay, Chido Nwokocha, Devon Libran, Carole Morey, Jonez Cain, Rick Ericson, Lisa Finnie, Douglas Gawoski, Christian Guiton, Katrina Kroetch, Linda Livingston, Euchari Murray-Graham, Lee O'Brian, Stephen Oropeza, Nimo Purcell, Kevin Williamson, LaTasha Yvette, Leon Edwards, Cooper Foster, Jesse Muick, Quille.
+· Guion: Elisabeth de Kleer.</desc>
+	</programme>
+	<programme start="20261126054000 +0100" stop="20261126063500 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E4 · Faros y fuego</title>
+    <desc>Documentales | 2021 | TP
+· El cadáver de una mujer aparece abandonado de noche junto a una carretera sin salida en el condado de Pierce (Washington) el 24 de octubre de 2017. La mujer sin identificar ha sido brutalmente asesinada y le han prendido fuego. Su despiadado asesino ha huido sin dejar rastro. La víctima no lleva ningún tipo de identificación y no hay testigos presenciales, así que la policía se enfrenta a una complicada tarea para dar con el agresor. A medida que avanzan en la investigación, los agentes siguen el rastro de una serie de grabaciones de vigilancia que les conducen a un espeluznante descubrimiento en el domicilio de la mujer. Las cámaras revelan el rostro de un asesino a sangre fría, pero ¿podrán los detectives atraparlo antes de que ataque de nuevo?
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261126063500 +0100" stop="20261126073000 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E13 · Amor cruel</title>
+    <desc>Documentales | 2021 | TP
+· El 1 de septiembre de 2016, en Danville (Kentucky), David Oakley, de 13 años, vuelve a casa del colegio y descubre que su madrastra ha sido asesinada y su hermana Jenna, de 15 años, ha desaparecido. Sin pruebas de allanamiento, las autoridades deben actuar con rapidez para establecer un móvil y encontrar a la adolescente. Cuando los detectives se enteran de que Jenna tiene un exnovio problemático, saltan las alarmas. ¿Podría tratarse de una historia de Romeo y Julieta que salió mal? Con un asesino a sangre fría suelto y el creciente temor por la seguridad de Jenna, la policía hace un llamamiento público y se apresura a examinar las imágenes de vigilancia. Lo que estas revelan conmocionará a todos.
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261126073000 +0100" stop="20261126082400 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T6 E4 · Cambio de parecer</title>
+    <desc>Documentales | 2020 | TP
+· Annie Le, una estudiante de doctorado de Yale de 24 años, desaparece días antes de su boda. Algo le sucedió en el último edificio en el que entró: el Centro de Investigación Animal de Yale.
+· País: Canadá, Reino Unido
+· Dirección: Stephen Oxenham, Stephen Lennhoff.
+· Reparto: Jennifer Simpson, Deborah Kiley, James Lawton, James Kline, Lisa Dadio, J.J Greenberg, Samantha Nemeth.
+· Productora: Saloon Media, Arrow International Media, Investigation Discovery, Bell Media.</desc>
+	</programme>
+	<programme start="20261126082400 +0100" stop="20261126085100 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E9</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos
+· Dirección: Nicholas Treeshin.
+· Reparto: Jeff Cole.
+· Productora: Rob Bromley, Natalia Baldwin León, Sergio Coronado, Matt Deitrich, Aaron Kass, John Michael Scholl, Steve Schrenzel, Arnold Shapiro, Alex Shaw, Jack Marshall, Tracy Powell.</desc>
+	</programme>
+	<programme start="20261126085100 +0100" stop="20261126091700 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E11</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos, Canadá</desc>
+	</programme>
+	<programme start="20261126091700 +0100" stop="20261126101000 +0100" channel="Crimen&amp;Historia">
+    <title>Esposas asesinas T1 E4 · Nancy Anderson</title>
+    <desc>Documentales | 2012 | TP
+· Una mujer con varios matrimonios fallidos a sus espaldas cree que a la cuarta va la vencida cuando conoce a un hombre encantador mayor que ella. Gracias a él disfruta de una vida lujosa, pero pronto le acusa de tener una aventura.
+· País: Estados Unidos
+· Dirección: Evan Cecil, Ted Leonard, Elaine Marie Gibson, Greg Francis, Bryan Gildner, Mike Bruining.</desc>
+	</programme>
+	<programme start="20261126101000 +0100" stop="20261126110200 +0100" channel="Crimen&amp;Historia">
+    <title>Esposas asesinas T2 E3 · Sherrse Gaines</title>
+    <desc>Documentales | 2013 | TP
+· Sherrse Gaines pierde la cabeza por Greg, su primer amor, pero, tras descubrir que la engaña, decide abandonarlo. Entonces conoce a Steve. Como era de esperar, él también le es infiel. Sherrse le perdona, pero le dice que ella también quiere experimentar.
+· País: Estados Unidos
+· Dirección: Ted Leonard.
+· Reparto: Mahal Montoya, Steve C Porter, Casey Jordan, Yazmina Kay, Chido Nwokocha, Devon Libran, Carole Morey, Jonez Cain, Rick Ericson, Lisa Finnie, Douglas Gawoski, Christian Guiton, Katrina Kroetch, Linda Livingston, Euchari Murray-Graham, Lee O'Brian, Stephen Oropeza, Nimo Purcell, Kevin Williamson, LaTasha Yvette, Leon Edwards, Cooper Foster, Jesse Muick, Quille.
+· Guion: Elisabeth de Kleer.</desc>
+	</programme>
+	<programme start="20261126110200 +0100" stop="20261126115800 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E20 · Los asesinatos de Hustle Mart</title>
+    <desc>Documentales | 2021 | TP
+· La noche del 1 de abril de 2012, la oficina del sheriff de la tranquila comunidad de Farmville (Carolina del Norte) recibe una inquietante llamada sobre un doble tiroteo en una popular tienda. Aunque esperaban encontrar a dos víctimas, descubren el crimen más violento que la comunidad haya presenciado jamás. Tres miembros de una misma familia, entre ellos un estudiante de secundaria, han sido abatidos a sangre fría y el horror aún no ha terminado. Los detectives deben analizar los vídeos de vigilancia para dar caza a la banda de asesinos y acabar con la ola de asesinatos antes de que haya más víctimas inocentes.
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261126115800 +0100" stop="20261126125300 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E4 · Faros y fuego</title>
+    <desc>Documentales | 2021 | TP
+· El cadáver de una mujer aparece abandonado de noche junto a una carretera sin salida en el condado de Pierce (Washington) el 24 de octubre de 2017. La mujer sin identificar ha sido brutalmente asesinada y le han prendido fuego. Su despiadado asesino ha huido sin dejar rastro. La víctima no lleva ningún tipo de identificación y no hay testigos presenciales, así que la policía se enfrenta a una complicada tarea para dar con el agresor. A medida que avanzan en la investigación, los agentes siguen el rastro de una serie de grabaciones de vigilancia que les conducen a un espeluznante descubrimiento en el domicilio de la mujer. Las cámaras revelan el rostro de un asesino a sangre fría, pero ¿podrán los detectives atraparlo antes de que ataque de nuevo?
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261126125300 +0100" stop="20261126134800 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T7 E13 · Amor cruel</title>
+    <desc>Documentales | 2021 | TP
+· El 1 de septiembre de 2016, en Danville (Kentucky), David Oakley, de 13 años, vuelve a casa del colegio y descubre que su madrastra ha sido asesinada y su hermana Jenna, de 15 años, ha desaparecido. Sin pruebas de allanamiento, las autoridades deben actuar con rapidez para establecer un móvil y encontrar a la adolescente. Cuando los detectives se enteran de que Jenna tiene un exnovio problemático, saltan las alarmas. ¿Podría tratarse de una historia de Romeo y Julieta que salió mal? Con un asesino a sangre fría suelto y el creciente temor por la seguridad de Jenna, la policía hace un llamamiento público y se apresura a examinar las imágenes de vigilancia. Lo que estas revelan conmocionará a todos.
+· País: Canadá, Reino Unido
+· Productora: Saloon Media.</desc>
+	</programme>
+	<programme start="20261126134800 +0100" stop="20261126144200 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T6 E4 · Cambio de parecer</title>
+    <desc>Documentales | 2020 | TP
+· Annie Le, una estudiante de doctorado de Yale de 24 años, desaparece días antes de su boda. Algo le sucedió en el último edificio en el que entró: el Centro de Investigación Animal de Yale.
+· País: Canadá, Reino Unido
+· Dirección: Stephen Oxenham, Stephen Lennhoff.
+· Reparto: Jennifer Simpson, Deborah Kiley, James Lawton, James Kline, Lisa Dadio, J.J Greenberg, Samantha Nemeth.
+· Productora: Saloon Media, Arrow International Media, Investigation Discovery, Bell Media.</desc>
+	</programme>
+	<programme start="20261126144200 +0100" stop="20261126150900 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E9</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos
+· Dirección: Nicholas Treeshin.
+· Reparto: Jeff Cole.
+· Productora: Rob Bromley, Natalia Baldwin León, Sergio Coronado, Matt Deitrich, Aaron Kass, John Michael Scholl, Steve Schrenzel, Arnold Shapiro, Alex Shaw, Jack Marshall, Tracy Powell.</desc>
+	</programme>
+	<programme start="20261126150900 +0100" stop="20261126153500 +0100" channel="Crimen&amp;Historia">
+    <title>Control de aduanas: EE. UU. T3 E11</title>
+    <desc>Programas De Telerealidad | 2016 | TP
+· Seguridad en la Frontera: Estados Unidos muestra a agentes fronterizos revisando viajeros y contrabando.
+· País: Estados Unidos, Canadá</desc>
+	</programme>
+	<programme start="20261126153500 +0100" stop="20261126162800 +0100" channel="Crimen&amp;Historia">
+    <title>Esposas asesinas T1 E4 · Nancy Anderson</title>
+    <desc>Documentales | 2012 | TP
+· Una mujer con varios matrimonios fallidos a sus espaldas cree que a la cuarta va la vencida cuando conoce a un hombre encantador mayor que ella. Gracias a él disfruta de una vida lujosa, pero pronto le acusa de tener una aventura.
+· País: Estados Unidos
+· Dirección: Evan Cecil, Ted Leonard, Elaine Marie Gibson, Greg Francis, Bryan Gildner, Mike Bruining.</desc>
+	</programme>
+	<programme start="20261126162800 +0100" stop="20261126172000 +0100" channel="Crimen&amp;Historia">
+    <title>Esposas asesinas T2 E3 · Sherrse Gaines</title>
+    <desc>Documentales | 2013 | TP
+· Sherrse Gaines pierde la cabeza por Greg, su primer amor, pero, tras descubrir que la engaña, decide abandonarlo. Entonces conoce a Steve. Como era de esperar, él también le es infiel. Sherrse le perdona, pero le dice que ella también quiere experimentar.
+· País: Estados Unidos
+· Dirección: Ted Leonard.
+· Reparto: Mahal Montoya, Steve C Porter, Casey Jordan, Yazmina Kay, Chido Nwokocha, Devon Libran, Carole Morey, Jonez Cain, Rick Ericson, Lisa Finnie, Douglas Gawoski, Christian Guiton, Katrina Kroetch, Linda Livingston, Euchari Murray-Graham, Lee O'Brian, Stephen Oropeza, Nimo Purcell, Kevin Williamson, LaTasha Yvette, Leon Edwards, Cooper Foster, Jesse Muick, Quille.
+· Guion: Elisabeth de Kleer.</desc>
+	</programme>
+	<programme start="20261126172000 +0100" stop="20261126181500 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen en cámara T6 E17 · La niña del autobús</title>
+    <desc>Documentales | 2020 | TP
+· Cuando Alianna DeFreeze, de 14 años, no acude un día a clase, sus padres se preocupan mucho: Alianna no es el tipo de estudiante que hace novillos. Desesperados, piden ayuda a la policía.
+· País: Estados Unidos
+· Dirección: Tristan Goodley.
+· Reparto: Sierra LaMar, Marlene LaMar, Steve LaMar, Danielle LaMar, Channah Foreman, Julian Quinonez, Ed Laverone, Laurie Smith, Jose Cardoza.
+· Productora: Saloon Media, Arrow International Media, Investigation Discovery, Bell Media.</desc>
+	</programme>
+	<programme start="20261126181500 +0100" stop="20261127010000 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen &amp; Historia</title>
+    <desc>Programas De Entretenimiento | 2026
+· Crimen &amp; Historia.</desc>
+	</programme>
+	<programme start="20261127010000 +0100" stop="20261127050000 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen &amp; Historia</title>
+    <desc>Programas De Entretenimiento | 2026
+· Crimen &amp; Historia.</desc>
+	</programme>
+	<programme start="20261127050000 +0100" stop="20261127090000 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen &amp; Historia</title>
+    <desc>Programas De Entretenimiento | 2026
+· Crimen &amp; Historia.</desc>
+	</programme>
+	<programme start="20261127090000 +0100" stop="20261127130000 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen &amp; Historia</title>
+    <desc>Programas De Entretenimiento | 2026
+· Crimen &amp; Historia.</desc>
+	</programme>
+	<programme start="20261127130000 +0100" stop="20261127170000 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen &amp; Historia</title>
+    <desc>Programas De Entretenimiento | 2026
+· Crimen &amp; Historia.</desc>
+	</programme>
+	<programme start="20261127170000 +0100" stop="20261127210000 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen &amp; Historia</title>
+    <desc>Programas De Entretenimiento | 2026
+· Crimen &amp; Historia.</desc>
+	</programme>
+	<programme start="20261127210000 +0100" stop="20261128010000 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen &amp; Historia</title>
+    <desc>Programas De Entretenimiento | 2026
+· Crimen &amp; Historia.</desc>
+	</programme>
+	<programme start="20261128010000 +0100" stop="20261128050000 +0100" channel="Crimen&amp;Historia">
+    <title>Crimen &amp; Historia</title>
+    <desc>Programas De Entretenimiento | 2026
+· Crimen &amp; Historia.</desc>
 	</programme>
 	<programme start="20261122012200 +0100" stop="20261122020200 +0100" channel="Historia">
     <title>Alienígenas T18 E12</title>
