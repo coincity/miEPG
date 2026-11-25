@@ -17,6 +17,7 @@ Todo Crimen (Rakuten TV),Todo Crimen (Rakuten TV)
 BBC History,BBC History
 BBC Earth,BBC Earth
 BBC Lifestyle,BBC Lifestyle
+BBC Food,BBC Food
 Clan,Clan
 Disney Channel,Disney Channel
 Crimen&amp;Historia,Crimen&amp;Historia
@@ -41,3 +42,5 @@ BBC Series,BBC Series
 5ddc503ac7ef120009b101a2,Pluto TV Documentales
 5dcde27ffae9520009c0c75a,Pluto TV Investiga
 61bb2814ac085a00074309a6,Unidad de investigación
+ESBC3900004ED,Pocoyo
+ESBD5100001G0,Supertoons
