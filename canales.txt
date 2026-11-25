@@ -32,6 +32,7 @@ BBC Series,BBC Series
 5f1aab1d29b39600073e243f,Pluto TV Kids
 609e7e423e9173000706a681,Pluto TV Kids Classics
 685a996c7c4f2ad40cb4f276,Dragon Ball
+68e8fd7c3ede4398bc69af93,Dragon Ball Z
 683457e5f59cc6a13212fce4,Lupin
 5f1aca0b4e448e00075e7c5e,Bob Esponja
 6523f672a6c38300088cb807,El Reino Infantil
