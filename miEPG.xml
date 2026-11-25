@@ -558,6 +558,15 @@
     <display-name>Construcciones Asombrosas UHD</display-name>
     <icon src="https://images.pluto.tv/channels/673249433a61d400087a51ed/colorLogoPNG_1732662528285.png"/>
   </channel>
+  <channel id="Invasion Alien">
+    <display-name>Invasion Alien</display-name>
+    <display-name>Invasion Alien SD</display-name>
+    <display-name>Invasion Alien HD</display-name>
+    <display-name>Invasion Alien 4K</display-name>
+    <display-name>Invasion Alien Full HD</display-name>
+    <display-name>Invasion Alien UHD</display-name>
+    <icon src="https://images.pluto.tv/channels/654a35ce346f420008d5c36e/colorLogoPNG_1781530240161.png"/>
+  </channel>
 	<programme start="20261125021400 +0100" stop="20261125025900 +0100" channel="Historia">
     <title>Evidencias de lo inexplicable T1 E1</title>
     <desc>Documental,Otros,Social
@@ -37323,6 +37332,156 @@
     <sub-title>Operación Alaska, la nueva generación</sub-title>
     <category>Home &amp; Lifestyle</category>
     <category>Series</category>
+  </programme>
+  <programme start="20261125104516 +0000" stop="20261125120759 +0000" channel="Invasion Alien">
+    <title>1952: La Invasión De Washington</title>
+    <episode-num system="original-air-date">20230922000000 +0000</episode-num>
+    <desc>Entre el 12 y 29 de julio de 1952, se registró una ola de avistamientos de ovnis en Washington, D.C., que alarmó al presidente Truman y la CIA. Lo sucedido sigue siendo un misterio fascinante.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a1550ebaac2f7c6eccb12dd/poster_1779781868706.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20230922</date>
+    <series-id system="pluto">6a1550ebaac2f7c6eccb11dc</series-id>
+    <category>Movie</category>
+    <category>Documentary</category>
+  </programme>
+  <programme start="20261125120759 +0000" stop="20261125125702 +0000" channel="Invasion Alien">
+    <title>Archivos Gubernamentales de OVNIs Desclasificados</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Los gobiernos guardan secretos. ¿Pero qué ocurre cuando estos secretos ya no pueden ser encubiertos más?</desc>
+    <icon src="https://images.pluto.tv/episodes/665f2998f93268001393c322/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">665f2218c62bc8001317d003</series-id>
+    <category>Movie</category>
+    <category>Documentary</category>
+  </programme>
+  <programme start="20261125125702 +0000" stop="20261125142126 +0000" channel="Invasion Alien">
+    <title>Base De Dulce: Los Nuevos Illuminati</title>
+    <episode-num system="original-air-date">20230701000000 +0000</episode-num>
+    <desc>Dulce, Nuevo México, es un punto de acceso para fenómenos misteriosos y una supuesta colaboración militar secreta entre humanos y extraterrestres.</desc>
+    <icon src="https://images.pluto.tv/episodes/653f698e4827fc001ab99583/poster_1769649122405.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20230701</date>
+    <series-id system="pluto">653f698c4827fc001ab99565</series-id>
+    <category>Movie</category>
+    <category>Documentary</category>
+  </programme>
+  <programme start="20261125142126 +0000" stop="20261125153511 +0000" channel="Invasion Alien">
+    <title>Proyecto Serpo</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>2005: Ex agente revela un informe de 3.000 páginas sobre una misión secreta de intercambio ET al planeta Serpo</desc>
+    <icon src="https://images.pluto.tv/episodes/653b7fc725fde2001a8f3a3b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">653b7fc725fde2001a8f3a2f</series-id>
+    <category>Movie</category>
+    <category>Documentary</category>
+  </programme>
+  <programme start="20261125153511 +0000" stop="20261125164539 +0000" channel="Invasion Alien">
+    <title>Extraterrestres Ancestrales: El Origen de la Humanidad</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>La creciente evidencia y los avistamientos de ovnis sugieren contacto con seres extraterrestres que pueden haber influido en los orígenes de la vida humana.</desc>
+    <icon src="https://images.pluto.tv/episodes/653f6c5e727df0001a9b7074/poster_1769648402457.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">653f6c5d727df0001a9b7056</series-id>
+    <category>Movie</category>
+    <category>Documentary</category>
+  </programme>
+  <programme start="20261125164539 +0000" stop="20261125180208 +0000" channel="Invasion Alien">
+    <title>La Maldición del SS Ourang Medan</title>
+    <episode-num system="original-air-date">20230922000000 +0000</episode-num>
+    <desc>En Indonesia, en 1947, señales de socorro del SS Ourang Medan desatan el terror. Los rescatistas huyen del barco, encendiendo teorías de conspiración—desde experimentos militares hasta asaltos paranormales y antiguos monstruos marinos.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a7c467efb2bd7ef08b8a6b0/poster_1786529406844.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20230922</date>
+    <series-id system="pluto">6a7c449ffb2bd7ef08b68473</series-id>
+    <category>Movie</category>
+    <category>Documentary</category>
+  </programme>
+  <programme start="20261125180208 +0000" stop="20261125191137 +0000" channel="Invasion Alien">
+    <title>Ingenieros Extraterrestres</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Nuestra evolución puede estar influenciada por nuestros antepasados y sus dioses. No estamos solos en el universo.</desc>
+    <icon src="https://images.pluto.tv/episodes/6540c649727df0001ab098e2/poster_1769573521782.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">6540c648727df0001ab098c4</series-id>
+    <category>Movie</category>
+    <category>Documentary</category>
+  </programme>
+  <programme start="20261125191137 +0000" stop="20261125201105 +0000" channel="Invasion Alien">
+    <title>Cíclope Extraterrestre: El Extraordinario Caso de la Sagrada Familia</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>En 1963 en Brasil, tres niños son testigos de un OVNI en su patio trasero. Un cíclope alienígena desciende y el Sr. Alberto investiga el fenómeno.</desc>
+    <icon src="https://images.pluto.tv/episodes/653f6af73e6938001a7524a3/poster_1769648402471.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">653f6af63e6938001a752485</series-id>
+    <category>Movie</category>
+    <category>Documentary</category>
+  </programme>
+  <programme start="20261125201105 +0000" stop="20261125213157 +0000" channel="Invasion Alien">
+    <title>El Incidente del Lago Falcon</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Los extraterrestres visitan la Tierra a menudo; Destaca el incidente OVNI de 1967 en el lago Falcón de Canadá. Los frecuentes avistamientos de Canadá lo hacen enigmático.</desc>
+    <icon src="https://images.pluto.tv/episodes/653f6af13e6938001a752343/poster_1769648041607.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">653f6af03e6938001a752325</series-id>
+    <category>Movie</category>
+    <category>Documentary</category>
+  </programme>
+  <programme start="20261125213157 +0000" stop="20261125225421 +0000" channel="Invasion Alien">
+    <title>Diez Casos Antiguos de Alienígenas</title>
+    <episode-num system="original-air-date">20230922000000 +0000</episode-num>
+    <desc>Hay 10 casos increíbles de OVNIs, con personas que afirman tener hijos alienígenas, amistades con razas extraterrestres, habilidades telepáticas y vínculos con entidades alienígenas.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a156ab2aac2f7c6eccd83de/poster_1779788467070.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20230922</date>
+    <series-id system="pluto">6a156ab2aac2f7c6eccd82f3</series-id>
+    <category>Movie</category>
+    <category>Documentary</category>
+  </programme>
+  <programme start="20261125225421 +0000" stop="20261126000924 +0000" channel="Invasion Alien">
+    <title>Científicos Extraterrestres</title>
+    <episode-num system="original-air-date">20240131000000 +0000</episode-num>
+    <desc>Así como los humanos estudiamos la vida mediante muestras y cirugías, algunos informes sugieren que seres extraterrestres podrían observarnos igual. Mutilaciones de animales y abducciones apuntan a un extraño interés por la fauna terrestre.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a54b9007a3bd954b7a3e5b9/poster_1783937282359.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20240131</date>
+    <series-id system="pluto">6a54b7200bd9448d81dfcb1a</series-id>
+    <category>Movie</category>
+    <category>Documentary</category>
+  </programme>
+  <programme start="20261126000924 +0000" stop="20261126011924 +0000" channel="Invasion Alien">
+    <title>Cazadores De Ovnis: Los Ufólogos Italianos</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Investigadores italianos exploran avistamientos masivos de ovnis, clipeología y testimonios reales, profundizando en la historia y los métodos de investigación de la ufología.</desc>
+    <icon src="https://images.pluto.tv/episodes/653b801191ee7c001a35afb9/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">653b801191ee7c001a35afac</series-id>
+    <category>Movie</category>
+    <category>Documentary</category>
+  </programme>
+  <programme start="20261126011924 +0000" stop="20261126023611 +0000" channel="Invasion Alien">
+    <title>En la Montaña de lo Desconocido: El Portal Alienígena</title>
+    <episode-num system="original-air-date">20230930000000 +0000</episode-num>
+    <desc>En los Alpes italianos, el Monte Musinè se alza envuelto en misterio. Leyendas de rituales antiguos, figuras míticas y avistamientos de OVNIs rodean este lugar, donde cuevas ocultas y sitios ancestrales mezclan realidad y mito.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a7c449bfb2bd7ef08b5adc2/poster_1786528924045.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20230930</date>
+    <series-id system="pluto">6a7c42bd323bf2ec8c6c6e33</series-id>
+    <category>Movie</category>
+    <category>Documentary</category>
+  </programme>
+  <programme start="20261126023611 +0000" stop="20261126035608 +0000" channel="Invasion Alien">
+    <title>Roswell: La Verdad No Revelada</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>El comandante Jesse Marcel investiga extraños escombros encontrados en 1947, a pesar de que le dijeron que era un globo meteorológico.</desc>
+    <icon src="https://images.pluto.tv/episodes/6540ca858026ff001af4e886/poster_1769572806174.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">6540ca838026ff001af4e868</series-id>
+    <category>Movie</category>
+    <category>Documentary</category>
+  </programme>
+  <programme start="20261126035608 +0000" stop="20261126052606 +0000" channel="Invasion Alien">
+    <title>Alienígenas: Los Encuentros Esotéricos</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Las historias teosóficas de Madame Blavatsky, los relatos sobre demonios Jinn, y la vida de Maria Orsic narran dimensiones en las cuales, a través de la espiritualidad y el esoterismo, es posible establecer contacto con alienígenas</desc>
+    <icon src="https://images.pluto.tv/episodes/6a1551c37918fece014230a3/poster_1779782084438.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">6a1551c37918fece01422fa0</series-id>
+    <category>Movie</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261125074437 +0000" stop="20261125102537 +0000" channel="Pluto TV Cine Estelar">
     <title>1492: La conquista del paraíso</title>
