@@ -351,6 +351,24 @@
     <display-name>Heidi UHD</display-name>
     <icon src="https://images.pluto.tv/channels/68779a09c691b3f0964127c6/colorLogoPNG_1760381113655.png"/>
   </channel>
+  <channel id="Nicktoons">
+    <display-name>Nicktoons</display-name>
+    <display-name>Nicktoons SD</display-name>
+    <display-name>Nicktoons HD</display-name>
+    <display-name>Nicktoons 4K</display-name>
+    <display-name>Nicktoons Full HD</display-name>
+    <display-name>Nicktoons UHD</display-name>
+    <icon src="https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG_1754038340046.png"/>
+  </channel>
+  <channel id="OliverBenji">
+    <display-name>OliverBenji</display-name>
+    <display-name>OliverBenji SD</display-name>
+    <display-name>OliverBenji HD</display-name>
+    <display-name>OliverBenji 4K</display-name>
+    <display-name>OliverBenji Full HD</display-name>
+    <display-name>OliverBenji UHD</display-name>
+    <icon src="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png"/>
+  </channel>
   <channel id="Pluto TV Historia">
     <display-name>Pluto TV Historia</display-name>
     <display-name>Pluto TV Historia SD</display-name>
@@ -32842,6 +32860,864 @@
     <category>Animated</category>
     <category>Series</category>
     <category>Children</category>
+  </programme>
+  <programme start="20261125083700 +0000" stop="20261125090700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125083700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125090700 +0000" stop="20261125093700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125090700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125093700 +0000" stop="20261125100700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125093700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125100700 +0000" stop="20261125103700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125100700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125103700 +0000" stop="20261125110700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125103700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125110700 +0000" stop="20261125113700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125110700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125113700 +0000" stop="20261125120700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125113700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125120700 +0000" stop="20261125123700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125120700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125123700 +0000" stop="20261125130700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125123700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125130700 +0000" stop="20261125133700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125130700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125133700 +0000" stop="20261125140700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125133700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125140700 +0000" stop="20261125143700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125140700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125143700 +0000" stop="20261125150700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125143700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125150700 +0000" stop="20261125153700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125150700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125153700 +0000" stop="20261125160700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125153700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125160700 +0000" stop="20261125163700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125160700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125163700 +0000" stop="20261125170700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125163700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125170700 +0000" stop="20261125173700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125170700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125173700 +0000" stop="20261125180700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125173700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125180700 +0000" stop="20261125183700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125180700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125183700 +0000" stop="20261125190700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125183700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125190700 +0000" stop="20261125193700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125190700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125193700 +0000" stop="20261125200700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125193700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125200700 +0000" stop="20261125203700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125200700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125203700 +0000" stop="20261125210700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125203700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125210700 +0000" stop="20261125213700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125210700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125213700 +0000" stop="20261125220700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125213700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125220700 +0000" stop="20261125223700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125220700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125223700 +0000" stop="20261125230700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125223700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125230700 +0000" stop="20261125233700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125230700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125233700 +0000" stop="20261126000700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261125233700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261126000700 +0000" stop="20261126003700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261126000700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261126003700 +0000" stop="20261126010700 +0000" channel="Nicktoons">
+    <title>Nickelodeon Toons</title>
+    <live/>
+    <episode-num system="original-air-date">20261126003700 +0000</episode-num>
+    <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+    <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246a7f1c94b0d8d4044684</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme start="20261125085400 +0000" stop="20261125092300 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa LATAM</title>
+    <episode-num system="onscreen">S01E37</episode-num>
+    <episode-num system="pluto">646cbba7649e97001b51fee5</episode-num>
+    <episode-num system="original-air-date">20181210000000 +0000</episode-num>
+    <desc>Comienza el partido de Nankatsu contra Hanawa. Tsubasa se enfrenta de nuevo a los hermanos Tachibana, quienes tienen un arma secreta para derrotarlo.</desc>
+    <icon src="https://images.pluto.tv/series/646bcdf917da09001a32ae02/tile_1769546521026.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20181210</date>
+    <series-id system="pluto">646bcdf917da09001a32ae02</series-id>
+    <sub-title>Huracán en el cielo</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125092300 +0000" stop="20261125095200 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa LATAM</title>
+    <episode-num system="onscreen">S01E38</episode-num>
+    <episode-num system="pluto">646cbd10662d03001becd705</episode-num>
+    <episode-num system="original-air-date">20181217000000 +0000</episode-num>
+    <desc>Tsubasa se lesiona y debe salir temporalmente. Los hermanos Tachibana anotan el gol del empate. ¿Volverá Tsubasa antes de que termine el partido?</desc>
+    <icon src="https://images.pluto.tv/series/646bcdf917da09001a32ae02/tile_1769546521026.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20181217</date>
+    <series-id system="pluto">646bcdf917da09001a32ae02</series-id>
+    <sub-title>El asalto de los hermanos Tachibana</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125095200 +0000" stop="20261125102100 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa LATAM</title>
+    <episode-num system="onscreen">S01E39</episode-num>
+    <episode-num system="pluto">646cbe8291275e001acf8437</episode-num>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Quedan pocos minutos para el final del partido, y Nankatsu no logra anotar. Los hermanos Tachibana probarán una nueva estrategia para vencer.</desc>
+    <icon src="https://images.pluto.tv/series/646bcdf917da09001a32ae02/tile_1769546521026.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>00010101</date>
+    <series-id system="pluto">646bcdf917da09001a32ae02</series-id>
+    <sub-title>Un final con efecto</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125102100 +0000" stop="20261125105000 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa LATAM</title>
+    <episode-num system="onscreen">S01E40</episode-num>
+    <episode-num system="pluto">646cbe7391275e001acf8041</episode-num>
+    <episode-num system="original-air-date">20190107000000 +0000</episode-num>
+    <desc>En el arduo segundo partido de los cuartos de final del Torneo Nacional, Matsuyama se empeña en demostrar que un partido solo se gana en equipo.</desc>
+    <icon src="https://images.pluto.tv/series/646bcdf917da09001a32ae02/tile_1769546521026.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20190107</date>
+    <series-id system="pluto">646bcdf917da09001a32ae02</series-id>
+    <sub-title>Adelante, Furano</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125105000 +0000" stop="20261125111900 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa LATAM</title>
+    <episode-num system="onscreen">S01E41</episode-num>
+    <episode-num system="pluto">646cc00a442733001ab70ffc</episode-num>
+    <episode-num system="original-air-date">20190114000000 +0000</episode-num>
+    <desc>Nankatsu e Hirado se baten por las semifinales del Torneo Nacional. Tsubasa enfrenta al poderoso Hiroshi Jito, capitán y defensa central de Hirado.</desc>
+    <icon src="https://images.pluto.tv/series/646bcdf917da09001a32ae02/tile_1769546521026.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20190114</date>
+    <series-id system="pluto">646bcdf917da09001a32ae02</series-id>
+    <sub-title>El caballo negro</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125111900 +0000" stop="20261125114900 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa LATAM</title>
+    <episode-num system="onscreen">S01E42</episode-num>
+    <episode-num system="pluto">646cc2b7188649001a503ecd</episode-num>
+    <episode-num system="original-air-date">20190121000000 +0000</episode-num>
+    <desc>Tras una aplastante desventaja, Tsubasa decide arriesgarlo todo: intentará el famoso tiro con efecto de Roberto por la oportunidad de ganar.</desc>
+    <icon src="https://images.pluto.tv/series/646bcdf917da09001a32ae02/tile_1769546521026.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20190121</date>
+    <series-id system="pluto">646bcdf917da09001a32ae02</series-id>
+    <sub-title>El fénix Tsubasa</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125114900 +0000" stop="20261125121900 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa LATAM</title>
+    <episode-num system="onscreen">S01E43</episode-num>
+    <episode-num system="pluto">646cbbb5649e97001b5202c4</episode-num>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>En las semifinales del Torneo, los primeros en batirse son Meiwa y Toho. Con Hyuga en el banco, Meiwa saca ventaja, haciendo sufrir a Takeshi Sawada.</desc>
+    <icon src="https://images.pluto.tv/series/646bcdf917da09001a32ae02/tile_1769546521026.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>00010101</date>
+    <series-id system="pluto">646bcdf917da09001a32ae02</series-id>
+    <sub-title>El tigre caído</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125121900 +0000" stop="20261125124900 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa LATAM</title>
+    <episode-num system="onscreen">S01E44</episode-num>
+    <episode-num system="pluto">646cc430649e97001b521ec4</episode-num>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>En el último partido de las semifinales, Nankatsu se bate con los de Furano, famosos por su gran trabajo en equipo y su capitán Hikaru Matsuyama.</desc>
+    <icon src="https://images.pluto.tv/series/646bcdf917da09001a32ae02/tile_1769546521026.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>00010101</date>
+    <series-id system="pluto">646bcdf917da09001a32ae02</series-id>
+    <sub-title>Un duelo de diez</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125124900 +0000" stop="20261125131800 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa LATAM</title>
+    <episode-num system="onscreen">S01E45</episode-num>
+    <episode-num system="pluto">646cbfec442733001ab70946</episode-num>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>En el segundo tiempo, Furano empata. Gravemente lesionado, Tsubasa intenta hacer su tiro con efecto una vez más. Matsuyama hará todo por impedirlo.</desc>
+    <icon src="https://images.pluto.tv/series/646bcdf917da09001a32ae02/tile_1769546521026.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>00010101</date>
+    <series-id system="pluto">646bcdf917da09001a32ae02</series-id>
+    <sub-title>Lágrimas en el aeropuerto</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125131800 +0000" stop="20261125134700 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa LATAM</title>
+    <episode-num system="onscreen">S01E46</episode-num>
+    <episode-num system="pluto">646cbe9291275e001acf87f4</episode-num>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Tsubasa espera recuperarse de su lesión para enfrentar a Toho, y Hyuga abandona su orgullo para pedirle al entrenador Kitazune que le permita jugar.</desc>
+    <icon src="https://images.pluto.tv/series/646bcdf917da09001a32ae02/tile_1769546521026.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>00010101</date>
+    <series-id system="pluto">646bcdf917da09001a32ae02</series-id>
+    <sub-title>el juego del siglo</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125134700 +0000" stop="20261125141600 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa LATAM</title>
+    <episode-num system="onscreen">S01E47</episode-num>
+    <episode-num system="pluto">646cc2b0188649001a503aeb</episode-num>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Los capitanes de Nankatsu y Toho están empecinados en ganar. Hyuga demostrará su fuerza con su tiro de tigre; Tsubasa usará su tiro con efecto.</desc>
+    <icon src="https://images.pluto.tv/series/646bcdf917da09001a32ae02/tile_1769546521026.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>00010101</date>
+    <series-id system="pluto">646bcdf917da09001a32ae02</series-id>
+    <sub-title>Una batalla fulminante</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125141600 +0000" stop="20261125144500 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa LATAM</title>
+    <episode-num system="onscreen">S01E48</episode-num>
+    <episode-num system="pluto">646cc15ee05e97001a6f94a1</episode-num>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Toho se impone por dos goles. Tsubasa, lesionado, cae en la desesperación. Pero tiene una idea, y decide arriesgar su físico para detener a Hyuga.</desc>
+    <icon src="https://images.pluto.tv/series/646bcdf917da09001a32ae02/tile_1769546521026.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>00010101</date>
+    <series-id system="pluto">646bcdf917da09001a32ae02</series-id>
+    <sub-title>El Toho contraataca</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125144500 +0000" stop="20261125151500 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa LATAM</title>
+    <episode-num system="onscreen">S01E49</episode-num>
+    <episode-num system="pluto">646cbfdd442733001ab70419</episode-num>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Nankatsu defiende a toda costa la portería a la espera de su capitán Tsubasa, quien se empecina en volver a la cancha. Hyuga aprovecha la situación.</desc>
+    <icon src="https://images.pluto.tv/series/646bcdf917da09001a32ae02/tile_1769546521026.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>00010101</date>
+    <series-id system="pluto">646bcdf917da09001a32ae02</series-id>
+    <sub-title>El tigre contra Tsubasa</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125151500 +0000" stop="20261125154500 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa LATAM</title>
+    <episode-num system="onscreen">S01E50</episode-num>
+    <episode-num system="pluto">646cbfd9442733001ab70326</episode-num>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Nankatsu y Toho anotan tres goles cada uno. Una falta de Takasugi le regala un tiro libre a Hyuga, quien se dispone a usar su poderoso tiro de tigre.</desc>
+    <icon src="https://images.pluto.tv/series/646bcdf917da09001a32ae02/tile_1769546521026.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>00010101</date>
+    <series-id system="pluto">646bcdf917da09001a32ae02</series-id>
+    <sub-title>Una feroz batalla</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125154500 +0000" stop="20261125161500 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa LATAM</title>
+    <episode-num system="onscreen">S01E51</episode-num>
+    <episode-num system="pluto">646cbffa442733001ab70e1f</episode-num>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>La final va a tiempo extra. Ni Tsubasa ni Hyuga desean compartir el título, y están dispuestos a arriesgar su físico por el Torneo Nacional.</desc>
+    <icon src="https://images.pluto.tv/series/646bcdf917da09001a32ae02/tile_1769546521026.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>00010101</date>
+    <series-id system="pluto">646bcdf917da09001a32ae02</series-id>
+    <sub-title>El tiro milagroso</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125161500 +0000" stop="20261125164500 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa LATAM</title>
+    <episode-num system="onscreen">S01E52</episode-num>
+    <episode-num system="pluto">646cc146e05e97001a6f8dff</episode-num>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>En la emocionante final, Hyuga y Tsubasa demuestran de qué están hechos. Es un duelo futbolístico, pero también personal. ¿Quién será el campeón?</desc>
+    <icon src="https://images.pluto.tv/series/646bcdf917da09001a32ae02/tile_1769546521026.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>00010101</date>
+    <series-id system="pluto">646bcdf917da09001a32ae02</series-id>
+    <sub-title>Un sueño sin fin</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125164500 +0000" stop="20261125171700 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa: Junior Youth Arc</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">651aea8605bcdf001ac1bedc</episode-num>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>La final del Campeonato Japonés Juvenil termina con un giro inesperado. Ahora, con Tsubasa fuera de combate, ¡es el turno de Kojiro Hyuga! Un partido entre increíbles estudiantes de secundaria será la próxima prueba. ¿Superarán el desafío?</desc>
+    <icon src="https://images.pluto.tv/series/651aea8505bcdf001ac1bebe/tile_1769464441747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>00010101</date>
+    <series-id system="pluto">651aea8505bcdf001ac1bebe</series-id>
+    <sub-title>Un Nuevo Desafío</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125171700 +0000" stop="20261125174700 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa: Junior Youth Arc</title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="pluto">65200a718026ff001a0abcd8</episode-num>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>¡Se anuncia el viaje del equipo a Europa! Hyuga es el capitán, pero Tsubasa está decidido a jugar.</desc>
+    <icon src="https://images.pluto.tv/series/651aea8505bcdf001ac1bebe/tile_1769464441747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>00010101</date>
+    <series-id system="pluto">651aea8505bcdf001ac1bebe</series-id>
+    <sub-title>Saludos A Un Antiguo Rival</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125174700 +0000" stop="20261125181600 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa: Junior Youth Arc</title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <episode-num system="pluto">652846742a6001001aa00245</episode-num>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Los equipos de Japón y Hamburgo tienen un partido de práctica y Wakabayashi muestra su férrea defensa. Schneider inicia un ataque feroz y hace imposible anotar. Mientras tanto, Hyuga está furioso. Luego está Tsubasa...</desc>
+    <icon src="https://images.pluto.tv/series/651aea8505bcdf001ac1bebe/tile_1769464441747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>00010101</date>
+    <series-id system="pluto">651aea8505bcdf001ac1bebe</series-id>
+    <sub-title>Guerrero Profesional</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125181600 +0000" stop="20261125184600 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa: Junior Youth Arc</title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <episode-num system="pluto">653148af619680001afe7a52</episode-num>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Si bien el partido contra Hamburgo resultó desastroso para Japón, todos prometen empezar de nuevo. El capitán Matsuyama desea la confianza de sus compañeros, mientras que Hyuga se centra en superar a Schneider. Wakabayashi hace un anuncio sorprendente.</desc>
+    <icon src="https://images.pluto.tv/series/651aea8505bcdf001ac1bebe/tile_1769464441747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>00010101</date>
+    <series-id system="pluto">651aea8505bcdf001ac1bebe</series-id>
+    <sub-title>Empezando desde Cero</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125184600 +0000" stop="20261125191600 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa: Junior Youth Arc</title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <episode-num system="pluto">653abfa105bcdf001ab8562d</episode-num>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Taro Misaki, ahora en Francia, se une al Equipo Juvenil de Japón. El tiempo que ha pasado fuera no le ha dado seguridad, pero el volver a jugar con Tsubasa lo ilusiona. ¡Ahora Misaki desafía al equipo de Francia para demostrar su habilidad!</desc>
+    <icon src="https://images.pluto.tv/series/651aea8505bcdf001ac1bebe/tile_1769464441747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>00010101</date>
+    <series-id system="pluto">651aea8505bcdf001ac1bebe</series-id>
+    <sub-title>Otro Gran Jugador</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125191600 +0000" stop="20261125194600 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa: Junior Youth Arc</title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <episode-num system="pluto">6543cbb9727df0001ada3dbf</episode-num>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>¡Tsubasa regresa al campo con estilo! El partido contra el Munich se torna interesante. Con Tsubasa nuevamente en acción, sus compañeros de equipo juegan como atletas completamente diferentes. Hyuga y Tsubasa deciden hacer las cosas aún más interesantes.</desc>
+    <icon src="https://images.pluto.tv/series/651aea8505bcdf001ac1bebe/tile_1769464441747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>00010101</date>
+    <series-id system="pluto">651aea8505bcdf001ac1bebe</series-id>
+    <sub-title>¡En acción! ¡Equipo Juvenil de Japón!</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125194600 +0000" stop="20261125201600 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa: Junior Youth Arc</title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <episode-num system="pluto">654d036ba61c2a001b14514d</episode-num>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>El equipo aterriza en Francia y se prepara para los partidos. El entrenador ordena un día de descanso, pero Tsubasa no puede relajarse. Mientras pasea por París, ve a alguien que le resulta conocido y tiene habilidades asombrosas.</desc>
+    <icon src="https://images.pluto.tv/series/651aea8505bcdf001ac1bebe/tile_1769464441747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>00010101</date>
+    <series-id system="pluto">651aea8505bcdf001ac1bebe</series-id>
+    <sub-title>¡Encuento en París!</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125201600 +0000" stop="20261125204600 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa: Junior Youth Arc</title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <episode-num system="pluto">65565cdd619680001adea19d</episode-num>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Es la ceremonia de apertura del Torneo Internacional Juvenil, y Misaki está pensando en su tiempo en Japón y lo lejos que ha llegado. Pero no todos los recuerdos son felices. La carrera de su padre como artista no ha sido fácil para ninguno de los dos.</desc>
+    <icon src="https://images.pluto.tv/series/651aea8505bcdf001ac1bebe/tile_1769464441747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>00010101</date>
+    <series-id system="pluto">651aea8505bcdf001ac1bebe</series-id>
+    <sub-title>Soy Taro Misaki</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125204600 +0000" stop="20261125211600 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa: Junior Youth Arc</title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <episode-num system="pluto">6564e029d68a2000133671db</episode-num>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Japón enfrenta a Italia en el partido inaugural del torneo y las tensiones aumentan. El equipo japonés está encendido por los comentarios negativos de Italia. Aún así, Tsubasa está a la altura de las circunstancias y determinado.</desc>
+    <icon src="https://images.pluto.tv/series/651aea8505bcdf001ac1bebe/tile_1769464441747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>00010101</date>
+    <series-id system="pluto">651aea8505bcdf001ac1bebe</series-id>
+    <sub-title>Un Gran Camino</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125211600 +0000" stop="20261125214600 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa: Junior Youth Arc</title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <episode-num system="pluto">6568b01a174b14001490c2cd</episode-num>
+    <episode-num system="original-air-date">20231203000000 +0000</episode-num>
+    <desc>El portero de Italia, Gino Hernández, hace paradas increíbles. Su récord perfecto le ha dado la reputación de ser el mejor portero de Europa. Su habilidad pone a Japón a la ofensiva, pero Misaki está observando. El entrenador hace un cambio sorprendente.</desc>
+    <icon src="https://images.pluto.tv/series/651aea8505bcdf001ac1bebe/tile_1769464441747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20231203</date>
+    <series-id system="pluto">651aea8505bcdf001ac1bebe</series-id>
+    <sub-title>¡Ha regresado! ¡¡El Dúo Dorado!!</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125214600 +0000" stop="20261125221600 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa: Junior Youth Arc</title>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <episode-num system="pluto">6571e39224664a00137075d9</episode-num>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Gracias a Tsubasa y Misaki, Japón empata con Italia, dejando a los europeos reforzando sus defensas con la esperanza de nivelarse. Mientras tanto, cuando sólo falta un minuto para el final, la multitud clama por el equipo de Japón. Tsubasa se arriesga...</desc>
+    <icon src="https://images.pluto.tv/series/651aea8505bcdf001ac1bebe/tile_1769464441747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>00010101</date>
+    <series-id system="pluto">651aea8505bcdf001ac1bebe</series-id>
+    <sub-title>El Tigre Feroz Despierta</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125221600 +0000" stop="20261125224600 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa: Junior Youth Arc</title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <episode-num system="pluto">657b4c827295a600140245e8</episode-num>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Francia, el país anfitrión, tiene su primer partido contra Inglaterra. Elle Sid Pierre, el capitán francés, sorprende con su elegante juego. Mientras tanto, aun cuando Tsubasa y sus amigos están impresionados, el equipo de Francia siente la presión.</desc>
+    <icon src="https://images.pluto.tv/series/651aea8505bcdf001ac1bebe/tile_1769464441747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>00010101</date>
+    <series-id system="pluto">651aea8505bcdf001ac1bebe</series-id>
+    <sub-title>Destinados a la Victoria</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125224600 +0000" stop="20261125231600 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa: Junior Youth Arc</title>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <episode-num system="pluto">6584653cb4896d0013a52fba</episode-num>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Roberto Hongo, habla con Katagiri en las afueras de París y no quiere que Tsubasa se entere que está a sólo kilómetros de distancia. Como ex entrenador de Tsubasa, Roberto todavía se siente culpable de haber roto la promesa que le hizo.</desc>
+    <icon src="https://images.pluto.tv/series/651aea8505bcdf001ac1bebe/tile_1769464441747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>00010101</date>
+    <series-id system="pluto">651aea8505bcdf001ac1bebe</series-id>
+    <sub-title>Una Promesa en el Cielo de Estrellas</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125231600 +0000" stop="20261125234600 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa: Junior Youth Arc</title>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <episode-num system="pluto">65971114954dcc0014967a8c</episode-num>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Japón enfrenta a Argentina y el ganador pasa a la final. Tsubasa, sin embargo, está preocupado. Mientras está en el campo se entera de que su ex entrenador Roberto, a quien no ha visto en un largo tiempo, está observando desde las gradas.</desc>
+    <icon src="https://images.pluto.tv/series/651aea8505bcdf001ac1bebe/tile_1769464441747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>00010101</date>
+    <series-id system="pluto">651aea8505bcdf001ac1bebe</series-id>
+    <sub-title>Nunca te Rindas</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125234600 +0000" stop="20261126001600 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa: Junior Youth Arc</title>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <episode-num system="pluto">65a0178ad40ef30013152e36</episode-num>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Mientras Japón se recupera de la última hazaña futbolística de Díaz, Tsubasa y Hyuga unen fuerzas para un ataque especial. Tsubasa recupera su ritmo. Aprovechando, los Gemelos Tachibana y Jito corren hacia la meta. ¡El momento de contraatacar es ahora!</desc>
+    <icon src="https://images.pluto.tv/series/651aea8505bcdf001ac1bebe/tile_1769464441747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>00010101</date>
+    <series-id system="pluto">651aea8505bcdf001ac1bebe</series-id>
+    <sub-title>La Selección Juvenil Japonesa Contraataca</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261126001600 +0000" stop="20261126004800 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa: Junior Youth Arc</title>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <episode-num system="pluto">65aad27570ac440013ee54cf</episode-num>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Misaki logra un tiro milagroso, empatando el marcador para Japón. Sin embargo, un empate no es suficiente si quieren llegar a las semifinales. Dado que ambos equipos no están dispuestos a ceder, nadie sabe quién saldrá victorioso.</desc>
+    <icon src="https://images.pluto.tv/series/651aea8505bcdf001ac1bebe/tile_1769464441747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>00010101</date>
+    <series-id system="pluto">651aea8505bcdf001ac1bebe</series-id>
+    <sub-title>Una Batalla de Altas y Bajas</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261126004800 +0000" stop="20261126011700 +0000" channel="OliverBenji">
+    <title>Captain Tsubasa: Junior Youth Arc</title>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <episode-num system="pluto">65b163eba40ff7001382541c</episode-num>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>El marcador está empatado 4x4 en el segundo tiempo. Japón mete a la cancha a Jun Misugi, un jugador excepcionalmente hábil con una enfermedad cardíaca. Jun tiene la oportunidad de compartir el campo con Tsubasa. ¡Argentina está lista para pelear!</desc>
+    <icon src="https://images.pluto.tv/series/651aea8505bcdf001ac1bebe/tile_1769464441747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>00010101</date>
+    <series-id system="pluto">651aea8505bcdf001ac1bebe</series-id>
+    <sub-title>¡¡El Príncipe del Campo Regresa!!</sub-title>
+    <category>Anime</category>
+    <category>Anime Series</category>
+    <category>Series</category>
   </programme>
   <programme start="20261125084938 +0000" stop="20261125092138 +0000" channel="Pluto TV Historia">
     <title>Siyaya - Come Wild With Us</title>
