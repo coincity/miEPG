@@ -612,6 +612,15 @@
     <display-name>Archivos Forenses UHD</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600001MC_20250722T005647SQUARE.png"/>
   </channel>
+  <channel id="Abeja Maya">
+    <display-name>Abeja Maya</display-name>
+    <display-name>Abeja Maya SD</display-name>
+    <display-name>Abeja Maya HD</display-name>
+    <display-name>Abeja Maya 4K</display-name>
+    <display-name>Abeja Maya Full HD</display-name>
+    <display-name>Abeja Maya UHD</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200002V5_20250307T152147SQUARE.png"/>
+  </channel>
 	<programme start="20261125021400 +0100" stop="20261125025900 +0100" channel="Historia">
     <title>Evidencias de lo inexplicable T1 E1</title>
     <desc>Documental,Otros,Social
@@ -38664,6 +38673,102 @@
     <sub-title>Letra perfecta</sub-title>
     <desc>Un joven sano muere mientras duerme y las pruebas de toxicología revelan una dosis letal de lidocaína.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_GBPBB1501FZ_1741956092_1_20260401T080418576Z_27_imageprocessorclient-tvplus-linear-74d4c47476-vl8fx.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125170507 +0000" stop="20261125173208 +0000" channel="Abeja Maya">
+    <title>La abeja Maya</title>
+    <desc>La historia se centra en las aventuras de Maya, una joven abeja inquieta, aventurera y preguntona, así como de la forma que tiene de desenvolverse en un entorno plagado de todo tipo de insectos y demás bichitos. Maya es enviada por la abeja reina a buscar polen para su colmena. En esa tarea Maya, junto a su inseparable amigo Willi el zángano, descubre un mundo nuevo a su alrededor y entabla amistad con numerosas criaturas del bosque como el saltamontes Flip, la araña Tecla, la mosca Puck, el escarabajo Kurt o el ratón Alejandro. Es obvio, además, que no sólo se trata de una magnífica serie para los niños, sino que también tiene unos valores extraordinarios de libertad, fraternidad, paz y amistad que pueden y deben ser atendidos por muchos adultos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829935448_7_20260506T114728201Z_44_imageprocessorclient-tvplus-linear-74d4c47476-l9gx6.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125173208 +0000" stop="20261125175825 +0000" channel="Abeja Maya">
+    <title>La abeja Maya</title>
+    <desc>La historia se centra en las aventuras de Maya, una joven abeja inquieta, aventurera y preguntona, así como de la forma que tiene de desenvolverse en un entorno plagado de todo tipo de insectos y demás bichitos. Maya es enviada por la abeja reina a buscar polen para su colmena. En esa tarea Maya, junto a su inseparable amigo Willi el zángano, descubre un mundo nuevo a su alrededor y entabla amistad con numerosas criaturas del bosque como el saltamontes Flip, la araña Tecla, la mosca Puck, el escarabajo Kurt o el ratón Alejandro. Es obvio, además, que no sólo se trata de una magnífica serie para los niños, sino que también tiene unos valores extraordinarios de libertad, fraternidad, paz y amistad que pueden y deben ser atendidos por muchos adultos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829996355_24_20260506T114731500Z_85_imageprocessorclient-tvplus-linear-74d4c47476-9tgkn.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125175825 +0000" stop="20261125185452 +0000" channel="Abeja Maya">
+    <title>Maya 3D E53-56</title>
+    <desc>Alarma | Maya, comandane en jefe | La fruta prohibida | Gracias, avispas</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829921833_29_20260506T114728454Z_64_imageprocessorclient-tvplus-linear-74d4c47476-jm7vg.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125185452 +0000" stop="20261125192204 +0000" channel="Abeja Maya">
+    <title>La abeja Maya</title>
+    <desc>La historia se centra en las aventuras de Maya, una joven abeja inquieta, aventurera y preguntona, así como de la forma que tiene de desenvolverse en un entorno plagado de todo tipo de insectos y demás bichitos. Maya es enviada por la abeja reina a buscar polen para su colmena. En esa tarea Maya, junto a su inseparable amigo Willi el zángano, descubre un mundo nuevo a su alrededor y entabla amistad con numerosas criaturas del bosque como el saltamontes Flip, la araña Tecla, la mosca Puck, el escarabajo Kurt o el ratón Alejandro. Es obvio, además, que no sólo se trata de una magnífica serie para los niños, sino que también tiene unos valores extraordinarios de libertad, fraternidad, paz y amistad que pueden y deben ser atendidos por muchos adultos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829962515_20_20260506T114730128Z_64_imageprocessorclient-tvplus-linear-74d4c47476-7zbr2.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125192204 +0000" stop="20261125194916 +0000" channel="Abeja Maya">
+    <title>La abeja Maya</title>
+    <desc>La historia se centra en las aventuras de Maya, una joven abeja inquieta, aventurera y preguntona, así como de la forma que tiene de desenvolverse en un entorno plagado de todo tipo de insectos y demás bichitos. Maya es enviada por la abeja reina a buscar polen para su colmena. En esa tarea Maya, junto a su inseparable amigo Willi el zángano, descubre un mundo nuevo a su alrededor y entabla amistad con numerosas criaturas del bosque como el saltamontes Flip, la araña Tecla, la mosca Puck, el escarabajo Kurt o el ratón Alejandro. Es obvio, además, que no sólo se trata de una magnífica serie para los niños, sino que también tiene unos valores extraordinarios de libertad, fraternidad, paz y amistad que pueden y deben ser atendidos por muchos adultos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829920404_16_20260506T114729858Z_83_imageprocessorclient-tvplus-linear-74d4c47476-8rh4j.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125194916 +0000" stop="20261125201628 +0000" channel="Abeja Maya">
+    <title>La abeja Maya</title>
+    <desc>La historia se centra en las aventuras de Maya, una joven abeja inquieta, aventurera y preguntona, así como de la forma que tiene de desenvolverse en un entorno plagado de todo tipo de insectos y demás bichitos. Maya es enviada por la abeja reina a buscar polen para su colmena. En esa tarea Maya, junto a su inseparable amigo Willi el zángano, descubre un mundo nuevo a su alrededor y entabla amistad con numerosas criaturas del bosque como el saltamontes Flip, la araña Tecla, la mosca Puck, el escarabajo Kurt o el ratón Alejandro. Es obvio, además, que no sólo se trata de una magnífica serie para los niños, sino que también tiene unos valores extraordinarios de libertad, fraternidad, paz y amistad que pueden y deben ser atendidos por muchos adultos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829931111_11_20260506T114726460Z_36_imageprocessorclient-tvplus-linear-74d4c47476-qgk7g.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125201628 +0000" stop="20261125204339 +0000" channel="Abeja Maya">
+    <title>La abeja Maya</title>
+    <desc>La historia se centra en las aventuras de Maya, una joven abeja inquieta, aventurera y preguntona, así como de la forma que tiene de desenvolverse en un entorno plagado de todo tipo de insectos y demás bichitos. Maya es enviada por la abeja reina a buscar polen para su colmena. En esa tarea Maya, junto a su inseparable amigo Willi el zángano, descubre un mundo nuevo a su alrededor y entabla amistad con numerosas criaturas del bosque como el saltamontes Flip, la araña Tecla, la mosca Puck, el escarabajo Kurt o el ratón Alejandro. Es obvio, además, que no sólo se trata de una magnífica serie para los niños, sino que también tiene unos valores extraordinarios de libertad, fraternidad, paz y amistad que pueden y deben ser atendidos por muchos adultos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829917043_7_20260506T114730205Z_38_imageprocessorclient-tvplus-linear-74d4c47476-l9gx6.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125204339 +0000" stop="20261125214004 +0000" channel="Abeja Maya">
+    <title>Maya 3D E57-60</title>
+    <desc>La pataleta de Willy | Reina por un día | Armonia en el prado | Willy pierde la memoria</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829937029_16_20260506T114732860Z_73_imageprocessorclient-tvplus-linear-74d4c47476-8rh4j.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125214004 +0000" stop="20261125220712 +0000" channel="Abeja Maya">
+    <title>La abeja Maya</title>
+    <desc>La historia se centra en las aventuras de Maya, una joven abeja inquieta, aventurera y preguntona, así como de la forma que tiene de desenvolverse en un entorno plagado de todo tipo de insectos y demás bichitos. Maya es enviada por la abeja reina a buscar polen para su colmena. En esa tarea Maya, junto a su inseparable amigo Willi el zángano, descubre un mundo nuevo a su alrededor y entabla amistad con numerosas criaturas del bosque como el saltamontes Flip, la araña Tecla, la mosca Puck, el escarabajo Kurt o el ratón Alejandro. Es obvio, además, que no sólo se trata de una magnífica serie para los niños, sino que también tiene unos valores extraordinarios de libertad, fraternidad, paz y amistad que pueden y deben ser atendidos por muchos adultos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829935222_24_20260506T114734488Z_110_imageprocessorclient-tvplus-linear-74d4c47476-9tgkn.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125220712 +0000" stop="20261125223426 +0000" channel="Abeja Maya">
+    <title>La abeja Maya</title>
+    <desc>La historia se centra en las aventuras de Maya, una joven abeja inquieta, aventurera y preguntona, así como de la forma que tiene de desenvolverse en un entorno plagado de todo tipo de insectos y demás bichitos. Maya es enviada por la abeja reina a buscar polen para su colmena. En esa tarea Maya, junto a su inseparable amigo Willi el zángano, descubre un mundo nuevo a su alrededor y entabla amistad con numerosas criaturas del bosque como el saltamontes Flip, la araña Tecla, la mosca Puck, el escarabajo Kurt o el ratón Alejandro. Es obvio, además, que no sólo se trata de una magnífica serie para los niños, sino que también tiene unos valores extraordinarios de libertad, fraternidad, paz y amistad que pueden y deben ser atendidos por muchos adultos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829984331_24_20260506T114737492Z_34_imageprocessorclient-tvplus-linear-74d4c47476-9tgkn.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125223426 +0000" stop="20261125230125 +0000" channel="Abeja Maya">
+    <title>La abeja Maya</title>
+    <desc>La historia se centra en las aventuras de Maya, una joven abeja inquieta, aventurera y preguntona, así como de la forma que tiene de desenvolverse en un entorno plagado de todo tipo de insectos y demás bichitos. Maya es enviada por la abeja reina a buscar polen para su colmena. En esa tarea Maya, junto a su inseparable amigo Willi el zángano, descubre un mundo nuevo a su alrededor y entabla amistad con numerosas criaturas del bosque como el saltamontes Flip, la araña Tecla, la mosca Puck, el escarabajo Kurt o el ratón Alejandro. Es obvio, además, que no sólo se trata de una magnífica serie para los niños, sino que también tiene unos valores extraordinarios de libertad, fraternidad, paz y amistad que pueden y deben ser atendidos por muchos adultos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829989655_11_20260506T114726460Z_103_imageprocessorclient-tvplus-linear-74d4c47476-qgk7g.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125230125 +0000" stop="20261125232839 +0000" channel="Abeja Maya">
+    <title>La abeja Maya</title>
+    <desc>La historia se centra en las aventuras de Maya, una joven abeja inquieta, aventurera y preguntona, así como de la forma que tiene de desenvolverse en un entorno plagado de todo tipo de insectos y demás bichitos. Maya es enviada por la abeja reina a buscar polen para su colmena. En esa tarea Maya, junto a su inseparable amigo Willi el zángano, descubre un mundo nuevo a su alrededor y entabla amistad con numerosas criaturas del bosque como el saltamontes Flip, la araña Tecla, la mosca Puck, el escarabajo Kurt o el ratón Alejandro. Es obvio, además, que no sólo se trata de una magnífica serie para los niños, sino que también tiene unos valores extraordinarios de libertad, fraternidad, paz y amistad que pueden y deben ser atendidos por muchos adultos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829935897_20_20260506T114731114Z_63_imageprocessorclient-tvplus-linear-74d4c47476-7zbr2.jpeg"/>
     <rating>
       <value>NA</value>
     </rating>
