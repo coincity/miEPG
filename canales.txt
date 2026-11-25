@@ -37,6 +37,8 @@ BBC Series,BBC Series
 6523f672a6c38300088cb807,El Reino Infantil
 63c69c87808b740007599fe1,Erase una vez
 68779a09c691b3f0964127c6,Heidi
+645952687cb4b100084ed52e,Nicktoons
+64666345f3f5b1000882bfb4,OliverBenji
 61cd7b49543066000713b620,Pluto TV Historia
 67517f923a61d40008c451f0,Historia y Vida
 5ddc503ac7ef120009b101a2,Pluto TV Documentales
