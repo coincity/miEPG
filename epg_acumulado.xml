@@ -198,6 +198,15 @@
     <display-name>BBC Series UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Series.png" />
   </channel>
+  <channel id="Pluto TV Kids">
+    <display-name>Pluto TV Kids</display-name>
+    <display-name>Pluto TV Kids SD</display-name>
+    <display-name>Pluto TV Kids HD</display-name>
+    <display-name>Pluto TV Kids 4K</display-name>
+    <display-name>Pluto TV Kids Full HD</display-name>
+    <display-name>Pluto TV Kids UHD</display-name>
+    <icon src="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG_1750751398943.png"/>
+  </channel>
 	<programme start="20261124012500 +0100" stop="20261124020600 +0100" channel="Historia">
     <title>Secretos en el hielo T3 E1</title>
     <desc>Documental,Otros,Científico,Histórico
@@ -28824,6 +28833,402 @@
 · Reparto: Gemma Arterton, Eddie Redmayne, Brian Knight, Christine Bottomley, Ruth Jones, Hans Matheson.
 · Productora: BBC Drama Productions, BBC (British Broadcasting Corporation), WGBH, David Snodin, Kate Harwood.</desc>
 	</programme>
+  <programme start="20261125023610 +0000" stop="20261125030610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125023610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125030610 +0000" stop="20261125033610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125030610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125033610 +0000" stop="20261125040610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125033610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125040610 +0000" stop="20261125043610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125040610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125043610 +0000" stop="20261125050610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125043610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125050610 +0000" stop="20261125053610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125050610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125053610 +0000" stop="20261125060610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125053610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125060610 +0000" stop="20261125063610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125060610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125063610 +0000" stop="20261125070610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125063610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125070610 +0000" stop="20261125073610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125070610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125073610 +0000" stop="20261125080610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125073610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125080610 +0000" stop="20261125083610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125080610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125083610 +0000" stop="20261125090610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125083610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125090610 +0000" stop="20261125093610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125090610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125093610 +0000" stop="20261125100610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125093610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125100610 +0000" stop="20261125103610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125100610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125103610 +0000" stop="20261125110610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125103610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125110610 +0000" stop="20261125113610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125110610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125113610 +0000" stop="20261125120610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125113610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125120610 +0000" stop="20261125123610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125120610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125123610 +0000" stop="20261125130610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125123610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125130610 +0000" stop="20261125133610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125130610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125133610 +0000" stop="20261125140610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125133610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125140610 +0000" stop="20261125143610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125140610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125143610 +0000" stop="20261125150610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125143610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125150610 +0000" stop="20261125153610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125150610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125153610 +0000" stop="20261125160610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125153610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125160610 +0000" stop="20261125163610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125160610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125163610 +0000" stop="20261125170610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125163610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125170610 +0000" stop="20261125173610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125170610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125173610 +0000" stop="20261125180610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125173610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125180610 +0000" stop="20261125183610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125180610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125183610 +0000" stop="20261125190610 +0000" channel="Pluto TV Kids">
+    <title>Pluto TV Kids</title>
+    <live/>
+    <episode-num system="original-air-date">20261125183610 +0000</episode-num>
+    <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+    <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">68246bba5c6467519563a1be</series-id>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
 	<programme start="20261124004400 +0100" stop="20261124012500 +0100" channel="Historia">
     <title>Grandes guerreros de la historia T1 E6 · Los mongoles</title>
     <desc>Documental,Otros,Histórico | 2026 | +12
