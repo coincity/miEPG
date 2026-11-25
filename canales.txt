@@ -20,8 +20,20 @@ BBC Lifestyle,BBC Lifestyle
 Clan,Clan
 Crimen&amp;Historia,Crimen&amp;Historia
 BBC Series,BBC Series
+5f1ac1f1b66c76000790ef27,Pluto TV Cine Estelar
+5f1ac2591dd8880007bb7d6d,Pluto TV Cine Acción
+5f1ac8099c49f600076579b2,Pluto TV Cine Comedia
+5f1ac947dcd00d0007937c08,Pluto TV Cine Drama
+5f1ac8a87cd38d000745d7cf,Pluto TV Thrillers
+5f6a38eaa5b68b0007a00e7a,Pluto TV Sci-Fi
+5f1abce155a03d0007718834,Pluto TV Comedia made in Spain
 5f1aab1d29b39600073e243f,Pluto TV Kids
-5dcde437229eff00091b6c30,Pluto TV Cine Estelar
-5dcb62e63d4d8f0009f36881,Pluto TV Cine Acción
-5dcdde78f080d900098550e4,Pluto TV Cine Comedia
-624af40c004f8000079b784d,Pluto TV Cine Crimen
+609e7e423e9173000706a681,Pluto TV Kids Classics
+685a996c7c4f2ad40cb4f276,Dragon Ball
+683457e5f59cc6a13212fce4,Lupin
+5f1aca0b4e448e00075e7c5e,Bob Esponja
+6523f672a6c38300088cb807,El Reino Infantil
+63c69c87808b740007599fe1,Erase una vez
+68779a09c691b3f0964127c6,Heidi
+
+67517f923a61d40008c451f0,Historia y Vida
