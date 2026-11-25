@@ -18,6 +18,7 @@ BBC History,BBC History
 BBC Earth,BBC Earth
 BBC Lifestyle,BBC Lifestyle
 Clan,Clan
+Disney Channel,Disney Channel
 Crimen&amp;Historia,Crimen&amp;Historia
 BBC Series,BBC Series
 5f1ac1f1b66c76000790ef27,Pluto TV Cine Estelar
@@ -35,5 +36,8 @@ BBC Series,BBC Series
 6523f672a6c38300088cb807,El Reino Infantil
 63c69c87808b740007599fe1,Erase una vez
 68779a09c691b3f0964127c6,Heidi
-
+61cd7b49543066000713b620,Pluto TV Historia
 67517f923a61d40008c451f0,Historia y Vida
+5ddc503ac7ef120009b101a2,Pluto TV Documentales
+5dcde27ffae9520009c0c75a,Pluto TV Investiga
+61bb2814ac085a00074309a6,Unidad de investigación
