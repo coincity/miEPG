@@ -45,6 +45,8 @@ BBC Series,BBC Series
 5ddc503ac7ef120009b101a2,Pluto TV Documentales
 5dcde27ffae9520009c0c75a,Pluto TV Investiga
 61bb2814ac085a00074309a6,Unidad de investigación
+5dcde2f53449c50009b2b4dc,Pluto TV Misterios
+645d1abbe1979c0008779d5a,Archivos Extraterrestres
 ESBC3900004ED,Pocoyo
 ESBD5100001G0,Supertoons
 ES4800002OZ,Caillou
