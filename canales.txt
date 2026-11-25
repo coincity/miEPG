@@ -21,3 +21,7 @@ Clan,Clan
 Crimen&amp;Historia,Crimen&amp;Historia
 BBC Series,BBC Series
 5f1aab1d29b39600073e243f,Pluto TV Kids
+5dcde437229eff00091b6c30,Pluto TV Cine Estelar
+5dcb62e63d4d8f0009f36881,Pluto TV Cine Acción
+5dcdde78f080d900098550e4,Pluto TV Cine Comedia
+624af40c004f8000079b784d,Pluto TV Cine Crimen
