@@ -19,3 +19,5 @@ BBC Earth,BBC Earth
 BBC Lifestyle,BBC Lifestyle
 Clan,Clan
 Crimen&amp;Historia,Crimen&amp;Historia
+BBC Series,BBC Series
+Pluto TV Kids,Pluto TV Kids
