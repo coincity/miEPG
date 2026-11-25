@@ -414,6 +414,96 @@
     <display-name>Supertoons UHD</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20250729T045047SQUARE.png"/>
   </channel>
+  <channel id="Caillou">
+    <display-name>Caillou</display-name>
+    <display-name>Caillou SD</display-name>
+    <display-name>Caillou HD</display-name>
+    <display-name>Caillou 4K</display-name>
+    <display-name>Caillou Full HD</display-name>
+    <display-name>Caillou UHD</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4800002OZ_20261124T074023SQUARE.png"/>
+  </channel>
+  <channel id="Crimenes Reales">
+    <display-name>Crimenes Reales</display-name>
+    <display-name>Crimenes Reales SD</display-name>
+    <display-name>Crimenes Reales HD</display-name>
+    <display-name>Crimenes Reales 4K</display-name>
+    <display-name>Crimenes Reales Full HD</display-name>
+    <display-name>Crimenes Reales UHD</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300001MC_20241210T052636SQUARE.png"/>
+  </channel>
+  <channel id="RakutenTVActionMovies.es@Spain">
+    <display-name>RakutenTVActionMovies.es@Spain</display-name>
+    <display-name>RakutenTVActionMovies.es@Spain SD</display-name>
+    <display-name>RakutenTVActionMovies.es@Spain HD</display-name>
+    <display-name>RakutenTVActionMovies.es@Spain 4K</display-name>
+    <display-name>RakutenTVActionMovies.es@Spain Full HD</display-name>
+    <display-name>RakutenTVActionMovies.es@Spain UHD</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600004BD_20260707T050928SQUARE.png"/>
+  </channel>
+  <channel id="RakutenTVSpanishMovies.es@Spain">
+    <display-name>RakutenTVSpanishMovies.es@Spain</display-name>
+    <display-name>RakutenTVSpanishMovies.es@Spain SD</display-name>
+    <display-name>RakutenTVSpanishMovies.es@Spain HD</display-name>
+    <display-name>RakutenTVSpanishMovies.es@Spain 4K</display-name>
+    <display-name>RakutenTVSpanishMovies.es@Spain Full HD</display-name>
+    <display-name>RakutenTVSpanishMovies.es@Spain UHD</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000008O8_20241022T050508SQUARE.png"/>
+  </channel>
+  <channel id="RakutenTVComedyMovies.es@Spain">
+    <display-name>RakutenTVComedyMovies.es@Spain</display-name>
+    <display-name>RakutenTVComedyMovies.es@Spain SD</display-name>
+    <display-name>RakutenTVComedyMovies.es@Spain HD</display-name>
+    <display-name>RakutenTVComedyMovies.es@Spain 4K</display-name>
+    <display-name>RakutenTVComedyMovies.es@Spain Full HD</display-name>
+    <display-name>RakutenTVComedyMovies.es@Spain UHD</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000700_20241022T051222SQUARE.png"/>
+  </channel>
+  <channel id="RakutenTVCrimeMovies.es@Spain">
+    <display-name>RakutenTVCrimeMovies.es@Spain</display-name>
+    <display-name>RakutenTVCrimeMovies.es@Spain SD</display-name>
+    <display-name>RakutenTVCrimeMovies.es@Spain HD</display-name>
+    <display-name>RakutenTVCrimeMovies.es@Spain 4K</display-name>
+    <display-name>RakutenTVCrimeMovies.es@Spain Full HD</display-name>
+    <display-name>RakutenTVCrimeMovies.es@Spain UHD</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600005G9_20241126T043110SQUARE.png"/>
+  </channel>
+  <channel id="RakutenTVDramaMovies.es@Spain">
+    <display-name>RakutenTVDramaMovies.es@Spain</display-name>
+    <display-name>RakutenTVDramaMovies.es@Spain SD</display-name>
+    <display-name>RakutenTVDramaMovies.es@Spain HD</display-name>
+    <display-name>RakutenTVDramaMovies.es@Spain 4K</display-name>
+    <display-name>RakutenTVDramaMovies.es@Spain Full HD</display-name>
+    <display-name>RakutenTVDramaMovies.es@Spain UHD</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600003UM_20260707T051011SQUARE.png"/>
+  </channel>
+  <channel id="RakutenTVTopMovies.es@Spain">
+    <display-name>RakutenTVTopMovies.es@Spain</display-name>
+    <display-name>RakutenTVTopMovies.es@Spain SD</display-name>
+    <display-name>RakutenTVTopMovies.es@Spain HD</display-name>
+    <display-name>RakutenTVTopMovies.es@Spain 4K</display-name>
+    <display-name>RakutenTVTopMovies.es@Spain Full HD</display-name>
+    <display-name>RakutenTVTopMovies.es@Spain UHD</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600013H4_20241022T050605SQUARE.png"/>
+  </channel>
+  <channel id="RakutenTVSciFiMovies.es@Spain">
+    <display-name>RakutenTVSciFiMovies.es@Spain</display-name>
+    <display-name>RakutenTVSciFiMovies.es@Spain SD</display-name>
+    <display-name>RakutenTVSciFiMovies.es@Spain HD</display-name>
+    <display-name>RakutenTVSciFiMovies.es@Spain 4K</display-name>
+    <display-name>RakutenTVSciFiMovies.es@Spain Full HD</display-name>
+    <display-name>RakutenTVSciFiMovies.es@Spain UHD</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500004NO_20250408T021816SQUARE.png"/>
+  </channel>
+  <channel id="RakutenTVThrillerMovies.es@Spain">
+    <display-name>RakutenTVThrillerMovies.es@Spain</display-name>
+    <display-name>RakutenTVThrillerMovies.es@Spain SD</display-name>
+    <display-name>RakutenTVThrillerMovies.es@Spain HD</display-name>
+    <display-name>RakutenTVThrillerMovies.es@Spain 4K</display-name>
+    <display-name>RakutenTVThrillerMovies.es@Spain Full HD</display-name>
+    <display-name>RakutenTVThrillerMovies.es@Spain UHD</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4100002WB_20261102T070300SQUARE.png"/>
+  </channel>
 	<programme start="20261125021400 +0100" stop="20261125025900 +0100" channel="Historia">
     <title>Evidencias de lo inexplicable T1 E1</title>
     <desc>Documental,Otros,Social
@@ -3033,7 +3123,7 @@
     <desc>Entretenimiento,Telerrealidad | 2022 | +12 | *6.0/10
 · Alex lleva al equipo a un ruinoso edificio en Illinois. Información trágica sobre este lugar les obligará a replantearse su misión.
 · País: Estados Unidos
-· Reparto: Chelsea Laden, Dakota Laden, Tanner Wiseman, Alex Schroeder.</desc>
+· Reparto: Chelsea Laden, Dakota Laden, Alex Schroeder, Tanner Wiseman.</desc>
 	</programme>
 	<programme start="20261126004400 +0100" stop="20261126013200 +0100" channel="Discovery">
     <title>Misterios en el museo: Incendio en la cubierta</title>
@@ -4346,7 +4436,7 @@
 · País: Reino Unido
 · Productora: National Geographic.</desc>
 	</programme>
-	<programme start="20261126053000 +0100" stop="20261126060100 +0100" channel="National Geographic HD">
+	<programme start="20261126053000 +0100" stop="20261126060000 +0100" channel="National Geographic HD">
     <title>Ciencia para aficionados E11</title>
     <desc>Documentales,Ciencia tecnología | 2018 | +12 | *6.0/10
 · En este episodio descubrimos los secretos del entrenamiento ninja, la mejor manera de columpiarse en un banco y qué hay que evitar practicando parasailing.
@@ -4354,25 +4444,30 @@
 · Dirección: Tony Cordeaux.
 · Productora: Eyeboogie, Dom Bowles.</desc>
 	</programme>
-	<programme start="20261126060100 +0100" stop="20261126064500 +0100" channel="National Geographic HD">
+	<programme start="20261126060000 +0100" stop="20261126063000 +0100" channel="National Geographic HD">
+    <title>Ciencia para aficionados E20</title>
+    <desc>Documentales,Ciencia tecnología | 2018 | +12 | *5.8/10
+· En este episodio aprenderemos sobre las acrobacias en moto, cómo evitar hacerse daño al intentar un "laché" en el parkour y cómo evitar sufrir una humillación cuando subamos escaleras.</desc>
+	</programme>
+	<programme start="20261126063000 +0100" stop="20261126071500 +0100" channel="National Geographic HD">
     <title>Especial Europa: maravillas de la ingeniería · Conectando el continente</title>
     <desc>Documentales,Ciencia tecnología | 2026 | +7 | *6.0/10
 · Bajo tierra, sobre montañas y a través del agua, los paisajes europeos exigen todo tipo de medios de transporte para conectar a sus ciudadanos.
 · País: Estados Unidos</desc>
 	</programme>
-	<programme start="20261126064500 +0100" stop="20261126072900 +0100" channel="National Geographic HD">
+	<programme start="20261126071500 +0100" stop="20261126080000 +0100" channel="National Geographic HD">
     <title>Especial Europa: maravillas de la ingeniería · Pesos pesados</title>
     <desc>Documentales,Ciencia tecnología | 2026 | +7 | *6.0/10
 · Embárcate en un emocionante viaje por Europa para descubrir varias hazañas extraordinarias de ingeniería e innovación.
 · País: Estados Unidos</desc>
 	</programme>
-	<programme start="20261126072900 +0100" stop="20261126081300 +0100" channel="National Geographic HD">
+	<programme start="20261126080000 +0100" stop="20261126084500 +0100" channel="National Geographic HD">
     <title>Especial Europa: maravillas de la ingeniería · Por todo lo alto</title>
     <desc>Documentales,Ciencia tecnología | 2026 | +7 | *6.2/10
 · Alcanza nuevas cotas con este emocionante análisis de la audaz ambición y los retos técnicos que se esconden tras las estructuras más altas e innovadoras de Europa.
 · País: Estados Unidos</desc>
 	</programme>
-	<programme start="20261126081300 +0100" stop="20261126090200 +0100" channel="National Geographic HD">
+	<programme start="20261126084500 +0100" stop="20261126093000 +0100" channel="National Geographic HD">
     <title>Las reparaciones más difíciles del mundo · Un timón de cincuenta toneladas</title>
     <desc>Documentales,Ciencia tecnología | 2009 | TP | *5.8/10
 · Junto con un equipo de buzos profesionales de primer nivel va a intentar levantar un peso casi imposible: desmontar y retirar un timón de cincuenta toneladas de un inmenso buque.
@@ -4380,59 +4475,48 @@
 · Presenta: Sean Riley.
 · Productora: National Geographic Television.</desc>
 	</programme>
-	<programme start="20261126090200 +0100" stop="20261126094700 +0100" channel="National Geographic HD">
-    <title>Segunda Guerra Mundial: Secretos desde el cielo · Cuenta atrás para el día D</title>
-    <desc>Documentales,Historia | 2021 | +7 | *6.2/10
-· En toda Gran Bretaña los aliados se preparan para la mayor invasión de la historia.
-· País: Reino Unido
-· Dirección: Johnny Shipley.
-· Productora: National Geographic.</desc>
+	<programme start="20261126093000 +0100" stop="20261126101500 +0100" channel="National Geographic HD">
+    <title>Las reparaciones más difíciles del mundo · Plataforma lanzacohetes</title>
+    <desc>Documentales,Ciencia tecnología | 2009 | TP | *6.4/10
+· Es el momento de abrocharse el cinturón, porque en esta ocasión vamos a trabajar en el espacio. Para esta reparación es necesario lanzar un satélite.
+· País: Estados Unidos
+· Presenta: Sean Riley.
+· Productora: National Geographic Television.</desc>
 	</programme>
-	<programme start="20261126094700 +0100" stop="20261126103600 +0100" channel="National Geographic HD">
-    <title>Lo mejor de la Segunda Guerra Mundial: Secretos desde el cielo · Camino hacia el Día D</title>
-    <desc>Documentales,Historia | 2023 | +7 | *6.0/10
-· En Gran Bretaña, los Aliados se preparan para la mayor invasión anfibia de la historia: El camino hacia el Día D. Mientras se acercan más de 7.000 buques y 150.000 soldados, los nazis se apresuran a fortificar las defensas costeras.
-· País: Reino Unido</desc>
+	<programme start="20261126101500 +0100" stop="20261126110000 +0100" channel="National Geographic HD">
+    <title>Rescate extremo: Embotellamiento</title>
+    <desc>Documentales,Viajes | 2020 | +12 | *6.8/10
+· Thord lucha por rescatar un camión que bloquea un puerto de montaña mientras conductores impacientes ponen su vida en peligro.</desc>
 	</programme>
-	<programme start="20261126103600 +0100" stop="20261126112700 +0100" channel="National Geographic HD">
-    <title>Lo mejor de la Segunda Guerra Mundial: Secretos desde el cielo · Los revientapresas</title>
-    <desc>Documentales,Historia | 2023 | +7 | *5.6/10
-· Durante más de 3 años, los ejércitos de Hitler dominan Europa. Incapaces de competir en el campo de batalla, los Aliados planean un audaz ataque contra la producción bélica alemana.
-· País: Reino Unido</desc>
+	<programme start="20261126110000 +0100" stop="20261126115000 +0100" channel="National Geographic HD">
+    <title>Rescate extremo: Caos a la luz de la luna</title>
+    <desc>Documentales,Viajes | 2020 | +12 | *6.0/10
+· El tiempo apremia y la policía mete más presión cuando Thord tiene dificultades para poner un camión de 16 ruedas de vuelta en la carretera.</desc>
 	</programme>
-	<programme start="20261126112700 +0100" stop="20261126121800 +0100" channel="National Geographic HD">
-    <title>Guardacostas del Caribe T2 · Cargamento dudoso</title>
-    <desc>Entretenimiento,Telerrealidad | 2023 | +12 | *6.0/10
-· Las cámaras se adentran en el día a día de la guardia costera del Caribe Neerlandés.
-· País: Países Bajos
-· Dirección: Evert Nijkamp.
-· Reparto: GERARDO, Richard, Theo, Eduardo, Alexis, Girsley Martina.
-· Productora: Remco Garcia.</desc>
+	<programme start="20261126115000 +0100" stop="20261126124500 +0100" channel="National Geographic HD">
+    <title>Guardacostas del Caribe E1</title>
+    <desc>Documentales,Actualidad | 2021 | +12 | *5.8/10
+· Los guardias costeros realizan una revisión rutinaria en busca de drogas en una fiesta en una embarcación, mientras que una complicada interceptación de un barco que transporta droga supone un reto para la tripulación del HNLMS Holland.</desc>
 	</programme>
-	<programme start="20261126121800 +0100" stop="20261126130900 +0100" channel="National Geographic HD">
-    <title>Guardacostas del Caribe T2 · Perdido en el mar</title>
-    <desc>Entretenimiento,Telerrealidad | 2023 | +12 | *6.0/10
-· Las cámaras se adentran en el día a día de la guardia costera del Caribe Neerlandés.
-· País: Países Bajos
-· Dirección: Evert Nijkamp.</desc>
+	<programme start="20261126124500 +0100" stop="20261126134000 +0100" channel="National Geographic HD">
+    <title>Guardacostas del Caribe E3</title>
+    <desc>Documentales,Actualidad | 2021 | +12 | *5.8/10
+· Los guardias costeros interceptan un barco repleto de refugiados y el helicóptero de búsqueda y rescate intenta salvar a la tripulación de un trimarán que se hunde.</desc>
 	</programme>
-	<programme start="20261126130900 +0100" stop="20261126135800 +0100" channel="National Geographic HD">
-    <title>Guardacostas del Caribe T2 · Control rutinario sorpresa</title>
-    <desc>Entretenimiento,Telerrealidad | 2023 | +12 | *6.0/10
-· Las cámaras se adentran en el día a día de la guardia costera del Caribe Neerlandés.
-· País: Países Bajos
-· Dirección: Evert Nijkamp.
-· Reparto: Andy, Abigail Dammers, Dionel, GERARDO, Janneke Mebius, Richard, Theo, Anna.
-· Productora: Remco Garcia.</desc>
+	<programme start="20261126134000 +0100" stop="20261126143500 +0100" channel="National Geographic HD">
+    <title>Guardacostas del Caribe E2</title>
+    <desc>Documentales,Actualidad | 2021 | +12 | *6.0/10
+· El helicóptero de búsqueda y rescate busca a una niña desaparecida en Bonaire, mientras los guardias costeros reciben una llamada para salvar al conductor de una moto acuática que se hunde.
+· País: Países Bajos</desc>
 	</programme>
-	<programme start="20261126135800 +0100" stop="20261126145800 +0100" channel="National Geographic HD">
+	<programme start="20261126143500 +0100" stop="20261126153000 +0100" channel="National Geographic HD">
     <title>Alerta contrabando: Contrabando en la playa</title>
     <desc>Documentales,Docureality | 2024 | +7 | *6.0/10
 · Alerta Contrabando: Los agentes de la Patrulla Fronteriza de EE. UU. en Puerto Rico asestan un duro golpe a una conocida organización de narcotraficantes al interceptar una embarcación que transportaba 201 kilos de cocaína, valorados en 2 millones de...
 · País: Reino Unido
 · Productora: National Geographic.</desc>
 	</programme>
-	<programme start="20261126145800 +0100" stop="20261126160000 +0100" channel="National Geographic HD">
+	<programme start="20261126153000 +0100" stop="20261126163000 +0100" channel="National Geographic HD">
     <title>Mayday: catástrofes aéreas · Distracción fatal</title>
     <desc>Documentales,Ciencia tecnología | 2007 | +12 | *6.2/10
 · ¿Por qué cayó el aparato? Las pistas llevan a los investigadores hasta una causa muy preocupante.
@@ -4443,7 +4527,7 @@
 · Guion: Carl Knutson.
 · Productora: Cineflix, Glen Salzman, Simon Lloyd, Samantha Linton, Larry Bambrick, Greg Lanning, Katherine Buck, John Vandervelde, Cineflix Productions, NF Inc, Galaxie Productions, Nextfilm Productions.</desc>
 	</programme>
-	<programme start="20261126160000 +0100" stop="20261126165900 +0100" channel="National Geographic HD">
+	<programme start="20261126163000 +0100" stop="20261126172500 +0100" channel="National Geographic HD">
     <title>Mayday:catástrofes aéreas · Aproximación letal</title>
     <desc>Documentales,Ciencia tecnología | 2019 | +12 | *6.0/10
 · En un trayecto desde Ámsterdam hasta Cardiff, Gales, la tripulación del vuelo 433 de la aerolínea KLM Cityhopper informa acerca de un problema con el motor, por lo que se dirigen de vuelta al aeropuerto.
@@ -4454,7 +4538,7 @@
 · Guion: Julia Nunes.
 · Productora: Cineflix, NF Inc, Kim Bondi, Galaxie Productions, Alex Bystram, Marco Avolio.</desc>
 	</programme>
-	<programme start="20261126165900 +0100" stop="20261126175800 +0100" channel="National Geographic HD">
+	<programme start="20261126172500 +0100" stop="20261126181500 +0100" channel="National Geographic HD">
     <title>Mayday: Catástrofes aéreas · Sin aviso</title>
     <desc>Documentales,Ciencia tecnología | 2019 | +12 | *6.0/10
 · Los accidentes aéreos suelen tener una magnitud catastrófica.
@@ -4464,28 +4548,7 @@
 · Reparto: Von Flores, Gerry Soejatman, Ray Nurcahyo, April Miranda, Dipal Patel, Mark Rainmaker, Joshua Barilko, Ony Wibowo, J.P Galvez, Taybion Nguyen, Todd Curtis.
 · Productora: Cineflix, Alex Bystram, Kim Bondi, NF Inc, Galaxie Productions, Lauren Hugh.</desc>
 	</programme>
-	<programme start="20261126175800 +0100" stop="20261126185800 +0100" channel="National Geographic HD">
-    <title>Expedientes misterio de la Antigüedad · Sodoma y Gomorra</title>
-    <desc>Documentales,Historia | 2012 | TP | *6.2/10
-· Un arqueólogo ha ido siguiendo distintas pistas del Antiguo Testamento y está convencido de haber descubierto la localización real de Sodoma y Gomorra, las famosas ciudades del pecado. Además, se han descubierto allí restos de cerámica.
-· País: Alemania, Estados Unidos y Reino Unido
-· Productora: Wag TV.</desc>
-	</programme>
-	<programme start="20261126185800 +0100" stop="20261126195800 +0100" channel="National Geographic HD">
-    <title>Expedientes misterio de la Antigüedad · Descifrar a los Incas</title>
-    <desc>Documentales,Historia | 2012 | TP | *6.2/10
-· Los Incas dominaban gran parte de Sudamérica hace quinientos años. Su imperio tapizó el continente de caminos, templos y ciudades construidas con gran precisión, pero lo más sorprendente es que lograron todo eso sin contar con una lengua escrita.
-· País: Alemania, Estados Unidos y Reino Unido
-· Productora: Wag TV.</desc>
-	</programme>
-	<programme start="20261126195800 +0100" stop="20261126205800 +0100" channel="National Geographic HD">
-    <title>Expedientes misterio de la Antigüedad · La corona de espinas</title>
-    <desc>Documentales,Historia | 2012 | TP | *6.0/10
-· Serie documental que explora las historias que han cautivado a la humanidad durante siglos. Una investigación científica para descubrir que hay tras los personajes enigmáticos y leyendas intrigantes a lo largo de los diferentes documentales.
-· País: Alemania, Estados Unidos y Reino Unido
-· Productora: Wag TV.</desc>
-	</programme>
-	<programme start="20261126205800 +0100" stop="20261126215500 +0100" channel="National Geographic HD">
+	<programme start="20261126181500 +0100" stop="20261126191000 +0100" channel="National Geographic HD">
     <title>El increíble doctor Pol: Marco Pol-O</title>
     <desc>Documentales,Naturaleza | 2021 | +12 | *5.8/10
 · La clínica veterinaria está sobrepasada de cachorros que no quieren tomarse su medicina. El Dr. Pol trata a tres cabras y a un adorable caballo miniatura, mientras la Dra. Brenda encuentra a la horma de su zapato con un reno de lo más pícaro.
@@ -4493,7 +4556,7 @@
 · Reparto: Jan Pol, Brenda Grettenberger, Lisa Jones.
 · Productora: National Geographic Television, Super Alright.</desc>
 	</programme>
-	<programme start="20261126215500 +0100" stop="20261126225000 +0100" channel="National Geographic HD">
+	<programme start="20261126191000 +0100" stop="20261126200000 +0100" channel="National Geographic HD">
     <title>El increíble doctor Pol: Una yegua en una misión imposible</title>
     <desc>Documentales,Naturaleza | 2021 | +12 | *6.2/10
 · El Dr. Pol se lanza a la carretera para tratar a Louella, una cerda enorme que está demasiado enferma como para alimentar a sus 15 cerditos.
@@ -4501,14 +4564,37 @@
 · Reparto: Jan Pol, Charles Pol, Diane Pol, Brenda Grettenberger, Lisa Jones.
 · Productora: National Geographic Television, Super Alright.</desc>
 	</programme>
-	<programme start="20261126225000 +0100" stop="20261126234500 +0100" channel="National Geographic HD">
+	<programme start="20261126200000 +0100" stop="20261126205000 +0100" channel="National Geographic HD">
+    <title>Fenómenos extremos: El gran brote de tornados de Alabama</title>
+    <desc>Documentales,Naturaleza | 2026 | +12 | *6.0/10
+· El 27 de abril de 2011, un número récord de 62 tornados arrasó Alabama durante la mayor oleada de tornados jamás registrada en Estados Unidos. Uno de ellos, en Tuscaloosa, resultó especialmente mortífero.
+· País: Reino Unido
+· Productora: National Geographic.</desc>
+	</programme>
+	<programme start="20261126205000 +0100" stop="20261126215000 +0100" channel="National Geographic HD">
+    <title>Máquinas colosales: Potencia de última generación</title>
+    <desc>Documentales,Ciencia tecnología | 2022 | TP | *6.2/10
+· Los expertos comparten los adelantos que se hallan tras las máquinas de nueva generación.
+· País: Canadá y Reino Unido
+· Dirección: Daniel Oron.
+· Productora: National Geographic Channel, Go Button Media, Natasha Ryan.</desc>
+	</programme>
+	<programme start="20261126215000 +0100" stop="20261126224500 +0100" channel="National Geographic HD">
+    <title>Máquinas colosales: Demonios de la velocidad</title>
+    <desc>Documentales,Ciencia tecnología | 2022 | TP | *6.0/10
+· La necesidad de velocidad ha dado lugar a una nueva clase de supermáquinas.
+· País: Canadá y Reino Unido
+· Dirección: Daniel Oron.
+· Productora: National Geographic Channel, Go Button Media, Natasha Ryan.</desc>
+	</programme>
+	<programme start="20261126224500 +0100" stop="20261126234000 +0100" channel="National Geographic HD">
     <title>Alerta contrabando: Medicación misteriosa</title>
     <desc>Documentales,Docureality | 2024 | +12 | *6.0/10
 · Una operación de inteligencia de la CBP en Misisipi da lugar a la interceptación y el registro de varios camiones sospechosos de transportar mercancía ilícita. Frente a la costa de Florida, agentes de la AMO abordan un yate procedente de Jamaica y se ven.
 · País: Reino Unido
 · Productora: National Geographic.</desc>
 	</programme>
-	<programme start="20261126234500 +0100" stop="20261127003500 +0100" channel="National Geographic HD">
+	<programme start="20261126234000 +0100" stop="20261127003500 +0100" channel="National Geographic HD">
     <title>Control de aeropuertos: USA · ¡Estas sábanas llevan maría!</title>
     <desc>Documentales,Sociedad | 2024 | +12 | *6.0/10
 · Los agentes incautan cocaína y metanfetaminas en Texas, mientras la patrulla de control de fronteras en San Diego sigue la pista de los traficantes de personas.
@@ -4516,7 +4602,7 @@
 · Música: Didier Rachou.
 · Productora: Lucky 8.</desc>
 	</programme>
-	<programme start="20261127003500 +0100" stop="20261127013500 +0100" channel="National Geographic HD">
+	<programme start="20261127003500 +0100" stop="20261127012000 +0100" channel="National Geographic HD">
     <title>Control de aeropuertos: USA · No hay descanso para los malvados</title>
     <desc>Documentales,Sociedad | 2024 | +12 | *5.6/10
 · El personal de Seguridad Nacional sigue a un vehículo sospechoso durante 48 horas, lo cual les conduce hasta un piso franco en San Diego. Los agentes de Control de Fronteras en Calexico utilizan un detector especial para localizar narcóticos.
@@ -4524,47 +4610,48 @@
 · Música: Didier Rachou.
 · Productora: Adam Flack, Yari Lorenzo, Lucky 8.</desc>
 	</programme>
-	<programme start="20261127013500 +0100" stop="20261127022000 +0100" channel="National Geographic HD">
+	<programme start="20261127012000 +0100" stop="20261127021000 +0100" channel="National Geographic HD">
     <title>Expedientes misterio de la Antigüedad · La espada clavada en la roca</title>
     <desc>Documentales,Historia | 2012 | TP | *6.0/10
 · La doctora Raluca Radulescu de la Universidad de Bangor, experta mundial en leyendas artúricas, está siguiendo el rastro de una misteriosa espada medieval que se encuentra clavada en una roca en una remota iglesia italiana.
 · País: Alemania, Estados Unidos y Reino Unido
 · Productora: Wag TV.</desc>
 	</programme>
-	<programme start="20261127022000 +0100" stop="20261127030200 +0100" channel="National Geographic HD">
+	<programme start="20261127021000 +0100" stop="20261127025000 +0100" channel="National Geographic HD">
     <title>Crimen organizado con Mariana Van Zeller T1 · Apuestas ilegales</title>
     <desc>Sin clasificar,SIN CLASIFICAR | 2023 | +16 | *6.2/10
 · A los estadounidenses les encanta apostar. El mercado legal ingresó 53 000 millones de dólares en 2021. Y, sin embargo, esa cantidad es solo una gota en el mar del juego ilegal, que se calcula que recauda mil millones de dólares al año.
 · País: Estados Unidos
 · Productora: Zoey Haar.</desc>
 	</programme>
-	<programme start="20261127030200 +0100" stop="20261127034400 +0100" channel="National Geographic HD">
+	<programme start="20261127025000 +0100" stop="20261127033500 +0100" channel="National Geographic HD">
     <title>Crimen organizado con Mariana Van Zeller · Carreras callejeras clandestinas</title>
     <desc>Documentales,Actualidad | 2024 | +16 | *6.8/10
 · Mariana se adentra en la subcultura cargada de adrenalina de las carreras callejeras ilegales que está causando estragos en ciudades de todo el mundo.
 · País: Estados Unidos</desc>
 	</programme>
-	<programme start="20261127034400 +0100" stop="20261127042800 +0100" channel="National Geographic HD">
+	<programme start="20261127033500 +0100" stop="20261127042000 +0100" channel="National Geographic HD">
     <title>Iconos del cielo: Nighthawk</title>
     <desc>Documentales,Historia | 2025 | +12 | *6.0/10
 · Descubra la increíble ingeniería del F-117 Nighthawk. Construido en secreto por la división de élite Skunk Works de Lockheed, se convirtió en el primer avión furtivo en 1981.
 · País: Reino Unido
 · Productora: National Geographic.</desc>
 	</programme>
-	<programme start="20261127042800 +0100" stop="20261127051200 +0100" channel="National Geographic HD">
+	<programme start="20261127042000 +0100" stop="20261127050000 +0100" channel="National Geographic HD">
     <title>Iconos del cielo: DC-3</title>
     <desc>Documentales,Historia | 2025 | +12 | *6.2/10
 · Un viaje a través de 125 años de historia de la aviación para descubrir los aviones que transformaron el mundo. Esta serie revela los secretos de ingeniería y diseño que hicieron de estas aeronaves auténticos hitos.
 · País: Reino Unido
 · Productora: National Geographic.</desc>
 	</programme>
-	<programme start="20261127051200 +0100" stop="20261127061300 +0100" channel="National Geographic HD">
-    <title>Iconos del cielo E8</title>
-    <desc>Documentales,Historia | 2026 | +12 | *6.0/10
+	<programme start="20261127050000 +0100" stop="20261127062000 +0100" channel="National Geographic HD">
+    <title>Iconos del cielo: Spitfire</title>
+    <desc>Documentales,Historia | 2025 | +12 | *6.0/10
 · Un viaje a través de 125 años de historia de la aviación para descubrir los aviones que transformaron el mundo. Esta serie revela los secretos de ingeniería y diseño que hicieron de estas aeronaves auténticos hitos.
-· País: Reino Unido</desc>
+· País: Reino Unido
+· Productora: National Geographic.</desc>
 	</programme>
-	<programme start="20261127061300 +0100" stop="20261127065700 +0100" channel="National Geographic HD">
+	<programme start="20261127062000 +0100" stop="20261127070500 +0100" channel="National Geographic HD">
     <title>Europa: maravillas de la ingeniería · Reino Unido</title>
     <desc>Documentales,Ciencia tecnología | 2024 | TP | *6.0/10
 · Revelando las mayores maravillas de la ingeniería del Reino Unido, exploramos las máquinas voladoras eléctricas más innovadoras del mundo.
@@ -4572,7 +4659,7 @@
 · Dirección: Oli Sloane.
 · Reparto: Simon Davis, Carmen Evans, Tom Lilley, Jamie, Yuriy Melyncho, Ion Cocieri, Eilidh Love, Gareth Jacques, Alix Waldron, John Fleming, John O\, Kevin Bate.</desc>
 	</programme>
-	<programme start="20261127065700 +0100" stop="20261127074100 +0100" channel="National Geographic HD">
+	<programme start="20261127070500 +0100" stop="20261127074500 +0100" channel="National Geographic HD">
     <title>Europa: maravillas de la ingeniería · Los países nórdicos</title>
     <desc>Documentales,Ciencia tecnología | 2024 | TP | *6.2/10
 · Explora las maravillas de la ingeniería de la región más septentrional de Europa, desde las épicas barreras de Islandia que desafían la lava hasta la fábrica vertical de Finlandia, que bate récords.
@@ -4580,7 +4667,7 @@
 · Dirección: Oli Sloane.
 · Reparto: Hörn Hrafnsdottir, Ville Haakvikko, Yukka PäKila, Alex Kiviorg, Barbara Macaulay, Håkan Hyllegren, Ville Hakaa, Bjørg Agasøster.</desc>
 	</programme>
-	<programme start="20261127074100 +0100" stop="20261127082900 +0100" channel="National Geographic HD">
+	<programme start="20261127074500 +0100" stop="20261127083000 +0100" channel="National Geographic HD">
     <title>Europa: maravillas de la ingeniería · Polonia</title>
     <desc>Documentales,Ciencia tecnología | 2024 | TP | *5.8/10
 · Revelando las maravillas de la ingeniería más audaces de Polonia, observamos cómo un súper puerto se eleva desde las profundidades del mar.
@@ -4589,7 +4676,7 @@
 · Reparto: Dominik Wroblewski, Maciej Olczyk, Agnieska Stefanska-Krasowska, Wojciech Smolen, Jaroslaw Sitarz, Kamil Broniowski, Andrzej Wnuk, Aleksandra Pietrakowska, Anna Olonowicz, Michal Demski, Mateusz Wanat, Marcin Curkowicz.
 · Productora: Carlo Massarella.</desc>
 	</programme>
-	<programme start="20261127082900 +0100" stop="20261127092200 +0100" channel="National Geographic HD">
+	<programme start="20261127083000 +0100" stop="20261127091500 +0100" channel="National Geographic HD">
     <title>Europa: maravillas de la ingeniería · Países Bajos</title>
     <desc>Documentales,Ciencia tecnología | 2024 | TP | *6.2/10
 · Sumérgete en el asombroso mundo de la ingeniería holandesa, donde el ingenio humano se fusiona con el inagotable poder de la naturaleza.
@@ -4598,30 +4685,26 @@
 · Reparto: Rik Wols, Stephan Keizer, Sebastiaan Verstraete, Eric van de Weegen, Marc Polderman, Kim Oosterom, Arne Lijbers, Guillaume Henry, Robert Hoffman, Anetta de Jong, Janwillem Breider, Carlijn Bodewes, Sjors Allersma.
 · Productora: Windfall Films, Carlo Massarella.</desc>
 	</programme>
-	<programme start="20261127092200 +0100" stop="20261127100600 +0100" channel="National Geographic HD">
+	<programme start="20261127091500 +0100" stop="20261127100000 +0100" channel="National Geographic HD">
     <title>Europa: maravillas de la ingeniería · Alemania</title>
     <desc>Documentales,Ciencia tecnología | 2024 | TP | *5.8/10
 · Embárcate en un emocionante viaje a través de las mayores proezas de la ingeniería alemana.
 · País: Reino Unido
 · Dirección: Oli Sloane.</desc>
 	</programme>
-	<programme start="20261127100600 +0100" stop="20261127105600 +0100" channel="National Geographic HD">
-    <title>Las reparaciones más difíciles del mundo · El cierre de la tubería</title>
-    <desc>Documentales,Ciencia tecnología | 2007 | TP | *6.2/10
-· Riley viaja al corazón de Alaska para una reparación muy peligrosa que podría afectar al bolsillo de millones de personas.
-· País: Estados Unidos
-· Presenta: Sean Riley.
-· Productora: National Geographic Television.</desc>
+	<programme start="20261127100000 +0100" stop="20261127104500 +0100" channel="National Geographic HD">
+    <title>Rescate extremo: Dificultad máxima</title>
+    <desc>Documentales,Viajes | 2020 | +12 | *6.2/10
+· Un taladro de perforación rotatoria cuelga sobre un precipicio de 15 metros de altura y Ole Henrik debe tomar una decisión de vida o muerte.</desc>
 	</programme>
-	<programme start="20261127105600 +0100" stop="20261127114600 +0100" channel="National Geographic HD">
-    <title>Las reparaciones más difíciles del mundo · Tránsito masivo</title>
-    <desc>Documentales,Ciencia tecnología | 2009 | TP | *6.2/10
-· Un millón de personas trasladándose de un lugar a otro, yendo y viniendo del trabajo a casa. Es un día normal en el quinto sistema de transporte más grande de los Estados Unidos.
-· País: Estados Unidos
-· Presenta: Sean Riley.
-· Productora: National Geographic Television.</desc>
+	<programme start="20261127104500 +0100" stop="20261127114000 +0100" channel="National Geographic HD">
+    <title>Rescate extremo 11: Golpe de frío</title>
+    <desc>Documentales,Viajes | 2026 | +7 | *6.0/10
+· En Overhalla, la situación se complica. Jo Roger acude al rescate nocturno de un camión de cincuenta y una toneladas que transporta barras de acero, pero su equipo corre el riesgo de fracasar.
+· País: Noruega y Reino Unido
+· Productora: National Geographic.</desc>
 	</programme>
-	<programme start="20261127114600 +0100" stop="20261127123400 +0100" channel="National Geographic HD">
+	<programme start="20261127114000 +0100" stop="20261127123500 +0100" channel="National Geographic HD">
     <title>Mayday: Catástrofes aéreas · Terror sobre el Pacífico</title>
     <desc>Documentales,Ciencia tecnología | 2024 | +12 | *5.8/10
 · Una gran explosión produce una rotura en un 747 cuando sobrevuela Hawái, y el rastro de pistas acaba llevando a los investigadores a un cortocircuito de consecuencias catastróficas.
@@ -4630,7 +4713,7 @@
 · Reparto: Mike Dara.
 · Productora: Cineflix, Alex Bystram, J.C Mills.</desc>
 	</programme>
-	<programme start="20261127123400 +0100" stop="20261127132200 +0100" channel="National Geographic HD">
+	<programme start="20261127123500 +0100" stop="20261127133000 +0100" channel="National Geographic HD">
     <title>Mayday: Catástrofes aéreas · La muerte de una estrella del fútbol</title>
     <desc>Documentales,Ciencia tecnología | 2023 | +12 | *5.8/10
 · Un Piper Malibu contratado para un vuelo privado que llevaba a bordo a la estrella del fútbol Emiliano Sala desapareció repentinamente del radar cuando sobrevolaba el Canal de la Mancha.
@@ -4640,7 +4723,7 @@
 · Música: Jonathan Aris, Anthony Rozankovic.
 · Productora: Cineflix, Alex Bystram, J.C Mills.</desc>
 	</programme>
-	<programme start="20261127132200 +0100" stop="20261127140500 +0100" channel="National Geographic HD">
+	<programme start="20261127133000 +0100" stop="20261127142500 +0100" channel="National Geographic HD">
     <title>Mayday: Catástrofes aéreas · Lucha por la supervivencia</title>
     <desc>Documentales,Ciencia tecnología | 2023 | +12 | *6.0/10
 · Cuando emergen las llamas a través del suelo de la cabina de mando, los pilotos del vuelo 458 de Pilgrim Airlines 458 logran realizar un aterrizaje heroico sobre una presa helada Rhode Island.
@@ -4651,7 +4734,7 @@
 · Música: Jonathan Aris, Anthony Rozankovic.
 · Productora: Cineflix, Alex Bystram, J.C Mills.</desc>
 	</programme>
-	<programme start="20261127140500 +0100" stop="20261127151500 +0100" channel="National Geographic HD">
+	<programme start="20261127142500 +0100" stop="20261127152500 +0100" channel="National Geographic HD">
     <title>Último vuelo: anatomía de un desastre · Vuelo 780 Cathay / Hong Kong</title>
     <desc>Documentales,Ciencia tecnología | 2025 | +12 | *6.0/10
 · En un vuelo rutinario desde Surabaya (Indonesia) a Hong Kong, el Cathay 780 sufrió unas alertas inexplicables en los motores. Durante el trayecto, ambos motores fallaron, convirtiendo el avión en un planeador.
@@ -4659,7 +4742,7 @@
 · Dirección: Dan Bree.
 · Reparto: Mark Slobodian.</desc>
 	</programme>
-	<programme start="20261127151500 +0100" stop="20261127161700 +0100" channel="National Geographic HD">
+	<programme start="20261127152500 +0100" stop="20261127162000 +0100" channel="National Geographic HD">
     <title>Último vuelo: anatomía de un desastre · Vuelo 6 de Pan Am / Ocean Station November</title>
     <desc>Documentales,Ciencia tecnología | 2025 | +12 | *6.0/10
 · En la última etapa de su ruta alrededor del mundo en 1956, el vuelo Pan Am 6 despega de Honolulu con destino a San Francisco. Con solo 24 pasajeros a bordo, el Boeing Stratocruiser es el paradigma del lujo.
@@ -4667,7 +4750,7 @@
 · Dirección: Dan Bree.
 · Reparto: Mark Slobodian.</desc>
 	</programme>
-	<programme start="20261127161700 +0100" stop="20261127171600 +0100" channel="National Geographic HD">
+	<programme start="20261127162000 +0100" stop="20261127172000 +0100" channel="National Geographic HD">
     <title>Mayday: Catástrofes aéreas · Entrega letal</title>
     <desc>Documentales,Ciencia tecnología | 2020 | +12 | *6.2/10
 · Haciendo frente a la escasa visibilidad, un vuelo de carga nocturno se encuentra en la aproximación final a un aeropuerto de Alabama cuando golpea una arboleda y se estrella a una milla de la pista.
@@ -4678,7 +4761,7 @@
 · Guion: Julia Nunes.
 · Productora: Cineflix, Peter Skrzypczak, Alex Bystram, Kim Bondi, NF Inc, Galaxie Productions.</desc>
 	</programme>
-	<programme start="20261127171600 +0100" stop="20261127180000 +0100" channel="National Geographic HD">
+	<programme start="20261127172000 +0100" stop="20261127181000 +0100" channel="National Geographic HD">
     <title>Mayday: catástrofes aéreas · Un impacto brusco</title>
     <desc>Documentales,Ciencia tecnología | 2015 | +12 | *6.2/10
 · Un astronauta de la NASA, un ex senador estadounidense y veintiún personas más mueren en el accidente de un avión de pasajeros en Georgia. Los investigadores tienen que dar pronto con una teoría que explique el accidente.
@@ -4689,64 +4772,69 @@
 · Guion: Andrew Kaufman.
 · Productora: Cineflix, NF Inc, Alex Bystram, Kim Bondi, Exan Auyoung, Galaxie Productions.</desc>
 	</programme>
-	<programme start="20261127180000 +0100" stop="20261127185900 +0100" channel="National Geographic HD">
-    <title>Fenómenos extremos: Huracán Harvey</title>
+	<programme start="20261127181000 +0100" stop="20261127191000 +0100" channel="National Geographic HD">
+    <title>Tras el desastre: Accidentes</title>
+    <desc>Documentales,Ciencia tecnología | 2024 | +12 | *6.4/10
+· Cada año se producen en el mundo miles de accidentes de tren y devastadores siniestros de aviación. Desde secuestros a fallos tecnológicos, estos incidentes ponen de manifiesto los peligros inherentes a los viajes.
+· País: Estados Unidos
+· Dirección: Guilain Depardieu.
+· Productora: Big Media.</desc>
+	</programme>
+	<programme start="20261127191000 +0100" stop="20261127200000 +0100" channel="National Geographic HD">
+    <title>Tras el desastre: Desastres en el mar</title>
+    <desc>Documentales,Ciencia tecnología | 2025 | +12 | *6.2/10
+· Tras el desastre: Desde accidentes que llenaron titulares hasta buques naufragados que fueron olvidados: el océano se ha llevado incontables vidas. Errores humanos, tormentas, eventos imprevistos, fallos técnicos e incluso simplemente la mala suerte,...
+· País: Estados Unidos
+· Dirección: Guilain Depardieu.
+· Productora: Big Media.</desc>
+	</programme>
+	<programme start="20261127200000 +0100" stop="20261127205500 +0100" channel="National Geographic HD">
+    <title>Titanic: 25 años después con James Cameron</title>
+    <desc>Documentales,Historia | 2022 | TP | *6.0/10
+· James Cameron reúne a expertos para que le ayuden a explorar los mitos del naufragio.
+· País: Estados Unidos
+· Dirección: Thomas C. Grane.
+· Guion: Richard Brehm.
+· Productora: National Geographic Channel.</desc>
+	</programme>
+	<programme start="20261127205500 +0100" stop="20261127215000 +0100" channel="National Geographic HD">
+    <title>Apolo: regreso a la Luna: El reto imposible</title>
+    <desc>Documentales,Ciencia tecnología | 2018 | TP | *6.2/10
+· En este episodio, con el telón de fondo de la Guerra Fría, se relata la primera parte del programa, desde el desastre del Apolo 1 hasta el éxito de la misión Apolo 8.
+· País: Estados Unidos y Francia</desc>
+	</programme>
+	<programme start="20261127215000 +0100" stop="20261127225000 +0100" channel="National Geographic HD">
+    <title>Apolo: regreso a la Luna: La misión definitiva</title>
+    <desc>Documentales,Ciencia tecnología | 2018 | TP | *6.0/10
+· El Apolo 11 y sus últimos secretos están en el centro de este episodio, que también da vida a las últimas luces de un programa que creó tantas victorias como decepciones.
+· País: Estados Unidos y Francia</desc>
+	</programme>
+	<programme start="20261127225000 +0100" stop="20261128003000 +0100" channel="National Geographic HD">
+    <title>Evacuar la Tierra</title>
+    <desc>Documentales,Naturaleza | 2012 | +12 | *6.4/10
+· Este documental es un especial repleto de imágenes generadas por ordenador y entrevistas con los expertos internacionales más reputados, que analiza la cuestión de cómo podríamos abandonar la Tierra si llegase el momento.
+· País: Estados Unidos
+· Dirección: Ted Schillinger.
+· Reparto: Caleb Scharf, Matt Ganey, Daniel Wachs, John Sanders, John G. Rice Jr, Krystle McMullan, Connor Marsico, Ryan Kim.
+· Productora: Atlas Media, Creative Audio Post.</desc>
+	</programme>
+	<programme start="20261128003000 +0100" stop="20261128013000 +0100" channel="National Geographic HD">
+    <title>Fenómenos extremos: El gran brote de tornados de Alabama</title>
     <desc>Documentales,Naturaleza | 2026 | +12 | *6.0/10
-· En agosto de 2017, una tormenta tropical se convierte en un violento huracán a una velocidad aterradora. Los cazadores de tormentas Simon y Juston documentan el huracán Harvey, la primera tormenta de categoría 4.
-· País: Estados Unidos y Reino Unido
+· El 27 de abril de 2011, un número récord de 62 tornados arrasó Alabama durante la mayor oleada de tornados jamás registrada en Estados Unidos. Uno de ellos, en Tuscaloosa, resultó especialmente mortífero.
+· País: Reino Unido
 · Productora: National Geographic.</desc>
 	</programme>
-	<programme start="20261127185900 +0100" stop="20261127195800 +0100" channel="National Geographic HD">
-    <title>Las conexiones de la ingeniería · Guggenheim Bilbao</title>
-    <desc>Documentales,Ciencia tecnología | 2009 | TP | *6.0/10
-· Richard Hammond visita un edificio al que han descrito como «el más grandioso de nuestra era», el museo Guggenheim de Bilbao, para descubrir qué Conexiones de la Ingeniería han hecho posible este icónico edificio.
-· País: Estados Unidos y Reino Unido
-· Productora: Darlow Smithson Productions.</desc>
+	<programme start="20261128013000 +0100" stop="20261128021000 +0100" channel="National Geographic HD">
+    <title>Notre Dame: La increíble carrera contra el infierno</title>
+    <desc>Documentales,Sociedad | 2019 | +12 | *6.2/10
+· En abril de 2019, la catedral más famosa del mundo se incendió. Notre-Dame de París ardía mientras el mundo entero contemplaba la catástrofe y los bomberos luchaban contra un infierno que se prolongó durante horas.
+· País: Estados Unidos y Francia
+· Dirección: Fabrice Gardel, Simon Kessler, Josselin Mahot.
+· Guion: Fabrice Gardel, Simon Kessler, Josselin Mahot.
+· Productora: Galaxie Presse.</desc>
 	</programme>
-	<programme start="20261127195800 +0100" stop="20261127205700 +0100" channel="National Geographic HD">
-    <title>Las conexiones de la ingeniería · HMS Illustrious</title>
-    <desc>Documentales,Ciencia tecnología | 2009 | TP | *6.0/10
-· Este documental nos muestra seis aeroplanos históricos. Cada uno de ellos cuenta con una innovación tecnológica que permitió a los ingenieros fabricar aviones de carga cada vez más grandes.
-· País: Estados Unidos y Reino Unido
-· Productora: Darlow Smithson Productions.</desc>
-	</programme>
-	<programme start="20261127205700 +0100" stop="20261127215400 +0100" channel="National Geographic HD">
-    <title>El increíble doctor Pol: Toboganes y vejigas</title>
-    <desc>Documentales,Naturaleza | 2022 | +12 | *6.0/10
-· Los veterinarios responden a múltiples emergencias; de un caballo gravemente traumatizado en un accidente a un dulce perrito que quedó con una herida muy grave en el ojo después de una pelea.
-· País: Estados Unidos
-· Presenta: Jan Pol.
-· Reparto: Brenda Grettenberger, Lisa Jones, Jan Pol, Nicole Arcy.
-· Productora: Super Alright, National Geographic Television.</desc>
-	</programme>
-	<programme start="20261127215400 +0100" stop="20261127225000 +0100" channel="National Geographic HD">
-    <title>El increíble doctor Pol: Pol de patrulla</title>
-    <desc>Documentales,Naturaleza | 2022 | +12 | *6.0/10
-· Con una vaca rebelde, la hernia doble de un potro y la primera visita a un cachorro.
-· País: Estados Unidos
-· Presenta: Jan Pol.
-· Reparto: Ari Rubin, Nicole Arcy, Brenda Grettenberger, Lisa Jones, Charles Pol, Diane Pol, Jan Pol, Tara Westphal.
-· Productora: Super Alright, National Geographic Television.</desc>
-	</programme>
-	<programme start="20261127225000 +0100" stop="20261127234900 +0100" channel="National Geographic HD">
-    <title>Rescate En La Mina Chilena: La Carrera Contra El Tiempo · Rescate en la mina chilena: La carrera contra el tiempo 1</title>
-    <desc>Documentales,Documental | 2025 | +7 | *6.0/10
-· Rescate en la mina chilena: La carrera contra el tiempo 1.
-· País: Estados Unidos y Reino Unido</desc>
-	</programme>
-	<programme start="20261127234900 +0100" stop="20261128004800 +0100" channel="National Geographic HD">
-    <title>Rescate En La Mina Chilena: La Carrera Contra El Tiempo · Rescate en la mina chilena: La carrera contra el tiempo 2</title>
-    <desc>Documentales,Documental | 2025 | +7 | *6.0/10
-· Rescate en la mina chilena: La carrera contra el tiempo 2.
-· País: Estados Unidos y Reino Unido</desc>
-	</programme>
-	<programme start="20261128004800 +0100" stop="20261128014500 +0100" channel="National Geographic HD">
-    <title>Rescate En La Mina Chilena: La Carrera Contra El Tiempo · Rescate en la mina chilena: La carrera contra el tiempo 3</title>
-    <desc>Documentales,Documental | 2025 | +7 | *5.8/10
-· Rescate en la mina chilena: La carrera contra el tiempo 3.
-· País: Estados Unidos y Reino Unido</desc>
-	</programme>
-	<programme start="20261128014500 +0100" stop="20261128022700 +0100" channel="National Geographic HD">
+	<programme start="20261128021000 +0100" stop="20261128025500 +0100" channel="National Geographic HD">
     <title>El desastre del puente de Génova</title>
     <desc>Documentales,Ciencia tecnología | 2019 | +12 | *6.0/10
 · Documental que analiza el desastre tras el derrumbe del puente de Génova que le costó la vida a medio centenar de personas.
@@ -4755,7 +4843,7 @@
 · Producción: Marco Visalberghi.
 · Productora: Doclab.</desc>
 	</programme>
-	<programme start="20261128022700 +0100" stop="20261128030900 +0100" channel="National Geographic HD">
+	<programme start="20261128025500 +0100" stop="20261128033500 +0100" channel="National Geographic HD">
     <title>Crimen organizado con Mariana Van Zeller · Partes del cuerpo</title>
     <desc>Documentales,Actualidad | 2020 | +16 | *6.0/10
 · Cada año, la venta de órganos humanos genera miles de millones de dólares en todo el mundo. Sorprendentemente, este próspero comercio permanece en gran medida oculto a la opinión pública. Con escasa supervisión, abundan los abusos.
@@ -4764,7 +4852,7 @@
 · Guion: Alex Simmons.
 · Productora: Muck Media.</desc>
 	</programme>
-	<programme start="20261128030900 +0100" stop="20261128035100 +0100" channel="National Geographic HD">
+	<programme start="20261128033500 +0100" stop="20261128042000 +0100" channel="National Geographic HD">
     <title>Crimen organizado con Mariana Van Zeller · Simios</title>
     <desc>Documentales,Actualidad | 2020 | +16 | *6.2/10
 · Mariana investiga el comercio ilegal de simios salvajes.
@@ -4773,7 +4861,7 @@
 · Guion: Alex Simmons.
 · Productora: Muck Media.</desc>
 	</programme>
-	<programme start="20261128035100 +0100" stop="20261128043300 +0100" channel="National Geographic HD">
+	<programme start="20261128042000 +0100" stop="20261128050000 +0100" channel="National Geographic HD">
     <title>Bajo la ciudad: arqueología oculta · Un hipogeo oculto y cartas perdidas</title>
     <desc>Documentales,Arte y cultura | 2026 | +12 | *5.8/10
 · Bajo la ciudad: arqueología oculta: Descubre los extraordinarios mundos que se esconden bajo los centros urbanos modernos. Bajo las calles de piedra, tierra y hormigón existen reinos ocultos.
@@ -4782,7 +4870,7 @@
 · Guion: Serena Marotta.
 · Productora: Shark Teeth Films.</desc>
 	</programme>
-	<programme start="20261128043300 +0100" stop="20261128051500 +0100" channel="National Geographic HD">
+	<programme start="20261128050000 +0100" stop="20261128054500 +0100" channel="National Geographic HD">
     <title>Bajo la ciudad: arqueología oculta · Secretos subterráneos y cimientos olvidados</title>
     <desc>Documentales,Arte y cultura | 2026 | +12 | *6.2/10
 · Descubre los extraordinarios mundos que se esconden bajo los centros urbanos modernos. Bajo las calles de piedra, tierra y hormigón existen reinos ocultos moldeados por la supervivencia.
@@ -4791,7 +4879,7 @@
 · Guion: Serena Marotta.
 · Productora: Shark Teeth Films.</desc>
 	</programme>
-	<programme start="20261128051500 +0100" stop="20261128060800 +0100" channel="National Geographic HD">
+	<programme start="20261128054500 +0100" stop="20261128060800 +0100" channel="National Geographic HD">
     <title>Bajo la ciudad: arqueología oculta · Barcos de guerra enterrados y víctimas vikingas</title>
     <desc>Documentales,Arte y cultura | 2026 | +12 | *6.0/10
 · Descubre los extraordinarios mundos que se esconden bajo los centros urbanos modernos. Bajo las calles de piedra, tierra y hormigón existen reinos ocultos.
@@ -6634,7 +6722,7 @@
 	</programme>
 	<programme start="20261128160000 +0100" stop="20261128161500 +0100" channel="DAZN LaLiga HD">
     <title>DIRECTO Málaga - Athletic T26/27 · DAZN Previa</title>
-    <desc>Deportes,Programa deportes | 2026 | TP
+    <desc>Deportes,Programa deportes | 2026 | TP | *10.0/10
 · Toda la información previa a los partidos que va a emitir DAZN. Las noticias, las estadísticas, el análisis y los datos necesarios para disfrutar más de los encuentros.
 · País: España</desc>
 	</programme>
@@ -6670,7 +6758,7 @@
 	</programme>
 	<programme start="20261128204500 +0100" stop="20261128210000 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 16: Albacete BP - CD Tenerife</title>
-    <desc>Deportes,Fútbol | 2026 | TP
+    <desc>Deportes,Fútbol | 2026 | TP | *2.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
@@ -6726,7 +6814,7 @@
 	</programme>
 	<programme start="20261129001500 +0100" stop="20261129003000 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 16: Real Valladolid CF - Real Sociedad B</title>
-    <desc>Deportes,Fútbol | 2026 | TP
+    <desc>Deportes,Fútbol | 2026 | TP | *4.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
@@ -6756,7 +6844,7 @@
 	</programme>
 	<programme start="20261129121500 +0100" stop="20261129123000 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 16: Albacete BP - CD Tenerife</title>
-    <desc>Deportes,Fútbol | 2026 | TP
+    <desc>Deportes,Fútbol | 2026 | TP | *2.0/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
@@ -6834,13 +6922,13 @@
 	</programme>
 	<programme start="20261129230000 +0100" stop="20261130004500 +0100" channel="DAZN LaLiga HD">
     <title>DIRECTO Programa 11 T26/27 · El Post de DAZN</title>
-    <desc>Deportes,Programa deportes | 2026 | TP
+    <desc>Deportes,Programa deportes | 2026 | TP | *4.0/10
 · La jornada de LALIGA no termina con el pitido final del último partido. El Post ofrece las mejores imágenes y análisis de los partidos de la jornada. Es el programa perfecto para enterarte de todo lo que ha sucedido en cada encuentro.
 · País: España</desc>
 	</programme>
 	<programme start="20261130004500 +0100" stop="20261130010000 +0100" channel="DAZN LaLiga HD">
     <title>Resúmenes DAZN LaLiga EA Sports T26/27 · Jornada 14: Celta - Villarreal</title>
-    <desc>Deportes,Fútbol | 2026 | TP
+    <desc>Deportes,Fútbol | 2026 | TP | *5.0/10
 · Resumen con lo más destacado de cada uno de los partidos de Primera División.
 · País: España</desc>
 	</programme>
@@ -7494,7 +7582,7 @@
 	</programme>
 	<programme start="20261127205400 +0100" stop="20261127230000 +0100" channel="M+ LaLiga HD">
     <title>DIRECTO Jornada 14: Levante UD - R. Racing Club T26/27 · LALIGA EA SPORTS</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · Dos partidos consecutivos en casa y ambos en la misma semana. Tras el choque ante el Elche el equipo de Luis Castro es muy consciente de la importancia de los puntos en disputa ante los cántabros. El Racing necesita mejorar lejos del Sardinero.
 · País: España</desc>
 	</programme>
@@ -7554,7 +7642,7 @@
 	</programme>
 	<programme start="20261128080000 +0100" stop="20261128095500 +0100" channel="M+ LaLiga HD">
     <title>Jornada 14: Levante UD - R. Racing Club T26/27 · LALIGA EA SPORTS</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · Dos partidos consecutivos en casa y ambos en la misma semana. Tras el choque ante el Elche el equipo de Luis Castro es muy consciente de la importancia de los puntos en disputa ante los cántabros. El Racing necesita mejorar lejos del Sardinero.
 · País: España</desc>
 	</programme>
@@ -7674,7 +7762,7 @@
 	</programme>
 	<programme start="20261129060500 +0100" stop="20261129080000 +0100" channel="M+ LaLiga HD">
     <title>Jornada 14: Levante UD - R. Racing Club T26/27 · LALIGA EA SPORTS</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · Dos partidos consecutivos en casa y ambos en la misma semana. Tras el choque ante el Elche el equipo de Luis Castro es muy consciente de la importancia de los puntos en disputa ante los cántabros. El Racing necesita mejorar lejos del Sardinero.
 · País: España</desc>
 	</programme>
@@ -7746,7 +7834,7 @@
 	</programme>
 	<programme start="20261129203000 +0100" stop="20261129210000 +0100" channel="M+ LaLiga HD">
     <title>RC Celta - Villarreal CF T26/27 · La Casa del Fútbol Post</title>
-    <desc>Deportes,Programa deportes | 2026 | TP
+    <desc>Deportes,Programa deportes | 2026 | TP | *4.0/10
 · Postpartido Liga.
 · País: España</desc>
 	</programme>
@@ -8055,7 +8143,7 @@
 	</programme>
 	<programme start="20261128030000 +0100" stop="20261128050000 +0100" channel="M+ Liga de Campeones HD">
     <title>Brasileirao T2026 · Jornada 37: Chapecoense - Palmeiras</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+    <desc>Deportes,Fútbol | 2026 | TP
 · El fútbol en Brasil es una religión. Su liga es una factoría inagotable de jugadores.
 · País: Brasil</desc>
 	</programme>
@@ -8161,7 +8249,7 @@
 	</programme>
 	<programme start="20261129063000 +0100" stop="20261129083000 +0100" channel="M+ Liga de Campeones HD">
     <title>Brasileirao T2026 · Jornada 37: Chapecoense - Palmeiras</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+    <desc>Deportes,Fútbol | 2026 | TP
 · El fútbol en Brasil es una religión. Su liga es una factoría inagotable de jugadores.
 · País: Brasil</desc>
 	</programme>
@@ -8191,7 +8279,7 @@
 	</programme>
 	<programme start="20261129145500 +0100" stop="20261129170000 +0100" channel="M+ Liga de Campeones HD">
     <title>DIRECTO Jornada 13: Sassuolo - Nápoles T26/27 · Serie A Calcio</title>
-    <desc>Deportes,Fútbol | 2026 | *6.6/10
+    <desc>Deportes,Fútbol | 2026 | *6.0/10
 · El fútbol italiano cuenta con uno de los campeonatos más prestigiosos de todo el planeta, la Serie A. La liga cuenta con gigantes del fútbol mundial y cultiva alguna de las rivalidades más encarnizadas de este deporte. El Inter defiende 'Scudetto'.
 · País: Italia</desc>
 	</programme>
@@ -8240,7 +8328,7 @@
 	</programme>
 	<programme start="20261125155500 +0100" stop="20261125180000 +0100" channel="M+ Liga de Campeones 2 HD">
     <title>DIRECTO Jornada 5: PSG - Roma T26/27 · UEFA Youth League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · Las futuras estrellas del fútbol continental protagonizan la Youth League. El torneo de la UEFA da la oportunidad a los juveniles de los clubes que participan en Champions de mostrar su talento más allá de sus países. El Barcelona se impuso en 2025.</desc>
 	</programme>
 	<programme start="20261125180000 +0100" stop="20261125200000 +0100" channel="M+ Liga de Campeones 2 HD">
@@ -9556,7 +9644,7 @@
 	</programme>
 	<programme start="20261128002700 +0100" stop="20261128003200 +0100" channel="M+ Originales HD">
     <title>Celeste (Extras) T2 E4 · Terry</title>
-    <desc>Series,Making of | +12 | *4.0/10
+    <desc>Series,Making of | +12 | *6.0/10
 · Terry es el robaescenas de "Celeste" y toma más protagonismo en la segunda temporada. Pero el perro detrás del personaje se llama Cooper y todo el equipo lo adora.
 · País: España</desc>
 	</programme>
@@ -17788,7 +17876,7 @@
 	</programme>
 	<programme start="20261126073800 +0100" stop="20261126083500 +0100" channel="BBC Lifestyle">
     <title>SOS: La Gran Reforma T32 E1</title>
-    <desc>Sin clasificar,SIN CLASIFICAR | 2026 | TP | *6.2/10
+    <desc>Sin clasificar,SIN CLASIFICAR | 2026 | TP | *6.0/10
 · En Caswell Bay, Swansea, el equipo construye el primer centro de surf totalmente adaptado del mundo.
 · País: Reino Unido</desc>
 	</programme>
@@ -17838,7 +17926,7 @@
 	</programme>
 	<programme start="20261126125100 +0100" stop="20261126134800 +0100" channel="BBC Lifestyle">
     <title>SOS: La Gran Reforma T32 E1</title>
-    <desc>Sin clasificar,SIN CLASIFICAR | 2026 | TP | *6.2/10
+    <desc>Sin clasificar,SIN CLASIFICAR | 2026 | TP | *6.0/10
 · En Caswell Bay, Swansea, el equipo construye el primer centro de surf totalmente adaptado del mundo.
 · País: Reino Unido</desc>
 	</programme>
@@ -17888,7 +17976,7 @@
 	</programme>
 	<programme start="20261126180300 +0100" stop="20261126190000 +0100" channel="BBC Lifestyle">
     <title>SOS: La Gran Reforma T32 E1</title>
-    <desc>Sin clasificar,SIN CLASIFICAR | 2026 | TP | *6.2/10
+    <desc>Sin clasificar,SIN CLASIFICAR | 2026 | TP | *6.0/10
 · En Caswell Bay, Swansea, el equipo construye el primer centro de surf totalmente adaptado del mundo.
 · País: Reino Unido</desc>
 	</programme>
@@ -18933,9 +19021,9 @@
 · Productora: BBC (British Broadcasting Corporation), Denham Productions.</desc>
 	</programme>
 	<programme start="20261126002500 +0100" stop="20261126012600 +0100" channel="BBC Food">
-    <title>Rick Stein: Camino a México · De Oaxaca a la Chinantla</title>
-    <desc>Documentales,Viajes | 2017 | TP | *6.0/10
-· El viaje de Rick le lleva al paraíso gastronómico de México.
+    <title>Rick Stein: Camino a México: De Oaxaca a la Chinantla · De Oaxaca a las montañas de Chinantla</title>
+    <desc>Documentales,Viajes | 2017 | +7 | *6.0/10
+· Los últimos viajes de Rick Stein le llevan a Oaxaca, la capital culinaria de México.
 · País: Reino Unido
 · Presenta: Rick Stein.
 · Dirección: David Pritchard, Ben Southwell.
@@ -20305,9 +20393,9 @@
 · Productora: Fourth Wall.</desc>
 	</programme>
 	<programme start="20261125101300 +0100" stop="20261125103500 +0100" channel="Clan">
-    <title>Dora T1 E8 · Pequeña bailarina; El sol somnoliento</title>
+    <title>Dora T1 E8 · Pequeña bailarina / El sol somnoliento</title>
     <desc>Infantil,Dibujos animados | 2024 | TP | *6.2/10
-· Dora enseña a los mellizos una bailarina que cobra vida; Dora tiene que encontrar la Nube Almohada de Sol.
+· Dora enseña a los mellizos una cajita musical con una bailarina que cobra vida. Las botitas de la bailarina salen huyendo y hay que recuperarlas. // El sol no se pone porque no se puede ir a dormir hasta que Dora encuentra su Nube Almohada.
 · País: Canadá y Estados Unidos
 · Dirección: Don Kim, Meeka Stuart.
 · Productora: Nickelodeon Animation Studios, Nickelodeon Productions, Funline Animation.</desc>
@@ -20365,7 +20453,7 @@
 	<programme start="20261125120700 +0100" stop="20261125122900 +0100" channel="Clan">
     <title>La Patrulla Canina T11 E10 · Rescate aéreo: La patrulla detiene un saltador propulsado / Rescate aéreo: La patrulla salva el s..</title>
     <desc>Infantil,Preescolar | 2024 | TP | *6.0/10
-· El atrevido Danny X utiliza un cohete propulsor. El gran espectáculo acrobático de François sale mal.
+· Danny utiliza un propulsor con la intención de batir el récord del salto. / François monta un espectáculo con globos aerostáticos que sale mal.
 · País: Canadá y Estados Unidos
 · Dirección: Paul Brown.
 · Guion: JP Meier, Senibo Myers.</desc>
@@ -21010,9 +21098,9 @@
 · Productora: Fourth Wall.</desc>
 	</programme>
 	<programme start="20261126101300 +0100" stop="20261126103500 +0100" channel="Clan">
-    <title>Dora T1 E9</title>
+    <title>Dora T1 E9 · Problemas con tres leches / Wizzle Wozzle Woo</title>
     <desc>Infantil,Dibujos animados | 2024 | TP | *6.0/10
-· Dora y sus amigos emprenden una caminata para entregar un pastel de tres leches; Dora ayuda al Trío Fiesta.
+· Ahora hay más que explorar con Dora. Junto a sus antiguos y nuevos amigos hacen un recorrido por el maravilloso y extravagante Bosque Tropical.
 · País: Canadá y Estados Unidos
 · Dirección: Don Kim, Meeka Stuart.
 · Productora: Nickelodeon Animation Studios, Funline Animation.</desc>
@@ -21063,7 +21151,7 @@
 	<programme start="20261126114500 +0100" stop="20261126120700 +0100" channel="Clan">
     <title>La Patrulla Canina T11 E11 · Rescate aéreo: La patrulla contra la nube de Humdinger / Rescate aéreo: La patrulla detiene un dr..</title>
     <desc>Infantil,Preescolar | 2024 | TP | *5.8/10
-· El alcalde Humdinger construye una nube de lluvia mecánica. El tío Otis consigue un potente dron magnético.
+· Humdinger construye una nube mecánica para sabotear a la patrulla canina. / El dron magnético del tío Otis es capaz de atraer cualquier objeto metálico.
 · País: Canadá y Estados Unidos
 · Dirección: Paul H. Brown, Paul Brown.
 · Guion: Peri Segel, Senibo Myers.</desc>
@@ -21516,7 +21604,10 @@
 	<programme start="20261127054200 +0100" stop="20261127055400 +0100" channel="Clan">
     <title>Gigantosaurus T1 E46 · Hermanos y Hermanas</title>
     <desc>Infantil,Dibujos animados | 2018 | TP | *5.6/10
-· Tiny y Totor descubren que tienen mucho en común.</desc>
+· Tiny y Totor descubren que tienen mucho en común.
+· País: Canadá, Estados Unidos y Francia
+· Dirección: Olivier Lelardoux.
+· Productora: Cyber Group Studios.</desc>
 	</programme>
 	<programme start="20261127055400 +0100" stop="20261127060000 +0100" channel="Clan">
     <title>Mya Go T1 E30 · duerme fuera de casa</title>
@@ -33737,22 +33828,6 @@
     <category>Series</category>
     <category>Thriller</category>
   </programme>
-  <programme start="20261125094610 +0000" stop="20261125101818 +0000" channel="Pocoyo">
-    <title>Misión Espacial</title>
-    <desc>Misión Espacial | El Viaje de Pato | Hora de Jugar | Tenis Para Todos</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829913171_25_20260506T114727863Z_41_imageprocessorclient-tvplus-linear-74d4c47476-bhwh7.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme start="20261125101818 +0000" stop="20261125105025 +0000" channel="Pocoyo">
-    <title>Jugando al Escondite</title>
-    <desc>Jugando al Escondite | La Fiesta de Cumpleaños | Sobre Ruedas | El Baño de Elly</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829920536_7_20260506T114735698Z_71_imageprocessorclient-tvplus-linear-74d4c47476-l9gx6.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme start="20261125105025 +0000" stop="20261125112236 +0000" channel="Pocoyo">
     <title>Cocinando con Elly</title>
     <desc>Cocinando con Elly | El Mercado | Hora de Dormir | Hoyo en Uno</desc>
@@ -33833,52 +33908,20 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme start="20261125100100 +0000" stop="20261125101259 +0000" channel="Supertoons">
-    <title>Animate Frank</title>
-    <desc>SuperToons TV</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1142593869_0_20250821T204916717Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-7lnxh.jpeg"/>
+  <programme start="20261125162151 +0000" stop="20261125165455 +0000" channel="Pocoyo">
+    <title>Pocoyó</title>
+    <desc>El Restaurante de Pocoyó | ¡Despierta, Pocoyó! | El Ordenador de Elly</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829935845_28_20260506T114736202Z_139_imageprocessorclient-tvplus-linear-74d4c47476-njwf2.jpeg"/>
     <rating>
       <value>NA</value>
     </rating>
   </programme>
-  <programme start="20261125101259 +0000" stop="20261125102724 +0000" channel="Supertoons">
-    <title>Quiero un cachorro</title>
-    <desc>SuperToons TV</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1142593869_0_20250821T204916717Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-7lnxh.jpeg"/>
+  <programme start="20261125165455 +0000" stop="20261125172730 +0000" channel="Pocoyo">
+    <title>¡Vamos a la Playa!</title>
+    <desc>¡Vamos a la Playa! | Grande y Pequeño | Pintando Caras | El Supermercado de Pocoyó</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829920851_33_20260506T114738139Z_35_imageprocessorclient-tvplus-linear-74d4c47476-bbmsk.jpeg"/>
     <rating>
       <value>NA</value>
-    </rating>
-  </programme>
-  <programme start="20261125102724 +0000" stop="20261125103923 +0000" channel="Supertoons">
-    <title>Rogi el barrendero</title>
-    <desc>SuperToons TV</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1142593869_0_20250821T204916717Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-7lnxh.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme start="20261125103923 +0000" stop="20261125110100 +0000" channel="Supertoons">
-    <title>Gani la super estrella</title>
-    <desc>SuperToons TV</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1142593869_0_20250821T204916717Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-7lnxh.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme start="20261125110100 +0000" stop="20261125110730 +0000" channel="Supertoons">
-    <title>BeBeBears</title>
-    <desc>La serie animada Bjorn &amp; Bucky sigue las aventuras de los ositos Bucky y Bjorn.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_512378271_0_20241122T044224116Z_52_imageprocessorclient-tvplus-linear-7cd5d896cc-bwxh8.jpeg"/>
-    <rating>
-      <value>3</value>
-    </rating>
-  </programme>
-  <programme start="20261125110730 +0000" stop="20261125111400 +0000" channel="Supertoons">
-    <title>BeBeBears</title>
-    <desc>La serie animada Bjorn &amp; Bucky sigue las aventuras de los ositos Bucky y Bjorn.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_512378271_0_20241122T044224116Z_52_imageprocessorclient-tvplus-linear-7cd5d896cc-bwxh8.jpeg"/>
-    <rating>
-      <value>3</value>
     </rating>
   </programme>
   <programme start="20261125111400 +0000" stop="20261125112030 +0000" channel="Supertoons">
@@ -34222,6 +34265,1097 @@
     <title>SunnyBunnies</title>
     <desc>Los Sunny Bunnies son cinco radiantes bolas de luz.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1831625221_0_20260507T043301986Z_125_imageprocessorclient-tvplus-linear-74d4c47476-26s4n.jpeg"/>
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20261125161242 +0000" stop="20261125161635 +0000" channel="Supertoons">
+    <title>SunnyBunnies</title>
+    <desc>Los Sunny Bunnies son cinco radiantes bolas de luz.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1808835558_0_20260428T034642062Z_109_imageprocessorclient-tvplus-linear-74d4c47476-lqtx5.jpeg"/>
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20261125161635 +0000" stop="20261125162030 +0000" channel="Supertoons">
+    <title>SunnyBunnies</title>
+    <desc>Los Sunny Bunnies son cinco radiantes bolas de luz.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1872414941_1_20260523T053718045Z_1_imageprocessorclient-tvplus-linear-66fc4d58c8-xvsvj.png"/>
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20261125162030 +0000" stop="20261125162423 +0000" channel="Supertoons">
+    <title>SunnyBunnies</title>
+    <desc>Los Sunny Bunnies son cinco radiantes bolas de luz.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1834127419_2_20260508T034807472Z_61_imageprocessorclient-tvplus-linear-665b769d5c-74w4c.jpeg"/>
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20261125162423 +0000" stop="20261125163100 +0000" channel="Supertoons">
+    <title>SunnyBunnies</title>
+    <desc>Los Sunny Bunnies son cinco radiantes bolas de luz.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1816562943_0_20260501T042714359Z_63_imageprocessorclient-tvplus-linear-74d4c47476-dchwc.jpeg"/>
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20261125163100 +0000" stop="20261125163159 +0000" channel="Supertoons">
+    <title>OmNom</title>
+    <desc>Om Nom apareció misteriosamente en la puerta de la casa de un niño, marcando el comienzo de muchas aventuras.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_512380196_0_20241122T044213837Z_1_imageprocessorclient-tvplus-linear-7cd5d896cc-bwxh8.png"/>
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20261125163159 +0000" stop="20261125163543 +0000" channel="Supertoons">
+    <title>OmNom</title>
+    <desc>Om Nom apareció misteriosamente en la puerta de la casa de un niño, marcando el comienzo de muchas aventuras.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_512378098_2_20241122T044213911Z_110_imageprocessorclient-tvplus-linear-7cd5d896cc-qtxcr.jpeg"/>
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20261125163543 +0000" stop="20261125163827 +0000" channel="Supertoons">
+    <title>OmNom</title>
+    <desc>Om Nom apareció misteriosamente en la puerta de la casa de un niño, marcando el comienzo de muchas aventuras.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_512378098_2_20241122T044213911Z_110_imageprocessorclient-tvplus-linear-7cd5d896cc-qtxcr.jpeg"/>
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20261125163827 +0000" stop="20261125164211 +0000" channel="Supertoons">
+    <title>OmNom</title>
+    <desc>Om Nom apareció misteriosamente en la puerta de la casa de un niño, marcando el comienzo de muchas aventuras.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_512378098_2_20241122T044213911Z_110_imageprocessorclient-tvplus-linear-7cd5d896cc-qtxcr.jpeg"/>
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20261125164211 +0000" stop="20261125164641 +0000" channel="Supertoons">
+    <title>OmNom</title>
+    <desc>Om Nom apareció misteriosamente en la puerta de la casa de un niño, marcando el comienzo de muchas aventuras.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_512378098_2_20241122T044213911Z_110_imageprocessorclient-tvplus-linear-7cd5d896cc-qtxcr.jpeg"/>
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20261125164641 +0000" stop="20261125164841 +0000" channel="Supertoons">
+    <title>OmNom</title>
+    <desc>Om Nom apareció misteriosamente en la puerta de la casa de un niño, marcando el comienzo de muchas aventuras.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_512378098_2_20241122T044213911Z_110_imageprocessorclient-tvplus-linear-7cd5d896cc-qtxcr.jpeg"/>
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20261125164841 +0000" stop="20261125165140 +0000" channel="Supertoons">
+    <title>OmNom</title>
+    <desc>Om Nom apareció misteriosamente en la puerta de la casa de un niño, marcando el comienzo de muchas aventuras.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_512378098_2_20241122T044213911Z_110_imageprocessorclient-tvplus-linear-7cd5d896cc-qtxcr.jpeg"/>
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20261125165140 +0000" stop="20261125165610 +0000" channel="Supertoons">
+    <title>OmNom</title>
+    <desc>Om Nom apareció misteriosamente en la puerta de la casa de un niño, marcando el comienzo de muchas aventuras.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_512378098_2_20241122T044213911Z_110_imageprocessorclient-tvplus-linear-7cd5d896cc-qtxcr.jpeg"/>
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20261125165610 +0000" stop="20261125170100 +0000" channel="Supertoons">
+    <title>OmNom</title>
+    <desc>Om Nom apareció misteriosamente en la puerta de la casa de un niño, marcando el comienzo de muchas aventuras.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_512378098_2_20241122T044213911Z_110_imageprocessorclient-tvplus-linear-7cd5d896cc-qtxcr.jpeg"/>
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20261125170100 +0000" stop="20261125170408 +0000" channel="Supertoons">
+    <title>Booba Kitchen</title>
+    <desc>Show familiar que cuenta las aventuras de una criatura alegre y curiosa llamada Booba, y de sus amigos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_512723886_0_20241125T002244040Z_114_imageprocessorclient-tvplus-linear-7cd5d896cc-tlwxg.png"/>
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20261125170408 +0000" stop="20261125171143 +0000" channel="Supertoons">
+    <title>Booba Magic Glasses</title>
+    <desc>Show familiar que cuenta las aventuras de una criatura alegre y curiosa llamada Booba, y de sus amigos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_512380071_2_20241122T044213911Z_1_imageprocessorclient-tvplus-linear-7cd5d896cc-qtxcr.png"/>
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20261125171143 +0000" stop="20261125171619 +0000" channel="Supertoons">
+    <title>Booba Office</title>
+    <desc>Show familiar que cuenta las aventuras de una criatura alegre y curiosa llamada Booba, y de sus amigos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_514120960_0_20241207T043741077Z_113_imageprocessorclient-tvplus-linear-7cd5d896cc-w48lf.png"/>
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20261125171619 +0000" stop="20261125172119 +0000" channel="Supertoons">
+    <title>Booba Ballet</title>
+    <desc>Show familiar que cuenta las aventuras de una criatura alegre y curiosa llamada Booba, y de sus amigos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_512630517_2_20241124T042025838Z_87_imageprocessorclient-tvplus-linear-7cd5d896cc-d9cj5.png"/>
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20261125111602 +0000" stop="20261125114501 +0000" channel="Caillou">
+    <title>Caillou</title>
+    <sub-title>El Invitado Nocturno De Caillou // Juegos En El Parque // La Cabaña Del Azucar // Misterio Invernal // El Dia En La Nieve De Caillou</sub-title>
+    <desc>Leo duerme en casa de Caillou.// A Caillou le hace ilusión que la señora Martin lo lleve junto a sus amigos al parque para hacer actividades especiales.// Cuando la familia de Caillou visita el rancho de Jonas en primavera, él los lleva a...</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1671448441_5_20260304T074232557Z_112_imageprocessorclient-tvplus-linear-85d7d49859-fz6dc.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125114501 +0000" stop="20261125121400 +0000" channel="Caillou">
+    <title>Caillou</title>
+    <sub-title>El Plato Favorito De Caillou // Diversión En El Barro // Pasajeros Al Tren // La Casa De Gilbert // Pidiendo Un Helado A Gritos</sub-title>
+    <desc>La abuela le ha regalado a Caillou un plato de una nave espacial muy especial.// Fuera está lloviendo, pero a Caillou no hay quien lo pare.// Caillou encuentra una foto de su padre con cuatro años con un tren de juguete y decide buscarlo con su...</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1671448588_3_20260304T074232518Z_72_imageprocessorclient-tvplus-linear-85d7d49859-2fhcp.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125121400 +0000" stop="20261125124259 +0000" channel="Caillou">
+    <title>Caillou</title>
+    <sub-title>Super Caillou // Viajando En Metro // La Carrera De Caillou // Como Nueva // Soy Un Robot</sub-title>
+    <desc>A Caillou le encanta el cuento de Superoso.// Caillou aprende a afrontar un cambio de planes cuando papá tiene que usar el coche.// Caillou juega a un juego de mesa con mamá y se enfada.// Caillou aprende sobre "reciclaje"... ¡literalmente!//...</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1671448439_6_20260304T074232828Z_22_imageprocessorclient-tvplus-linear-85d7d49859-pk5q8.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125124259 +0000" stop="20261125131158 +0000" channel="Caillou">
+    <title>Caillou</title>
+    <sub-title>El Parque Acuatico De Caillou // Caillou Va De Fiesta // Poniendo Lavadoras // Caillou Prueba Un Coche // Un Nadador Muy Bueno</sub-title>
+    <desc>Caillou aprende que la mayor diversión se inventa, no se compra con dinero.// Caillou aprende a ser paciente cuando va a pescar al muelle con papá y el abuelo.// La abuela cuida a Caillou y el pequeño quiere que juegue con él a los camiones.//...</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1671466140_2_20260304T074232913Z_73_imageprocessorclient-tvplus-linear-85d7d49859-flccm.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125131158 +0000" stop="20261125134052 +0000" channel="Caillou">
+    <title>Caillou</title>
+    <sub-title>La Trompetilla De Caillou // El Gran Roble // Póngase Bueno, Sr. Hinkle // El Barco Grande</sub-title>
+    <desc>Cuando Sarah le regala una trompetilla vieja a Caillou, el pequeño quiere tocarla allí donde va.// Cuando el señor Hinkle tala un árbol, Caillou teme que su columpio sea el siguiente.// Cuando Caillou se disfraza de cartero para entregarle al...</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1671448371_2_20260304T074232438Z_87_imageprocessorclient-tvplus-linear-85d7d49859-flccm.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125134052 +0000" stop="20261125140951 +0000" channel="Caillou">
+    <title>Caillou</title>
+    <sub-title>Algo Para Todos // Clases De Patinaje // Caillou Se Hace Camarero // Ganando Pegatinas // Ropa Nueva</sub-title>
+    <desc>Cuando un día cierran el parque, los amigos de Caillou van a su casa a jugar.// Cuando mamá lleva a Sarah en coche a clase de patinaje, Caillou decide que él también quiere apuntarse.// Cuando mamá y papá se preparan para salir a un...</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1671482983_6_20260304T074232828Z_120_imageprocessorclient-tvplus-linear-85d7d49859-pk5q8.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125140951 +0000" stop="20261125143850 +0000" channel="Caillou">
+    <title>Caillou</title>
+    <sub-title>Donde vivo // Un buen amigo // Igual que yo // Justo a tiempo // Sr. Arreglalotodo</sub-title>
+    <desc>Cuando una invitación para la fiesta de Clementine acaba accidentalmente en casa de Sarah, Caillou aprende las diferencias entre las direcciones de ambas casas.// Cuando Leo se deja olvidado su dinosaurio nuevo en el parque, papá y Caillou van a...</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1671466211_5_20260304T074232557Z_133_imageprocessorclient-tvplus-linear-85d7d49859-fz6dc.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125143850 +0000" stop="20261125150843 +0000" channel="Caillou">
+    <title>Caillou</title>
+    <sub-title>¿Dónde está Gilbert? // ¿Dónde lo vi por última vez? // Perdido en la selva</sub-title>
+    <desc>Caillou quiere ganar un premio // Una decepción // Caillou no va tan rápido en bici como Sarah</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1671449520_6_20260304T074232828Z_20_imageprocessorclient-tvplus-linear-85d7d49859-pk5q8.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125150843 +0000" stop="20261125153836 +0000" channel="Caillou">
+    <title>Caillou</title>
+    <sub-title>Todos somos el mejor // Cada día más fuerte // Sin ruedas de aprendizaje</sub-title>
+    <desc>El patio lleno de ramas // Caillou ayuda a papá y al abuelo // Caillou y mamá visitan a una amiga</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1671448591_0_20260304T074232428Z_114_imageprocessorclient-tvplus-linear-85d7d49859-ggck2.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125153836 +0000" stop="20261125160829 +0000" channel="Caillou">
+    <title>Caillou</title>
+    <sub-title>Caillou constructor de carreteras // La aventura constructora de Caillou // Una casa en el cielo</sub-title>
+    <desc>Le salen los dientes a Rosie // Los bomberos // Rosie esconde los juguetes de Caillou</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1671466440_4_20260304T074232522Z_60_imageprocessorclient-tvplus-linear-85d7d49859-drfrv.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125160829 +0000" stop="20261125163822 +0000" channel="Caillou">
+    <title>Caillou</title>
+    <sub-title>Caillou ayuda // Caillou bombero // Caillou al rescate</sub-title>
+    <desc>Caillou se monta en un tobogán // El abuelo cuida de Caillou // A Rosie no le gustan los bichos</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1671449593_2_20260304T074232913Z_64_imageprocessorclient-tvplus-linear-85d7d49859-flccm.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125163822 +0000" stop="20261125170815 +0000" channel="Caillou">
+    <title>Caillou</title>
+    <sub-title>Caillou y el gran tobogán // Caillou marinero // Caillou y los bichos</sub-title>
+    <desc>La primera nevada // Caillou quiere jugar a hockey // Mamá no encuentra el trineo de Caillou</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1671466439_2_20260304T074232438Z_66_imageprocessorclient-tvplus-linear-85d7d49859-flccm.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125170815 +0000" stop="20261125173808 +0000" channel="Caillou">
+    <title>Caillou</title>
+    <sub-title>Copos de nieve // Caillou ¡Tira y marca! // Caillou se tira en trineo</sub-title>
+    <desc>Billy toca su batería // Una banda de música // Caillou quiere cantar en el concurso</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1671448584_5_20260304T074232557Z_140_imageprocessorclient-tvplus-linear-85d7d49859-fz6dc.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125104738 +0000" stop="20261125114043 +0000" channel="Crimenes Reales">
+    <title>Ted Bundy serial monster Ep 2</title>
+    <desc>Por primera vez, esta serie revela los inquietantes orígenes y obsesiones perturbadas de Ted Bundy, su engaño psicológico y su astucia asesina. Descubrimos cómo burló a un ejército de investigadores y mostramos cómo, incluso tras las rejas, no había forma de detenerlo. Escapó dos veces de prisiones supuestamente a prueba de fugas y mató de nuevo. E incluso después de ser capturado y enfrentarse a la silla eléctrica, Ted Bundy superó una y otra vez a la prensa y al sistema judicial.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_514484030_0_20241210T112511318Z_77_imageprocessorclient-tvplus-linear-7cd5d896cc-54dst.jpeg"/>
+  </programme>
+  <programme start="20261125114043 +0000" stop="20261125123508 +0000" channel="Crimenes Reales">
+    <title>See no evil </title>
+    <sub-title>Ina Clare Richardson</sub-title>
+    <desc>El 7 de noviembre de 2014, Ina Clare Richardson, de 69 años, aparece asesinada en un parque público de Clarkston, Washington. Sin testigos del crimen, los investigadores recurren a las cámaras de vigilancia para reconstruir el rompecabezas de su fatídica última noche.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_514483796_0_20241210T112511151Z_1_imageprocessorclient-tvplus-linear-7cd5d896cc-54dst.jpeg"/>
+  </programme>
+  <programme start="20261125123508 +0000" stop="20261125132922 +0000" channel="Crimenes Reales">
+    <title>See no evil </title>
+    <sub-title>Carl Starke</sub-title>
+    <desc>18 de agosto de 2015. Carl Starke, de 36 años, muere tiroteado a sangre fría cerca de su casa en San Agustín (Florida). No hay testigos, pero los vecinos oyen disparos. Con una hora probable de la muerte, la policía recurre a las cámaras de seguridad para ayudar a encontrar a su asesino.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_514483796_0_20241210T112511151Z_1_imageprocessorclient-tvplus-linear-7cd5d896cc-54dst.jpeg"/>
+  </programme>
+  <programme start="20261125132922 +0000" stop="20261125142118 +0000" channel="Crimenes Reales">
+    <title>Wives with knives </title>
+    <sub-title>Krista Clark</sub-title>
+    <desc>Wives with knives presenta historias fascinantes de mujeres que lucharon de cerca. Ya sea motivadas por la codicia y los celos o provocadas por años de abuso físico, cada episodio revela los eventos traumáticos que llevaron a estos enfrentamientos mortales.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_514483807_0_20241210T112511151Z_70_imageprocessorclient-tvplus-linear-7cd5d896cc-54dst.jpeg"/>
+  </programme>
+  <programme start="20261125142118 +0000" stop="20261125151312 +0000" channel="Crimenes Reales">
+    <title>Wives with knives </title>
+    <sub-title>Laureen Rugen</sub-title>
+    <desc>Wives with knives presenta historias fascinantes de mujeres que lucharon de cerca. Ya sea motivadas por la codicia y los celos o provocadas por años de abuso físico, cada episodio revela los eventos traumáticos que llevaron a estos enfrentamientos mortales.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_514483807_0_20241210T112511151Z_70_imageprocessorclient-tvplus-linear-7cd5d896cc-54dst.jpeg"/>
+  </programme>
+  <programme start="20261125151312 +0000" stop="20261125160835 +0000" channel="Crimenes Reales">
+    <title>The New Detectives </title>
+    <sub-title>Una ofensa federal</sub-title>
+    <desc>Cuando hay un caso difícil de resolver, ya sea que se trate de drogas, incendios provocados o armas, los investigadores y científicos de la Oficina de Alcohol, Tabaco y Armas de Fuego tienen los medios para resolverlo.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_514483835_0_20241210T112511151Z_45_imageprocessorclient-tvplus-linear-7cd5d896cc-54dst.jpeg"/>
+  </programme>
+  <programme start="20261125160835 +0000" stop="20261125170358 +0000" channel="Crimenes Reales">
+    <title>The New Detectives </title>
+    <sub-title>Llamas de justicia</sub-title>
+    <desc>Los incendios provocados se inician por su propio bien o para cubrir un delito diferente, como el asesinato. ¿Crees que el fuego consume todas las pistas vitales? Piensa otra vez. Los investigadores de incendios provocados pueden obtener pistas importantes de los escombros chamuscados y encender las llamas insaciables de la justicia.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_514483835_0_20241210T112511151Z_45_imageprocessorclient-tvplus-linear-7cd5d896cc-54dst.jpeg"/>
+  </programme>
+  <programme start="20261125170358 +0000" stop="20261125175702 +0000" channel="Crimenes Reales">
+    <title>Ted Bundy serial monster Ep 2</title>
+    <desc>Por primera vez, esta serie revela los inquietantes orígenes y obsesiones perturbadas de Ted Bundy, su engaño psicológico y su astucia asesina. Descubrimos cómo burló a un ejército de investigadores y mostramos cómo, incluso tras las rejas, no había forma de detenerlo. Escapó dos veces de prisiones supuestamente a prueba de fugas y mató de nuevo. E incluso después de ser capturado y enfrentarse a la silla eléctrica, Ted Bundy superó una y otra vez a la prensa y al sistema judicial.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_514484030_0_20241210T112511318Z_77_imageprocessorclient-tvplus-linear-7cd5d896cc-54dst.jpeg"/>
+  </programme>
+  <programme start="20261125091757 +0000" stop="20261125112232 +0000" channel="RakutenTVActionMovies.es@Spain">
+    <title>La Jungla</title>
+    <desc>Jungle está basada en la historia real de Yossi Ghinsberg, un aventurero que sobrevivió para escribir un bestseller de memorias sobre su aventura en el interior del Amazonas. El viaje de Yossi y sus amigos acabó convirtiéndose en un calvario tan aterrador como psicológico.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_497235478_1_20240702T064754812Z_81.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125112232 +0000" stop="20261125125627 +0000" channel="RakutenTVActionMovies.es@Spain">
+    <title>Altitud</title>
+    <desc>Una agente del FBI es castigada y enviada a un trabajo de administrativa en Washington DC después de desobedecer a sus mandos en una negociación con rehenes. En el avión que le lleva a Washington conoce a un apuesto hombre de negocios que le ofrece una recompensa si le ayuda a bajar del avión.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_506327851_0_20240926T062855942Z_44_imageprocessorclient-tvplus-linear-7cd5d896cc-9srmr.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125125627 +0000" stop="20261125142959 +0000" channel="RakutenTVActionMovies.es@Spain">
+    <title>Una amenaza en la sombra</title>
+    <desc>Wes Rawlins es un cazarecompensas y hombre de pocas palabras. Queda devastado cuando su madre es asesinada por una pareja de forajidos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_497234983_1_20240702T064757193Z_21.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125142959 +0000" stop="20261125160835 +0000" channel="RakutenTVActionMovies.es@Spain">
+    <title>El hombre del presidente II</title>
+    <desc>Joshua McCord, veterano de las fuerzas especiales y guardaespaldas del presidente de los Estados Unidos, recibe una importante misión confiada directamente por el presidente.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_502765889_0_20240823T054335157Z_55_imageprocessorclient-tvplus-linear-64ff86dd75-tfwd6.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125160835 +0000" stop="20261125175330 +0000" channel="RakutenTVActionMovies.es@Spain">
+    <title>Código fuente</title>
+    <desc>¿Es posible viajar en el tiempo para evitar una catástrofe? El capitán Colter Stevens (Jake Gyllenhaal) tiene la difícil misión de conseguirlo en esta eficaz película de acción y ciencia-ficción considerada como una de las mejores películas del género de los últimos años.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_502655012_0_20240822T053040507Z_123_imageprocessorclient-tvplus-linear-64ff86dd75-v82r2.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125110438 +0000" stop="20261125123811 +0000" channel="RakutenTVSpanishMovies.es@Spain">
+    <title>Re-emigrantes</title>
+    <desc>Los Briones deciden regresar a su pueblo de origen, Villanueva de los Molinos, Una vez allí, Santiago, y sus hijos tratarán de adaptarse a su nueva vida realizando todo tipo de trabajos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_750268955_2_20250327T024831309Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-mfcc4.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125123811 +0000" stop="20261125141923 +0000" channel="RakutenTVSpanishMovies.es@Spain">
+    <title>El amor no es lo que era</title>
+    <desc>Este film narra tres historias de amor urbanas. Álex y Lucía se encuentran, empiezan a conocerse y entre ellos surge un romance. Paz y Jorge ven impotentes cómo su relación se apaga sin saber qué hacer. Finalmente, Albert e Irene vuelven a verse tras varios decenios de separación.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_603187909_0_20250127T025727210Z_120_imageprocessorclient-tvplus-linear-7cd5d896cc-4sp99.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125141923 +0000" stop="20261125161039 +0000" channel="RakutenTVSpanishMovies.es@Spain">
+    <title>La final</title>
+    <desc>Tres amigos hinchas del Atlético Madrid y tres chicas seguidoras del Real Madrid: todos protagonizan una historia de amor la semana de la final de Champions. Aure y Andrea tienen una tensión sexual no resuelta desde la adolescencia, fruto de la casualidad, surge el reencuentro.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_1093486384_0_20250729T032528343Z_137_imageprocessorclient-tvplus-linear-5db7c6bc99-7sngq.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125161039 +0000" stop="20261125174053 +0000" channel="RakutenTVSpanishMovies.es@Spain">
+    <title>Frontera</title>
+    <desc>Un grupo de teatro ensaya una versión de 12 hombres sin piedad cuando los interrumpe una alarma. Nos encontramos dentro de la prisión de Quatre Camins y la señal indica el aislamiento de los módulo.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_1090375154_1_20250728T042847573Z_71_imageprocessorclient-tvplus-linear-5db7c6bc99-d5mt6.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125111528 +0000" stop="20261125130022 +0000" channel="RakutenTVComedyMovies.es@Spain">
+    <title>De vuelta a casa</title>
+    <desc>Alice (Reese Witherspoon) es una mujer recién separada que decide enfrentarse a nuevos retos y vuelve a Los Ángeles para construirse una nueva vida. Un nuevo trabajo que no es exactamente lo que ella esperaba, un colegio nuevo para sus hijos y facturas que pagar.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_507937359_0_20241011T063258987Z_75_imageprocessorclient-tvplus-linear-7cd5d896cc-ns8n5.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125130022 +0000" stop="20261125143219 +0000" channel="RakutenTVComedyMovies.es@Spain">
+    <title>Segundo Servicio</title>
+    <desc>Después de ser despedido de un club deportivo para ricos por su mal comportamiento, una ex estrella del tenis acepta un trabajo en un club de tenis público donde lidera un grupo de gentuza rara para un partido contra sus ex compañeros de trabajo.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_1006031690_0_20250625T015446444Z_49_imageprocessorclient-tvplus-linear-5db7c6bc99-8fzp6.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125143219 +0000" stop="20261125164744 +0000" channel="RakutenTVComedyMovies.es@Spain">
+    <title>Los becarios</title>
+    <desc>Billy y Nick son dos comerciales cuyas carreras se han visto bombardeadas por el mundo digital. Intentando demostrar que no están obsoletos, desafiarán cualquier pronóstico logrando hacerse un hueco como becarios en Google, junto con un batallón de universitarios jóvenes y brillantes.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_1489525968_0_20251229T065524279Z_1_imageprocessorclient-tvplus-linear-85d7d49859-2hv8g.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125164744 +0000" stop="20261125183327 +0000" channel="RakutenTVComedyMovies.es@Spain">
+    <title>Entonces llegaste tú</title>
+    <desc>Una viuda solitaria plantea realizar un viaje alrededor del mundo con las cenizas de su marido para visitar los sitios que ambos adoraban en sus películas favoritas.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_1653384865_0_20260225T054923688Z_118_imageprocessorclient-tvplus-linear-85d7d49859-rzp2j.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125104854 +0000" stop="20261125114042 +0000" channel="RakutenTVCrimeMovies.es@Spain">
+    <title>Pacific Blue</title>
+    <sub-title>S1:E8 Quemada</sub-title>
+    <desc>S1:E8 Quemada - Una culturista / camarera está enganchada a los esteroides y endeudada con un vicioso traficante de este suplemento. Un viejo amigo de Chris Kelly viene de visita y está interesado en ella románticamente hablando.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_505800361_2_20240921T054959608Z_72_imageprocessorclient-tvplus-linear-7cd5d896cc-qjm7s.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125114042 +0000" stop="20261125123223 +0000" channel="RakutenTVCrimeMovies.es@Spain">
+    <title>Pacific Blue</title>
+    <sub-title>S1:E9 Blanco móvil</sub-title>
+    <desc>S1:E9 Blanco móvil - Las cosas se ponen feas para T.C. (Jim Davidson) cuando una mujer de su pasado es testigo de un crimen y él es asignado como su guardaespaldas. Mientras tanto, Víctor se enfrenta a sus demonios en el ring de boxeo.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_505800362_0_20240921T054951396Z_30_imageprocessorclient-tvplus-linear-7cd5d896cc-l4w6v.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125123223 +0000" stop="20261125132403 +0000" channel="RakutenTVCrimeMovies.es@Spain">
+    <title>Pacific Blue</title>
+    <sub-title>S1:E10 Cautivar al público</sub-title>
+    <desc>S1:E10 Cautivar al público - TC y Cory se encuentran atrapados en un banco cuando un robo sale mal y se convierte en una situación de rehenes. Palermo, Victor y Chris llegan a la escena, luego deben buscar en la playa a un excéntrico genio informático que abandonó este mundo de alta tecnología.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_505800363_0_20240921T054951396Z_56_imageprocessorclient-tvplus-linear-7cd5d896cc-l4w6v.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125132403 +0000" stop="20261125141544 +0000" channel="RakutenTVCrimeMovies.es@Spain">
+    <title>Pacific Blue</title>
+    <sub-title>S1:E11 El Fénix</sub-title>
+    <desc>S1:E11 El Fénix - Una serie de incendios tiene a TC, Chris (Darlene Vogel) y Palermo persiguiendo a un pirómano que durante mucho tiempo se pensó que estaba muerto. Mientras tanto, Cory llama a los expertos para atrapar un ratón suelto en la estación.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_505800364_2_20240921T054959608Z_114_imageprocessorclient-tvplus-linear-7cd5d896cc-qjm7s.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125141544 +0000" stop="20261125151937 +0000" channel="RakutenTVCrimeMovies.es@Spain">
+    <title>Miss Fisher's Murder Mysteries</title>
+    <sub-title>S3:E3 Asesinato y Mozzarella</sub-title>
+    <desc>S3:E3 Asesinato y Mozzarella - Una antigua rivalidad entre dos familias italianas muestra su lado más oscuro cuando asesinan a un chef. Phryne y Jack sospechan que el motivo es un libro de recetas.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_512625393_0_20241124T033242003Z_52_imageprocessorclient-tvplus-linear-7cd5d896cc-qtxcr.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125151937 +0000" stop="20261125161953 +0000" channel="RakutenTVCrimeMovies.es@Spain">
+    <title>Miss Fisher's Murder Mysteries</title>
+    <sub-title>S3:E4 Sangre y dinero</sub-title>
+    <desc>S3:E4 Sangre y dinero - Un joven contrata a Phryne para encontrar a su hermano desaparecido, lo que la lleva a un siniestro rastro de niños fallecidos. Hugh lucha con problemas en su carrera y de compromiso.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_512732080_0_20241125T033346227Z_109_imageprocessorclient-tvplus-linear-7cd5d896cc-vm4x7.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125161953 +0000" stop="20261125172331 +0000" channel="RakutenTVCrimeMovies.es@Spain">
+    <title>Miss Fisher's Murder Mysteries</title>
+    <sub-title>S3:E5 Histeria mortal</sub-title>
+    <desc>S3:E5 Histeria mortal - Una de las pacientes de un sanatorio para mujeres es electrocutada en su habitación. Aunque podría haber sido un trágico accidente, Phryne tiene otras ideas.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_512732081_0_20241125T033346227Z_87_imageprocessorclient-tvplus-linear-7cd5d896cc-vm4x7.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125104616 +0000" stop="20261125131634 +0000" channel="RakutenTVDramaMovies.es@Spain">
+    <title>El caso Sloane</title>
+    <desc>Maquiavélica película en clave de thriller político tenso y locuaz que recuerda a los mejores guiones de Aaron Sorkin ('El ala oeste de la casa blanca'). Una implacable y ambiciosa activista luchará contra un poderoso lobby en un intento de cambiar la legislación sobre el control y venta de armas.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_1578455394_0_20260127T053130054Z_79_imageprocessorclient-tvplus-linear-85d7d49859-m6g6v.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125131634 +0000" stop="20261125153127 +0000" channel="RakutenTVDramaMovies.es@Spain">
+    <title>Hermosas criaturas</title>
+    <desc>Siguiendo la línea de 'Crepúsculo', 'Hermosas criaturas' es un cuento de amores contrariados que esconde un oscuro y peligroso secreto. Ethan Wate es un adolescente que sueña con escapar de su rutinaria vida en la pequeña localidad de Gatlin, hasta que conoce a Lena Duchannes.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_521139672_5_20241219T032131001Z_72_imageprocessorclient-tvplus-linear-7cd5d896cc-wgww2.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125153127 +0000" stop="20261125171849 +0000" channel="RakutenTVDramaMovies.es@Spain">
+    <title>Una historia real</title>
+    <desc>Cuando el desafortunado reportero del NY Times, Michael Finkel (Jonah Hill) conoce a Christian Longo (James Franco) –el cual ha robado su identidad– su investigación se convierte en una tensa persecución entre ratón y gato.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_502880193_0_20240824T062340903Z_107_imageprocessorclient-tvplus-linear-64ff86dd75-h5n4l.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125171849 +0000" stop="20261125192844 +0000" channel="RakutenTVDramaMovies.es@Spain">
+    <title>Bravetown</title>
+    <desc>Josh es un alma sin rumbo con un talento musical extraordinario que se embarca en un viaje para encontrar lo que menos esperaba, pero que, sin duda alguna, más necesitaba.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_548029113_0_20250101T042322954Z_143_imageprocessorclient-tvplus-linear-7cd5d896cc-b2mvx.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125111325 +0000" stop="20261125124553 +0000" channel="RakutenTVTopMovies.es@Spain">
+    <title>Frances Ha</title>
+    <desc>Frances vive en Nueva York, aunque no tiene un apartamento. Es aprendiz en una compañía de danza, aunque no es realmente bailarina. Tiene una mejor amiga llamada Sophie, pero ahora mismo no se hablan. Frances quiere mucho más de lo que tiene, pero disfruta de la vida con alegría y despreocupación.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_1653082848_0_20260225T040649625Z_1_imageprocessorclient-tvplus-linear-85d7d49859-h6zxg.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125124553 +0000" stop="20261125142824 +0000" channel="RakutenTVTopMovies.es@Spain">
+    <title>El agente</title>
+    <desc>En el año 2030, el mundo se encuentra en perenne estado de recesión económica y se enfrenta a problemas medioambientales. Todos los ciudadanos improductivos son exiliados a una colonia.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_603179138_0_20250127T025726375Z_1_imageprocessorclient-tvplus-linear-7cd5d896cc-4sp99.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125142824 +0000" stop="20261125165107 +0000" channel="RakutenTVTopMovies.es@Spain">
+    <title>La casa de la esperanza</title>
+    <desc>Una historia conmovedora basada en el hecho real más curioso de la II GM. El director del zoo de Varsovia y su esposa (Jessica Chastain), ayudaron a salvar a cientos de personas (y también a muchos animales del Zoo) de los nazis tras la invasión de Polonia por las tropas alemanas en 1939.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_523335419_0_20241220T024924282Z_64_imageprocessorclient-tvplus-linear-7cd5d896cc-l4w6v.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125165107 +0000" stop="20261125183717 +0000" channel="RakutenTVTopMovies.es@Spain">
+    <title>La historia interminable</title>
+    <desc>Mientras se esconde de los abusones en el desván del colegio, un chico descubre un mundo extraordinario de fantasía a través de un libro mágico titulado La historia interminable.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_1087165517_0_20250727T032530693Z_48_imageprocessorclient-tvplus-linear-5db7c6bc99-rsgsk.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125110247 +0000" stop="20261125131046 +0000" channel="RakutenTVSciFiMovies.es@Spain">
+    <title>El juego de Ender</title>
+    <desc>70 años después de una guerra entre seres humanos y extraterrestres que casi acaba con la raza humana, un niño prodigio es enviado a una escuela militar espacial con el fin de prepararlo para una futura invasión. Ese niño se llama Ender y él no lo sabe, pero es el único que puede evitar la invasión.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_502655015_0_20240822T053038166Z_1_imageprocessorclient-tvplus-linear-64ff86dd75-v82r2.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125131046 +0000" stop="20261125150013 +0000" channel="RakutenTVSciFiMovies.es@Spain">
+    <title>Invasión Alien</title>
+    <desc>Extraños sonidos de otro lugar están haciéndose eco en todo el mundo. Un grupo de investigadores, dirigido por la ufóloga experta Lorraine Gardner, comienza una expedición para rastrear el punto de origen del cual emergen los sonidos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_521143754_1_20241219T032126067Z_39_imageprocessorclient-tvplus-linear-7cd5d896cc-slthf.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125150013 +0000" stop="20261125164441 +0000" channel="RakutenTVSciFiMovies.es@Spain">
+    <title>Los cinco diablos</title>
+    <desc>Vicky, una niña extraña y solitaria, tiene un don mágico: un olfato con el que recoge aromas etiquetados en frascos. Cuando su tía paterna irrumpe en el hogar familiar, Vicky también captura su olor. Con ello se transporta a recuerdos oscuros y secretos de su familia y su propia existencia.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_1090377827_0_20250728T042850753Z_49_imageprocessorclient-tvplus-linear-5db7c6bc99-tplqm.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125164441 +0000" stop="20261125184322 +0000" channel="RakutenTVSciFiMovies.es@Spain">
+    <title>El Caballero de las Sombras</title>
+    <desc>Cuenta la historia de un legendario cazador de demonios (Jackie Chan) que persigue a los monstruos que se adentran en la dimensión de los seres humanos y que cuenta con la ayuda de un abogado y de un grupo de bestias dispuestas a luchar contra el Mal.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_650375762_0_20250218T033501120Z_53_imageprocessorclient-tvplus-linear-6fb5b47f79-v4zcp.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125104924 +0000" stop="20261125122345 +0000" channel="RakutenTVThrillerMovies.es@Spain">
+    <title>Unidas por sangre</title>
+    <desc>May, una reservada instructora de yoga vive una pacífica y limpia vida con su novio. El equilibrio que mantiene cuidadosamente en su vida se ve perjudicado por la llegada de su hermana biológica Shiva, a quien perdió la pista años atrás.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_1363805858_0_20251122T044455029Z_23_imageprocessorclient-tvplus-linear-85d7d49859-c5l9z.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125122345 +0000" stop="20261125142412 +0000" channel="RakutenTVThrillerMovies.es@Spain">
+    <title>Mine</title>
+    <desc>Tras una misión fallida, un soldado (Armie Hammer) se encuentra perdido en el desierto. Expuesto a los elementos, tendrá que sobrevivir a los peligros que le acechan, a la vez que hacer frente a los efectos psicológicos de tan penosa situación.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_1157799501_0_20250829T033815048Z_24_imageprocessorclient-tvplus-linear-5db7c6bc99-87j56.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125142412 +0000" stop="20261125160520 +0000" channel="RakutenTVThrillerMovies.es@Spain">
+    <title>Mira por mí</title>
+    <desc>Sophie, una joven ciega que trabaja en una mansión apartada, se ve invadida por ladrones que buscan una caja fuerte oculta. Su único medio de defensa: una nueva aplicación llamada "Mira por mí".</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_1359514855_0_20251121T053057455Z_144_imageprocessorclient-tvplus-linear-85d7d49859-pkn4t.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125160520 +0000" stop="20261125174900 +0000" channel="RakutenTVThrillerMovies.es@Spain">
+    <title>El falsificador</title>
+    <desc>Un ladrón de poca monta se las arregla para conseguir que el sindicato donde trabaja su padre pague la fianza para poder salir de la cárcel y pasar tiempo con su hijo enfermo. Eso sí, tendrá que cumplir una condición para devolver el dinero prestado.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_1290176071_0_20251030T042227691Z_35_imageprocessorclient-tvplus-linear-5db7c6bc99-7g8nq.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+	<programme start="20261126060100 +0100" stop="20261126064500 +0100" channel="National Geographic HD">
+    <title>Especial Europa: maravillas de la ingeniería · Conectando el continente</title>
+    <desc>Documentales,Ciencia tecnología | 2026 | +7 | *6.0/10
+· Bajo tierra, sobre montañas y a través del agua, los paisajes europeos exigen todo tipo de medios de transporte para conectar a sus ciudadanos.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261126064500 +0100" stop="20261126072900 +0100" channel="National Geographic HD">
+    <title>Especial Europa: maravillas de la ingeniería · Pesos pesados</title>
+    <desc>Documentales,Ciencia tecnología | 2026 | +7 | *6.0/10
+· Embárcate en un emocionante viaje por Europa para descubrir varias hazañas extraordinarias de ingeniería e innovación.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261126072900 +0100" stop="20261126081300 +0100" channel="National Geographic HD">
+    <title>Especial Europa: maravillas de la ingeniería · Por todo lo alto</title>
+    <desc>Documentales,Ciencia tecnología | 2026 | +7 | *6.2/10
+· Alcanza nuevas cotas con este emocionante análisis de la audaz ambición y los retos técnicos que se esconden tras las estructuras más altas e innovadoras de Europa.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261126081300 +0100" stop="20261126090200 +0100" channel="National Geographic HD">
+    <title>Las reparaciones más difíciles del mundo · Un timón de cincuenta toneladas</title>
+    <desc>Documentales,Ciencia tecnología | 2009 | TP | *5.8/10
+· Junto con un equipo de buzos profesionales de primer nivel va a intentar levantar un peso casi imposible: desmontar y retirar un timón de cincuenta toneladas de un inmenso buque.
+· País: Estados Unidos
+· Presenta: Sean Riley.
+· Productora: National Geographic Television.</desc>
+	</programme>
+	<programme start="20261126090200 +0100" stop="20261126094700 +0100" channel="National Geographic HD">
+    <title>Segunda Guerra Mundial: Secretos desde el cielo · Cuenta atrás para el día D</title>
+    <desc>Documentales,Historia | 2021 | +7 | *6.2/10
+· En toda Gran Bretaña los aliados se preparan para la mayor invasión de la historia.
+· País: Reino Unido
+· Dirección: Johnny Shipley.
+· Productora: National Geographic.</desc>
+	</programme>
+	<programme start="20261126094700 +0100" stop="20261126103600 +0100" channel="National Geographic HD">
+    <title>Lo mejor de la Segunda Guerra Mundial: Secretos desde el cielo · Camino hacia el Día D</title>
+    <desc>Documentales,Historia | 2023 | +7 | *6.0/10
+· En Gran Bretaña, los Aliados se preparan para la mayor invasión anfibia de la historia: El camino hacia el Día D. Mientras se acercan más de 7.000 buques y 150.000 soldados, los nazis se apresuran a fortificar las defensas costeras.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20261126103600 +0100" stop="20261126112700 +0100" channel="National Geographic HD">
+    <title>Lo mejor de la Segunda Guerra Mundial: Secretos desde el cielo · Los revientapresas</title>
+    <desc>Documentales,Historia | 2023 | +7 | *5.6/10
+· Durante más de 3 años, los ejércitos de Hitler dominan Europa. Incapaces de competir en el campo de batalla, los Aliados planean un audaz ataque contra la producción bélica alemana.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20261126112700 +0100" stop="20261126121800 +0100" channel="National Geographic HD">
+    <title>Guardacostas del Caribe T2 · Cargamento dudoso</title>
+    <desc>Entretenimiento,Telerrealidad | 2023 | +12 | *6.0/10
+· Las cámaras se adentran en el día a día de la guardia costera del Caribe Neerlandés.
+· País: Países Bajos
+· Dirección: Evert Nijkamp.
+· Reparto: GERARDO, Richard, Theo, Eduardo, Alexis, Girsley Martina.
+· Productora: Remco Garcia.</desc>
+	</programme>
+	<programme start="20261126121800 +0100" stop="20261126130900 +0100" channel="National Geographic HD">
+    <title>Guardacostas del Caribe T2 · Perdido en el mar</title>
+    <desc>Entretenimiento,Telerrealidad | 2023 | +12 | *6.0/10
+· Las cámaras se adentran en el día a día de la guardia costera del Caribe Neerlandés.
+· País: Países Bajos
+· Dirección: Evert Nijkamp.</desc>
+	</programme>
+	<programme start="20261126130900 +0100" stop="20261126135800 +0100" channel="National Geographic HD">
+    <title>Guardacostas del Caribe T2 · Control rutinario sorpresa</title>
+    <desc>Entretenimiento,Telerrealidad | 2023 | +12 | *6.0/10
+· Las cámaras se adentran en el día a día de la guardia costera del Caribe Neerlandés.
+· País: Países Bajos
+· Dirección: Evert Nijkamp.
+· Reparto: Andy, Abigail Dammers, Dionel, GERARDO, Janneke Mebius, Richard, Theo, Anna.
+· Productora: Remco Garcia.</desc>
+	</programme>
+	<programme start="20261126135800 +0100" stop="20261126145800 +0100" channel="National Geographic HD">
+    <title>Alerta contrabando: Contrabando en la playa</title>
+    <desc>Documentales,Docureality | 2024 | +7 | *6.0/10
+· Alerta Contrabando: Los agentes de la Patrulla Fronteriza de EE. UU. en Puerto Rico asestan un duro golpe a una conocida organización de narcotraficantes al interceptar una embarcación que transportaba 201 kilos de cocaína, valorados en 2 millones de...
+· País: Reino Unido
+· Productora: National Geographic.</desc>
+	</programme>
+	<programme start="20261126145800 +0100" stop="20261126160000 +0100" channel="National Geographic HD">
+    <title>Mayday: catástrofes aéreas · Distracción fatal</title>
+    <desc>Documentales,Ciencia tecnología | 2007 | +12 | *6.2/10
+· ¿Por qué cayó el aparato? Las pistas llevan a los investigadores hasta una causa muy preocupante.
+· País: Canadá
+· Presenta: Stephen Bogaert.
+· Dirección: Su Rynard.
+· Reparto: Jonathan Aris, Trudy Smith, Don Schneck, Richard Pragluski, John J Nance, Robert Marquis, Ron Infantino, Sarah Elder, Bill Ratner, Paul Constable, Dan Lett, Tino Demitro, Derrick Davidson, Lee Oliveira, David Sparrow, Shaun Smyth, Shawn Lawrence, Stephen Bogaert, Amber Cull.
+· Guion: Carl Knutson.
+· Productora: Cineflix, Glen Salzman, Simon Lloyd, Samantha Linton, Larry Bambrick, Greg Lanning, Katherine Buck, John Vandervelde, Cineflix Productions, NF Inc, Galaxie Productions, Nextfilm Productions.</desc>
+	</programme>
+	<programme start="20261126160000 +0100" stop="20261126165900 +0100" channel="National Geographic HD">
+    <title>Mayday:catástrofes aéreas · Aproximación letal</title>
+    <desc>Documentales,Ciencia tecnología | 2019 | +12 | *6.0/10
+· En un trayecto desde Ámsterdam hasta Cardiff, Gales, la tripulación del vuelo 433 de la aerolínea KLM Cityhopper informa acerca de un problema con el motor, por lo que se dirigen de vuelta al aeropuerto.
+· País: Canadá
+· Presenta: Stephen Bogaert, Jonathan Aris.
+· Dirección: Mark Mainguy.
+· Reparto: Marijke Jenkins, David Tompa, Ben Groenendijk, Jan Buitenhuis, Kas Beumkes, Fred Bergisch, Viv Moore, Marc Hickox, Irena Huljak, Ira Donald Henderson, Ian Kilburn, Todd Curtis, Billy Parrott.
+· Guion: Julia Nunes.
+· Productora: Cineflix, NF Inc, Kim Bondi, Galaxie Productions, Alex Bystram, Marco Avolio.</desc>
+	</programme>
+	<programme start="20261126165900 +0100" stop="20261126175800 +0100" channel="National Geographic HD">
+    <title>Mayday: Catástrofes aéreas · Sin aviso</title>
+    <desc>Documentales,Ciencia tecnología | 2019 | +12 | *6.0/10
+· Los accidentes aéreos suelen tener una magnitud catastrófica.
+· País: Canadá
+· Presenta: Stephen Bogaert.
+· Dirección: Mark Mainguy.
+· Reparto: Von Flores, Gerry Soejatman, Ray Nurcahyo, April Miranda, Dipal Patel, Mark Rainmaker, Joshua Barilko, Ony Wibowo, J.P Galvez, Taybion Nguyen, Todd Curtis.
+· Productora: Cineflix, Alex Bystram, Kim Bondi, NF Inc, Galaxie Productions, Lauren Hugh.</desc>
+	</programme>
+	<programme start="20261126175800 +0100" stop="20261126185800 +0100" channel="National Geographic HD">
+    <title>Expedientes misterio de la Antigüedad · Sodoma y Gomorra</title>
+    <desc>Documentales,Historia | 2012 | TP | *6.2/10
+· Un arqueólogo ha ido siguiendo distintas pistas del Antiguo Testamento y está convencido de haber descubierto la localización real de Sodoma y Gomorra, las famosas ciudades del pecado. Además, se han descubierto allí restos de cerámica.
+· País: Alemania, Estados Unidos y Reino Unido
+· Productora: Wag TV.</desc>
+	</programme>
+	<programme start="20261126185800 +0100" stop="20261126195800 +0100" channel="National Geographic HD">
+    <title>Expedientes misterio de la Antigüedad · Descifrar a los Incas</title>
+    <desc>Documentales,Historia | 2012 | TP | *6.2/10
+· Los Incas dominaban gran parte de Sudamérica hace quinientos años. Su imperio tapizó el continente de caminos, templos y ciudades construidas con gran precisión, pero lo más sorprendente es que lograron todo eso sin contar con una lengua escrita.
+· País: Alemania, Estados Unidos y Reino Unido
+· Productora: Wag TV.</desc>
+	</programme>
+	<programme start="20261126195800 +0100" stop="20261126205800 +0100" channel="National Geographic HD">
+    <title>Expedientes misterio de la Antigüedad · La corona de espinas</title>
+    <desc>Documentales,Historia | 2012 | TP | *6.0/10
+· Serie documental que explora las historias que han cautivado a la humanidad durante siglos. Una investigación científica para descubrir que hay tras los personajes enigmáticos y leyendas intrigantes a lo largo de los diferentes documentales.
+· País: Alemania, Estados Unidos y Reino Unido
+· Productora: Wag TV.</desc>
+	</programme>
+	<programme start="20261126205800 +0100" stop="20261126215500 +0100" channel="National Geographic HD">
+    <title>El increíble doctor Pol: Marco Pol-O</title>
+    <desc>Documentales,Naturaleza | 2021 | +12 | *5.8/10
+· La clínica veterinaria está sobrepasada de cachorros que no quieren tomarse su medicina. El Dr. Pol trata a tres cabras y a un adorable caballo miniatura, mientras la Dra. Brenda encuentra a la horma de su zapato con un reno de lo más pícaro.
+· País: Estados Unidos
+· Reparto: Jan Pol, Brenda Grettenberger, Lisa Jones.
+· Productora: National Geographic Television, Super Alright.</desc>
+	</programme>
+	<programme start="20261126215500 +0100" stop="20261126225000 +0100" channel="National Geographic HD">
+    <title>El increíble doctor Pol: Una yegua en una misión imposible</title>
+    <desc>Documentales,Naturaleza | 2021 | +12 | *6.2/10
+· El Dr. Pol se lanza a la carretera para tratar a Louella, una cerda enorme que está demasiado enferma como para alimentar a sus 15 cerditos.
+· País: Estados Unidos
+· Reparto: Jan Pol, Charles Pol, Diane Pol, Brenda Grettenberger, Lisa Jones.
+· Productora: National Geographic Television, Super Alright.</desc>
+	</programme>
+	<programme start="20261126225000 +0100" stop="20261126234500 +0100" channel="National Geographic HD">
+    <title>Alerta contrabando: Medicación misteriosa</title>
+    <desc>Documentales,Docureality | 2024 | +12 | *6.0/10
+· Una operación de inteligencia de la CBP en Misisipi da lugar a la interceptación y el registro de varios camiones sospechosos de transportar mercancía ilícita. Frente a la costa de Florida, agentes de la AMO abordan un yate procedente de Jamaica y se ven.
+· País: Reino Unido
+· Productora: National Geographic.</desc>
+	</programme>
+	<programme start="20261126234500 +0100" stop="20261127003500 +0100" channel="National Geographic HD">
+    <title>Control de aeropuertos: USA · ¡Estas sábanas llevan maría!</title>
+    <desc>Documentales,Sociedad | 2024 | +12 | *6.0/10
+· Los agentes incautan cocaína y metanfetaminas en Texas, mientras la patrulla de control de fronteras en San Diego sigue la pista de los traficantes de personas.
+· País: Estados Unidos
+· Música: Didier Rachou.
+· Productora: Lucky 8.</desc>
+	</programme>
+	<programme start="20261127013500 +0100" stop="20261127022000 +0100" channel="National Geographic HD">
+    <title>Expedientes misterio de la Antigüedad · La espada clavada en la roca</title>
+    <desc>Documentales,Historia | 2012 | TP | *6.0/10
+· La doctora Raluca Radulescu de la Universidad de Bangor, experta mundial en leyendas artúricas, está siguiendo el rastro de una misteriosa espada medieval que se encuentra clavada en una roca en una remota iglesia italiana.
+· País: Alemania, Estados Unidos y Reino Unido
+· Productora: Wag TV.</desc>
+	</programme>
+	<programme start="20261127022000 +0100" stop="20261127030200 +0100" channel="National Geographic HD">
+    <title>Crimen organizado con Mariana Van Zeller T1 · Apuestas ilegales</title>
+    <desc>Sin clasificar,SIN CLASIFICAR | 2023 | +16 | *6.2/10
+· A los estadounidenses les encanta apostar. El mercado legal ingresó 53 000 millones de dólares en 2021. Y, sin embargo, esa cantidad es solo una gota en el mar del juego ilegal, que se calcula que recauda mil millones de dólares al año.
+· País: Estados Unidos
+· Productora: Zoey Haar.</desc>
+	</programme>
+	<programme start="20261127030200 +0100" stop="20261127034400 +0100" channel="National Geographic HD">
+    <title>Crimen organizado con Mariana Van Zeller · Carreras callejeras clandestinas</title>
+    <desc>Documentales,Actualidad | 2024 | +16 | *6.8/10
+· Mariana se adentra en la subcultura cargada de adrenalina de las carreras callejeras ilegales que está causando estragos en ciudades de todo el mundo.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20261127034400 +0100" stop="20261127042800 +0100" channel="National Geographic HD">
+    <title>Iconos del cielo: Nighthawk</title>
+    <desc>Documentales,Historia | 2025 | +12 | *6.0/10
+· Descubra la increíble ingeniería del F-117 Nighthawk. Construido en secreto por la división de élite Skunk Works de Lockheed, se convirtió en el primer avión furtivo en 1981.
+· País: Reino Unido
+· Productora: National Geographic.</desc>
+	</programme>
+	<programme start="20261127042800 +0100" stop="20261127051200 +0100" channel="National Geographic HD">
+    <title>Iconos del cielo: DC-3</title>
+    <desc>Documentales,Historia | 2025 | +12 | *6.2/10
+· Un viaje a través de 125 años de historia de la aviación para descubrir los aviones que transformaron el mundo. Esta serie revela los secretos de ingeniería y diseño que hicieron de estas aeronaves auténticos hitos.
+· País: Reino Unido
+· Productora: National Geographic.</desc>
+	</programme>
+	<programme start="20261127051200 +0100" stop="20261127061300 +0100" channel="National Geographic HD">
+    <title>Iconos del cielo E8</title>
+    <desc>Documentales,Historia | 2026 | +12 | *6.0/10
+· Un viaje a través de 125 años de historia de la aviación para descubrir los aviones que transformaron el mundo. Esta serie revela los secretos de ingeniería y diseño que hicieron de estas aeronaves auténticos hitos.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20261127061300 +0100" stop="20261127065700 +0100" channel="National Geographic HD">
+    <title>Europa: maravillas de la ingeniería · Reino Unido</title>
+    <desc>Documentales,Ciencia tecnología | 2024 | TP | *6.0/10
+· Revelando las mayores maravillas de la ingeniería del Reino Unido, exploramos las máquinas voladoras eléctricas más innovadoras del mundo.
+· País: Reino Unido
+· Dirección: Oli Sloane.
+· Reparto: Simon Davis, Carmen Evans, Tom Lilley, Jamie, Yuriy Melyncho, Ion Cocieri, Eilidh Love, Gareth Jacques, Alix Waldron, John Fleming, John O\, Kevin Bate.</desc>
+	</programme>
+	<programme start="20261127065700 +0100" stop="20261127074100 +0100" channel="National Geographic HD">
+    <title>Europa: maravillas de la ingeniería · Los países nórdicos</title>
+    <desc>Documentales,Ciencia tecnología | 2024 | TP | *6.2/10
+· Explora las maravillas de la ingeniería de la región más septentrional de Europa, desde las épicas barreras de Islandia que desafían la lava hasta la fábrica vertical de Finlandia, que bate récords.
+· País: Reino Unido
+· Dirección: Oli Sloane.
+· Reparto: Hörn Hrafnsdottir, Ville Haakvikko, Yukka PäKila, Alex Kiviorg, Barbara Macaulay, Håkan Hyllegren, Ville Hakaa, Bjørg Agasøster.</desc>
+	</programme>
+	<programme start="20261127074100 +0100" stop="20261127082900 +0100" channel="National Geographic HD">
+    <title>Europa: maravillas de la ingeniería · Polonia</title>
+    <desc>Documentales,Ciencia tecnología | 2024 | TP | *5.8/10
+· Revelando las maravillas de la ingeniería más audaces de Polonia, observamos cómo un súper puerto se eleva desde las profundidades del mar.
+· País: Reino Unido
+· Dirección: Rebecca Naunheimer, Oli Sloane.
+· Reparto: Dominik Wroblewski, Maciej Olczyk, Agnieska Stefanska-Krasowska, Wojciech Smolen, Jaroslaw Sitarz, Kamil Broniowski, Andrzej Wnuk, Aleksandra Pietrakowska, Anna Olonowicz, Michal Demski, Mateusz Wanat, Marcin Curkowicz.
+· Productora: Carlo Massarella.</desc>
+	</programme>
+	<programme start="20261127082900 +0100" stop="20261127092200 +0100" channel="National Geographic HD">
+    <title>Europa: maravillas de la ingeniería · Países Bajos</title>
+    <desc>Documentales,Ciencia tecnología | 2024 | TP | *6.2/10
+· Sumérgete en el asombroso mundo de la ingeniería holandesa, donde el ingenio humano se fusiona con el inagotable poder de la naturaleza.
+· País: Reino Unido
+· Dirección: Oli Sloane.
+· Reparto: Rik Wols, Stephan Keizer, Sebastiaan Verstraete, Eric van de Weegen, Marc Polderman, Kim Oosterom, Arne Lijbers, Guillaume Henry, Robert Hoffman, Anetta de Jong, Janwillem Breider, Carlijn Bodewes, Sjors Allersma.
+· Productora: Windfall Films, Carlo Massarella.</desc>
+	</programme>
+	<programme start="20261127092200 +0100" stop="20261127100600 +0100" channel="National Geographic HD">
+    <title>Europa: maravillas de la ingeniería · Alemania</title>
+    <desc>Documentales,Ciencia tecnología | 2024 | TP | *5.8/10
+· Embárcate en un emocionante viaje a través de las mayores proezas de la ingeniería alemana.
+· País: Reino Unido
+· Dirección: Oli Sloane.</desc>
+	</programme>
+	<programme start="20261127100600 +0100" stop="20261127105600 +0100" channel="National Geographic HD">
+    <title>Las reparaciones más difíciles del mundo · El cierre de la tubería</title>
+    <desc>Documentales,Ciencia tecnología | 2007 | TP | *6.2/10
+· Riley viaja al corazón de Alaska para una reparación muy peligrosa que podría afectar al bolsillo de millones de personas.
+· País: Estados Unidos
+· Presenta: Sean Riley.
+· Productora: National Geographic Television.</desc>
+	</programme>
+	<programme start="20261127105600 +0100" stop="20261127114600 +0100" channel="National Geographic HD">
+    <title>Las reparaciones más difíciles del mundo · Tránsito masivo</title>
+    <desc>Documentales,Ciencia tecnología | 2009 | TP | *6.2/10
+· Un millón de personas trasladándose de un lugar a otro, yendo y viniendo del trabajo a casa. Es un día normal en el quinto sistema de transporte más grande de los Estados Unidos.
+· País: Estados Unidos
+· Presenta: Sean Riley.
+· Productora: National Geographic Television.</desc>
+	</programme>
+	<programme start="20261127114600 +0100" stop="20261127123400 +0100" channel="National Geographic HD">
+    <title>Mayday: Catástrofes aéreas · Terror sobre el Pacífico</title>
+    <desc>Documentales,Ciencia tecnología | 2024 | +12 | *5.8/10
+· Una gran explosión produce una rotura en un 747 cuando sobrevuela Hawái, y el rastro de pistas acaba llevando a los investigadores a un cortocircuito de consecuencias catastróficas.
+· País: Canadá
+· Dirección: Tim Wolochatiuk.
+· Reparto: Mike Dara.
+· Productora: Cineflix, Alex Bystram, J.C Mills.</desc>
+	</programme>
+	<programme start="20261127123400 +0100" stop="20261127132200 +0100" channel="National Geographic HD">
+    <title>Mayday: Catástrofes aéreas · La muerte de una estrella del fútbol</title>
+    <desc>Documentales,Ciencia tecnología | 2023 | +12 | *5.8/10
+· Un Piper Malibu contratado para un vuelo privado que llevaba a bordo a la estrella del fútbol Emiliano Sala desapareció repentinamente del radar cuando sobrevolaba el Canal de la Mancha.
+· País: Canadá
+· Dirección: George D'Amato.
+· Reparto: Brian McDermid, Brian Cook, Zachary Amzallag, Alison Campbell, Thomas Moore, Geraint Herbert, Kayley Thomas, Arturo Paredes Polanco.
+· Música: Jonathan Aris, Anthony Rozankovic.
+· Productora: Cineflix, Alex Bystram, J.C Mills.</desc>
+	</programme>
+	<programme start="20261127132200 +0100" stop="20261127140500 +0100" channel="National Geographic HD">
+    <title>Mayday: Catástrofes aéreas · Lucha por la supervivencia</title>
+    <desc>Documentales,Ciencia tecnología | 2023 | +12 | *6.0/10
+· Cuando emergen las llamas a través del suelo de la cabina de mando, los pilotos del vuelo 458 de Pilgrim Airlines 458 logran realizar un aterrizaje heroico sobre una presa helada Rhode Island.
+· País: Canadá
+· Presenta: Stephen Bogaert.
+· Dirección: Kelly Peckham.
+· Reparto: Harry Polychron, Drew Moss, John Goglia, Greg Phillips, Paul Hainsworth, Jonathan Aris, William Garvey, Lyle Hogg.
+· Música: Jonathan Aris, Anthony Rozankovic.
+· Productora: Cineflix, Alex Bystram, J.C Mills.</desc>
+	</programme>
+	<programme start="20261127140500 +0100" stop="20261127151500 +0100" channel="National Geographic HD">
+    <title>Último vuelo: anatomía de un desastre · Vuelo 780 Cathay / Hong Kong</title>
+    <desc>Documentales,Ciencia tecnología | 2025 | +12 | *6.0/10
+· En un vuelo rutinario desde Surabaya (Indonesia) a Hong Kong, el Cathay 780 sufrió unas alertas inexplicables en los motores. Durante el trayecto, ambos motores fallaron, convirtiendo el avión en un planeador.
+· País: Reino Unido
+· Dirección: Dan Bree.
+· Reparto: Mark Slobodian.</desc>
+	</programme>
+	<programme start="20261127151500 +0100" stop="20261127161700 +0100" channel="National Geographic HD">
+    <title>Último vuelo: anatomía de un desastre · Vuelo 6 de Pan Am / Ocean Station November</title>
+    <desc>Documentales,Ciencia tecnología | 2025 | +12 | *6.0/10
+· En la última etapa de su ruta alrededor del mundo en 1956, el vuelo Pan Am 6 despega de Honolulu con destino a San Francisco. Con solo 24 pasajeros a bordo, el Boeing Stratocruiser es el paradigma del lujo.
+· País: Reino Unido
+· Dirección: Dan Bree.
+· Reparto: Mark Slobodian.</desc>
+	</programme>
+	<programme start="20261127161700 +0100" stop="20261127171600 +0100" channel="National Geographic HD">
+    <title>Mayday: Catástrofes aéreas · Entrega letal</title>
+    <desc>Documentales,Ciencia tecnología | 2020 | +12 | *6.2/10
+· Haciendo frente a la escasa visibilidad, un vuelo de carga nocturno se encuentra en la aproximación final a un aeropuerto de Alabama cuando golpea una arboleda y se estrella a una milla de la pista.
+· País: Canadá
+· Presenta: Stephen Bogaert.
+· Dirección: Tim Wolochatiuk.
+· Reparto: Omar Alex Khan, Houston Mills, Khalid Al Raisi, Cody Ray Thompson, Randy Thomas, Darren Straker, Jerry Rector, Jonathan Purdon, Jonathan Aris, Bill English, Barry Greene, Stephen Bogaert, John Cox, Greg Campbell, Joseph Panagiotou.
+· Guion: Julia Nunes.
+· Productora: Cineflix, Peter Skrzypczak, Alex Bystram, Kim Bondi, NF Inc, Galaxie Productions.</desc>
+	</programme>
+	<programme start="20261127171600 +0100" stop="20261127180000 +0100" channel="National Geographic HD">
+    <title>Mayday: catástrofes aéreas · Un impacto brusco</title>
+    <desc>Documentales,Ciencia tecnología | 2015 | +12 | *6.2/10
+· Un astronauta de la NASA, un ex senador estadounidense y veintiún personas más mueren en el accidente de un avión de pasajeros en Georgia. Los investigadores tienen que dar pronto con una teoría que explique el accidente.
+· País: Canadá
+· Presenta: Stephen Bogaert.
+· Dirección: Tim Wolochatiuk.
+· Reparto: Geoffrey Pounsett, Gilberto Schittini, John Maris, Tom Haueter, Frederick D Gregory, Aaron Michael Reilly, Paul Raposo, Jonathan Goldapple, Danny Deakin, Lars Classington, Stephen Bogaert, Jonathan Aris, Jim Ritter.
+· Guion: Andrew Kaufman.
+· Productora: Cineflix, NF Inc, Alex Bystram, Kim Bondi, Exan Auyoung, Galaxie Productions.</desc>
+	</programme>
+	<programme start="20261127180000 +0100" stop="20261127185900 +0100" channel="National Geographic HD">
+    <title>Fenómenos extremos: Huracán Harvey</title>
+    <desc>Documentales,Naturaleza | 2026 | +12 | *6.0/10
+· En agosto de 2017, una tormenta tropical se convierte en un violento huracán a una velocidad aterradora. Los cazadores de tormentas Simon y Juston documentan el huracán Harvey, la primera tormenta de categoría 4.
+· País: Estados Unidos y Reino Unido
+· Productora: National Geographic.</desc>
+	</programme>
+	<programme start="20261127185900 +0100" stop="20261127195800 +0100" channel="National Geographic HD">
+    <title>Las conexiones de la ingeniería · Guggenheim Bilbao</title>
+    <desc>Documentales,Ciencia tecnología | 2009 | TP | *6.0/10
+· Richard Hammond visita un edificio al que han descrito como «el más grandioso de nuestra era», el museo Guggenheim de Bilbao, para descubrir qué Conexiones de la Ingeniería han hecho posible este icónico edificio.
+· País: Estados Unidos y Reino Unido
+· Productora: Darlow Smithson Productions.</desc>
+	</programme>
+	<programme start="20261127195800 +0100" stop="20261127205700 +0100" channel="National Geographic HD">
+    <title>Las conexiones de la ingeniería · HMS Illustrious</title>
+    <desc>Documentales,Ciencia tecnología | 2009 | TP | *6.0/10
+· Este documental nos muestra seis aeroplanos históricos. Cada uno de ellos cuenta con una innovación tecnológica que permitió a los ingenieros fabricar aviones de carga cada vez más grandes.
+· País: Estados Unidos y Reino Unido
+· Productora: Darlow Smithson Productions.</desc>
+	</programme>
+	<programme start="20261127205700 +0100" stop="20261127215400 +0100" channel="National Geographic HD">
+    <title>El increíble doctor Pol: Toboganes y vejigas</title>
+    <desc>Documentales,Naturaleza | 2022 | +12 | *6.0/10
+· Los veterinarios responden a múltiples emergencias; de un caballo gravemente traumatizado en un accidente a un dulce perrito que quedó con una herida muy grave en el ojo después de una pelea.
+· País: Estados Unidos
+· Presenta: Jan Pol.
+· Reparto: Brenda Grettenberger, Lisa Jones, Jan Pol, Nicole Arcy.
+· Productora: Super Alright, National Geographic Television.</desc>
+	</programme>
+	<programme start="20261127215400 +0100" stop="20261127225000 +0100" channel="National Geographic HD">
+    <title>El increíble doctor Pol: Pol de patrulla</title>
+    <desc>Documentales,Naturaleza | 2022 | +12 | *6.0/10
+· Con una vaca rebelde, la hernia doble de un potro y la primera visita a un cachorro.
+· País: Estados Unidos
+· Presenta: Jan Pol.
+· Reparto: Ari Rubin, Nicole Arcy, Brenda Grettenberger, Lisa Jones, Charles Pol, Diane Pol, Jan Pol, Tara Westphal.
+· Productora: Super Alright, National Geographic Television.</desc>
+	</programme>
+	<programme start="20261127234900 +0100" stop="20261128004800 +0100" channel="National Geographic HD">
+    <title>Rescate En La Mina Chilena: La Carrera Contra El Tiempo · Rescate en la mina chilena: La carrera contra el tiempo 2</title>
+    <desc>Documentales,Documental | 2025 | +7 | *6.0/10
+· Rescate en la mina chilena: La carrera contra el tiempo 2.
+· País: Estados Unidos y Reino Unido</desc>
+	</programme>
+	<programme start="20261128004800 +0100" stop="20261128014500 +0100" channel="National Geographic HD">
+    <title>Rescate En La Mina Chilena: La Carrera Contra El Tiempo · Rescate en la mina chilena: La carrera contra el tiempo 3</title>
+    <desc>Documentales,Documental | 2025 | +7 | *5.8/10
+· Rescate en la mina chilena: La carrera contra el tiempo 3.
+· País: Estados Unidos y Reino Unido</desc>
+	</programme>
+	<programme start="20261128014500 +0100" stop="20261128022700 +0100" channel="National Geographic HD">
+    <title>El desastre del puente de Génova</title>
+    <desc>Documentales,Ciencia tecnología | 2019 | +12 | *6.0/10
+· Documental que analiza el desastre tras el derrumbe del puente de Génova que le costó la vida a medio centenar de personas.
+· País: Italia
+· Dirección: Marco Visalberghi.
+· Producción: Marco Visalberghi.
+· Productora: Doclab.</desc>
+	</programme>
+	<programme start="20261128022700 +0100" stop="20261128030900 +0100" channel="National Geographic HD">
+    <title>Crimen organizado con Mariana Van Zeller · Partes del cuerpo</title>
+    <desc>Documentales,Actualidad | 2020 | +16 | *6.0/10
+· Cada año, la venta de órganos humanos genera miles de millones de dólares en todo el mundo. Sorprendentemente, este próspero comercio permanece en gran medida oculto a la opinión pública. Con escasa supervisión, abundan los abusos.
+· País: Estados Unidos
+· Dirección: Jeff Allen.
+· Guion: Alex Simmons.
+· Productora: Muck Media.</desc>
+	</programme>
+	<programme start="20261128030900 +0100" stop="20261128035100 +0100" channel="National Geographic HD">
+    <title>Crimen organizado con Mariana Van Zeller · Simios</title>
+    <desc>Documentales,Actualidad | 2020 | +16 | *6.2/10
+· Mariana investiga el comercio ilegal de simios salvajes.
+· País: Estados Unidos
+· Dirección: Jeff Allen.
+· Guion: Alex Simmons.
+· Productora: Muck Media.</desc>
+	</programme>
+	<programme start="20261128035100 +0100" stop="20261128043300 +0100" channel="National Geographic HD">
+    <title>Bajo la ciudad: arqueología oculta · Un hipogeo oculto y cartas perdidas</title>
+    <desc>Documentales,Arte y cultura | 2026 | +12 | *5.8/10
+· Bajo la ciudad: arqueología oculta: Descubre los extraordinarios mundos que se esconden bajo los centros urbanos modernos. Bajo las calles de piedra, tierra y hormigón existen reinos ocultos.
+· País: Canadá y Estados Unidos
+· Dirección: Ben Manthorpe.
+· Guion: Serena Marotta.
+· Productora: Shark Teeth Films.</desc>
+	</programme>
+	<programme start="20261128043300 +0100" stop="20261128051500 +0100" channel="National Geographic HD">
+    <title>Bajo la ciudad: arqueología oculta · Secretos subterráneos y cimientos olvidados</title>
+    <desc>Documentales,Arte y cultura | 2026 | +12 | *6.2/10
+· Descubre los extraordinarios mundos que se esconden bajo los centros urbanos modernos. Bajo las calles de piedra, tierra y hormigón existen reinos ocultos moldeados por la supervivencia.
+· País: Canadá y Estados Unidos
+· Dirección: Ben Manthorpe.
+· Guion: Serena Marotta.
+· Productora: Shark Teeth Films.</desc>
+	</programme>
+	<programme start="20261128051500 +0100" stop="20261128060800 +0100" channel="National Geographic HD">
+    <title>Bajo la ciudad: arqueología oculta · Barcos de guerra enterrados y víctimas vikingas</title>
+    <desc>Documentales,Arte y cultura | 2026 | +12 | *6.0/10
+· Descubre los extraordinarios mundos que se esconden bajo los centros urbanos modernos. Bajo las calles de piedra, tierra y hormigón existen reinos ocultos.
+· País: Canadá y Estados Unidos
+· Dirección: Ben Manthorpe.
+· Reparto: Anthea Nardi, Amma Agbedor, Anthony Cantor, Alison Leonard, Dan Riskin, Jeff Teravainen, Teddy Wilson.
+· Guion: Serena Marotta.
+· Productora: Shark Teeth Films, Adrian Carter, Tom Mudd.</desc>
+	</programme>
+  <programme start="20261125094610 +0000" stop="20261125101818 +0000" channel="Pocoyo">
+    <title>Misión Espacial</title>
+    <desc>Misión Espacial | El Viaje de Pato | Hora de Jugar | Tenis Para Todos</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829913171_25_20260506T114727863Z_41_imageprocessorclient-tvplus-linear-74d4c47476-bhwh7.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125101818 +0000" stop="20261125105025 +0000" channel="Pocoyo">
+    <title>Jugando al Escondite</title>
+    <desc>Jugando al Escondite | La Fiesta de Cumpleaños | Sobre Ruedas | El Baño de Elly</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829920536_7_20260506T114735698Z_71_imageprocessorclient-tvplus-linear-74d4c47476-l9gx6.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125100100 +0000" stop="20261125101259 +0000" channel="Supertoons">
+    <title>Animate Frank</title>
+    <desc>SuperToons TV</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1142593869_0_20250821T204916717Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-7lnxh.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125101259 +0000" stop="20261125102724 +0000" channel="Supertoons">
+    <title>Quiero un cachorro</title>
+    <desc>SuperToons TV</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1142593869_0_20250821T204916717Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-7lnxh.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125102724 +0000" stop="20261125103923 +0000" channel="Supertoons">
+    <title>Rogi el barrendero</title>
+    <desc>SuperToons TV</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1142593869_0_20250821T204916717Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-7lnxh.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125103923 +0000" stop="20261125110100 +0000" channel="Supertoons">
+    <title>Gani la super estrella</title>
+    <desc>SuperToons TV</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1142593869_0_20250821T204916717Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-7lnxh.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261125110100 +0000" stop="20261125110730 +0000" channel="Supertoons">
+    <title>BeBeBears</title>
+    <desc>La serie animada Bjorn &amp; Bucky sigue las aventuras de los ositos Bucky y Bjorn.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_512378271_0_20241122T044224116Z_52_imageprocessorclient-tvplus-linear-7cd5d896cc-bwxh8.jpeg"/>
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20261125110730 +0000" stop="20261125111400 +0000" channel="Supertoons">
+    <title>BeBeBears</title>
+    <desc>La serie animada Bjorn &amp; Bucky sigue las aventuras de los ositos Bucky y Bjorn.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_512378271_0_20241122T044224116Z_52_imageprocessorclient-tvplus-linear-7cd5d896cc-bwxh8.jpeg"/>
     <rating>
       <value>3</value>
     </rating>
