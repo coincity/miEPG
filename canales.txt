@@ -20,4 +20,4 @@ BBC Lifestyle,BBC Lifestyle
 Clan,Clan
 Crimen&amp;Historia,Crimen&amp;Historia
 BBC Series,BBC Series
-Pluto TV Kids,Pluto TV Kids
+5f1aab1d29b39600073e243f,Pluto TV Kids
