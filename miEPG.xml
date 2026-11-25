@@ -207,6 +207,42 @@
     <display-name>Pluto TV Kids UHD</display-name>
     <icon src="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG_1750751398943.png"/>
   </channel>
+  <channel id="Pluto TV Cine Estelar">
+    <display-name>Pluto TV Cine Estelar</display-name>
+    <display-name>Pluto TV Cine Estelar SD</display-name>
+    <display-name>Pluto TV Cine Estelar HD</display-name>
+    <display-name>Pluto TV Cine Estelar 4K</display-name>
+    <display-name>Pluto TV Cine Estelar Full HD</display-name>
+    <display-name>Pluto TV Cine Estelar UHD</display-name>
+    <icon src="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG_1793741871709.png"/>
+  </channel>
+  <channel id="Pluto TV Cine Acción">
+    <display-name>Pluto TV Cine Acción</display-name>
+    <display-name>Pluto TV Cine Acción SD</display-name>
+    <display-name>Pluto TV Cine Acción HD</display-name>
+    <display-name>Pluto TV Cine Acción 4K</display-name>
+    <display-name>Pluto TV Cine Acción Full HD</display-name>
+    <display-name>Pluto TV Cine Acción UHD</display-name>
+    <icon src="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG_1760378798093.png"/>
+  </channel>
+  <channel id="Pluto TV Cine Comedia">
+    <display-name>Pluto TV Cine Comedia</display-name>
+    <display-name>Pluto TV Cine Comedia SD</display-name>
+    <display-name>Pluto TV Cine Comedia HD</display-name>
+    <display-name>Pluto TV Cine Comedia 4K</display-name>
+    <display-name>Pluto TV Cine Comedia Full HD</display-name>
+    <display-name>Pluto TV Cine Comedia UHD</display-name>
+    <icon src="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG_1762281945243.png"/>
+  </channel>
+  <channel id="Pluto TV Cine Crimen">
+    <display-name>Pluto TV Cine Crimen</display-name>
+    <display-name>Pluto TV Cine Crimen SD</display-name>
+    <display-name>Pluto TV Cine Crimen HD</display-name>
+    <display-name>Pluto TV Cine Crimen 4K</display-name>
+    <display-name>Pluto TV Cine Crimen Full HD</display-name>
+    <display-name>Pluto TV Cine Crimen UHD</display-name>
+    <icon src="https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png"/>
+  </channel>
 	<programme start="20261124012500 +0100" stop="20261124020600 +0100" channel="Historia">
     <title>Secretos en el hielo T3 E1</title>
     <desc>Documental,Otros,Científico,Histórico
@@ -29228,6 +29264,404 @@
     <category>Animated</category>
     <category>Children</category>
     <category>Series</category>
+  </programme>
+  <programme start="20261125015600 +0000" stop="20261125041500 +0000" channel="Pluto TV Cine Estelar">
+    <title>Aprendices fuera de línea</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Billy (Vince Vaughn) y Nick (Owen Wilson), vendedores de la vieja escuela, intentan relanzar sus carreras uniéndose al programa de prácticas de Google —que se caracteriza por una feroz competencia—, ¡con resultados hilarantes!</desc>
+    <icon src="https://images.pluto.tv/episodes/6ace369578e140e3e497d7d0/poster_1791899633472.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">6ace369578e140e3e497d7b1</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125041500 +0000" stop="20261125061100 +0000" channel="Pluto TV Cine Estelar">
+    <title>The cobbler</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Cuenta la historia de un zapatero que tiene la peculiar habilidad de asumir la vida de sus clientes a través de los zapatos que repara.</desc>
+    <icon src="https://images.pluto.tv/episodes/5e0a2c00be8fa6764e877186/poster_1769633283236.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">5e0a2bffbe8fa6764e877180</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+    <category>Romantic comedy</category>
+  </programme>
+  <programme start="20261125061100 +0000" stop="20261125084700 +0000" channel="Pluto TV Cine Estelar">
+    <title>El mediador</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Danny Roman es un experto negociador en secuestros, pero esta vez está del otro lado: obligado por una acusación falsa, ha secuestrado a las cabezas de Asuntos Internos, exigiendo mediador.</desc>
+    <icon src="https://images.pluto.tv/episodes/6ace44a176e9053cddc3b470/poster_1791902881945.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">6ace44a076e9053cddc3b450</series-id>
+    <category>Thriller</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125084700 +0000" stop="20261125110900 +0000" channel="Pluto TV Cine Estelar">
+    <title>Mr. &amp; Mrs. Smith</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Una pareja aburrida se sorprende al saber que ambos son unos asesinos contratados por agencias de la competencia para matarse entre ellos.</desc>
+    <icon src="https://images.pluto.tv/episodes/68f2a47cd279ff480519b94c/poster_1760758695254.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">68f2a47bd279ff480519b92c</series-id>
+    <category>Action</category>
+    <category>Action Comedies</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125110900 +0000" stop="20261125132800 +0000" channel="Pluto TV Cine Estelar">
+    <title>Aprendices fuera de línea</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Billy (Vince Vaughn) y Nick (Owen Wilson), vendedores de la vieja escuela, intentan relanzar sus carreras uniéndose al programa de prácticas de Google —que se caracteriza por una feroz competencia—, ¡con resultados hilarantes!</desc>
+    <icon src="https://images.pluto.tv/episodes/6ace369578e140e3e497d7d0/poster_1791899633472.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">6ace369578e140e3e497d7b1</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125132800 +0000" stop="20261125151700 +0000" channel="Pluto TV Cine Estelar">
+    <title>Runner, Runner</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Richie cree que lo estafaron,  va a Costa Rica para enfrentar a un magnate.</desc>
+    <icon src="https://images.pluto.tv/episodes/690369c6d2a007fabafe8e6d/poster_1761849843786.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">690369c5d2a007fabafe8e4d</series-id>
+    <category>Thriller</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125151700 +0000" stop="20261125172500 +0000" channel="Pluto TV Cine Estelar">
+    <title>The Sentinel</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Un agente es culpado injustamente por planear el asesinato del presidente.</desc>
+    <icon src="https://images.pluto.tv/episodes/6925d821232b4e31aa3595e7/poster_1764098249320.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">6925d820232b4e31aa3595c7</series-id>
+    <category>Action</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125172500 +0000" stop="20261125193400 +0000" channel="Pluto TV Cine Estelar">
+    <title>Street Kings</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Un veterano de LAPD debe ir en contra de la cultura policial de la que formó parte toda su carrera.</desc>
+    <icon src="https://images.pluto.tv/episodes/6925d6bc270d239ba3b432bf/poster_1764087489196.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">6925d6bb270d239ba3b432a0</series-id>
+    <category>Action</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125005100 +0000" stop="20261125031600 +0000" channel="Pluto TV Cine Acción">
+    <title>La Hora de la Verdad</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>El plan de los tres ladrones lo tiene todo para salir adelante -secuestrar al nieto de un millonario y ganar dinero fácil- pero no contaban con el carisma del bebé, lo que enternece el corazón del trío y dificulta la tarea.</desc>
+    <icon src="https://images.pluto.tv/episodes/641c6c541a5081001a49ba5c/poster_1777485601949.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">641c6c511a5081001a49ba3c</series-id>
+    <category>Action</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125031600 +0000" stop="20261125052500 +0000" channel="Pluto TV Cine Acción">
+    <title>Street Kings</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Un veterano de LAPD debe ir en contra de la cultura policial de la que formó parte toda su carrera.</desc>
+    <icon src="https://images.pluto.tv/episodes/6925d6bc270d239ba3b432bf/poster_1764087489196.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">6925d6bb270d239ba3b432a0</series-id>
+    <category>Action</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125052500 +0000" stop="20261125061900 +0000" channel="Pluto TV Cine Acción">
+    <title>El Asalto</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">63ce8bdde8fb16001a923f2c</episode-num>
+    <episode-num system="original-air-date">20130826000000 +0000</episode-num>
+    <desc>Un robo a un banco entrelaza las vidas del director de la sucursal, un restaurador, una joven policía embarazada, un policía veterano, y una docena de personas. Vivirán varias horas en compañía de cuatro ladrones con perfiles muy diferentes.</desc>
+    <icon src="https://images.pluto.tv/series/63ce8bdbe8fb16001a923f0d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20130826</date>
+    <series-id system="pluto">63ce8bdbe8fb16001a923f0d</series-id>
+    <sub-title>Episodio 1</sub-title>
+    <category>Action</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125061900 +0000" stop="20261125071500 +0000" channel="Pluto TV Cine Acción">
+    <title>El Asalto</title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="pluto">63ce91795b7902001410962b</episode-num>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Una joven policía, da suministros a los rehenes, uno de los cuatro ladrones está enfermo y necesita insulina. El Comisionado acepta darle una dosis a cambio de un rehén. En el sótano, dos cómplices perforan una pared que da acceso a la bóveda.</desc>
+    <icon src="https://images.pluto.tv/series/63ce8bdbe8fb16001a923f0d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>00010101</date>
+    <series-id system="pluto">63ce8bdbe8fb16001a923f0d</series-id>
+    <sub-title>Episodio 2</sub-title>
+    <category>Action</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125071500 +0000" stop="20261125081200 +0000" channel="Pluto TV Cine Acción">
+    <title>El Asalto</title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <episode-num system="pluto">63ce8ea9f97d0100130ee8f6</episode-num>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Alex accede a la bóveda, y a un botín de ocho millones de euros. Los rehenes siguen atados con sus ojos vendados. Los ladrones se preparan para evacuar el banco a través de los sótanos.</desc>
+    <icon src="https://images.pluto.tv/series/63ce8bdbe8fb16001a923f0d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>00010101</date>
+    <series-id system="pluto">63ce8bdbe8fb16001a923f0d</series-id>
+    <sub-title>Episodio 3</sub-title>
+    <category>Action</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261125081200 +0000" stop="20261125100100 +0000" channel="Pluto TV Cine Acción">
+    <title>El Defensor</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Lance y su equipo son los guardaespaldas del jefe de la NSA, quien es enviado por el presidente a una reunión secreta en un hotel vacío en las afueras de Bucarest. Durante la reunión, el hotel es atacado.</desc>
+    <icon src="https://images.pluto.tv/episodes/6336f6669d9b7c00133f34c1/poster_1769448962086.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">6336f6649d9b7c00133f34ba</series-id>
+    <category>Action</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125100100 +0000" stop="20261125114800 +0000" channel="Pluto TV Cine Acción">
+    <title>El Asalto del Vuelo</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Basado en una historia real, un equipo SWAT tiene la tarea de asaltar un avión de Air France secuestrado para salvar a sus pasajeros.</desc>
+    <icon src="https://images.pluto.tv/episodes/62d6fc75997d5700138e41a3/poster_1769747761559.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">62d6fc73997d5700138e419c</series-id>
+    <category>Action</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125114800 +0000" stop="20261125135700 +0000" channel="Pluto TV Cine Acción">
+    <title>Street Kings</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Un veterano de LAPD debe ir en contra de la cultura policial de la que formó parte toda su carrera.</desc>
+    <icon src="https://images.pluto.tv/episodes/6925d6bc270d239ba3b432bf/poster_1764087489196.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">6925d6bb270d239ba3b432a0</series-id>
+    <category>Action</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125135700 +0000" stop="20261125161000 +0000" channel="Pluto TV Cine Acción">
+    <title>La Emboscada</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Cuando el ladrón profesional Robert MacDougal  se ve envuelto en un juego de intrigas internacionales, con la investigadora  Gin Baker , los fraudes y trampas policiacas empiezan.</desc>
+    <icon src="https://images.pluto.tv/episodes/6ace44a376e9053cddc428ff/poster_1791902884101.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">6ace44a376e9053cddc428e0</series-id>
+    <category>Drama</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125161000 +0000" stop="20261125175400 +0000" channel="Pluto TV Cine Acción">
+    <title>Jumper</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>David Rice es un Jumper, una anomalía genética con el poder de teletransportarse instantáneamente a cualquier lugar del mundo y descubre que existen otros como él.</desc>
+    <icon src="https://images.pluto.tv/episodes/6ace3acbed186c2c858463a4/poster_1791900365055.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">6ace3acaed186c2c85846384</series-id>
+    <category>Adventure</category>
+    <category>Action</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125175400 +0000" stop="20261125193600 +0000" channel="Pluto TV Cine Acción">
+    <title>Ninja - Guerrero Silencioso</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Casey es un chico occidental cuya pasión por la filosofía ninja le lleva hasta Japón para estudiar Ninjutsu. Su instrucción avanza favorablemente y su Sensei le pregunta si estaría dispuesto a volver a Nueva York para proteger la legendaria Yoroi Bitsu.</desc>
+    <icon src="https://images.pluto.tv/episodes/60a529dc06e95200164778ba/poster_1769540403014.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">60a529db06e95200164778b4</series-id>
+    <category>Science fiction</category>
+    <category>Action</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125015700 +0000" stop="20261125035000 +0000" channel="Pluto TV Cine Comedia">
+    <title>Mi Super Ex-Novia</title>
+    <episode-num system="original-air-date">20060721000000 +0000</episode-num>
+    <desc>Un joven tranquilo de Nueva York (Luke Wilson) se enamora de Jenny Johnson (Uma Thurman), una superheroína. El problema será, cómo romper con una chica con superpoderes.</desc>
+    <icon src="https://images.pluto.tv/episodes/6ace44a576e9053cddc49d88/poster_1791902886212.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20060721</date>
+    <series-id system="pluto">6ace44a576e9053cddc49d69</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125035000 +0000" stop="20261125055100 +0000" channel="Pluto TV Cine Comedia">
+    <title>Nunca Podré Ser Tuya</title>
+    <episode-num system="original-air-date">20120817000000 +0000</episode-num>
+    <desc>Una madre se enamora de un hombre más joven mientras su hija se enamora por primera vez. La madre naturaleza se mete con sus destinos.</desc>
+    <icon src="https://images.pluto.tv/episodes/68c81be10652cfdb65793f6d/poster_1769459763482.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20120817</date>
+    <series-id system="pluto">68c81be00652cfdb65793f4f</series-id>
+    <category>Romance</category>
+    <category>Movie</category>
+    <category>Romantic comedy</category>
+  </programme>
+  <programme start="20261125055100 +0000" stop="20261125074900 +0000" channel="Pluto TV Cine Comedia">
+    <title>S.O.S. Mujeres al mar 2</title>
+    <episode-num system="original-air-date">20150101000000 +0000</episode-num>
+    <desc>Adriana se embarca en un crucero con su novio André, pero la presencia de su ex prometida amenaza la relación. Para enfrentar la situación, recurre a sus amigas Luzia y Dialinda para que la acompañen en el viaje.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a4ebff9e65bfef07b7607d4/poster_1783545850615.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20150101</date>
+    <series-id system="pluto">6a4ead3184edc518a938e2bd</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125074900 +0000" stop="20261125093500 +0000" channel="Pluto TV Cine Comedia">
+    <title>Meet The Spartans</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Parodia de "300" y otras películas. El rey Leónidas y su ejército de 12 hombres luchan contra Jerjes de Persia para defender la libertad de Esparta.</desc>
+    <icon src="https://images.pluto.tv/episodes/675738983b8ac60013f7c67d/poster_1769033882106.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">675738973b8ac60013f7c65d</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125093500 +0000" stop="20261125111600 +0000" channel="Pluto TV Cine Comedia">
+    <title>Epic Movie</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Esta producción satírica presenta a un grupo de huérfanos que se embarca en diversas aventuras.</desc>
+    <icon src="https://images.pluto.tv/episodes/69133bc35ab6160f5d423bca/poster_1762868189004.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">69133bc25ab6160f5d423baa</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125111600 +0000" stop="20261125132300 +0000" channel="Pluto TV Cine Comedia">
+    <title>Caliente</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Cinco obreros de la construcción en mala racha forman un espectáculo de striptease masculino.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a4ebc42925ff998a670a32c/poster_1783544899494.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">6a4ebc41925ff998a670a30a</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125132300 +0000" stop="20261125151600 +0000" channel="Pluto TV Cine Comedia">
+    <title>Operación Ultra</title>
+    <episode-num system="original-air-date">20151126000000 +0000</episode-num>
+    <desc>Mike y Phoebe son jovenes aburridos de un pequeño pueblo estadounidense. Sus dias se tratan de consumir drogas, cometer delitos menores y meterse en problemas en la calle.</desc>
+    <icon src="https://images.pluto.tv/episodes/6141f435bce9e900135a5c47/poster_1769213893169.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20151126</date>
+    <series-id system="pluto">6141f434bce9e900135a5c41</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125151600 +0000" stop="20261125170500 +0000" channel="Pluto TV Cine Comedia">
+    <title>Perdido en la fama</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>La esposa de una estrella de rock ya entrada en años es secuestrada mientras está de vacaciones en Chile.</desc>
+    <icon src="https://images.pluto.tv/episodes/69de952cf22f20f76817a09c/poster_1776194861628.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">69de952bf22f20f76817a07d</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125170500 +0000" stop="20261125185100 +0000" channel="Pluto TV Cine Comedia">
+    <title>Meet The Spartans</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Parodia de "300" y otras películas. El rey Leónidas y su ejército de 12 hombres luchan contra Jerjes de Persia para defender la libertad de Esparta.</desc>
+    <icon src="https://images.pluto.tv/episodes/675738983b8ac60013f7c67d/poster_1769033882106.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">675738973b8ac60013f7c65d</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125185100 +0000" stop="20261125203200 +0000" channel="Pluto TV Cine Comedia">
+    <title>Epic Movie</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Esta producción satírica presenta a un grupo de huérfanos que se embarca en diversas aventuras.</desc>
+    <icon src="https://images.pluto.tv/episodes/69133bc35ab6160f5d423bca/poster_1762868189004.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">69133bc25ab6160f5d423baa</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125021800 +0000" stop="20261125040900 +0000" channel="Pluto TV Cine Crimen">
+    <title>Un caballero y su revólver</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Forrest Tucker es un apuesto ladrón de bancos que durante sus 70 años de vida ha logrado escaparse 18 veces de prisión. Retirado del oficio, Tucker vive en un hogar de jubilados y ha encontrado en Jewel, el amor de su vida.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f7b86a7e4b56900138b71a6/poster_1769631481665.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">5f7b86a5e4b56900138b71a0</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125040900 +0000" stop="20261125062000 +0000" channel="Pluto TV Cine Crimen">
+    <title>Revolver</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>El jugador de cartas Jake Green juega en una partida con consecuencias potencialmente mortales.</desc>
+    <icon src="https://images.pluto.tv/episodes/63caf2e2f97d010013fb1263/poster_1769754961532.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">63caf2e0f97d010013fb1243</series-id>
+    <category>Action</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125062000 +0000" stop="20261125081000 +0000" channel="Pluto TV Cine Crimen">
+    <title>El Ultimo Golpe</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Una banda criminal de veteranos intenta llevar a cabo el robo más grande en la historia de Inglaterra en una instalación de depósito de seguridad subterránea con un valor estimado de 200 millones de libras esterlinas.</desc>
+    <icon src="https://images.pluto.tv/episodes/63adca62501aab0013b52af7/poster_1769754243093.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">63adca60501aab0013b52af0</series-id>
+    <category>Adventure</category>
+    <category>Action</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125081000 +0000" stop="20261125100800 +0000" channel="Pluto TV Cine Crimen">
+    <title>El Redentor</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Un ex soldado de las fuerzas especiales con mala reputación navega por el inframundo criminal de Londres y aprovecha la oportunidad para asumir la identidad de otro hombre convertirse en el ángel de la muerte.</desc>
+    <icon src="https://images.pluto.tv/episodes/5efca13459900d0014d5857e/poster_1777493170732.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">5efca12b59900d0014d58578</series-id>
+    <category>Action</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125100800 +0000" stop="20261125120500 +0000" channel="Pluto TV Cine Crimen">
+    <title>Shottas</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>En la tradición de Scarface y The Harder They Come, Shottas es un drama urbano crudo y sin complejos sobre dos jóvenes, Wayne y Biggs, que crecen juntos en las calles difíciles y peligrosas de Kingston, Jamaica.</desc>
+    <icon src="https://images.pluto.tv/episodes/5e0a2bc844223a6c2f63ff2d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">5e0a2bc644223a6c2f63ff27</series-id>
+    <category>Adventure</category>
+    <category>Action</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125120500 +0000" stop="20261125141300 +0000" channel="Pluto TV Cine Crimen">
+    <title>Los Misteriosos Asesinatos de Limehouse</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>En el Londres de 1880, en el peligroso distrito de Limehouse se desata el pánico entre sus habitantes cuando una serie de asesinatos se revelan como el último azote a una ciudad sumida en el crimen.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f7b86bae4b56900138b72f5/poster_1769631122679.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">5f7b86b7e4b56900138b72ef</series-id>
+    <category>Slashers and Serial Killers</category>
+    <category>Horror</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125141300 +0000" stop="20261125160400 +0000" channel="Pluto TV Cine Crimen">
+    <title>Un caballero y su revólver</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Forrest Tucker es un apuesto ladrón de bancos que durante sus 70 años de vida ha logrado escaparse 18 veces de prisión. Retirado del oficio, Tucker vive en un hogar de jubilados y ha encontrado en Jewel, el amor de su vida.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f7b86a7e4b56900138b71a6/poster_1769631481665.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">5f7b86a5e4b56900138b71a0</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125160400 +0000" stop="20261125175400 +0000" channel="Pluto TV Cine Crimen">
+    <title>El Ultimo Golpe</title>
+    <episode-num system="original-air-date">00010101000000 +0000</episode-num>
+    <desc>Una banda criminal de veteranos intenta llevar a cabo el robo más grande en la historia de Inglaterra en una instalación de depósito de seguridad subterránea con un valor estimado de 200 millones de libras esterlinas.</desc>
+    <icon src="https://images.pluto.tv/episodes/63adca62501aab0013b52af7/poster_1769754243093.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>00010101</date>
+    <series-id system="pluto">63adca60501aab0013b52af0</series-id>
+    <category>Adventure</category>
+    <category>Action</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261125175400 +0000" stop="20261125194200 +0000" channel="Pluto TV Cine Crimen">
+    <title>Un Santa No Tan Santo 2</title>
+    <episode-num system="original-air-date">20161123000000 +0000</episode-num>
+    <desc>El codicioso Willie vive del odio y el whisky barato. Se alía de nuevo con su compañero, el irritable Marcus, para intentar desmantelar una organización benéfica en Chicago en Nochebuena.</desc>
+    <icon src="https://images.pluto.tv/episodes/6936e0f4779bf41d1d4731d1/poster_1765204214557.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20161123</date>
+    <series-id system="pluto">6936e0f3779bf41d1d4731b2</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
   </programme>
 	<programme start="20261124004400 +0100" stop="20261124012500 +0100" channel="Historia">
     <title>Grandes guerreros de la historia T1 E6 · Los mongoles</title>
