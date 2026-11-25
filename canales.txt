@@ -44,3 +44,15 @@ BBC Series,BBC Series
 61bb2814ac085a00074309a6,Unidad de investigación
 ESBC3900004ED,Pocoyo
 ESBD5100001G0,Supertoons
+ES4800002OZ,Caillou
+ES3300001MC,Crimenes Reales
+ES2600004BD,RakutenTVActionMovies.es@Spain
+ES3000008O8,RakutenTVSpanishMovies.es@Spain
+ES260000700,RakutenTVComedyMovies.es@Spain
+ES2600005G9,RakutenTVCrimeMovies.es@Spain
+ES2600003UM,RakutenTVDramaMovies.es@Spain
+ES2600013H4,RakutenTVTopMovies.es@Spain
+ES500004NO,RakutenTVSciFiMovies.es@Spain
+ES4100002WB,RakutenTVThrillerMovies.es@Spain
+En Familia (Rakuten TV),En Familia (Rakuten TV)
+
