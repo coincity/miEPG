@@ -341,6 +341,7 @@
 5bb1ad55268cae539bcedb08,The Pet Collective,https://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png
 664fd48894d5580008e45e7c,Dog Whisperer with Cesar Millan,https://images.pluto.tv/channels/664fd48894d5580008e45e7c/colorLogoPNG.png
 5ca6748a37b88b269472dad9,Nick Jr. Pluto TV,https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png
+6afb376f5db95e3dacdebad9,Paw Patrol Holiday Fireplace,https://images.pluto.tv/channels/6afb376f5db95e3dacdebad9/colorLogoPNG_1794848947116.png
 65e23f340d4561000821540d,Mister Rogers' Neighborhood,https://images.pluto.tv/channels/65e23f340d4561000821540d/colorLogoPNG.png
 5d14fb6c84dd37df3b4290c5,Peppa Pig,https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG_1730733871298.png
 6a70da97a4bf6cded4fdaf53,Dora TV,https://images.pluto.tv/channels/6a70da97a4bf6cded4fdaf53/colorLogoPNG_1786461439766.png
@@ -457,8 +458,8 @@
 60cb6df2b2ad610008cd5bea,CBS News Sacramento,https://images.pluto.tv/channels/60cb6df2b2ad610008cd5bea/colorLogoPNG.png
 632b619c8d2a6c0007ff534e,KIRO Seattle,https://images.pluto.tv/channels/632b619c8d2a6c0007ff534e/colorLogoPNG.png
 5eceb0d4065c240007688ec6,CBS News Texas,https://images.pluto.tv/channels/5eceb0d4065c240007688ec6/colorLogoPNG.png
-655b7cbb2c46f300086f0afa,Pluto TV Snooker 900,https://images.pluto.tv/channels/655b7cbb2c46f300086f0afa/colorLogoPNG_1759435114417.png
 67063e78b2ffb10008195d08,MODUS Super Series Darts,https://images.pluto.tv/channels/67063e78b2ffb10008195d08/colorLogoPNG.png
+655b7cbb2c46f300086f0afa,Pluto TV Snooker 900,https://images.pluto.tv/channels/655b7cbb2c46f300086f0afa/colorLogoPNG_1759435114417.png
 5ad8d796e738977e2c31094a,World Poker Tour,https://images.pluto.tv/channels/5ad8d796e738977e2c31094a/colorLogoPNG.png
 68c820525ec82769fdfcd104,Wrestling Legends TV,https://images.pluto.tv/channels/68c820525ec82769fdfcd104/colorLogoPNG_1765359753710.png
 69b91797611b4a9fce103037,That Peter Crouch Podcast,https://images.pluto.tv/channels/69b91797611b4a9fce103037/colorLogoPNG_1776258946102.png
@@ -2002,7 +2003,6 @@
 611e771e2f5f180007002224,Pluto TV Histoire,https://images.pluto.tv/channels/611e771e2f5f180007002224/colorLogoPNG.png
 639b54404cfdf7000729b3c1,INA 70,https://images.pluto.tv/channels/639b54404cfdf7000729b3c1/colorLogoPNG.png
 60925a44f0350600075a1fdc,Pluto TV Animaux,https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png
-63b578b524f0cf00072f2a52,Echappées Belles &amp; Co,https://images.pluto.tv/channels/63b578b524f0cf00072f2a52/colorLogoPNG.png
 61fc0df14159c40007250432,Nature Time,https://images.pluto.tv/channels/61fc0df14159c40007250432/colorLogoPNG.png
 611e7811eb9daf000764cbfd,Pluto TV Aventure,https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/colorLogoPNG.png
 680291e38e1ff89c2427aefd,Voyages &amp; Saveurs,https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png
